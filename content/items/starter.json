@@ -1,52 +1,6 @@
 [
   {
     "schema_version": 2,
-    "item_id": "c1_principles_multi_a",
-    "fact_id": "c1_fundamental_principles",
-    "item_version": 1,
-    "status": "draft",
-    "source": {
-      "handbook_edition": "3",
-      "chapter_id": 1,
-      "section": "The values and principles of the UK",
-      "page_ref": [],
-      "reviewer_note": "Confirm the section heading wording in the handbook. Check page; list of fundamental principles"
-    },
-    "question_type": "multi",
-    "selections_required": 2,
-    "question_text": "Which TWO of these are fundamental principles of British life?",
-    "options": [
-      {
-        "id": "a",
-        "text": "The rule of law",
-        "is_correct": true
-      },
-      {
-        "id": "b",
-        "text": "Compulsory voting in every election",
-        "is_correct": false,
-        "rationale": "Voting is a right, not a legal duty, in the UK."
-      },
-      {
-        "id": "c",
-        "text": "Tolerance of those with different faiths and beliefs",
-        "is_correct": true
-      },
-      {
-        "id": "d",
-        "text": "Loyalty to one political party",
-        "is_correct": false
-      }
-    ],
-    "explanation_simple": "The principles include democracy, the rule of law, individual liberty, tolerance of different faiths and beliefs, and taking part in community life.",
-    "memory_tip": "Think 'law, liberty, tolerance, democracy, community'.",
-    "glossary_terms": [
-      "rule of law",
-      "tolerance"
-    ]
-  },
-  {
-    "schema_version": 2,
     "item_id": "c2_uk_countries_single_a",
     "fact_id": "c2_uk_countries",
     "item_version": 1,
