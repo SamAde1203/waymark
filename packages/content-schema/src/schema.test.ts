@@ -23,16 +23,21 @@ describe("ItemSchema", () => {
     expect(ItemSchema.safeParse(base).success).toBe(true);
   });
 
-  it("rejects a live item without a page reference and reviewer", () => {
-    const r = ItemSchema.safeParse({ ...base, status: "live" });
-    expect(r.success).toBe(false);
+  it("rejects a live item without a confirmed section and reviewer", () => {
+    expect(ItemSchema.safeParse({ ...base, status: "live" }).success).toBe(false);
+    const noReviewer = ItemSchema.safeParse({
+      ...base,
+      status: "live",
+      source: { ...base.source, section_confirmed: true },
+    });
+    expect(noReviewer.success).toBe(false);
   });
 
-  it("accepts a live item with page and reviewer", () => {
+  it("accepts a live item with a confirmed section and reviewer, no page needed", () => {
     const r = ItemSchema.safeParse({
       ...base,
       status: "live",
-      source: { ...base.source, page_ref: [55] },
+      source: { ...base.source, section_confirmed: true },
       review: { reviewed_by: "SA", reviewed_at: "2026-12-01" },
     });
     expect(r.success).toBe(true);

@@ -20,7 +20,7 @@ function item(id: string, chapter: 1 | 2 | 3 | 4 | 5, fact = id, multi = false):
     fact_id: fact,
     item_version: 1,
     status: "live",
-    source: { handbook_edition: "3", chapter_id: chapter, section: "s", page_ref: [1], valid_from: "2013-03-25", valid_to: null },
+    source: { handbook_edition: "3", chapter_id: chapter, section: "s", section_confirmed: true, page_ref: [], valid_from: "2013-03-25", valid_to: null },
     question_type: multi ? "multi" : "single",
     selections_required: multi ? 2 : 1,
     question_text: "Question?",

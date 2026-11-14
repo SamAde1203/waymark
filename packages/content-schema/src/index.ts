@@ -4,7 +4,8 @@ import { z } from "zod";
  * Waymark content schema.
  *
  * The atomic unit is a handbook FACT. Questions ("items") are variants that test a fact.
- * Every item carries the handbook edition and page it rests on, so the bank can be
+ * Every item carries the handbook edition, chapter and SECTION HEADING it rests on
+ * (headings match in print and Kindle; page numbers are optional extras), so the bank can be
  * re-based when the handbook changes. Question wording is always original: nothing
  * here may reproduce handbook text, except `source.reviewer_note`, which is internal
  * and is stripped by `toPublicItem` before anything ships.
@@ -38,8 +39,11 @@ export const SourceSchema = z.object({
   /** Print impression the page numbers were checked against, e.g. "2024 reprint". */
   impression_checked: z.string().optional(),
   chapter_id: chapterId,
+  /** The handbook section heading, exactly as printed. Shown to users as the source. */
   section: z.string().min(1),
-  /** Empty while drafting; required before an item can go live. */
+  /** True once a reviewer has checked the heading against their copy of the handbook. */
+  section_confirmed: z.boolean().default(false),
+  /** Optional print page numbers (only if checked against the paperback). */
   page_ref: z.array(z.number().int().positive()).default([]),
   /** Internal only: where the reviewer found the fact. Never shipped. */
   reviewer_note: z.string().optional(),
@@ -109,8 +113,11 @@ export const ItemSchema = z
       ctx.addIssue({ code: z.ZodIssueCode.custom, message: "duplicate option texts" });
     }
     if (item.status === "live") {
-      if (item.source.page_ref.length === 0) {
-        ctx.addIssue({ code: z.ZodIssueCode.custom, message: "live items need a handbook page_ref" });
+      if (!item.source.section_confirmed) {
+        ctx.addIssue({
+          code: z.ZodIssueCode.custom,
+          message: "live items need source.section_confirmed (heading checked against the handbook)",
+        });
       }
       if (!item.review.reviewed_by || !item.review.reviewed_at) {
         ctx.addIssue({ code: z.ZodIssueCode.custom, message: "live items need reviewed_by and reviewed_at" });

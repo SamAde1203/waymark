@@ -22,7 +22,7 @@ const payload = items.map((i) => ({
 
 <Base
   title="Free Life in the UK Practice Test with Answers and Explanations | Waymark"
-  description="Try a free Life in the UK practice test. Instant marking, a plain-English explanation for every answer, and the handbook chapter each question comes from."
+  description="Try a free Life in the UK practice test. Instant marking, a plain-English explanation for every answer, and the handbook section each question comes from."
 >
   <section class="section">
     <div class="wrap quiz">
@@ -34,8 +34,8 @@ const payload = items.map((i) => ({
       {
         !allLive && (
           <p class="banner" role="note">
-            Preview: these questions are still going through our review against the handbook, so page references are not
-            shown yet.
+            Preview: these questions are still going through our review against the handbook, so some section
+            references may change.
           </p>
         )
       }
@@ -77,8 +77,8 @@ const payload = items.map((i) => ({
       s.replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]!);
 
     function sourceLine(q: Q): string {
-      const ch = `Chapter ${q.chapter}: ${data.chapters[q.chapter]}`;
-      return q.pages.length ? `${ch}, page ${q.pages.join(", ")}` : ch;
+      const where = `Handbook, Chapter ${q.chapter} (${data.chapters[q.chapter]}), section "${q.section}"`;
+      return q.pages.length ? `${where}, page ${q.pages.join(", ")}` : where;
     }
 
     function renderQuestion() {
