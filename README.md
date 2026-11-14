@@ -47,7 +47,7 @@ pnpm build:site      # static output in apps/site/dist
 - Root Directory: `apps/site` (Vercel installs the pnpm workspace from the repo root automatically).
 - Framework preset: Astro. Build command: `astro build`. Output directory: `dist`.
 - Node.js version: 22 (Project Settings → General).
-- Domains: add `waymarkprep.co.uk` as primary; add `www.waymarkprep.co.uk`, `waymarkprep.com` and `waymarkprep.org` and set each to redirect (308) to it.
+- Domains: `www.waymarkprep.co.uk` is primary (canonical). `waymarkprep.co.uk`, `waymarkprep.com`, `www.waymarkprep.com` and `waymarkprep.org` redirect (308) to it. DNS stays at Hostinger (do not move nameservers: email lives there).
 
 ## Deploy (alternative: Cloudflare Pages, free plan allows commercial use)
 
