@@ -1,0 +1,4171 @@
+[
+  {
+    "schema_version": 2,
+    "item_id": "c4_capital_scotland_single_a",
+    "fact_id": "c4_capital_scotland",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "The UK today",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "What is the capital city of Scotland?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Aberdeen",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Edinburgh",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "Dundee",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Glasgow",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Edinburgh is the capital of Scotland. The other capitals are London (England), Cardiff (Wales) and Belfast (Northern Ireland)."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_capital_wales_single_a",
+    "fact_id": "c4_capital_wales",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "The UK today",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "What is the capital city of Wales?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Newport",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Cardiff",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "Bangor",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Swansea",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Cardiff is the capital of Wales."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_capital_ni_single_a",
+    "fact_id": "c4_capital_ni",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "The UK today",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "What is the capital city of Northern Ireland?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Londonderry",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Belfast",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "Dublin",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Armagh",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Belfast is the capital of Northern Ireland. Dublin is the capital of the Republic of Ireland, a separate country."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_capitals_tf_b",
+    "fact_id": "c4_capital_scotland",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "The UK today",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Glasgow is the capital city of Scotland.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "Edinburgh, not Glasgow, is the capital of Scotland."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_currency_single_a",
+    "fact_id": "c4_currency",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "The UK today",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "What is the currency of the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The pound sterling",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "The shilling",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "The crown",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "The euro",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The UK's currency is the pound sterling (£). There are 100 pence in a pound."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_banknotes_tf_a",
+    "fact_id": "c4_scottish_ni_banknotes",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "The UK today",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Confirm the handbook's wording on whether shops must accept them. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Scotland and Northern Ireland have their own banknotes, which can be used anywhere in the UK.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Scottish and Northern Irish banknotes are valid everywhere in the UK, although shops are not obliged to accept them."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_languages_single_a",
+    "fact_id": "c4_languages_wales",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "The UK today",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Which language, besides English, is widely spoken in Wales?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cornish",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Irish",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Gaelic",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Welsh",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "Many people in Wales speak Welsh. Gaelic is spoken in parts of Scotland, and some people in Northern Ireland speak Irish Gaelic."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_population_share_single_a",
+    "fact_id": "c4_population_share",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "The UK today",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Exact percentages. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Roughly what share of the UK population lives in England?",
+    "options": [
+      {
+        "id": "a",
+        "text": "About 84%",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "About 95%",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "About 65%",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "About 50%",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "About 84% of the UK population lives in England, about 8% in Scotland, about 5% in Wales and under 3% in Northern Ireland."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_distance_single_a",
+    "fact_id": "c4_longest_distance",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "The UK today",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Distance figure. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "The longest distance on the mainland is from John O'Groats in Scotland to Land's End in Cornwall. Roughly how far is it?",
+    "options": [
+      {
+        "id": "a",
+        "text": "About 300 miles",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "About 2,000 miles",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "About 870 miles",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "About 1,500 miles",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "It is about 870 miles (approximately 1,400 kilometres) from John O'Groats to Land's End."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_dialects_single_a",
+    "fact_id": "c4_dialects",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "The UK today",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "'Scouse' is the name of the local dialect in which city?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Glasgow",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "London",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Liverpool",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Newcastle",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Scouse is the dialect of Liverpool. Geordie is spoken in Tyneside (Newcastle) and Cockney in London."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_women_work_tf_a",
+    "fact_id": "c4_women_workforce",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "The UK today",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Confirm the handbook phrasing. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Women in the UK make up about half of the workforce.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Women make up about half of the UK workforce, and the law gives men and women equal rights at work."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_coe_head_single_a",
+    "fact_id": "c4_coe_supreme_governor",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Religion",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Who is the head (Supreme Governor) of the Church of England?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Pope",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "The Prime Minister",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "The monarch",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "The Archbishop of Canterbury",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The monarch is the Supreme Governor of the Church of England. The Archbishop of Canterbury is its spiritual leader."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_coe_spiritual_single_b",
+    "fact_id": "c4_coe_archbishop",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Religion",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Who is the spiritual leader of the Church of England?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Moderator of the General Assembly",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "The monarch",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "The Archbishop of Canterbury",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "The Archbishop of York",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Archbishop of Canterbury is the spiritual leader of the Church of England; the monarch is its Supreme Governor."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_coe_protestant_tf_a",
+    "fact_id": "c4_coe_protestant",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Religion",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Confirm the date phrase if it appears. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The Church of England is a Protestant church.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Church of England, also called the Anglican Church, is a Protestant church and has existed since the 1530s."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_coe_bishops_single_a",
+    "fact_id": "c4_senior_church_appointments",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Religion",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Who selects the Archbishop and other senior church officials of the Church of England?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The monarch, on the advice of the Prime Minister",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "The House of Commons",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Church members, by a national vote",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "The Pope",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The monarch selects the Archbishop and other senior church officials on the advice of the Prime Minister and a church committee."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_cos_presbyterian_single_a",
+    "fact_id": "c4_church_of_scotland",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Religion",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "The national church of Scotland is the Church of Scotland. What kind of church is it?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Presbyterian",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "Methodist",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Roman Catholic",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Anglican",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Church of Scotland is a Presbyterian church, governed by ministers and elders."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_moderator_single_a",
+    "fact_id": "c4_moderator",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Religion",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Who chairs the General Assembly of the Church of Scotland?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Moderator, appointed for one year",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "The monarch, for life",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "The First Minister of Scotland",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "The Archbishop of Canterbury",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The chairperson of the General Assembly is the Moderator, who is appointed for one year only."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_no_established_church_tf_a",
+    "fact_id": "c4_no_established_church_wales_ni",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Religion",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? There is an established (state) church in Wales and in Northern Ireland.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "There is no established church in Wales or Northern Ireland."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_patron_wales_single_a",
+    "fact_id": "c4_patron_saint_wales",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Religion",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Who is the patron saint of Wales, whose day is celebrated on 1 March?",
+    "options": [
+      {
+        "id": "a",
+        "text": "St Patrick",
+        "is_correct": false,
+        "rationale": "St Patrick is the patron saint of Northern Ireland (17 March)."
+      },
+      {
+        "id": "b",
+        "text": "St George",
+        "is_correct": false,
+        "rationale": "St George is the patron saint of England (23 April)."
+      },
+      {
+        "id": "c",
+        "text": "St Andrew",
+        "is_correct": false,
+        "rationale": "St Andrew is the patron saint of Scotland (30 November)."
+      },
+      {
+        "id": "d",
+        "text": "St David",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "St David's Day is 1 March. The others are St Patrick (17 March), St George (23 April) and St Andrew (30 November).",
+    "memory_tip": "In calendar order: David, Patrick, George, Andrew."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_patron_scotland_single_a",
+    "fact_id": "c4_patron_saint_scotland",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Religion",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "On which date is St Andrew's Day, the day of the patron saint of Scotland?",
+    "options": [
+      {
+        "id": "a",
+        "text": "23 April",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "30 November",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "1 March",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "17 March",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "St Andrew's Day is 30 November."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_patron_england_single_a",
+    "fact_id": "c4_patron_saint_england",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Religion",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Who is the patron saint of England?",
+    "options": [
+      {
+        "id": "a",
+        "text": "St David",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "St Patrick",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "St Andrew",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "St George",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "St George is the patron saint of England; his day is 23 April."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_patron_ni_single_a",
+    "fact_id": "c4_patron_saint_ni",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Religion",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "On which date is St Patrick's Day?",
+    "options": [
+      {
+        "id": "a",
+        "text": "23 April",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "17 March",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "1 March",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "30 November",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "St Patrick, the patron saint of Northern Ireland, is celebrated on 17 March."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_patron_holidays_multi_a",
+    "fact_id": "c4_patron_saint_holidays",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Religion",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO countries of the UK have their patron saint's day as an official holiday?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Northern Ireland",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "England",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Wales",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Scotland",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "Only Scotland and Northern Ireland have their patron saint's day as an official holiday."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_census_christian_single_a",
+    "fact_id": "c4_religion_census",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Religion",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Exact census figures. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "In the 2011 Census, roughly what share of people in the UK identified as Christian?",
+    "options": [
+      {
+        "id": "a",
+        "text": "About 59%",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "About 40%",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "About 85%",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "About 25%",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "In the 2011 Census, about 59% identified as Christian. About a quarter said they had no religion."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_christmas_single_a",
+    "fact_id": "c4_christmas",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Customs and traditions",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "On which date is Christmas Day celebrated?",
+    "options": [
+      {
+        "id": "a",
+        "text": "24 December",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "26 December",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "25 December",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "6 January",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Christmas Day, 25 December, celebrates the birth of Jesus Christ. It is a public holiday."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_boxing_day_single_a",
+    "fact_id": "c4_boxing_day",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Customs and traditions",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "What is the name of the public holiday on 26 December?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hogmanay",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Boxing Day",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "Shrove Tuesday",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Remembrance Day",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Boxing Day is the day after Christmas Day and is a public holiday."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_easter_tf_a",
+    "fact_id": "c4_easter",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Customs and traditions",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Easter marks the death of Jesus Christ on Good Friday and his rising from the dead on Easter Sunday.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Good Friday marks the death of Jesus Christ and Easter Sunday his rising from the dead."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_lent_single_a",
+    "fact_id": "c4_lent",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Customs and traditions",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "How long does Lent, the period before Easter, last?",
+    "options": [
+      {
+        "id": "a",
+        "text": "40 days",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "7 days",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "30 days",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "12 days",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Lent is the 40 days before Easter. The day before Lent starts is Shrove Tuesday, known as Pancake Day."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_pancake_single_a",
+    "fact_id": "c4_shrove_tuesday",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Customs and traditions",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "By what other name is Shrove Tuesday known?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Bonfire Night",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Pancake Day",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "Ash Wednesday",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Boxing Day",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Shrove Tuesday, the day before Lent starts, is known as Pancake Day."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_diwali_single_a",
+    "fact_id": "c4_diwali",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Customs and traditions",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Diwali, often called the Festival of Lights, is celebrated mainly by which communities?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Muslims and Hindus only",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Jews and Muslims",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Hindus and Sikhs",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Christians and Buddhists",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Diwali is celebrated by Hindus and Sikhs. There is a famous celebration in Leicester."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_diwali_city_single_b",
+    "fact_id": "c4_diwali_leicester",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Customs and traditions",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Confirm the handbook names Leicester. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Which UK city is known for its large Diwali celebration?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Aberdeen",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Leicester",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "York",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Bath",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Leicester is famous for its Diwali celebrations."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_hanukkah_single_a",
+    "fact_id": "c4_hanukkah",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Customs and traditions",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Hanukkah is a festival of which religion?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sikhism",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Hinduism",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Judaism",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Islam",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Hanukkah is a Jewish festival lasting eight days, during which candles are lit on a stand called a menorah."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_eid_single_a",
+    "fact_id": "c4_eid_al_fitr",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Customs and traditions",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Eid al-Fitr celebrates the end of which period?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Lent",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Advent",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Ramadan",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Hanukkah",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Eid al-Fitr celebrates the end of Ramadan, when Muslims have fasted for a month."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_vaisakhi_single_a",
+    "fact_id": "c4_vaisakhi",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Customs and traditions",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Confirm date (14 April) if the handbook gives it. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Vaisakhi is a festival of which religion?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Judaism",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Buddhism",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Sikhism",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Christianity",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Vaisakhi is a Sikh festival that celebrates the founding of the Sikh community known as the Khalsa."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_hogmanay_single_a",
+    "fact_id": "c4_hogmanay",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Customs and traditions",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "In Scotland, what is New Year's Eve called?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Burns Night",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Halloween",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Hogmanay",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Boxing Day",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "New Year's Eve, 31 December, is called Hogmanay in Scotland."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_valentine_single_a",
+    "fact_id": "c4_valentines_day",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Customs and traditions",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "On which date is Valentine's Day?",
+    "options": [
+      {
+        "id": "a",
+        "text": "14 February",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "14 March",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "1 February",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "1 April",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Valentine's Day is 14 February, when lovers exchange cards and gifts."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_april_fool_single_a",
+    "fact_id": "c4_april_fools",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Customs and traditions",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "On April Fool's Day, people play jokes on each other until what time?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Midday",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "6 pm",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Midnight",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Breakfast time",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "April Fool's Day is 1 April. People play jokes on each other until midday."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_mothering_sunday_single_a",
+    "fact_id": "c4_mothering_sunday",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Customs and traditions",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "When is Mothering Sunday (Mother's Day)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Sunday after Easter",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Three weeks before Easter",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "The first Sunday in March",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "The second Sunday in May",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Mothering Sunday is the Sunday three weeks before Easter."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_fathers_day_single_a",
+    "fact_id": "c4_fathers_day",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Customs and traditions",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "When is Father's Day in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The last Sunday in May",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "The third Sunday in June",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "The first Sunday in June",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Three weeks before Easter",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Father's Day is the third Sunday in June."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_halloween_single_a",
+    "fact_id": "c4_halloween",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Customs and traditions",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "On which date is Halloween?",
+    "options": [
+      {
+        "id": "a",
+        "text": "1 November",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "31 October",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "5 November",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "31 December",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Halloween is 31 October. Its origins lie in an ancient pagan festival marking the beginning of winter."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_bonfire_single_a",
+    "fact_id": "c4_bonfire_night",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Customs and traditions",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Bonfire Night on 5 November remembers what event?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Battle of Hastings",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "The end of the Second World War",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "The coronation of Elizabeth I",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "A failed plot to blow up the Houses of Parliament in 1605",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "On 5 November 1605 a group of Catholics, including Guy Fawkes, failed in a plot to kill the Protestant king with a bomb in the Houses of Parliament.",
+    "memory_tip": "Remember, remember the fifth of November."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_remembrance_single_a",
+    "fact_id": "c4_remembrance_day",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Customs and traditions",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "On Remembrance Day, 11 November, what do many people wear?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Poppies",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "Daffodils",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Shamrocks",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Thistles",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Remembrance Day honours those who died fighting for the UK. People wear poppies and there is a two-minute silence at 11 am."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_remembrance_silence_tf_b",
+    "fact_id": "c4_remembrance_silence",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Customs and traditions",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? On Remembrance Day there is a two-minute silence at 11 am.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "A two-minute silence is held at 11 am on 11 November."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_football_popular_single_a",
+    "fact_id": "c4_football_most_popular",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Sport",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Which sport is the most popular in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Tennis",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Football",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "Cricket",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Rugby",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Football is the UK's most popular sport, and England, Scotland, Wales and Northern Ireland each have their own national team."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_wimbledon_single_a",
+    "fact_id": "c4_wimbledon",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Sport",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Which is the oldest tennis tournament in the world?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The US Open",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Wimbledon",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "The Australian Open",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "The French Open",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Wimbledon, held in London each summer, is the oldest tennis tournament in the world."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_first_tennis_club_single_a",
+    "fact_id": "c4_first_tennis_club",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Sport",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Place and year. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Where was the first tennis club founded, in 1872?",
+    "options": [
+      {
+        "id": "a",
+        "text": "St Andrews",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Wimbledon",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Ascot",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Leamington Spa",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "The first tennis club was founded in Leamington Spa in 1872."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_golf_single_a",
+    "fact_id": "c4_golf_home",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Sport",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Which Scottish town is known as the home of golf?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Perth",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Aviemore",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Stirling",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "St Andrews",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "The modern game of golf can be traced back to 15th-century Scotland. St Andrews is known as the home of golf."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_grand_national_single_a",
+    "fact_id": "c4_grand_national",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Sport",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Confirm the Ayr and Ascot details. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Where is the Grand National horse race held?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Aintree, near Liverpool",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "Ayr",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Ascot",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Newmarket",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Grand National is run at Aintree. The Scottish Grand National is at Ayr, and Royal Ascot is a famous five-day meeting in Berkshire."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_ashes_single_a",
+    "fact_id": "c4_ashes",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Sport",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Cricket's 'Ashes' is a series of matches between England and which country?",
+    "options": [
+      {
+        "id": "a",
+        "text": "South Africa",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "New Zealand",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Australia",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "India",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Ashes is a famous series of cricket matches between England and Australia."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_olympics_years_multi_a",
+    "fact_id": "c4_olympics_hosted",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Sport",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "London has hosted the Olympic Games three times. Which TWO of these years are among them?",
+    "options": [
+      {
+        "id": "a",
+        "text": "2012",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "1966",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "1936",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "1948",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "The UK hosted the Olympic Games in 1908, 1948 and 2012, all in London."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_olympics_2012_site_single_b",
+    "fact_id": "c4_olympics_2012_site",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Sport",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Where was the main site of the 2012 London Olympic Games?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Stratford, in east London",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "Wembley, in north-west London",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Wimbledon, in south-west London",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Greenwich, in south-east London",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The main Olympic site in 2012 was in Stratford, east London."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_paralympics_origin_single_a",
+    "fact_id": "c4_paralympics_origin",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Sport",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "The Paralympic Games have their origins in work done at which hospital?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Stoke Mandeville",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "St Thomas'",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Addenbrooke's",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Great Ormond Street",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Paralympics developed from work by Dr Sir Ludwig Guttmann at the Stoke Mandeville hospital in Buckinghamshire."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_bannister_single_a",
+    "fact_id": "c4_roger_bannister",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Sport",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "In 1954, Sir Roger Bannister became the first man to do what?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Win five Olympic gold medals",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Run a mile in under four minutes",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "Sail solo around the world",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Win the Tour de France",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "In 1954 Sir Roger Bannister became the first man in the world to run a mile in under four minutes."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_bobby_moore_single_a",
+    "fact_id": "c4_bobby_moore",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Sport",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Bobby Moore captained the England football team that won the World Cup in which year?",
+    "options": [
+      {
+        "id": "a",
+        "text": "1986",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "1948",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "1966",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "1970",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Bobby Moore captained England to victory in the 1966 World Cup."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_redgrave_single_a",
+    "fact_id": "c4_steve_redgrave",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Sport",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Sir Steve Redgrave won gold medals at five consecutive Olympic Games in which sport?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cycling",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Athletics",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Swimming",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Rowing",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "Sir Steve Redgrave won rowing gold medals at five consecutive Olympic Games."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_ellen_macarthur_single_a",
+    "fact_id": "c4_ellen_macarthur",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Sport",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "In 2004, Dame Ellen MacArthur became the fastest person to do what?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sail solo around the world",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "Cycle across Europe",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Swim the English Channel",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Climb Everest",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "In 2004 Dame Ellen MacArthur became the fastest person to sail around the world single-handed."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_wiggins_single_a",
+    "fact_id": "c4_bradley_wiggins",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Sport",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "In 2012, who became the first Briton to win the Tour de France?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sir Chris Hoy",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Sir Jackie Stewart",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Bradley Wiggins",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Mo Farah",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Bradley Wiggins won the Tour de France in 2012, the first Briton to do so. He also won Olympic gold medals."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_mo_farah_single_a",
+    "fact_id": "c4_mo_farah",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Sport",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Event details. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "In 2012, Mo Farah became the first Briton to win Olympic gold in which event?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The 10,000 metres",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "The 100 metres",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "The marathon",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "The heptathlon",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Mo Farah, a British distance runner born in Somalia, won the 10,000 metres at the 2012 Olympics, the first Briton to do so. He also won the 5,000 metres."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_ennis_single_a",
+    "fact_id": "c4_jessica_ennis",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Sport",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Jessica Ennis won a gold medal at the 2012 Olympic Games in which event?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The heptathlon",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "The marathon",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Cycling",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Swimming",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Jessica Ennis won the gold medal in the heptathlon, which includes seven different track and field events."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_andy_murray_single_a",
+    "fact_id": "c4_andy_murray",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Sport",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Year 1936. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Andy Murray won the US Open in 2012. Why was this significant?",
+    "options": [
+      {
+        "id": "a",
+        "text": "He won it without losing a single game",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "He was the first British man to win a Grand Slam singles title since 1936",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "He was the youngest player ever to compete",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "It was the first tennis tournament held outside Britain",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Andy Murray, a Scottish tennis player, was the first British man to win a singles title in a Grand Slam tournament since 1936."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_jackie_stewart_single_a",
+    "fact_id": "c4_jackie_stewart",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Sport",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Sir Jackie Stewart, from Scotland, was three times world champion in which sport?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Boxing",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Formula 1 motor racing",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "Snooker",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Golf",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Sir Jackie Stewart is a Scottish former racing driver who won the Formula 1 world championship three times."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_proms_single_a",
+    "fact_id": "c4_proms",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Years 1895 and 1927. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Where are the Proms, an eight-week summer season of orchestral concerts, held?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Royal Albert Hall in London",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "Wembley Stadium",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "The Royal Festival Hall",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "The Royal Opera House",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Proms have been held since 1895 and are staged at the Royal Albert Hall in London. They have been organised by the BBC since 1927."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_handel_single_a",
+    "fact_id": "c4_handel",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Which composer wrote the 'Water Music' for King George I?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Benjamin Britten",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "George Frederick Handel",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "Henry Purcell",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Sir Edward Elgar",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "George Frederick Handel, who became a British citizen, wrote the Water Music for King George I and the oratorio Messiah."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_elgar_single_a",
+    "fact_id": "c4_elgar",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Who composed the 'Pomp and Circumstance Marches'?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Gustav Holst",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Sir William Walton",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Sir Edward Elgar",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Ralph Vaughan Williams",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Sir Edward Elgar composed the Pomp and Circumstance Marches. March No 1 is known as 'Land of Hope and Glory'."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_holst_single_a",
+    "fact_id": "c4_holst",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Which composer wrote 'The Planets'?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Benjamin Britten",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Henry Purcell",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Sir Edward Elgar",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Gustav Holst",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "Gustav Holst's best-known work is The Planets, a suite in seven parts."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_britten_single_a",
+    "fact_id": "c4_britten",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Benjamin Britten is best known for which opera?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Messiah",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "The Mikado",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Peter Grimes",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Jesus Christ Superstar",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Benjamin Britten is best known for the opera Peter Grimes and A Young Person's Guide to the Orchestra. He founded the Aldeburgh festival."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_gilbert_sullivan_single_a",
+    "fact_id": "c4_gilbert_sullivan",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Gilbert and Sullivan wrote comic operas in the 19th century. Which is one of them?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Mousetrap",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Cats",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Peter Grimes",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "The Pirates of Penzance",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "Gilbert and Sullivan's comic operas include HMS Pinafore, The Pirates of Penzance and The Mikado."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_lloyd_webber_single_a",
+    "fact_id": "c4_lloyd_webber",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Which composer wrote the musicals 'Jesus Christ Superstar', 'Evita' and 'Cats'?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Gustav Holst",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Andrew Lloyd Webber",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "Benjamin Britten",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Arthur Sullivan",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Andrew Lloyd Webber has written many musicals, including Jesus Christ Superstar, Evita, Cats and The Phantom of the Opera."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_mousetrap_single_a",
+    "fact_id": "c4_mousetrap",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "'The Mousetrap', the play with the longest initial run of any show in history, was written by whom?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Noël Coward",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "William Shakespeare",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Agatha Christie",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Harold Pinter",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Mousetrap, a murder-mystery play by Agatha Christie, has been running in London's West End since 1952."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_edinburgh_festival_single_a",
+    "fact_id": "c4_edinburgh_festival",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Which city hosts a famous arts festival every summer, including the Fringe?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cardiff",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Edinburgh",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "Bath",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Belfast",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Edinburgh Festival takes place every summer. The Edinburgh Fringe is a showcase of mainly theatre and comedy."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_olivier_awards_single_a",
+    "fact_id": "c4_olivier_awards",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "The Laurence Olivier Awards are given each year for achievements in which field?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Theatre",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "Cinema",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Painting",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Popular music",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Laurence Olivier Awards take place annually in London and recognise achievement in theatre."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_constable_single_a",
+    "fact_id": "c4_constable",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "John Constable, famous for 'The Hay Wain', painted mainly what?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Landscapes",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "Battle scenes",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Portraits of the royal family",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Abstract shapes",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "John Constable was a landscape painter, best known for his works of Dedham Vale on the Suffolk–Essex border."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_turner_prize_single_a",
+    "fact_id": "c4_turner_prize",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Year 1984. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "The Turner Prize, established in 1984, celebrates what kind of art?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Classical music",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Contemporary art",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "Poetry",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Architecture",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Turner Prize, named after the painter J.M.W. Turner, celebrates contemporary art."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_wren_single_a",
+    "fact_id": "c4_christopher_wren",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Which architect designed the new St Paul's Cathedral after the Great Fire of London?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sir Christopher Wren",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "Robert Adam",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Sir Edwin Lutyens",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Capability Brown",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Sir Christopher Wren helped rebuild many London churches after the Great Fire of 1666, including St Paul's Cathedral."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_lutyens_single_a",
+    "fact_id": "c4_lutyens",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Sir Edwin Lutyens designed which war memorial in Whitehall, London?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Albert Memorial",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Marble Arch",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Nelson's Column",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "The Cenotaph",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "Sir Edwin Lutyens designed the Cenotaph in Whitehall and also had a great influence on the building of New Delhi."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_capability_brown_single_a",
+    "fact_id": "c4_capability_brown",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Lancelot 'Capability' Brown is famous for designing what?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cathedrals",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Bridges",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Landscaped grounds around country houses",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Railway stations",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "In the 18th century Capability Brown designed the grounds around many country houses so that the landscape appeared natural."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_burns_single_a",
+    "fact_id": "c4_robert_burns",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Which famous song, sung at New Year, was written by the Scottish poet Robert Burns?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Jerusalem",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Rule Britannia",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Auld Lang Syne",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Land of Hope and Glory",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Robert Burns, known in Scotland as 'The Bard', wrote 'Auld Lang Syne', which is sung at New Year celebrations."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_wordsworth_single_a",
+    "fact_id": "c4_wordsworth",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "William Wordsworth was inspired by nature. Which poem about daffodils did he write?",
+    "options": [
+      {
+        "id": "a",
+        "text": "I Wandered Lonely as a Cloud",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "Dulce et Decorum Est",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "The Charge of the Light Brigade",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Auld Lang Syne",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "William Wordsworth wrote the poem about daffodils that begins 'I wandered lonely as a cloud'."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_wilfred_owen_single_a",
+    "fact_id": "c4_wilfred_owen",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Wilfred Owen is known for poems about which war?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Second World War",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "The Crimean War",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "The Boer War",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "The First World War",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "Many poets, including Wilfred Owen and Siegfried Sassoon, wrote about their experiences of the First World War."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_poets_corner_single_a",
+    "fact_id": "c4_poets_corner",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Where is Poets' Corner, where many famous writers are buried or remembered?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Stratford-upon-Avon",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Westminster Abbey",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "St Paul's Cathedral",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "The British Library",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Many great poets and writers are buried or commemorated in Poets' Corner in Westminster Abbey."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_booker_single_a",
+    "fact_id": "c4_booker_prize",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Eligibility wording as printed in the handbook. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "The Man Booker Prize is awarded each year for what?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The best newspaper",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "The best new building",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "The best film of the year",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "The best fiction novel written by an author from the Commonwealth, Ireland or Zimbabwe",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "The Man Booker Prize for Fiction is awarded annually for the best fiction novel."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_conan_doyle_single_a",
+    "fact_id": "c4_conan_doyle",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Which author created the detective Sherlock Holmes?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sir Arthur Conan Doyle",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "Agatha Christie",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Charles Dickens",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Robert Louis Stevenson",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Sir Arthur Conan Doyle was a Scottish doctor and writer, best known for his stories about Sherlock Holmes."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_jk_rowling_single_a",
+    "fact_id": "c4_jk_rowling",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Which author wrote the Harry Potter books?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Kingsley Amis",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Evelyn Waugh",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Graham Greene",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "J K Rowling",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "J K Rowling's Harry Potter series has been translated into many languages and made into films."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_haggis_single_a",
+    "fact_id": "c4_food_scotland",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Leisure",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Haggis is a traditional food of which country?",
+    "options": [
+      {
+        "id": "a",
+        "text": "England",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Northern Ireland",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Wales",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Scotland",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "Haggis is a traditional Scottish dish. Other traditional foods include roast beef with Yorkshire pudding (England), Welsh cakes (Wales) and the Ulster fry (Northern Ireland)."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_welsh_cakes_single_a",
+    "fact_id": "c4_food_wales",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Leisure",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Welsh cakes are a traditional food of which country?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Scotland",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "England",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Wales",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Northern Ireland",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Welsh cakes are a traditional Welsh snack made from flour, dried fruit and spices."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_ulster_fry_single_a",
+    "fact_id": "c4_food_ni",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Leisure",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "The Ulster fry is a traditional dish of which country?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Scotland",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Wales",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Northern Ireland",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "England",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Ulster fry is a fried meal with bacon, eggs, sausage, black pudding, white pudding, tomatoes, mushrooms, soda bread and potato bread."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_tv_licence_tf_a",
+    "fact_id": "c4_tv_licence",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Leisure",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Licence rules have changed since 2013; keep the answer as the handbook states it. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Everyone in the UK with a TV, computer or other device used to watch live television must have a television licence.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "You need a TV licence to watch live TV. The money pays for the BBC, which is a public service broadcaster."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_bbc_funding_single_a",
+    "fact_id": "c4_bbc_funding",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Leisure",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "How is the BBC mainly funded?",
+    "options": [
+      {
+        "id": "a",
+        "text": "By the National Lottery",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "By subscription only",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "By advertising",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "By television licence fees",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "The BBC is funded by TV licences and does not show adverts."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_alcohol_age_single_a",
+    "fact_id": "c4_alcohol_age",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Leisure",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "What is the minimum age to buy alcohol in a pub or shop?",
+    "options": [
+      {
+        "id": "a",
+        "text": "17",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "18",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "21",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "You must be 18 to buy alcohol. People aged 16 can drink wine or beer with a meal in a hotel or restaurant if they are with someone over 18."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_gambling_age_single_a",
+    "fact_id": "c4_gambling_age",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Leisure",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "What is the minimum age to go into betting shops or gambling clubs?",
+    "options": [
+      {
+        "id": "a",
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "17",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "18",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "21",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "You have to be 18 to go into betting shops or gambling clubs."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_dog_collar_tf_a",
+    "fact_id": "c4_dog_collar",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Leisure",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? In public places, a dog must wear a collar showing the name and address of its owner.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "By law, a dog in a public place must wear a collar showing the owner's name and address."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_ealing_single_a",
+    "fact_id": "c4_film_ealing",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Leisure",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Film titles. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "The Ealing studios are known for what kind of films, made in the 1940s and 1950s?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Science fiction films",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Cartoons",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Comedies",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Silent horror films",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Ealing studios produced comedies in the 1940s and 1950s, such as Passport to Pimlico and Kind Hearts and Coronets."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_hitchcock_single_a",
+    "fact_id": "c4_hitchcock",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Leisure",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Film title. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Which British film director made 'The 39 Steps' and later many films in Hollywood?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sir Alexander Korda",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Charlie Chaplin",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "David Lean",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Alfred Hitchcock",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "Alfred Hitchcock began making films in Britain, including The 39 Steps, before moving to Hollywood."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_baftas_single_a",
+    "fact_id": "c4_baftas",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Leisure",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "What are the British Academy Film Awards (the BAFTAs) the British equivalent of?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Turner Prize",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "The Oscars",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "The Brit Awards",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "The Booker Prize",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The BAFTAs, held each spring, are the British equivalent of the Oscars."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_national_trust_single_a",
+    "fact_id": "c4_national_trust",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Places of interest",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Year 1895. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "The National Trust works to preserve important buildings, coastline and countryside. When was it founded?",
+    "options": [
+      {
+        "id": "a",
+        "text": "1945",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "1999",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "1895",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "1066",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The National Trust was founded in 1895 by three volunteers and now relies on many volunteers to run its sites."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_big_ben_single_a",
+    "fact_id": "c4_big_ben",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Places of interest",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "'Big Ben' is the nickname of what?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The great bell of the clock at the Houses of Parliament",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "The dome of St Paul's Cathedral",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "The London Eye",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "The tower of Westminster Abbey",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Big Ben is the nickname for the great bell of the clock at the Houses of Parliament. The clock tower was renamed Elizabeth Tower in 2012 for Queen Elizabeth II's Diamond Jubilee."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_eden_project_single_a",
+    "fact_id": "c4_eden_project",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Places of interest",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "In which county is the Eden Project, with its huge plant greenhouses?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cornwall",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "Cumbria",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Norfolk",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Kent",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Eden Project in Cornwall has giant greenhouses housing plants from all over the world."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_giants_causeway_single_a",
+    "fact_id": "c4_giants_causeway",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Places of interest",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Column count. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Where is the Giant's Causeway, with its thousands of interlocking stone columns?",
+    "options": [
+      {
+        "id": "a",
+        "text": "On the north-east coast of Northern Ireland",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "In Cornwall",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "In North Wales",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "In the Scottish Highlands",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Giant's Causeway, on the north-east coast of Northern Ireland, is a landform of about 40,000 basalt columns formed by an ancient volcanic eruption."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_loch_lomond_single_a",
+    "fact_id": "c4_loch_lomond",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Places of interest",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Loch Lomond is the largest expanse of fresh water in mainland Britain. In which country is it?",
+    "options": [
+      {
+        "id": "a",
+        "text": "England",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Scotland",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "Northern Ireland",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Wales",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Loch Lomond, in Scotland, is the largest expanse of fresh water in mainland Britain."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_london_eye_single_a",
+    "fact_id": "c4_london_eye",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Places of interest",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "The London Eye was originally built to celebrate what?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The 2012 Olympic Games",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "The millennium",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "Queen Victoria's jubilee",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "The end of the Second World War",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The London Eye, a giant Ferris wheel on the River Thames, was built as part of the celebrations for the new millennium."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_snowdonia_single_a",
+    "fact_id": "c4_snowdonia",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Places of interest",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Snowdon is the highest mountain in which country?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Northern Ireland",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Scotland",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Wales",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "England",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Snowdonia is a national park in North Wales. Its best-known landmark is Snowdon, the highest mountain in Wales."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_tower_of_london_single_a",
+    "fact_id": "c4_tower_of_london",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Places of interest",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Which famous building, first built by William the Conqueror, houses the Crown Jewels?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Westminster Abbey",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Buckingham Palace",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "The Tower of London",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Windsor Castle",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Tower of London was first built by William the Conqueror. The Crown Jewels are kept there, and Yeoman Warders (Beefeaters) give tours."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_lake_district_single_a",
+    "fact_id": "c4_lake_district",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Places of interest",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Which is England's largest national park?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dartmoor",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "The New Forest",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "The Lake District",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "The Peak District",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Lake District is England's largest national park. Windermere is its largest lake."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_edinburgh_castle_tf_a",
+    "fact_id": "c4_edinburgh_castle",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Places of interest",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Edinburgh Castle is a dominant feature of the skyline of Scotland's capital city.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Edinburgh Castle dominates the skyline of Edinburgh and is managed by Historic Scotland."
+  }
+]

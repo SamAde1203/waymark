@@ -1,0 +1,2837 @@
+[
+  {
+    "schema_version": 2,
+    "item_id": "c5_parliamentary_democracy_single_a",
+    "fact_id": "c5_system_of_government",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The development of British democracy",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "What kind of system of government does the UK have?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A parliamentary democracy with the monarch as head of state",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "An absolute monarchy",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "A one-party state",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "A presidential republic",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The UK is a parliamentary democracy with the monarch as head of state."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_unwritten_constitution_tf_a",
+    "fact_id": "c5_unwritten_constitution",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The British constitution",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The British constitution is written down in a single document.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "The British constitution is not written down in any single document, so it is sometimes described as 'unwritten'."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_constitutional_monarchy_single_a",
+    "fact_id": "c5_constitutional_monarchy",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The British constitution",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "The UK has a constitutional monarchy. What does this mean?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The monarch makes all the laws",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "The monarch is elected every five years",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "The monarch does not rule the country but appoints the government, which people choose in elections",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "The monarch leads the largest political party",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "In a constitutional monarchy the monarch does not rule the country. The government is chosen in democratic elections."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_head_of_commonwealth_single_a",
+    "fact_id": "c5_monarch_commonwealth",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The British constitution",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Who is the head of the Commonwealth?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Speaker of the House of Commons",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "The monarch",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "The Prime Minister",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "The Secretary-General of the United Nations",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The monarch is head of state of the UK and head of the Commonwealth."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_institutions_multi_a",
+    "fact_id": "c5_key_institutions",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The British constitution",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO of these are key institutions of the British constitution?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The civil service",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "The judiciary (courts)",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "The national newspapers",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "The Bank of England's board of shareholders",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Key institutions include the monarchy, Parliament, the Prime Minister and cabinet, the judiciary, the police, the civil service and local government."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_commons_lords_statement_a",
+    "fact_id": "c5_houses_of_parliament",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The British constitution",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "statement",
+    "selections_required": 1,
+    "question_text": "Which of these statements is correct?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Parliament is made up of the House of Commons and the Senate.",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Parliament is made up of the House of Commons and the House of Lords.",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "The UK Parliament has two houses: the elected House of Commons and the House of Lords, whose members are not elected."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_commons_more_important_tf_a",
+    "fact_id": "c5_commons_supremacy",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The British constitution",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The House of Commons can overrule the House of Lords.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The House of Commons is regarded as the more important chamber. The Lords can suggest changes to laws, and the Commons can overrule them."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_lords_members_multi_a",
+    "fact_id": "c5_lords_membership",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The British constitution",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO kinds of people can sit in the House of Lords?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Local councillors",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Bishops of the Church of England",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "Life peers appointed by the monarch",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Members elected at a general election",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Members of the House of Lords are not elected. They include life peers, some hereditary peers and senior bishops of the Church of England."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_life_peers_single_a",
+    "fact_id": "c5_life_peers_appointment",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The British constitution",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Who appoints life peers to the House of Lords?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Archbishop of Canterbury",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "The monarch, on the advice of the Prime Minister",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "The Speaker of the House of Commons",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Voters, at a general election",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Life peers are appointed by the monarch on the advice of the Prime Minister. They do not pass their title on."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_speaker_single_a",
+    "fact_id": "c5_speaker",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The British constitution",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "What is the role of the Speaker in the House of Commons?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To chair debates and keep order, staying politically neutral",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "To lead the opposition",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "To lead the government",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "To speak for the monarch",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Speaker chairs debates in the House of Commons and keeps order. The Speaker is neutral and is chosen by other MPs in a secret ballot."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_speaker_elected_tf_b",
+    "fact_id": "c5_speaker",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The British constitution",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The Speaker of the House of Commons is chosen by other MPs in a secret ballot.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "MPs elect the Speaker in a secret ballot."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_mp_role_single_a",
+    "fact_id": "c5_mps",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The British constitution",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "What does a Member of Parliament (MP) represent?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Only the people who voted for them",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "A whole region of the UK",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Everyone in their constituency",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Only members of their own party",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Each MP represents everyone in their constituency, which is a local area."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_constituencies_single_a",
+    "fact_id": "c5_constituencies_count",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The British constitution",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Number of constituencies. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "How many parliamentary constituencies is the UK divided into?",
+    "options": [
+      {
+        "id": "a",
+        "text": "330",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "650",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "100",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "1,000",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The UK is divided into 650 parliamentary constituencies, each electing one MP."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_by_election_single_a",
+    "fact_id": "c5_by_election",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The British constitution",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "What happens if an MP dies or resigns?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The seat stays empty until the next general election",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "The Prime Minister chooses a replacement",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "A by-election is held in their constituency",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "The monarch appoints a replacement",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "If an MP dies or resigns there is a by-election, an election in that constituency only."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_first_past_post_single_a",
+    "fact_id": "c5_first_past_the_post",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The British constitution",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "How are MPs elected to the House of Commons?",
+    "options": [
+      {
+        "id": "a",
+        "text": "By proportional representation across the whole UK",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "By the House of Lords",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "By votes of other MPs",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "By a 'first past the post' system: the candidate with the most votes wins",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "MPs are elected through a 'first past the post' system. The candidate who gets the most votes in a constituency is elected."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_whips_single_a",
+    "fact_id": "c5_whips",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The British constitution",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "What do party 'whips' do in Parliament?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Advise the monarch",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Ensure discipline and that MPs attend to vote",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "Chair debates in the Commons",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Count votes at general elections",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Whips are a small group of MPs appointed by their party leaders to ensure discipline and attendance at votes."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_pm_residence_single_a",
+    "fact_id": "c5_pm_residence",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The government",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "What is the official home of the Prime Minister in London?",
+    "options": [
+      {
+        "id": "a",
+        "text": "11 Downing Street",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "10 Downing Street",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "Chequers",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Buckingham Palace",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Prime Minister's official home is 10 Downing Street. There is also a country house outside London called Chequers."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_chequers_single_b",
+    "fact_id": "c5_pm_country_house",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The government",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "What is the name of the Prime Minister's country house outside London?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Chequers",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "Balmoral",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Sandringham",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Windsor Castle",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Chequers is the Prime Minister's country house outside London."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_pm_who_single_a",
+    "fact_id": "c5_pm_leader",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The government",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Who usually becomes Prime Minister?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Speaker of the House of Commons",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "The leader of the party that wins the most seats in a general election",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "The person chosen by the House of Lords",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "The oldest MP in the House of Commons",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Prime Minister is the leader of the political party in power, usually the party with the most MPs."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_cabinet_single_a",
+    "fact_id": "c5_cabinet",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The government",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: 'About 20' figure. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Who appoints the members of the cabinet?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Speaker",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "The Prime Minister",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "Voters at a general election",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "The monarch alone",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Prime Minister appoints about 20 senior MPs to the cabinet, which meets weekly to make decisions on government policy."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_chancellor_single_a",
+    "fact_id": "c5_chancellor",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The government",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Which cabinet minister is responsible for the economy?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Chancellor of the Exchequer",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "The Home Secretary",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "The Foreign Secretary",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "The Lord Chancellor",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Chancellor of the Exchequer is responsible for the economy."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_home_secretary_single_a",
+    "fact_id": "c5_home_secretary",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The government",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Which cabinet minister is responsible for crime, policing and immigration?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Foreign Secretary",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "The Defence Secretary",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "The Chancellor of the Exchequer",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "The Home Secretary",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "The Home Secretary is responsible for crime, policing and immigration."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_foreign_secretary_single_a",
+    "fact_id": "c5_foreign_secretary",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The government",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Which cabinet minister manages the UK's relationship with other countries?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Home Secretary",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "The Leader of the Opposition",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "The Foreign Secretary",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "The Chancellor of the Exchequer",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Foreign Secretary manages relationships with foreign countries."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_opposition_single_a",
+    "fact_id": "c5_opposition",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The government",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Which party forms the official opposition?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The largest party in the House of Lords",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "The smallest party in the House of Commons",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Any party chosen by the Speaker",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "The second-largest party in the House of Commons",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "The second-largest party in the House of Commons is the opposition. Its leader is the Leader of the Opposition."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_shadow_cabinet_tf_a",
+    "fact_id": "c5_shadow_cabinet",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The government",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The Leader of the Opposition appoints senior opposition MPs to a 'shadow cabinet'.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Leader of the Opposition leads a shadow cabinet whose members each follow a government department."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_pmqs_single_a",
+    "fact_id": "c5_pmqs",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The government",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "How often does Prime Minister's Questions take place while Parliament is sitting?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Once a month",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Once a year",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Every day",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Every week",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "Prime Minister's Questions takes place every week while Parliament is sitting; the Leader of the Opposition usually asks questions."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_civil_service_tf_a",
+    "fact_id": "c5_civil_service_neutral",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The government",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Civil servants are chosen by the political party in power and must support it.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "Civil servants carry out government policy but are politically neutral. They are not political appointees."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_scottish_parliament_single_a",
+    "fact_id": "c5_scottish_parliament",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The government",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Year 1999. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "In which city does the Scottish Parliament sit?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Glasgow",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Edinburgh",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "Stirling",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "London",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Scottish Parliament sits in Edinburgh, at Holyrood. It was formed in 1999."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_welsh_assembly_single_a",
+    "fact_id": "c5_welsh_assembly",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The government",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: The body is now called the Senedd; keep the handbook's name in the explanation. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Where does the devolved parliament (assembly) for Wales sit?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Swansea",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "London",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Bangor",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Cardiff",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "The National Assembly for Wales sits in Cardiff. It was established in 1999."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_devolved_matters_multi_a",
+    "fact_id": "c5_devolved_powers",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The government",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Confirm examples of devolved and reserved matters. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO of these can the Scottish Parliament make laws on?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Defence",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Foreign affairs",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Education",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Health",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "The Scottish Parliament can pass laws on matters not reserved to the UK Parliament, such as education and health. Defence and foreign affairs remain with the UK Parliament."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_ni_assembly_tf_a",
+    "fact_id": "c5_ni_assembly",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The government",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Year 1998. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The Northern Ireland Assembly was set up after the Belfast (Good Friday) Agreement of 1998.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Northern Ireland Assembly was established soon after the Belfast Agreement in 1998."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_free_press_tf_a",
+    "fact_id": "c5_free_press",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The government",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Confirm the handbook's wording on broadcasters' balance. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Newspapers in the UK are free to give their own political opinions.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The UK has a free press. Newspapers are often biased towards a party, but radio and TV coverage of political parties must be balanced."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_who_can_vote_multi_a",
+    "fact_id": "c5_who_can_vote",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The government",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO groups of adults resident in the UK can vote in all public elections?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Visitors on a tourist visa",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Citizens of the Irish Republic",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "Citizens of Commonwealth countries",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Citizens of any country who have lived in the UK for one year",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "British citizens and citizens of the Commonwealth and the Irish Republic who are resident in the UK can vote in all public elections."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_electoral_register_single_a",
+    "fact_id": "c5_electoral_register",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The government",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "What must you do before you can vote?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Join a political party",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Pay a voting fee",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Pass a test about the candidates",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Have your name on the electoral register",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "To vote in an election you must have your name on the electoral register."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_polling_hours_single_a",
+    "fact_id": "c5_polling_hours",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The government",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Hours. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "On election day, what are the usual opening hours of polling stations?",
+    "options": [
+      {
+        "id": "a",
+        "text": "8 am to 8 pm",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "9 am to 5 pm",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "6 am to midnight",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "7 am to 10 pm",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "Polling stations are usually open from 7 am to 10 pm on election day."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_voting_age_single_a",
+    "fact_id": "c5_voting_age",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The government",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Keep 'according to the handbook': voting ages are changing in some UK elections. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "According to the handbook, what is the minimum age for voting in UK Parliament elections?",
+    "options": [
+      {
+        "id": "a",
+        "text": "21",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "18",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "25",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The handbook gives 18 as the voting age for UK Parliament elections."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_general_election_single_a",
+    "fact_id": "c5_general_election_interval",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The government",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "How often must a general election be held in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Every seven years",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Every four years exactly",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Every two years",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "At least every five years",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "MPs are elected at a general election, which is held at least every five years."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_secret_ballot_tf_a",
+    "fact_id": "c5_secret_ballot",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The government",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Voting in UK elections is done by secret ballot.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Elections are held by secret ballot, and you can also apply to vote by post."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_standing_age_single_a",
+    "fact_id": "c5_standing_for_office",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The government",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "What is the minimum age to stand for public office, such as an MP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "25",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "18",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "21",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Most citizens of the UK, the Irish Republic or the Commonwealth aged 18 or over can stand for public office."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_contact_mp_single_a",
+    "fact_id": "c5_contacting_mp",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The government",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Many MPs hold local sessions where constituents can meet them. What are these called?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Surgeries",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "Tribunals",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Assemblies",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Hearings",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Many MPs hold regular local 'surgeries' where constituents can go to see them in person."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_commonwealth_single_a",
+    "fact_id": "c5_commonwealth",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The UK and international institutions",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "What is the Commonwealth?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A military alliance led by the USA",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "A group of countries that must follow UK law",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "A voluntary association of countries, most of which were once part of the British Empire",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "An organisation of European countries only",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Commonwealth is a voluntary association of countries. Most were once part of the British Empire. Members work together towards shared goals."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_un_security_council_tf_a",
+    "fact_id": "c5_un_security_council",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The UK and international institutions",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The UK is one of five permanent members of the United Nations Security Council.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The UK is part of the United Nations and is one of the five permanent members of the UN Security Council."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_nato_single_a",
+    "fact_id": "c5_nato",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The UK and international institutions",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "What is NATO?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A UN agency for refugees",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "A trade agreement between European countries",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "A court for human rights",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "A group of countries that have agreed to help each other if they are attacked",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "NATO is a group of European and North American countries that have agreed to help each other if they come under attack."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_council_of_europe_single_a",
+    "fact_id": "c5_council_of_europe",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The UK and international institutions",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Which important agreement did the Council of Europe create?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Bill of Rights",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "The Treaty of Versailles",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "The European Convention on Human Rights",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "The Magna Carta",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Council of Europe created the European Convention on Human Rights. It is separate from the European Union."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_criminal_civil_statement_a",
+    "fact_id": "c5_criminal_vs_civil",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Respecting the law",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "statement",
+    "selections_required": 1,
+    "question_text": "Which of these statements is correct?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Civil law is used to settle disputes between individuals or groups.",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "Civil law is used to punish people who commit serious crimes such as theft.",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Criminal law deals with crimes, which are investigated by the police. Civil law settles disputes, for example about housing or employment."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_civil_examples_multi_a",
+    "fact_id": "c5_civil_law_examples",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Respecting the law",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO of these are examples of civil law disputes?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Burglary",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "An argument about faulty goods bought from a shop",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "A disagreement between a landlord and tenant",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Carrying a weapon in public",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Civil law covers disputes such as housing, employment and consumer rights. Carrying a weapon and burglary are crimes."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_criminal_examples_tf_a",
+    "fact_id": "c5_criminal_law_examples",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Respecting the law",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Selling tobacco to anyone under 18 is a criminal offence.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "It is a criminal offence to sell tobacco products to anyone under 18."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_police_duties_multi_a",
+    "fact_id": "c5_police_duties",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Respecting the law",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO of these are duties of the police?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Making new laws",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Protecting life and property",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "Preventing and detecting crime",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Deciding the sentence for a crime",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The police protect life and property, prevent disturbances (keep the peace), and prevent and detect crime. Courts decide sentences and Parliament makes laws."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_pcso_single_a",
+    "fact_id": "c5_pcsos",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Respecting the law",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "What does a Police Community Support Officer (PCSO) do?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Patrols the streets, works with the public and supports police officers",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "Runs elections",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Judges minor criminal cases",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Collects council tax",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "PCSOs patrol the streets, work with the public and support police officers at crime scenes and major events."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_pcc_single_a",
+    "fact_id": "c5_police_crime_commissioners",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Respecting the law",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Year 2012. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Since 2012, who sets local police priorities in England and Wales?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Elected Police and Crime Commissioners",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "Local magistrates",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "The Home Secretary alone",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "The Prime Minister",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Since November 2012, people in England and Wales have elected Police and Crime Commissioners, who set local police priorities."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_magistrates_single_a",
+    "fact_id": "c5_magistrates_court",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Respecting the law",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "In England, Wales and Northern Ireland, most minor criminal cases are dealt with in which court?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Supreme Court",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "A county court",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "The Crown Court",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "A Magistrates' Court",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "Most minor criminal cases are heard in a Magistrates' Court. In Scotland they go to a Justice of the Peace Court."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_magistrates_unpaid_tf_b",
+    "fact_id": "c5_magistrates_unpaid",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Respecting the law",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Magistrates in England and Wales are usually unpaid volunteers without legal qualifications.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Magistrates and Justices of the Peace are members of the local community. They are usually unpaid and do not need legal qualifications."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_jury_size_single_a",
+    "fact_id": "c5_jury_size",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Respecting the law",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "How many members are on a jury in England, Wales and Northern Ireland?",
+    "options": [
+      {
+        "id": "a",
+        "text": "20",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "12",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "15",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "10",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Juries in England, Wales and Northern Ireland have 12 members. In Scotland a jury has 15 members.",
+    "memory_tip": "Scotland's jury is bigger: 15."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_jury_scotland_single_b",
+    "fact_id": "c5_jury_size_scotland",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Respecting the law",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "How many members are on a jury in Scotland?",
+    "options": [
+      {
+        "id": "a",
+        "text": "21",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "15",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "10",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Scottish juries have 15 members; juries elsewhere in the UK have 12."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_youth_court_single_a",
+    "fact_id": "c5_youth_court",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Respecting the law",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Young people aged 10 to 17 accused of a crime are usually tried in which court?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Supreme Court",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "A Youth Court",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "The Crown Court",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "A county court",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "In England, Wales and Northern Ireland, people aged 10 to 17 accused of a crime are tried in a Youth Court, before up to three specially trained magistrates or a District Judge."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_crown_court_single_a",
+    "fact_id": "c5_crown_court",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Respecting the law",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "In England, Wales and Northern Ireland, serious criminal offences are tried where?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In a Magistrates' Court",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "In a county court",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "In a Youth Court",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "In a Crown Court, in front of a judge and jury",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "Serious offences are tried in front of a judge and a jury in a Crown Court. In Scotland they are tried in a Sheriff Court or the High Court."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_small_claims_single_a",
+    "fact_id": "c5_small_claims",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Respecting the law",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Do not quote money limits; they have changed since 2013. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "What is the small claims procedure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A way of appealing against a parking fine",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "A procedure for claiming welfare benefits",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "An informal way of settling disputes involving smaller amounts of money, without a lawyer",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "A court for crimes involving theft",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The small claims procedure helps people settle disputes over smaller amounts of money without a lawyer, at an informal hearing."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_citizens_advice_single_a",
+    "fact_id": "c5_citizens_advice",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Respecting the law",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Organisation name as printed in the handbook. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Where can you get free advice about legal problems, debt or housing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Electoral Commission",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "The House of Lords",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "HM Revenue & Customs",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Citizens Advice",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "Citizens Advice gives free, confidential advice on many problems, including legal matters, debt and housing."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_domestic_violence_tf_a",
+    "fact_id": "c5_domestic_violence",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Respecting the law",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? In the UK, a man who forces his wife to have sex can be charged with rape.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Domestic violence is a serious crime. Anyone who is violent towards their partner, including forcing them to have sex, can be prosecuted."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_fgm_tf_a",
+    "fact_id": "c5_fgm",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Respecting the law",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Female genital mutilation (FGM) is illegal in the UK.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "FGM is a crime in the UK, and it is also a crime to take a girl abroad for FGM."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_forced_marriage_tf_a",
+    "fact_id": "c5_forced_marriage",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Respecting the law",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? A marriage in which one person does not consent is legal in the UK if the families agree.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "Forced marriage, where one or both people do not consent, is a crime. Arranged marriages, where both agree, are different."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_human_rights_act_single_a",
+    "fact_id": "c5_human_rights_act",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Fundamental principles",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Which Act brought the European Convention on Human Rights into UK law?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Bill of Rights 1689",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "The Human Rights Act 1998",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "The Representation of the People Act 1918",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "The Equality Act 2010",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Human Rights Act 1998 incorporates the European Convention on Human Rights into UK law."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_echr_rights_multi_a",
+    "fact_id": "c5_echr_rights",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Fundamental principles",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO of these rights are protected by the European Convention on Human Rights?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Freedom of thought, conscience and religion",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "The right to a job of your choice",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "The right to a fair trial",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "The right to free housing",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Rights protected include the right to life, prohibition of torture, the right to liberty and a fair trial, freedom of thought, conscience and religion, and freedom of expression."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_equal_opportunities_tf_a",
+    "fact_id": "c5_equal_opportunities",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Fundamental principles",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? In the UK it is against the law to treat someone unfairly at work because of their sex, race or disability.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "UK laws ensure people are not treated unfairly because of characteristics such as age, disability, sex, race, religion or sexual orientation."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_driving_age_single_a",
+    "fact_id": "c5_driving_age",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Your role in the community",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "What is the minimum age to drive a car in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "21",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "17",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "18",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "You must be at least 17 years old to drive a car or motorcycle, and you must have a driving licence."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_mot_single_a",
+    "fact_id": "c5_mot",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Your role in the community",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Cars over three years old must pass which yearly test?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The theory test",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "The emissions licence",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "The MOT test",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "The Highway Code test",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "If your vehicle is over three years old, you must take it for a Ministry of Transport (MOT) test every year."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_car_insurance_tf_a",
+    "fact_id": "c5_car_insurance",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Your role in the community",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? It is a criminal offence to drive a car without insurance.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Drivers must have valid motor insurance. Driving without it is a serious criminal offence."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_income_tax_single_a",
+    "fact_id": "c5_income_tax",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Your role in the community",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Confirm the handbook's wording. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Which organisation collects income tax in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Department for Work and Pensions",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "The local council",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "The Bank of England",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "HM Revenue & Customs (HMRC)",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "Income tax is collected by HM Revenue & Customs. Many people have it taken from their pay through PAYE."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_national_insurance_single_a",
+    "fact_id": "c5_national_insurance",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Your role in the community",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "National Insurance contributions are used to pay for what?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The monarchy",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "State benefits and services such as the state pension and the NHS",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "Only the armed forces",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Local roads and bin collections",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "National Insurance contributions pay for state benefits and services, such as the state retirement pension and the National Health Service."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_council_tax_single_a",
+    "fact_id": "c5_council_tax",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Your role in the community",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Confirm whether the handbook covers council tax in this chapter. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "What is council tax used for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Local government services",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "The armed forces",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "The NHS",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "The Royal Family",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Council tax is a local tax that helps pay for local services such as rubbish collection and schools."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_jury_service_single_a",
+    "fact_id": "c5_jury_service",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Your role in the community",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Age range; it has changed since 2013. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Who can be asked to do jury service?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Only people with legal qualifications",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Anyone on the electoral register aged 18 to 70",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "Only volunteers who apply",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Only British citizens over 40",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Anyone on the electoral register aged 18 to 70 can be asked to serve on a jury."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_volunteering_tf_a",
+    "fact_id": "c5_volunteering",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Your role in the community",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Volunteering is a good way to support your community and meet new people.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Volunteering helps others, builds your community and can give you useful experience."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_blood_donation_single_a",
+    "fact_id": "c5_blood_donation",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Your role in the community",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "What can people in the UK donate to help save lives in hospitals?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Their National Insurance number",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Blood",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "Their vote",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Their passport",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Donated blood is used in hospitals to help people with injuries and illnesses. Many people also register as organ donors."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_recycling_tf_a",
+    "fact_id": "c5_environment",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Your role in the community",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Recycling as much as possible is one way of looking after the environment.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Looking after the environment includes recycling, not dropping litter and using public transport, walking or cycling."
+  }
+]

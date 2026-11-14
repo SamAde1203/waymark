@@ -1,9 +1,18 @@
 ---
 import Base from "../layouts/Base.astro";
+import { buildMock } from "@waymark/shared";
 import { CHAPTERS, jsonForScript, loadItems } from "../lib/content";
 
-const items = loadItems();
-const allLive = items.every((i) => i.status === "live");
+// Public sample: a balanced 24 across the chapters. Uses approved items once there are
+// enough of them; until then a preview sample of drafts, clearly labelled on the page.
+const bank = loadItems();
+const approved = bank.filter((i) => i.status === "live");
+const usePreview = approved.length < 24;
+const items = buildMock(bank, {
+  seed: 20270101,
+  statuses: usePreview ? ["live", "reviewed", "draft"] : ["live"],
+});
+const allLive = !usePreview;
 
 // Only what the browser needs.
 const payload = items.map((i) => ({

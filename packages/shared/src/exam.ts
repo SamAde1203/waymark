@@ -44,6 +44,8 @@ export interface MockOptions {
   /** item_ids to avoid if possible (e.g. seen in the last mocks). */
   avoid?: ReadonlySet<string>;
   size?: number;
+  /** Which item statuses may be used. Default: live and reviewed only. */
+  statuses?: ReadonlyArray<PublicItem["status"]>;
 }
 
 /**
@@ -54,7 +56,8 @@ export interface MockOptions {
 export function buildMock<T extends PublicItem>(bank: readonly T[], opts: MockOptions): T[] {
   const size = opts.size ?? EXAM.questions;
   const rand = seededRandom(opts.seed);
-  const live = bank.filter((i) => i.status === "live" || i.status === "reviewed");
+  const allowed = opts.statuses ?? ["live", "reviewed"];
+  const live = bank.filter((i) => allowed.includes(i.status));
   const quotas = apportion(opts.blueprint ?? blueprintFromBank(live), size);
   const avoid = opts.avoid ?? new Set<string>();
   const usedFacts = new Set<string>();
