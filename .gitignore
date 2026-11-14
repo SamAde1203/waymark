@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.astro/
+.expo/
+web-build/
+*.log
+.DS_Store
+.env
+.env.*
+!.env.example
+# Never commit the handbook or any copy of its text
+handbook/
+*.pdf
+*.epub

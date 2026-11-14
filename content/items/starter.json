@@ -1,0 +1,221 @@
+[
+  {
+    "schema_version": 2,
+    "item_id": "c1_principles_multi_a",
+    "fact_id": "c1_fundamental_principles",
+    "item_version": 1,
+    "status": "draft",
+    "source": { "handbook_edition": "3", "chapter_id": 1, "section": "The values and principles of the UK", "page_ref": [], "reviewer_note": "Check page; list of fundamental principles" },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO of these are fundamental principles of British life?",
+    "options": [
+      { "id": "a", "text": "The rule of law", "is_correct": true },
+      { "id": "b", "text": "Compulsory voting in every election", "is_correct": false, "rationale": "Voting is a right, not a legal duty, in the UK." },
+      { "id": "c", "text": "Tolerance of those with different faiths and beliefs", "is_correct": true },
+      { "id": "d", "text": "Loyalty to one political party", "is_correct": false }
+    ],
+    "explanation_simple": "The principles include democracy, the rule of law, individual liberty, tolerance of different faiths and beliefs, and taking part in community life.",
+    "memory_tip": "Think 'law, liberty, tolerance, democracy, community'.",
+    "glossary_terms": ["rule of law", "tolerance"]
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c2_uk_countries_single_a",
+    "fact_id": "c2_uk_countries",
+    "item_version": 1,
+    "status": "draft",
+    "source": { "handbook_edition": "3", "chapter_id": 2, "section": "What is the UK?", "page_ref": [] },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Which countries make up the United Kingdom?",
+    "options": [
+      { "id": "a", "text": "England, Scotland, Wales and Northern Ireland", "is_correct": true },
+      { "id": "b", "text": "England, Scotland and Wales only", "is_correct": false, "rationale": "These three make up Great Britain, not the whole UK." },
+      { "id": "c", "text": "England, Scotland, Wales and the Republic of Ireland", "is_correct": false },
+      { "id": "d", "text": "England, Wales, Northern Ireland and the Isle of Man", "is_correct": false }
+    ],
+    "explanation_simple": "The UK is made up of England, Scotland, Wales and Northern Ireland. Great Britain means England, Scotland and Wales only.",
+    "memory_tip": "Great Britain is the big island; the UK adds Northern Ireland."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c2_isle_of_man_tf_a",
+    "fact_id": "c2_crown_dependencies",
+    "item_version": 1,
+    "status": "draft",
+    "source": { "handbook_edition": "3", "chapter_id": 2, "section": "What is the UK?", "page_ref": [] },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The Isle of Man is part of the United Kingdom.",
+    "options": [
+      { "id": "a", "text": "True", "is_correct": false },
+      { "id": "b", "text": "False", "is_correct": true }
+    ],
+    "explanation_simple": "The Isle of Man and the Channel Islands are Crown dependencies. They are linked to the UK but are not part of it, and have their own governments.",
+    "glossary_terms": ["Crown dependency"]
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_hastings_single_a",
+    "fact_id": "c3_battle_of_hastings",
+    "item_version": 1,
+    "status": "draft",
+    "source": { "handbook_edition": "3", "chapter_id": 3, "section": "The Norman Conquest", "page_ref": [] },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "In which year did William, Duke of Normandy, defeat King Harold at the Battle of Hastings?",
+    "options": [
+      { "id": "a", "text": "1066", "is_correct": true },
+      { "id": "b", "text": "1215", "is_correct": false, "rationale": "1215 is the year of the Magna Carta." },
+      { "id": "c", "text": "1086", "is_correct": false },
+      { "id": "d", "text": "1166", "is_correct": false }
+    ],
+    "explanation_simple": "William of Normandy invaded England and defeated Harold at Hastings in 1066. This began the Norman Conquest.",
+    "memory_tip": "Ten-sixty-six: the last successful invasion of England."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_magna_carta_single_a",
+    "fact_id": "c3_magna_carta",
+    "item_version": 1,
+    "status": "draft",
+    "source": { "handbook_edition": "3", "chapter_id": 3, "section": "The Middle Ages", "page_ref": [] },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "In 1215 King John was forced by his noblemen to agree to a charter that limited the king's power. What is it called?",
+    "options": [
+      { "id": "a", "text": "The Magna Carta", "is_correct": true },
+      { "id": "b", "text": "The Bill of Rights", "is_correct": false, "rationale": "The Bill of Rights dates from 1689." },
+      { "id": "c", "text": "The Domesday Book", "is_correct": false, "rationale": "The Domesday Book was a survey ordered by William the Conqueror." },
+      { "id": "d", "text": "The Act of Union", "is_correct": false }
+    ],
+    "explanation_simple": "The Magna Carta (the Great Charter) of 1215 established that even the king was subject to the law."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_henry_viii_wives_multi_a",
+    "fact_id": "c3_henry_viii_wives",
+    "item_version": 1,
+    "status": "draft",
+    "source": { "handbook_edition": "3", "chapter_id": 3, "section": "The Tudors and Stuarts", "page_ref": [] },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO of these women were wives of King Henry VIII?",
+    "options": [
+      { "id": "a", "text": "Anne Boleyn", "is_correct": true },
+      { "id": "b", "text": "Mary, Queen of Scots", "is_correct": false },
+      { "id": "c", "text": "Jane Seymour", "is_correct": true },
+      { "id": "d", "text": "Elizabeth of York", "is_correct": false, "rationale": "She was Henry VIII's mother." }
+    ],
+    "explanation_simple": "Henry VIII married six times: Catherine of Aragon, Anne Boleyn, Jane Seymour, Anne of Cleves, Catherine Howard and Catherine Parr.",
+    "memory_tip": "Divorced, beheaded, died; divorced, beheaded, survived."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_union_1707_single_a",
+    "fact_id": "c3_act_of_union_1707",
+    "item_version": 1,
+    "status": "draft",
+    "source": { "handbook_edition": "3", "chapter_id": 3, "section": "A global power", "page_ref": [] },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "The Act of Union of 1707 created the Kingdom of Great Britain. Which two countries did it join?",
+    "options": [
+      { "id": "a", "text": "England (with Wales) and Scotland", "is_correct": true },
+      { "id": "b", "text": "England and Ireland", "is_correct": false, "rationale": "Ireland was united with Great Britain in 1801." },
+      { "id": "c", "text": "Scotland and Ireland", "is_correct": false },
+      { "id": "d", "text": "England and France", "is_correct": false }
+    ],
+    "explanation_simple": "In 1707 England (already united with Wales) and Scotland became one country, the Kingdom of Great Britain. Scotland kept its own legal and education systems."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_battle_of_britain_single_a",
+    "fact_id": "c3_battle_of_britain",
+    "item_version": 1,
+    "status": "draft",
+    "source": { "handbook_edition": "3", "chapter_id": 3, "section": "The Second World War", "page_ref": [] },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "In which year was the Battle of Britain fought in the skies over Britain?",
+    "options": [
+      { "id": "a", "text": "1940", "is_correct": true },
+      { "id": "b", "text": "1914", "is_correct": false },
+      { "id": "c", "text": "1945", "is_correct": false },
+      { "id": "d", "text": "1918", "is_correct": false }
+    ],
+    "explanation_simple": "In the summer of 1940 the Royal Air Force fought the German air force over Britain. Britain's victory meant Germany could not invade."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_st_david_single_a",
+    "fact_id": "c4_patron_saint_wales",
+    "item_version": 1,
+    "status": "draft",
+    "source": { "handbook_edition": "3", "chapter_id": 4, "section": "Religious festivals", "page_ref": [] },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Who is the patron saint of Wales, whose day is celebrated on 1 March?",
+    "options": [
+      { "id": "a", "text": "St David", "is_correct": true },
+      { "id": "b", "text": "St Andrew", "is_correct": false, "rationale": "St Andrew is the patron saint of Scotland (30 November)." },
+      { "id": "c", "text": "St George", "is_correct": false, "rationale": "St George is the patron saint of England (23 April)." },
+      { "id": "d", "text": "St Patrick", "is_correct": false, "rationale": "St Patrick is the patron saint of Northern Ireland (17 March)." }
+    ],
+    "explanation_simple": "St David's Day is 1 March. The other patron saints' days are St Patrick (17 March), St George (23 April) and St Andrew (30 November).",
+    "memory_tip": "In calendar order: David, Patrick, George, Andrew."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_voting_age_single_a",
+    "fact_id": "c5_voting_age",
+    "item_version": 1,
+    "status": "draft",
+    "source": { "handbook_edition": "3", "chapter_id": 5, "section": "The UK government, the law and your role", "page_ref": [], "reviewer_note": "Handbook states 18 for UK Parliament elections; do not mention later Scottish/Welsh changes unless handbook does" },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "According to the handbook, what is the minimum age for voting in UK Parliament elections?",
+    "options": [
+      { "id": "a", "text": "18", "is_correct": true },
+      { "id": "b", "text": "16", "is_correct": false },
+      { "id": "c", "text": "21", "is_correct": false },
+      { "id": "d", "text": "25", "is_correct": false }
+    ],
+    "explanation_simple": "The handbook gives 18 as the voting age for UK Parliament elections."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_parliament_houses_statement_a",
+    "fact_id": "c5_houses_of_parliament",
+    "item_version": 1,
+    "status": "draft",
+    "source": { "handbook_edition": "3", "chapter_id": 5, "section": "The British constitution", "page_ref": [] },
+    "question_type": "statement",
+    "selections_required": 1,
+    "question_text": "Which of these statements is correct?",
+    "options": [
+      { "id": "a", "text": "Parliament is made up of the House of Commons and the House of Lords.", "is_correct": true },
+      { "id": "b", "text": "Parliament is made up of the House of Commons and the Senate.", "is_correct": false }
+    ],
+    "explanation_simple": "The UK Parliament has two houses: the elected House of Commons and the House of Lords, whose members are not elected."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_general_election_single_a",
+    "fact_id": "c5_general_election_interval",
+    "item_version": 1,
+    "status": "draft",
+    "source": { "handbook_edition": "3", "chapter_id": 5, "section": "Elections", "page_ref": [] },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "How often must a general election be held in the UK?",
+    "options": [
+      { "id": "a", "text": "At least every five years", "is_correct": true },
+      { "id": "b", "text": "Every four years exactly", "is_correct": false },
+      { "id": "c", "text": "Every seven years", "is_correct": false },
+      { "id": "d", "text": "Every two years", "is_correct": false }
+    ],
+    "explanation_simple": "MPs are elected at a general election, which is held at least every five years."
+  }
+]

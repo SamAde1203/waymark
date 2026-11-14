@@ -1,0 +1,203 @@
+---
+import Base from "../layouts/Base.astro";
+import { CHAPTERS, jsonForScript, loadItems } from "../lib/content";
+
+const items = loadItems();
+const allLive = items.every((i) => i.status === "live");
+
+// Only what the browser needs.
+const payload = items.map((i) => ({
+  id: i.item_id,
+  chapter: i.source.chapter_id,
+  section: i.source.section,
+  pages: i.source.page_ref,
+  type: i.question_type,
+  need: i.selections_required,
+  q: i.question_text,
+  options: i.options.map((o) => ({ id: o.id, text: o.text, ok: o.is_correct, why: o.rationale ?? null })),
+  explain: i.explanation_simple,
+  tip: i.memory_tip ?? null,
+}));
+---
+
+<Base
+  title="Free Life in the UK Practice Test with Answers and Explanations | Waymark"
+  description="Try a free Life in the UK practice test. Instant marking, a plain-English explanation for every answer, and the handbook chapter each question comes from."
+>
+  <section class="section">
+    <div class="wrap quiz">
+      <h1>Free Life in the UK practice test</h1>
+      <p>
+        {payload.length} original questions across all five handbook chapters. You get instant marking and a plain-English
+        explanation after each answer. The real test has 24 questions in 45 minutes, and you need 18 correct (75%) to pass.
+      </p>
+      {
+        !allLive && (
+          <p class="banner" role="note">
+            Preview: these questions are still going through our review against the handbook, so page references are not
+            shown yet.
+          </p>
+        )
+      }
+
+      <div id="quiz" aria-live="polite">
+        <noscript><p>Please turn on JavaScript to take the practice test.</p></noscript>
+      </div>
+    </div>
+  </section>
+
+  <script type="application/json" id="quiz-data" set:html={jsonForScript({ items: payload, chapters: CHAPTERS })} />
+
+  <script>
+    type Opt = { id: string; text: string; ok: boolean; why: string | null };
+    type Q = {
+      id: string;
+      chapter: number;
+      section: string;
+      pages: number[];
+      type: "single" | "multi" | "true_false" | "statement";
+      need: number;
+      q: string;
+      options: Opt[];
+      explain: string;
+      tip: string | null;
+    };
+
+    const data = JSON.parse(document.getElementById("quiz-data")!.textContent!) as {
+      items: Q[];
+      chapters: Record<string, string>;
+    };
+    const root = document.getElementById("quiz")!;
+    const PASS_SHARE = 0.75;
+
+    let index = 0;
+    const results: { q: Q; correct: boolean }[] = [];
+
+    const esc = (s: string) =>
+      s.replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]!);
+
+    function sourceLine(q: Q): string {
+      const ch = `Chapter ${q.chapter}: ${data.chapters[q.chapter]}`;
+      return q.pages.length ? `${ch}, page ${q.pages.join(", ")}` : ch;
+    }
+
+    function renderQuestion() {
+      const q = data.items[index]!;
+      const multi = q.need > 1;
+      const pct = (index / data.items.length) * 100;
+      root.innerHTML = `
+        <div class="progress" aria-hidden="true"><span style="width:${pct}%"></span></div>
+        <p class="qmeta">Question ${index + 1} of ${data.items.length} · Chapter ${q.chapter}</p>
+        <form id="qform">
+          <fieldset class="options">
+            <legend class="qtext">${esc(q.q)}${multi ? ` <span class="qmeta">(choose ${q.need})</span>` : ""}</legend>
+            ${q.options
+              .map(
+                (o) => `
+              <div class="option" data-opt="${o.id}">
+                <input type="${multi ? "checkbox" : "radio"}" name="a" id="o-${o.id}" value="${o.id}" />
+                <label class="option-label" for="o-${o.id}">${esc(o.text)}</label>
+              </div>`,
+              )
+              .join("")}
+          </fieldset>
+          <div id="fb"></div>
+          <div class="quiz-actions">
+            <span></span>
+            <button class="btn" type="submit" id="check" disabled>Check answer</button>
+          </div>
+        </form>`;
+
+      const form = root.querySelector<HTMLFormElement>("#qform")!;
+      const btn = root.querySelector<HTMLButtonElement>("#check")!;
+      const inputs = [...form.querySelectorAll<HTMLInputElement>("input[name=a]")];
+      inputs.forEach((i) =>
+        i.addEventListener("change", () => {
+          const chosen = inputs.filter((x) => x.checked);
+          if (multi && chosen.length > q.need) i.checked = false;
+          btn.disabled = inputs.filter((x) => x.checked).length !== q.need;
+        }),
+      );
+      form.addEventListener("submit", (e) => {
+        e.preventDefault();
+        if (form.dataset.done) return next();
+        const chosen = inputs.filter((x) => x.checked).map((x) => x.value).sort();
+        const right = q.options.filter((o) => o.ok).map((o) => o.id).sort();
+        const correct = chosen.length === right.length && chosen.every((v, i) => v === right[i]);
+        results.push({ q, correct });
+        inputs.forEach((x) => (x.disabled = true));
+        for (const o of q.options) {
+          const el = form.querySelector(`[data-opt="${o.id}"]`)!;
+          if (o.ok) el.classList.add("correct");
+          else if (chosen.includes(o.id)) el.classList.add("wrong");
+        }
+        const wrongWhy = q.options
+          .filter((o) => !o.ok && chosen.includes(o.id) && o.why)
+          .map((o) => `<p>${esc(o.why!)}</p>`)
+          .join("");
+        form.querySelector("#fb")!.innerHTML = `
+          <div class="feedback">
+            <p class="verdict ${correct ? "ok" : "no"}">${correct ? "Correct" : "Not quite"}</p>
+            ${wrongWhy}
+            <p>${esc(q.explain)}</p>
+            ${q.tip ? `<p><strong>Memory tip:</strong> ${esc(q.tip)}</p>` : ""}
+            <p class="source">Source: ${esc(sourceLine(q))}</p>
+          </div>`;
+        form.dataset.done = "1";
+        btn.textContent = index + 1 < data.items.length ? "Next question" : "See my result";
+        btn.focus();
+      });
+    }
+
+    function next() {
+      index++;
+      if (index < data.items.length) renderQuestion();
+      else renderResult();
+      const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
+      root.scrollIntoView({ behavior: reduce ? "auto" : "smooth", block: "start" });
+      root.querySelector<HTMLElement>("legend, .result")?.setAttribute("tabindex", "-1");
+      root.querySelector<HTMLElement>("legend, .result")?.focus({ preventScroll: true });
+    }
+
+    function renderResult() {
+      const score = results.filter((r) => r.correct).length;
+      const total = results.length;
+      const needed = Math.ceil(total * PASS_SHARE);
+      const passed = score >= needed;
+      const byCh: Record<number, { c: number; t: number }> = {};
+      for (const r of results) {
+        const s = (byCh[r.q.chapter] ??= { c: 0, t: 0 });
+        s.t++;
+        if (r.correct) s.c++;
+      }
+      root.innerHTML = `
+        <div class="result">
+          <p class="qmeta">Your result</p>
+          <p class="score">${score} / ${total}</p>
+          <p>${
+            passed
+              ? `That is at or above the 75% pass level. Keep practising to make it reliable on the day.`
+              : `The pass level is 75% (${needed} of ${total} here). The chapters below show where to focus.`
+          }</p>
+          <div class="chapters">
+            ${Object.entries(byCh)
+              .map(
+                ([ch, s]) =>
+                  `<div><span>Chapter ${ch}: ${esc(data.chapters[ch] ?? "")}</span><strong>${s.c}/${s.t}</strong></div>`,
+              )
+              .join("")}
+          </div>
+          <p>This short test is a sample. One practice score cannot predict your real result.</p>
+          <p><a class="btn" href="/">Get your full study plan</a></p>
+          <p><button class="btn secondary" type="button" id="again">Try again</button></p>
+        </div>`;
+      root.querySelector("#again")!.addEventListener("click", () => {
+        index = 0;
+        results.length = 0;
+        renderQuestion();
+      });
+    }
+
+    renderQuestion();
+  </script>
+</Base>

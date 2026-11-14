@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+<title id="title">Waymark</title><desc id="desc">Green checked waypoint, navy winding road, Waymark and tagline Every answer checked. Every step planned.</desc>
+<g fill="#0A192F"><path d="M29 320 C-4 283 60 251 140 236 L165 261 C100 274 58 293 84 313 C107 331 183 342 269 351 C157 356 65 350 29 320Z"/><path d="M188 252 C222 232 260 219 245 205 C236 197 219 193 205 189 C254 194 289 210 277 229 C267 244 230 251 188 252Z"/></g>
+<path d="M156 23 C92 23 49 72 49 132 C49 191 110 250 156 305 C201 250 263 191 263 132 C263 72 220 23 156 23Z" fill="#00BF78"/>
+<circle cx="156" cy="130" r="75" fill="#FFFFFF"/>
+<path d="M112 133 L142 163 L202 100" fill="none" stroke="#00BF78" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M75 303 C68 288 87 273 112 263" stroke="#FFFFFF" stroke-width="9" fill="none" stroke-linecap="round"/>
+<text x="300" y="215" fill="#0A192F" font-family="Arial, Helvetica, sans-serif" font-size="164" font-weight="800" letter-spacing="-7">Waymark</text>
+<text x="307" y="281" fill="#0A192F" font-family="Arial, Helvetica, sans-serif" font-size="39" font-weight="400">Every answer checked. Every step planned.</text>
+</svg>

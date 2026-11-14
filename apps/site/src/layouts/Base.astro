@@ -1,0 +1,90 @@
+---
+import "../styles/global.css";
+
+interface Props {
+  title: string;
+  description: string;
+  ogImage?: string;
+}
+const { title, description, ogImage = "/og-default.png" } = Astro.props;
+const canonical = new URL(Astro.url.pathname, Astro.site);
+const year = new Date().getFullYear();
+---
+
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="icon" href="/favicon.ico" sizes="any" />
+    <link rel="apple-touch-icon" href="/favicon-180.png" />
+    <meta name="theme-color" content="#0A192F" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Waymark" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={new URL(ogImage, Astro.site)} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <slot name="head" />
+  </head>
+  <body>
+    <a class="skip" href="#main">Skip to content</a>
+    <header class="site-header">
+      <div class="wrap">
+        <a class="brand" href="/" aria-label="Waymark home">
+          <img src="/favicon.svg" alt="" width="36" height="36" />
+          <span>Waymark</span>
+        </a>
+        <nav class="nav" aria-label="Main">
+          <a class="hide-sm" href="/how-it-works">How it works</a>
+          <a class="hide-xs" href="/practice-test">Free practice test</a>
+          <a class="hide-sm" href="/guides">Guides</a>
+          <a class="hide-sm" href="/pricing">Pricing</a>
+          <a class="hide-sm" href="/for-organisations">For organisations</a>
+          <a class="btn small" href="/practice-test">Start free</a>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main">
+      <slot />
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap">
+        <div class="cols">
+          <div>
+            <img src="/favicon.svg" alt="" width="40" height="40" />
+            <p>Every answer checked. Every step planned.</p>
+            <p>Contact: <a href="mailto:hello@waymarkprep.co.uk">hello@waymarkprep.co.uk</a></p>
+          </div>
+          <ul aria-label="Study">
+            <li><a href="/practice-test">Free practice test</a></li>
+            <li><a href="/guides">Guides</a></li>
+            <li><a href="/life-in-the-uk-test">About the test</a></li>
+            <li><a href="/corrections">Corrections log</a></li>
+          </ul>
+          <ul aria-label="Legal">
+            <li><a href="/contact">Contact and business details</a></li>
+            <li><a href="/terms">Terms of sale</a></li>
+            <li><a href="/refunds">Cancellation and refunds</a></li>
+            <li><a href="/privacy">Privacy</a></li>
+            <li><a href="/cookies">Cookies</a></li>
+            <li><a href="/accessibility">Accessibility</a></li>
+          </ul>
+        </div>
+        <p class="independence">
+          Waymark is an independent study app. It is not affiliated with or endorsed by the UK Government, the Home
+          Office, PSI or TSO. Questions are original practice items. For official information see
+          <a href="https://www.gov.uk/life-in-the-uk-test" rel="noopener">gov.uk/life-in-the-uk-test</a>.
+          <br />© {year} Waymark. Trading name and address: to be added before launch.
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>
