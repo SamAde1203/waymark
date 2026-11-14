@@ -11,6 +11,8 @@
     "typecheck": "pnpm -r --if-present typecheck",
     "content:check": "pnpm --filter @waymark/content-schema check",
     "dev:site": "pnpm --filter @waymark/site dev",
-    "build:site": "pnpm --filter @waymark/site build"
+    "build:site": "pnpm --filter @waymark/site build",
+    "build:app": "cd apps/app && EXPO_OFFLINE=1 CI=1 expo export -p web",
+    "build:web": "pnpm build:app && pnpm build:site && rm -rf apps/site/dist/app && cp -r apps/app/dist apps/site/dist/app"
   }
 }

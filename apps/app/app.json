@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "Waymark",
+    "slug": "waymark",
+    "scheme": "waymark",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "uk.co.waymarkprep.app"
+    },
+    "android": {
+      "package": "uk.co.waymarkprep.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#0A192F",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "output": "single",
+      "name": "Waymark",
+      "shortName": "Waymark",
+      "themeColor": "#0A192F",
+      "backgroundColor": "#FFFFFF"
+    },
+    "experiments": {
+      "baseUrl": "/app",
+      "typedRoutes": false
+    },
+    "plugins": ["expo-router", "expo-status-bar"]
+  }
+}
