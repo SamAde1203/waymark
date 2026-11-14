@@ -41,7 +41,15 @@ pnpm build:site      # static output in apps/site/dist
 - "Correct" means "matches the handbook", even where the handbook is out of date.
 - The handbook file itself must never be committed (`.gitignore` blocks `*.pdf`, `*.epub` and `handbook/`).
 
-## Deploy (Cloudflare Pages)
+## Deploy (Vercel — must be a Pro team: Hobby forbids commercial use)
+
+- Import the `waymark` repo as a new project.
+- Root Directory: `apps/site` (Vercel installs the pnpm workspace from the repo root automatically).
+- Framework preset: Astro. Build command: `astro build`. Output directory: `dist`.
+- Node.js version: 22 (Project Settings → General).
+- Domains: add `waymarkprep.co.uk` as primary; add `www.waymarkprep.co.uk`, `waymarkprep.com` and `waymarkprep.org` and set each to redirect (308) to it.
+
+## Deploy (alternative: Cloudflare Pages, free plan allows commercial use)
 
 - Build command: `pnpm install --frozen-lockfile && pnpm build:site`
 - Build output directory: `apps/site/dist`
