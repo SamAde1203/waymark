@@ -1,0 +1,35 @@
+---
+import Page from "../layouts/Page.astro";
+import { INDEPENDENCE } from "../lib/site";
+---
+
+<Page
+  title="About Waymark"
+  description="Why Waymark exists and how our Life in the UK questions are written and checked."
+  heading="About Waymark"
+  lead="Waymark exists because too many Life in the UK apps have wrong answers, confusing explanations and subscriptions that keep charging."
+>
+  <h2>What we do differently</h2>
+  <ul>
+    <li><strong>Every answer checked.</strong> Each question names the handbook chapter and section it comes from, and every correction is public.</li>
+    <li><strong>Every step planned.</strong> Your study plan is built around your test date.</li>
+    <li><strong>One fair price.</strong> No subscription, no auto-renewal, no adverts.</li>
+    <li><strong>Your data stays yours.</strong> No account needed; progress stays on your device.</li>
+  </ul>
+
+  <h2>How questions are written</h2>
+  <p>
+    Every question is written in our own words from the official handbook, 3rd edition. We never copy real test
+    questions, which are not published. Each question goes through a check against the handbook before it is marked as
+    approved, and anyone can report a problem from inside the app.
+  </p>
+
+  <h2>Who is behind it</h2>
+  <p>
+    Waymark is built by Sam Adeyemi, a UK-based software engineer, and is run as an independent business. You can reach
+    us at <a href="mailto:hello@waymarkprep.co.uk">hello@waymarkprep.co.uk</a>.
+  </p>
+
+  <h2>Independence</h2>
+  <p>{INDEPENDENCE} For official information, visit <a href="https://www.gov.uk/life-in-the-uk-test" rel="noopener">gov.uk/life-in-the-uk-test</a>.</p>
+</Page>

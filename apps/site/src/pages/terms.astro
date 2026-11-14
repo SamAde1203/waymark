@@ -1,0 +1,74 @@
+---
+import Page from "../layouts/Page.astro";
+import { BUSINESS, INDEPENDENCE, LAST_UPDATED } from "../lib/site";
+---
+
+<Page
+  title="Terms of use and sale | Waymark"
+  description="The terms that apply when you use Waymark and when you buy full access."
+  heading="Terms of use and sale"
+  updated={LAST_UPDATED}
+>
+  <p class="note">Payments are not open yet. These terms describe how sales will work at launch.</p>
+
+  <h2>1. Who we are</h2>
+  <p>
+    Waymark is run by {BUSINESS.legalName}. Contact: <a href={`mailto:${BUSINESS.email}`}>{BUSINESS.email}</a>. Our
+    address is on our <a href="/contact">contact page</a>. {INDEPENDENCE}
+  </p>
+
+  <h2>2. What Waymark is</h2>
+  <p>
+    Waymark is a study tool for the Life in the UK test. Our questions are original practice items based on the official
+    handbook (3rd edition). They are not real test questions, and we cannot guarantee that any question will appear in
+    your test. Our readiness estimate is based on your practice and is not a promise of a result.
+  </p>
+
+  <h2>3. Free and paid access</h2>
+  <p>
+    You can use part of Waymark for free. Full access is a one-off digital purchase. It is not a subscription and does
+    not renew. The price is shown before you pay and includes any taxes that apply.
+  </p>
+
+  <h2>4. How long access lasts</h2>
+  <p>
+    Full access lasts for the current edition of the official handbook (3rd edition), for as long as that edition is
+    used for the test. If a new edition is introduced within 12 months of your purchase, you will get the new-edition
+    content at no extra cost.
+  </p>
+
+  <h2>5. Your right to cancel</h2>
+  <p>
+    Because full access is digital content you can use straight away, you will be asked at checkout to agree that access
+    starts immediately and that you then lose the usual 14-day right to cancel. See
+    <a href="/refunds">cancellation and refunds</a> for what we offer, and our <a href="/pass-promise">pass promise</a>.
+  </p>
+
+  <h2>6. If something goes wrong</h2>
+  <p>
+    If the content is faulty, you have rights under the Consumer Rights Act 2015, including repair or replacement and,
+    in some cases, a refund. Tell us at <a href={`mailto:${BUSINESS.support}`}>{BUSINESS.support}</a>.
+  </p>
+
+  <h2>7. Using Waymark fairly</h2>
+  <p>
+    Your access is for your own personal study. Please don't copy, resell or republish our questions or explanations.
+    Organisations can buy access for others: see <a href="/for-organisations">Waymark for organisations</a>.
+  </p>
+
+  <h2>8. Our responsibility to you</h2>
+  <p>
+    We work hard to keep every question accurate and fix reported errors quickly. We are not responsible for losses
+    that were not foreseeable, for decisions about your immigration status, or for the official test fee. Nothing in
+    these terms limits your legal rights as a consumer.
+  </p>
+
+  <h2>9. Changes</h2>
+  <p>We may update these terms. The version shown when you buy applies to that purchase.</p>
+
+  <h2>10. Law</h2>
+  <p>
+    These terms are governed by the law of England and Wales. If you live in Scotland or Northern Ireland, you can also
+    bring a claim in your local courts.
+  </p>
+</Page>

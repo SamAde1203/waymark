@@ -1,0 +1,17 @@
+---
+import Page from "../../layouts/Page.astro";
+import { GUIDES } from "../../lib/guides";
+---
+
+<Page
+  title="Life in the UK test guides | Waymark"
+  description="Plain-English guides to the Life in the UK test: how it works, what to bring, key dates, a 4-week revision plan and the facts people mix up most."
+  heading="Guides"
+  lead="Plain-English guides to help you prepare. Each one ends with free practice questions."
+>
+  <ul class="guide-list">
+    {GUIDES.map((g) => (
+      <li><a href={`/guides/${g.slug}`}><strong>{g.title}</strong><span>{g.summary}</span></a></li>
+    ))}
+  </ul>
+</Page>

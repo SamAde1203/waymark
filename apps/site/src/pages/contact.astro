@@ -1,0 +1,28 @@
+---
+import Page from "../layouts/Page.astro";
+import { BUSINESS } from "../lib/site";
+---
+
+<Page
+  title="Contact and business details | Waymark"
+  description="How to contact Waymark, and our business details."
+  heading="Contact and business details"
+>
+  <h2>Get in touch</h2>
+  <table>
+    <tr><th>General</th><td><a href={`mailto:${BUSINESS.email}`}>{BUSINESS.email}</a></td></tr>
+    <tr><th>Help and question reports</th><td><a href={`mailto:${BUSINESS.support}`}>{BUSINESS.support}</a></td></tr>
+    <tr><th>Privacy and your data</th><td><a href={`mailto:${BUSINESS.privacy}`}>{BUSINESS.privacy}</a></td></tr>
+    <tr><th>Organisations</th><td><a href={`mailto:${BUSINESS.partners}`}>{BUSINESS.partners}</a></td></tr>
+  </table>
+  <p>We aim to reply within two working days.</p>
+
+  <h2>Business details</h2>
+  <table>
+    <tr><th>Trading name</th><td>{BUSINESS.tradingName}</td></tr>
+    <tr><th>Run by</th><td>{BUSINESS.legalName}</td></tr>
+    <tr><th>Address</th><td>{BUSINESS.address ?? "To be published here before sales open."}</td></tr>
+    <tr><th>Email</th><td><a href={`mailto:${BUSINESS.email}`}>{BUSINESS.email}</a></td></tr>
+    <tr><th>VAT</th><td>Not VAT registered</td></tr>
+  </table>
+</Page>

@@ -1,0 +1,72 @@
+---
+import Page from "../layouts/Page.astro";
+import { BUSINESS, LAST_UPDATED } from "../lib/site";
+---
+
+<Page
+  title="Privacy notice | Waymark"
+  description="How Waymark handles your information. Your study progress stays on your device, there is no account and no advertising tracking."
+  heading="Privacy notice"
+  lead="Short version: your study progress stays on your device. We don't need an account, we don't track you for advertising, and we never ask about your nationality or immigration status."
+  updated={LAST_UPDATED}
+>
+  <h2>Who is responsible for your data</h2>
+  <p>
+    {BUSINESS.legalName} is the data controller. Contact: <a href={`mailto:${BUSINESS.privacy}`}>{BUSINESS.privacy}</a>.
+    {BUSINESS.icoNumber ? <>ICO registration number: {BUSINESS.icoNumber}.</> : null}
+  </p>
+
+  <h2>What we collect and why</h2>
+  <table>
+    <thead><tr><th>Information</th><th>Why</th><th>Where it is kept</th></tr></thead>
+    <tbody>
+      <tr>
+        <td>Your study progress, test date and settings</td>
+        <td>To run your study plan</td>
+        <td>On your own device only. We cannot see it.</td>
+      </tr>
+      <tr>
+        <td>Emails you send us, including question reports</td>
+        <td>To reply and fix problems</td>
+        <td>Our email provider. Kept for up to 2 years.</td>
+      </tr>
+      <tr>
+        <td>Purchase details (name, email, payment), once payments open</td>
+        <td>To take payment, give you access and meet tax and accounting rules</td>
+        <td>Our payment provider and purchase-management provider. Kept for 6 years for accounting.</td>
+      </tr>
+    </tbody>
+  </table>
+  <p>We do not collect your nationality, immigration status or any official ID.</p>
+
+  <h2>Our legal reasons</h2>
+  <ul>
+    <li>Running the study tool you asked for, and selling you access: <strong>contract</strong>.</li>
+    <li>Keeping accounting records: <strong>legal obligation</strong>.</li>
+    <li>Replying to emails and improving question accuracy: <strong>legitimate interests</strong>.</li>
+  </ul>
+
+  <h2>Who we share it with</h2>
+  <p>
+    Only the providers that help us run Waymark: website hosting (Vercel), email (Hostinger) and, once payments open,
+    our payment provider (Stripe) and purchase-management provider (RevenueCat). Some of these process data outside
+    the UK under safeguards approved by UK law. We never sell your data.
+  </p>
+
+  <h2>Cookies and tracking</h2>
+  <p>We don't use advertising or tracking cookies. See our <a href="/cookies">cookie notice</a>.</p>
+
+  <h2>Your rights</h2>
+  <p>
+    You can ask to see, correct or delete the information we hold about you, object to how we use it, or ask us to
+    limit it. Your study progress is only on your device: you can delete it at any time in the app under Settings, then
+    "Reset all progress".
+  </p>
+
+  <h2>Complaints</h2>
+  <p>
+    If you're unhappy with how we've handled your data, email <a href={`mailto:${BUSINESS.privacy}`}>{BUSINESS.privacy}</a>.
+    We will acknowledge your complaint within 30 days and respond as quickly as we can. You can also complain to the
+    Information Commissioner's Office at <a href="https://ico.org.uk/make-a-complaint/" rel="noopener">ico.org.uk</a>.
+  </p>
+</Page>

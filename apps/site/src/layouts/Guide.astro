@@ -1,0 +1,38 @@
+---
+import Base from "./Base.astro";
+import Quiz from "../components/Quiz.astro";
+import { GUIDES } from "../lib/guides";
+import { loadItems } from "../lib/content";
+import { LAST_UPDATED } from "../lib/site";
+
+interface Props {
+  slug: string;
+  description: string;
+}
+const { slug, description } = Astro.props;
+const guide = GUIDES.find((g) => g.slug === slug)!;
+const byId = Object.fromEntries(loadItems().map((i) => [i.item_id, i]));
+const items = guide.questions.map((id) => byId[id]).filter(Boolean);
+const others = GUIDES.filter((g) => g.slug !== slug).slice(0, 3);
+---
+
+<Base title={`${guide.title} | Life in the UK test guide | Waymark`} description={description}>
+  <section class="section">
+    <div class="wrap prose">
+      <p><a href="/guides">‹ All guides</a></p>
+      <h1>{guide.title}</h1>
+      <p class="updated">Last checked: {LAST_UPDATED}</p>
+      <slot />
+
+      <h2>Try 5 practice questions</h2>
+      <Quiz items={items} ctaHref="/app" ctaLabel="Keep practising in the free app" />
+
+      <h2>More guides</h2>
+      <ul class="guide-list">
+        {others.map((g) => (
+          <li><a href={`/guides/${g.slug}`}><strong>{g.title}</strong><span>{g.summary}</span></a></li>
+        ))}
+      </ul>
+    </div>
+  </section>
+</Base>

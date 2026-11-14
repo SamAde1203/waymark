@@ -1,0 +1,27 @@
+---
+import Page from "../layouts/Page.astro";
+import { LAST_UPDATED } from "../lib/site";
+---
+
+<Page
+  title="Cookie notice | Waymark"
+  description="Waymark does not use advertising or tracking cookies."
+  heading="Cookie notice"
+  updated={LAST_UPDATED}
+>
+  <p>
+    This website does not set advertising, analytics or tracking cookies, so we don't show a cookie banner.
+  </p>
+  <h2>What the study app stores on your device</h2>
+  <p>
+    The study app saves your progress, test date and settings in your browser's local storage so your plan works the
+    next time you visit. This is strictly necessary for the service you asked for, never leaves your device, and is not
+    used to track you. You can delete it in the app (Settings, then "Reset all progress") or by clearing your browser's
+    site data.
+  </p>
+  <h2>If this changes</h2>
+  <p>
+    If we ever add analytics, we will update this page first, use a privacy-friendly tool, and give you a simple way to
+    opt out.
+  </p>
+</Page>

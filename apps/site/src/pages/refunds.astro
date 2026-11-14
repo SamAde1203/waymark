@@ -1,0 +1,36 @@
+---
+import Page from "../layouts/Page.astro";
+import { BUSINESS, LAST_UPDATED } from "../lib/site";
+---
+
+<Page
+  title="Cancellation and refunds | Waymark"
+  description="Your cancellation rights and how refunds work for Waymark purchases."
+  heading="Cancellation and refunds"
+  updated={LAST_UPDATED}
+>
+  <p class="note">Payments are not open yet. This page describes how refunds will work at launch.</p>
+
+  <h2>Your right to cancel</h2>
+  <p>
+    UK law usually gives you 14 days to cancel an online purchase. For digital content you can use straight away, that
+    right ends once you agree to start using it. At checkout we will ask you to tick a box confirming that you want
+    access to start immediately and that you understand you lose the right to cancel. We will never tick it for you.
+  </p>
+
+  <h2>If there's a problem</h2>
+  <p>
+    If Waymark doesn't work as described, or content is faulty, tell us at
+    <a href={`mailto:${BUSINESS.support}`}>{BUSINESS.support}</a>. We will fix it and, where the law requires it or
+    the problem can't be fixed, refund you.
+  </p>
+
+  <h2>Pass promise</h2>
+  <p>
+    Separately from your legal rights, we plan to offer a <a href="/pass-promise">pass promise</a>. Its terms will be
+    published before it applies to any purchase.
+  </p>
+
+  <h2>How refunds are paid</h2>
+  <p>Refunds go back to the card you paid with, usually within 5–10 working days of approval.</p>
+</Page>

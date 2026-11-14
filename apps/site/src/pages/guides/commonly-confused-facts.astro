@@ -1,0 +1,34 @@
+---
+import Guide from "../../layouts/Guide.astro";
+
+const pairs: [string, string][] = [
+  ["Great Britain vs the United Kingdom", "Great Britain is England, Scotland and Wales. The UK is Great Britain plus Northern Ireland."],
+  ["Crown dependencies", "The Channel Islands and the Isle of Man are linked to the UK but are not part of it."],
+  ["1665 vs 1666", "Plague in London was 1665; the Great Fire of London was 1666."],
+  ["1807 vs 1833", "The slave trade was banned in 1807; slavery itself was abolished across the Empire in 1833."],
+  ["1918 vs 1928", "Women over 30 got the vote in 1918; women got the vote at 21, the same as men, in 1928."],
+  ["Cavaliers vs Roundheads", "Cavaliers supported the king; Roundheads supported Parliament."],
+  ["Mary I vs Mary, Queen of Scots", "Mary I was 'Bloody Mary', Queen of England. Mary, Queen of Scots, was executed by Elizabeth I."],
+  ["The two Acts of Union", "1707 joined England (with Wales) and Scotland; 1801 joined Ireland."],
+  ["Patron saints' days", "St David 1 March, St Patrick 17 March, St George 23 April, St Andrew 30 November."],
+  ["Jury sizes", "12 people in England, Wales and Northern Ireland; 15 in Scotland."],
+  ["Head vs spiritual leader of the Church of England", "The monarch is Supreme Governor; the Archbishop of Canterbury is the spiritual leader."],
+  ["House of Commons vs House of Lords", "MPs in the Commons are elected; members of the Lords are not."],
+];
+---
+
+<Guide slug="commonly-confused-facts" description="The Life in the UK facts people mix up most, side by side: Great Britain vs the UK, 1665 vs 1666, Cavaliers vs Roundheads and more.">
+  <p>
+    Many wrong answers come from mixing up two similar facts. Here are the pairs that catch people out most often.
+  </p>
+  <table>
+    <thead><tr><th>Easy to confuse</th><th>How to tell them apart</th></tr></thead>
+    <tbody>
+      {pairs.map(([a, b]) => <tr><td><strong>{a}</strong></td><td>{b}</td></tr>)}
+    </tbody>
+  </table>
+  <p>
+    A good habit: when you get a question wrong, write down both the right answer and the one you chose, and what
+    tells them apart.
+  </p>
+</Guide>

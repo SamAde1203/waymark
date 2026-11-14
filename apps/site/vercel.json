@@ -2,5 +2,16 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "buildCommand": "cd ../.. && pnpm build:web",
   "outputDirectory": "dist",
-  "rewrites": [{ "source": "/app/:path*", "destination": "/app/index.html" }]
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [
+    {
+      "source": "/guides",
+      "destination": "/guides.html"
+    },
+    {
+      "source": "/app/:path*",
+      "destination": "/app/index.html"
+    }
+  ]
 }

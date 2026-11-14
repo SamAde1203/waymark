@@ -1,0 +1,39 @@
+---
+import Page from "../layouts/Page.astro";
+import { loadItems } from "../lib/content";
+
+const items = loadItems();
+const fixes = items
+  .flatMap((i) => i.changelog.filter((c) => c.version > 1).map((c) => ({ ...c, chapter: i.source.chapter_id, section: i.source.section, id: i.item_id })))
+  .sort((a, b) => (a.date < b.date ? 1 : -1));
+---
+
+<Page
+  title="Corrections log | Waymark"
+  description="Every correction we make to Waymark's Life in the UK questions, listed publicly with the date and what changed."
+  heading="Corrections log"
+  lead="Every fix we make to a question is listed here, newest first. Reports come from users and from our own checks against the handbook."
+>
+  {
+    fixes.length ? (
+      <table>
+        <thead>
+          <tr><th>Date</th><th>Chapter</th><th>Section</th><th>What changed</th></tr>
+        </thead>
+        <tbody>
+          {fixes.map((f) => (
+            <tr><td>{f.date}</td><td>{f.chapter}</td><td>{f.section}</td><td>{f.note}</td></tr>
+          ))}
+        </tbody>
+      </table>
+    ) : (
+      <p class="note">No corrections yet. The question bank is in preview and is being checked against the handbook before launch.</p>
+    )
+  }
+  <h2>Found a problem?</h2>
+  <p>
+    Use "Report a problem" on any question in the app, or email
+    <a href="mailto:support@waymarkprep.co.uk">support@waymarkprep.co.uk</a> with the question and what your copy of the
+    handbook says.
+  </p>
+</Page>

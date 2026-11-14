@@ -1,0 +1,51 @@
+---
+import Base from "../../layouts/Base.astro";
+import Quiz from "../../components/Quiz.astro";
+import { CHAPTERS, loadItems } from "../../lib/content";
+import { seededRandom, shuffle } from "@waymark/shared";
+
+const SLUGS: Record<string, 1 | 2 | 3 | 4 | 5> = {
+  "values-and-principles": 1,
+  "what-is-the-uk": 2,
+  "history": 3,
+  "modern-society": 4,
+  "government-and-law": 5,
+};
+
+export function getStaticPaths() {
+  return ["values-and-principles", "what-is-the-uk", "history", "modern-society", "government-and-law"].map((chapter) => ({
+    params: { chapter },
+  }));
+}
+
+const ch = SLUGS[Astro.params.chapter as string]!;
+const all = loadItems().filter((i) => i.source.chapter_id === ch);
+// One question per fact, a fixed sample of 10 so the page is stable for search engines.
+const seen = new Set<string>();
+const items = shuffle(all, seededRandom(ch * 97)).filter((i) => (seen.has(i.fact_id) ? false : (seen.add(i.fact_id), true))).slice(0, 10);
+const sections = [...new Set(all.map((i) => i.source.section))];
+const title = CHAPTERS[ch];
+---
+
+<Base
+  title={`Life in the UK Chapter ${ch} practice: ${title} | Waymark`}
+  description={`10 free Life in the UK practice questions on Chapter ${ch}, "${title}", with explanations and the handbook section for each answer.`}
+>
+  <section class="section">
+    <div class="wrap quiz">
+      <p><a href="/practice-test">‹ Free practice test</a></p>
+      <h1>Chapter {ch}: {title}</h1>
+      <p>
+        10 free practice questions on this chapter of the official handbook. The chapter covers:
+        {sections.join(", ")}.
+      </p>
+      <Quiz items={items} ctaHref="/app" ctaLabel={`Practise all of Chapter ${ch} in the app`} />
+      <h2>Other chapters</h2>
+      <ul>
+        {Object.entries(SLUGS).filter(([, c]) => c !== ch).map(([slug, c]) => (
+          <li><a href={`/practice/${slug}`}>Chapter {c}: {CHAPTERS[c]}</a></li>
+        ))}
+      </ul>
+    </div>
+  </section>
+</Base>

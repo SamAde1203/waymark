@@ -1,0 +1,37 @@
+---
+import Page from "../layouts/Page.astro";
+import { LAST_UPDATED } from "../lib/site";
+---
+
+<Page
+  title="Accessibility statement | Waymark"
+  description="Waymark aims to meet WCAG 2.2 level AA. Known issues and how to get help."
+  heading="Accessibility statement"
+  updated={LAST_UPDATED}
+>
+  <p>
+    We want everyone to be able to prepare for the Life in the UK test with Waymark, including people using screen
+    readers, keyboard navigation, zoom or high-contrast settings, and people whose first language is not English.
+  </p>
+
+  <h2>What we aim for</h2>
+  <ul>
+    <li>Meet the Web Content Accessibility Guidelines (WCAG) 2.2 at level AA.</li>
+    <li>Text that stays readable at 200% zoom, with colours that meet contrast requirements.</li>
+    <li>Large tap targets, clear labels on every button, and answers marked with words as well as colour.</li>
+    <li>Plain English in questions and explanations.</li>
+  </ul>
+
+  <h2>Known issues</h2>
+  <ul>
+    <li>The test date in the study app is typed as YYYY-MM-DD rather than chosen from a calendar. We plan to add a date picker.</li>
+    <li>Explanations are in English only. Translations are planned.</li>
+    <li>We have not yet had an independent accessibility audit.</li>
+  </ul>
+
+  <h2>Tell us about a problem</h2>
+  <p>
+    If something is hard to use, email <a href="mailto:support@waymarkprep.co.uk">support@waymarkprep.co.uk</a>. We aim
+    to reply within two working days.
+  </p>
+</Page>
