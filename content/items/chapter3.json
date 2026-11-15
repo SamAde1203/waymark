@@ -8648,5 +8648,2903 @@
       }
     ],
     "explanation_simple": "Professor Peter Higgs predicted the Higgs boson particle. Its existence was confirmed in 2012."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_stonehenge_tf_b",
+    "fact_id": "c3_stonehenge",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "Early Britain",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Confirm the World Heritage mention. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Stonehenge is in Wiltshire and is a UNESCO World Heritage Site.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Stonehenge, a prehistoric monument in Wiltshire, is one of the UK's UNESCO World Heritage Sites."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_skara_brae_tf_b",
+    "fact_id": "c3_skara_brae",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "Early Britain",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Skara Brae, a prehistoric village, is in Cornwall.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "Skara Brae is on Orkney, off the north coast of Scotland. It is the best-preserved prehistoric village in northern Europe."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_bronze_age_single_b",
+    "fact_id": "c3_bronze_age",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "Early Britain",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "During the Bronze Age, people learned to make what?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Bronze",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "Glass",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Iron",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Steel",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Bronze Age began around 4,000 years ago, when people learned to make bronze. They buried their dead in round barrows."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_first_coins_single_b",
+    "fact_id": "c3_first_coins",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "Early Britain",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "When were the first coins minted in Britain?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In the Roman period",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Under the Normans",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "In the Iron Age",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Under the Tudors",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The first coins minted in Britain date from the Iron Age, some inscribed with the names of Iron Age kings."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_caesar_tf_b",
+    "fact_id": "c3_julius_caesar",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "Early Britain",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Julius Caesar's invasion of Britain in 55 BC was successful and began 400 years of Roman rule.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "Julius Caesar led an unsuccessful invasion in 55 BC. Emperor Claudius led the successful invasion in AD 43."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_claudius_date_single_b",
+    "fact_id": "c3_claudius_invasion",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "Early Britain",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "In which year did the Romans, led by Emperor Claudius, successfully invade Britain?",
+    "options": [
+      {
+        "id": "a",
+        "text": "AD 43",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "AD 789",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "55 BC",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "AD 410",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Emperor Claudius led the Roman invasion of AD 43. Julius Caesar's earlier attempt in 55 BC failed."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_boudicca_single_b",
+    "fact_id": "c3_boudicca",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "Early Britain",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Who was Boudicca?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The first queen of Scotland",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "A Roman empress",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "The queen of the Iceni, who fought against the Romans",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "A Saxon queen who defeated the Vikings",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Boudicca, queen of the Iceni in what is now eastern England, fought against the Romans. She is still remembered as a symbol of resistance."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_boudicca_statue_single_b",
+    "fact_id": "c3_boudicca_statue",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "Early Britain",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Where is there a statue of Boudicca?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In Edinburgh Castle",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "In Hyde Park",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "On Westminster Bridge, near the Houses of Parliament",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Outside Canterbury Cathedral",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "There is a statue of Boudicca on Westminster Bridge, near the Houses of Parliament in London."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_roman_occupation_tf_b",
+    "fact_id": "c3_roman_occupation",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "Early Britain",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The Romans stayed in Britain for about 400 years.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Romans remained in Britain for about 400 years, from AD 43 until AD 410."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_anglo_saxons_tf_b",
+    "fact_id": "c3_anglo_saxons",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "Early Britain",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? After the Romans left, Britain was invaded by the Jutes, Angles and Saxons.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Tribes from northern Europe, the Jutes, Angles and Saxons, invaded after the Romans left. Their languages are the basis of modern English."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_sutton_hoo_tf_b",
+    "fact_id": "c3_sutton_hoo",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "Early Britain",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Sutton Hoo, in Suffolk, is the burial place of an Anglo-Saxon king.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Sutton Hoo is thought to be the burial place of an Anglo-Saxon king, buried with treasure and armour in a ship."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_augustine_single_b",
+    "fact_id": "c3_st_augustine",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "Early Britain",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "St Augustine led missionaries from Rome who spread Christianity in which part of Britain?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Scottish islands only",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "The north",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Wales only",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "The south",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "St Augustine led missionaries from Rome in the south and became the first Archbishop of Canterbury. St Patrick and St Columba spread Christianity in Ireland and Scotland."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_columba_tf_b",
+    "fact_id": "c3_st_columba",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "Early Britain",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? St Columba founded a monastery on the island of Iona.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "St Columba founded a monastery on Iona, off the west coast of Scotland."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_vikings_tf_b",
+    "fact_id": "c3_vikings_origin",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "Early Britain",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The Vikings who raided Britain came from Denmark and Norway.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Vikings came from Denmark and Norway and first raided Britain in AD 789."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_alfred_tf_b",
+    "fact_id": "c3_alfred_the_great",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "Early Britain",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? King Alfred the Great united the Anglo-Saxon kingdoms and defeated the Vikings.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Alfred the Great united the kingdoms in England and defeated the Vikings."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_danelaw_tf_b",
+    "fact_id": "c3_danelaw",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "Early Britain",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Confirm the place-name examples. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The Danelaw was the part of England where the Vikings settled and many place names still show Viking origins.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Many Vikings stayed in the east and north of England, an area known as the Danelaw. Place names such as Grimsby and Scunthorpe come from Viking languages."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_bayeux_tf_b",
+    "fact_id": "c3_bayeux_tapestry",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "Early Britain",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The Bayeux Tapestry, showing the Battle of Hastings, can still be seen in France.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Bayeux Tapestry, an embroidery of the Battle of Hastings, can still be seen in Bayeux, France."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_last_invasion_single_b",
+    "fact_id": "c3_norman_last_invasion",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "Early Britain",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "The Norman Conquest of 1066 is the last time what happened?",
+    "options": [
+      {
+        "id": "a",
+        "text": "England lost a war with France",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "A king was executed",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "England was successfully invaded",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Parliament was closed",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Norman Conquest was the last successful foreign invasion of England."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_domesday_tf_b",
+    "fact_id": "c3_domesday_book",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "The Middle Ages",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The Domesday Book was ordered by William the Conqueror.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "William the Conqueror sent people all over England to record towns, villages, land and animals. This became the Domesday Book, which still exists."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_edward_i_tf_b",
+    "fact_id": "c3_edward_i_wales",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "The Middle Ages",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Year and statute name. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? By 1284, Edward I had brought Wales under English rule.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Edward I annexed Wales with the Statute of Rhuddlan in 1284 and built castles to keep control."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_bruce_tf_b",
+    "fact_id": "c3_bannockburn",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "The Middle Ages",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Robert the Bruce led the Scots to victory over the English at Bannockburn.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "In 1314 the Scots, led by Robert the Bruce, defeated the English at the Battle of Bannockburn, and Scotland remained unconquered."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_pale_tf_b",
+    "fact_id": "c3_the_pale",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "The Middle Ages",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? In the Middle Ages, the English controlled all of Ireland.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "English rule in the Middle Ages was mostly limited to an area around Dublin known as the Pale."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_hundred_years_tf_b",
+    "fact_id": "c3_hundred_years_war",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "The Middle Ages",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The Hundred Years War actually went on for 116 years.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Hundred Years War with France lasted 116 years, despite its name."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_magna_carta_date_single_b",
+    "fact_id": "c3_magna_carta",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "The Middle Ages",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "In which year was the Magna Carta agreed?",
+    "options": [
+      {
+        "id": "a",
+        "text": "1215",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "1485",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "1314",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "1066",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "King John was forced by his noblemen to agree to the Magna Carta in 1215."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_magna_carta_king_single_c",
+    "fact_id": "c3_magna_carta_meaning",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "The Middle Ages",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Which king was forced to agree to the Magna Carta?",
+    "options": [
+      {
+        "id": "a",
+        "text": "King Henry VIII",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "King Edward I",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "King Alfred",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "King John",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "King John agreed to the Magna Carta in 1215. It established the idea that even the king was subject to the law."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_early_parliament_tf_b",
+    "fact_id": "c3_early_parliament",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "The Middle Ages",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? In medieval Parliament, the House of Lords included nobles, great landowners and bishops.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Parliament began to develop in the Middle Ages. The House of Lords had nobility, great landowners and bishops; the House of Commons had knights and wealthy people from towns."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_chaucer_single_b",
+    "fact_id": "c3_chaucer",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "The Middle Ages",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Which famous work did Geoffrey Chaucer write?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Domesday Book",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Paradise Lost",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "The Canterbury Tales",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Hamlet",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Geoffrey Chaucer wrote The Canterbury Tales, a series of poems in English about pilgrims travelling to Canterbury."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_caxton_tf_b",
+    "fact_id": "c3_caxton",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "The Middle Ages",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? William Caxton was the first person in England to print books using a printing press.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "William Caxton was the first person in England to print books using a printing press."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_wars_roses_tf_b",
+    "fact_id": "c3_wars_of_the_roses",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "The Middle Ages",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The Wars of the Roses were fought between England and France.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "The Wars of the Roses were a civil war between the Houses of Lancaster and York, in 1455."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_jane_seymour_tf_b",
+    "fact_id": "c3_jane_seymour",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "The Tudors and Stuarts",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Jane Seymour died shortly after giving birth to Henry VIII's son, Edward.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Jane Seymour gave Henry the son he wanted, Edward, but she died shortly after his birth."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_catherine_parr_tf_b",
+    "fact_id": "c3_catherine_parr",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "The Tudors and Stuarts",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Catherine Parr was a widow who married Henry VIII late in his life and outlived him.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Catherine Parr was widowed when she married Henry. She outlived him and married again, but died soon after."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_mary_i_tf_b",
+    "fact_id": "c3_mary_i",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "The Tudors and Stuarts",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Mary I, known as 'Bloody Mary', was a Protestant.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "Mary I was a devout Catholic. She persecuted Protestants, which is why she is called 'Bloody Mary'."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_drake_tf_b",
+    "fact_id": "c3_francis_drake",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "The Tudors and Stuarts",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Sir Francis Drake was one of the commanders in the defeat of the Spanish Armada.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Francis Drake helped defeat the Spanish Armada. His ship, the Golden Hind, was one of the first to sail around the world."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_shakespeare_tf_b",
+    "fact_id": "c3_shakespeare",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "The Tudors and Stuarts",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? William Shakespeare was a playwright and actor, born in Stratford-upon-Avon.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Shakespeare, born in Stratford-upon-Avon, wrote many poems and plays and is widely regarded as the greatest writer in the English language."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_knox_tf_b",
+    "fact_id": "c3_scottish_reformation",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "The Tudors and Stuarts",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? John Knox led the Reformation in Scotland.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Under John Knox, the Scottish Parliament abolished the authority of the Pope and set up a Protestant Church of Scotland."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_mary_scots_single_b",
+    "fact_id": "c3_mary_queen_of_scots",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "The Tudors and Stuarts",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Mary, Queen of Scots, was a cousin of which English monarch?",
+    "options": [
+      {
+        "id": "a",
+        "text": "James I",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Henry VIII",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Mary I",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Elizabeth I",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "Mary, Queen of Scots, was Elizabeth I's cousin. She was imprisoned in England for 20 years and later executed for plotting against Elizabeth."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_kjv_single_b",
+    "fact_id": "c3_king_james_bible",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "The Tudors and Stuarts",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "The 'King James Version' or 'Authorised Version' is a translation of what?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Book of Common Prayer",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "The Magna Carta",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "The Domesday Book",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "The Bible",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "During James I's reign a new English translation of the Bible was made, still used in many Protestant churches today."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_ulster_tf_b",
+    "fact_id": "c3_plantation_of_ulster",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "The Tudors and Stuarts",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The plantations in Ireland involved Protestant settlers from England and Scotland taking over land from Catholic landholders.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Protestant farmers from Scotland and England settled in Ulster, taking over land from Catholics. This was called the plantation."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_roundheads_tf_b",
+    "fact_id": "c3_civil_war_roundheads",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "The Tudors and Stuarts",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? In the English Civil War, supporters of the king were called Roundheads.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "Supporters of the king were called Cavaliers. Supporters of Parliament were called Roundheads."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_naseby_tf_b",
+    "fact_id": "c3_naseby",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "The Tudors and Stuarts",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Charles I's army was defeated at the Battle of Naseby in 1645.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Charles I's army was defeated at Marston Moor and Naseby. By 1646 it was clear Parliament had won."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_charles_i_tf_b",
+    "fact_id": "c3_charles_i_executed",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "The Tudors and Stuarts",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? King Charles I was executed in 1649 and England became a republic.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Charles I was executed in 1649. England then became a republic called the Commonwealth."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_cromwell_tf_b",
+    "fact_id": "c3_cromwell",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "The Tudors and Stuarts",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Oliver Cromwell took the title of King after the Civil War.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "Cromwell was given the title of Lord Protector. He ruled until his death in 1658."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_restoration_tf_b",
+    "fact_id": "c3_restoration",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "The Tudors and Stuarts",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Charles II returned as king in 1660, an event known as the Restoration.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "In May 1660 Parliament invited Charles II back from exile. This is called the Restoration."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_great_fire_tf_b",
+    "fact_id": "c3_great_fire",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "The Tudors and Stuarts",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? After the Great Fire of London in 1666, many churches including St Paul's Cathedral were rebuilt.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Great Fire destroyed much of London. Many churches were rebuilt by Sir Christopher Wren, including St Paul's Cathedral."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_pepys_tf_b",
+    "fact_id": "c3_samuel_pepys",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "The Tudors and Stuarts",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Samuel Pepys wrote a diary describing the Great Plague and the Great Fire of London.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Samuel Pepys's diary describes events of his time, including the Great Plague and the Great Fire."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_habeas_tf_b",
+    "fact_id": "c3_habeas_corpus",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "The Tudors and Stuarts",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The Habeas Corpus Act of 1679 means no one can be held prisoner unlawfully.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Habeas Corpus is Latin for 'you must present the person in court'. The Act guaranteed that no one could be held unlawfully."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_boyne_tf_b",
+    "fact_id": "c3_battle_of_the_boyne",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "The Tudors and Stuarts",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? William III defeated James II at the Battle of the Boyne in 1690.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "William III defeated James II at the Boyne in Ireland in 1690, an event still celebrated by some in Northern Ireland."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_whigs_tories_tf_b",
+    "fact_id": "c3_whigs_tories",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "The Tudors and Stuarts",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The modern Conservative Party is descended from the Tories.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Two main groups developed in Parliament, the Whigs and the Tories. The modern Conservative Party is descended from the Tories."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_union_1707_tf_c",
+    "fact_id": "c3_act_of_union_1707",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "A global power",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The Act of Union of 1707 created the Kingdom of Great Britain.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Act of Union, known in Scotland as the Treaty of Union, created the Kingdom of Great Britain in 1707."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_clearances_tf_b",
+    "fact_id": "c3_highland_clearances",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "A global power",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? During the Highland Clearances, many Scottish landlords destroyed small farms to make room for sheep and cattle.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "In the Highland Clearances, landlords destroyed small farms (crofts) for sheep and cattle. Many Scots left for North America."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_adam_smith_single_b",
+    "fact_id": "c3_scottish_enlightenment",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "A global power",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Which Enlightenment figure developed important ideas about economics?",
+    "options": [
+      {
+        "id": "a",
+        "text": "David Hume",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Robert Burns",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Adam Smith",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "James Watt",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Adam Smith developed ideas about economics that are still referred to today."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_watt_tf_b",
+    "fact_id": "c3_james_watt",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "A global power",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? James Watt's work on steam power helped the Industrial Revolution.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "James Watt, a Scottish engineer, worked on steam power, which helped the progress of the Industrial Revolution."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_arkwright_tf_b",
+    "fact_id": "c3_arkwright",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "A global power",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Richard Arkwright originally trained as a barber.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Richard Arkwright trained as a barber. He improved the carding machine and developed efficient, profitable factories."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_wilberforce_tf_b",
+    "fact_id": "c3_wilberforce",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "A global power",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? William Wilberforce, an evangelical Christian and MP, played an important part in changing the law on the slave trade.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "William Wilberforce helped change the law to end the slave trade."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_american_independence_tf_b",
+    "fact_id": "c3_american_independence",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "A global power",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? In 1776, 13 American colonies declared their independence from Britain.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The colonists disagreed with being taxed without representation in Parliament, and declared independence in 1776."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_union_ireland_tf_b",
+    "fact_id": "c3_union_with_ireland",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "A global power",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The Act of Union of 1801 created the United Kingdom of Great Britain and Ireland.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "In 1801 Ireland became unified with England, Scotland and Wales, creating the United Kingdom of Great Britain and Ireland."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_reform_1832_tf_b",
+    "fact_id": "c3_reform_act_1832",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "A global power",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The Reform Act of 1832 abolished many 'pocket' and 'rotten' boroughs.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The 1832 Reform Act greatly increased the number of people with the right to vote and abolished the old pocket and rotten boroughs."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_pankhurst_tf_b",
+    "fact_id": "c3_emmeline_pankhurst",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "A global power",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Emmeline Pankhurst campaigned for women's right to vote.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Emmeline Pankhurst set up the Women's Franchise League in 1889 to fight for votes for women in local elections, and later led the suffragettes."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_women_1918_tf_b",
+    "fact_id": "c3_women_vote_1918",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "A global power",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? In 1918, women over the age of 30 were given the vote.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "In 1918 women over 30 were given the right to vote and stand for Parliament. In 1928 women got the vote at 21, the same as men."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_famine_tf_b",
+    "fact_id": "c3_irish_famine",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "A global power",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The Irish famine of the mid-1840s was caused by the failure of the potato crop.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The potato crop failed, and a million people died. About 1.5 million left Ireland."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_brunel_tf_b",
+    "fact_id": "c3_brunel",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "A global power",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Isambard Kingdom Brunel built the Great Western Railway.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Brunel built tunnels, bridges, railway lines and ships. He was responsible for the Great Western Railway."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_great_exhibition_tf_b",
+    "fact_id": "c3_great_exhibition",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "A global power",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The Great Exhibition of 1851 was held in the Crystal Palace in Hyde Park.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Great Exhibition, held in the Crystal Palace in Hyde Park, showed goods and exhibits from Britain and around the world."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_nightingale_tf_b",
+    "fact_id": "c3_crimean_war",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "A global power",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Florence Nightingale is regarded as the founder of modern nursing.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Florence Nightingale nursed soldiers in the Crimean War and set up the Nightingale Training School for nurses in 1860. She is often called the founder of modern nursing."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_boer_tf_b",
+    "fact_id": "c3_boer_war",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "A global power",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The Boer War, from 1899 to 1902, was fought in South Africa.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Britain fought the Boer War in South Africa against settlers of Dutch origin, the Boers."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_kipling_single_b",
+    "fact_id": "c3_kipling",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "A global power",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Confirm the handbook mentions 'If'. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Which author wrote 'The Jungle Book' and the poem 'If'?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Charles Dickens",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Robert Louis Stevenson",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Lewis Carroll",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Rudyard Kipling",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "Rudyard Kipling wrote The Jungle Book and Just So Stories. He won the Nobel Prize in Literature in 1907."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_ww1_start_tf_b",
+    "fact_id": "c3_ww1_start",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "The 20th century",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The First World War began in 1914.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The First World War began in 1914, after the assassination of Archduke Franz Ferdinand of Austria."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_somme_tf_b",
+    "fact_id": "c3_somme",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "The 20th century",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The Battle of the Somme was fought in 1916.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Battle of the Somme began in July 1916 and the British suffered about 60,000 casualties on the first day."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_ww2_start_single_b",
+    "fact_id": "c3_ww2_start",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "The 20th century",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "In which year did Britain declare war on Germany?",
+    "options": [
+      {
+        "id": "a",
+        "text": "1936",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "1939",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "1941",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "1914",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Britain declared war on Germany in 1939, after Germany invaded Poland."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_dunkirk_tf_b",
+    "fact_id": "c3_dunkirk",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "The 20th century",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The phrase 'the Dunkirk spirit' is still used to describe people pulling together in a crisis.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Many civilian boats helped rescue soldiers from Dunkirk in 1940. 'The Dunkirk spirit' describes people pulling together in a crisis."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_battle_britain_single_b",
+    "fact_id": "c3_battle_of_britain",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "The 20th century",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Confirm the handbook names both aircraft. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Which aircraft did the Royal Air Force use in the Battle of Britain?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Lancasters and Mosquitos only",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Tornados and Typhoons",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Spitfires and Hurricanes",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Concorde and Harriers",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "In 1940 the RAF won the Battle of Britain, using Spitfire and Hurricane aircraft."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_blitz_tf_b",
+    "fact_id": "c3_the_blitz",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "The 20th century",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The Blitz was the German bombing of British cities at night in 1940 and 1941.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Blitz was the German bombing of London and other cities at night in 1940 and 1941."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_fleming_tf_b",
+    "fact_id": "c3_fleming_penicillin",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "The 20th century",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Penicillin was discovered by Sir Alexander Fleming in 1928.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Alexander Fleming, from Scotland, discovered penicillin in 1928. It was later developed into a usable drug."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_turing_tf_b",
+    "fact_id": "c3_alan_turing",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "The 20th century",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Alan Turing's work helped lead to the development of the modern computer.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Alan Turing developed the 'Turing machine' in the 1930s, a theoretical model that helped lead to modern computers."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_whittle_tf_b",
+    "fact_id": "c3_jet_engine",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "The 20th century",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The jet engine was developed by Sir Frank Whittle.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Sir Frank Whittle, a British RAF engineer, developed the jet engine in the 1930s."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_baird_tf_b",
+    "fact_id": "c3_television",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "The 20th century",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Year. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The first television broadcast between London and Glasgow was made in 1932.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "John Logie Baird developed television in the 1920s. In 1932 he made the first TV broadcast between London and Glasgow."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_bevan_tf_b",
+    "fact_id": "c3_aneurin_bevan",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "Britain since 1945",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Aneurin (Nye) Bevan led the establishment of the NHS.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Aneurin Bevan, Minister for Health in the Attlee government, led the setting up of the NHS."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_attlee_tf_b",
+    "fact_id": "c3_attlee",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "Britain since 1945",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Clement Attlee led the Labour government elected in 1945.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Clement Attlee was Prime Minister from 1945 to 1951. His government set up the NHS and nationalised major industries."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_beveridge_tf_b",
+    "fact_id": "c3_beveridge_report",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "Britain since 1945",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The Beveridge Report of 1942 recommended that the government tackle 'Want, Disease, Ignorance, Squalor and Idleness'.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Beveridge Report identified five 'Giant Evils' and became the basis of the modern welfare state."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_india_tf_b",
+    "fact_id": "c3_india_independence",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "Britain since 1945",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Confirm wording. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? India, Pakistan and Ceylon (now Sri Lanka) became independent in the late 1940s.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "In 1947 independence was granted to nine countries, including India, Pakistan and Ceylon. Others followed over the next decades."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_dolly_tf_b",
+    "fact_id": "c3_dolly_the_sheep",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "Britain since 1945",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Dolly the sheep, the first mammal cloned from an adult cell, was produced in Edinburgh.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Dolly the sheep was cloned by scientists at the Roslin Institute near Edinburgh in 1996."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_ivf_tf_b",
+    "fact_id": "c3_ivf",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "Britain since 1945",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Confirm the names and town are in the handbook. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The world's first IVF baby was born in the UK in 1978.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Sir Robert Edwards and Patrick Steptoe pioneered IVF. The first IVF baby was born in Oldham in 1978."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_berners_lee_tf_b",
+    "fact_id": "c3_world_wide_web",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "Britain since 1945",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Sir Tim Berners-Lee invented the World Wide Web.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Sir Tim Berners-Lee invented the World Wide Web. Information was first transferred on it in December 1990."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_cockerell_tf_b",
+    "fact_id": "c3_hovercraft",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "Britain since 1945",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The hovercraft was invented by Sir Christopher Cockerell.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Sir Christopher Cockerell invented the hovercraft in the 1950s."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_concorde_single_b",
+    "fact_id": "c3_concorde",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "Britain since 1945",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Concorde, a supersonic passenger aircraft, was developed by Britain together with which country?",
+    "options": [
+      {
+        "id": "a",
+        "text": "France",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "Germany",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "The United States",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Japan",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Concorde was developed jointly by Britain and France. It first flew in 1969 and carried passengers from 1976 to 2003."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_falklands_tf_b",
+    "fact_id": "c3_falklands_war",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "Britain since 1945",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? In 1982, Argentina invaded the Falkland Islands.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Argentina invaded the Falkland Islands, a British overseas territory, in 1982. A British force was sent and the islands were recovered."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_devolution_tf_b",
+    "fact_id": "c3_devolution",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "Britain since 1945",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The Scottish Parliament and Welsh Assembly were set up in 1999.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Labour government elected in 1997 introduced devolution, and the Scottish Parliament and Welsh Assembly were set up in 1999."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_blair_tf_b",
+    "fact_id": "c3_tony_blair",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "Britain since 1945",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Tony Blair led the Labour Party to victory in the 1997 general election.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Tony Blair became Prime Minister in 1997 and was in office until 2007."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_coalition_tf_b",
+    "fact_id": "c3_coalition_2010",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "Britain since 1945",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? After the 2010 general election, David Cameron became Prime Minister at the head of a coalition.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "After the 2010 election, the Conservatives and the Liberal Democrats formed a coalition. David Cameron became Prime Minister."
   }
 ]

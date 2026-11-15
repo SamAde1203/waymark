@@ -433,5 +433,592 @@
       }
     ],
     "explanation_simple": "Ireland is divided: Northern Ireland is part of the UK, while the Republic of Ireland is a separate country."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c2_uk_countries_multi_c",
+    "fact_id": "c2_uk_countries",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 2,
+      "section": "What is the UK?",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO of these are countries of the United Kingdom?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Isle of Man",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Wales",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "The Republic of Ireland",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Northern Ireland",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "The UK is England, Scotland, Wales and Northern Ireland. The Republic of Ireland is a separate country and the Isle of Man is a Crown dependency."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c2_uk_countries_tf_d",
+    "fact_id": "c2_uk_countries",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 2,
+      "section": "What is the UK?",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The United Kingdom is made up of four countries.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The four countries of the UK are England, Scotland, Wales and Northern Ireland."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c2_uk_countries_tf_e",
+    "fact_id": "c2_uk_countries",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 2,
+      "section": "What is the UK?",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The Republic of Ireland is one of the countries of the United Kingdom.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "The Republic of Ireland is a separate country. Northern Ireland is the part of Ireland that is in the UK."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c2_great_britain_multi_c",
+    "fact_id": "c2_great_britain",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 2,
+      "section": "What is the UK?",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO of these countries are part of Great Britain?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Scotland",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "Wales",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "Northern Ireland",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "The Channel Islands",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Great Britain is England, Scotland and Wales. Northern Ireland is in the UK but not in Great Britain."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c2_great_britain_statement_d",
+    "fact_id": "c2_great_britain",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 2,
+      "section": "What is the UK?",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "statement",
+    "selections_required": 1,
+    "question_text": "Which of these statements is correct?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Great Britain refers to England, Scotland, Wales and Northern Ireland.",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Great Britain refers only to England, Scotland and Wales.",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "Great Britain is England, Scotland and Wales. With Northern Ireland, they make up the UK."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c2_official_name_tf_b",
+    "fact_id": "c2_official_name",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 2,
+      "section": "What is the UK?",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The official name of the country is the United Kingdom of Great Britain and Northern Ireland.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "That is the country's full official name. 'UK' is its short form."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c2_official_name_statement_c",
+    "fact_id": "c2_official_name",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 2,
+      "section": "What is the UK?",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "statement",
+    "selections_required": 1,
+    "question_text": "Which of these statements is correct?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The full name of the country is the United Kingdom of England, Scotland and Wales.",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "The full name of the country is the United Kingdom of Great Britain and Northern Ireland.",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "The official name includes Northern Ireland: the United Kingdom of Great Britain and Northern Ireland."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c2_crown_dependencies_single_d",
+    "fact_id": "c2_crown_dependencies",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 2,
+      "section": "What is the UK?",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "What are the Isle of Man and the Channel Islands?",
+    "options": [
+      {
+        "id": "a",
+        "text": "British overseas territories",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Countries of the UK",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Parts of Scotland",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Crown dependencies",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "The Channel Islands and the Isle of Man are Crown dependencies. They are closely linked to the UK but are not part of it."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c2_crown_dependencies_tf_e",
+    "fact_id": "c2_crown_dependencies",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 2,
+      "section": "What is the UK?",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The Channel Islands are part of the United Kingdom.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "The Channel Islands are a Crown dependency, linked to the UK but not part of it."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c2_crown_govt_tf_b",
+    "fact_id": "c2_crown_dependencies_govt",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 2,
+      "section": "What is the UK?",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The Isle of Man has its own government.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Crown dependencies, the Channel Islands and the Isle of Man, have their own governments."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c2_overseas_territories_tf_b",
+    "fact_id": "c2_overseas_territories",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 2,
+      "section": "What is the UK?",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Confirm the handbook names the Falkland Islands. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The Falkland Islands are part of the United Kingdom.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "The Falkland Islands are a British overseas territory. They are linked to the UK but are not part of it."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c2_overseas_territories_multi_c",
+    "fact_id": "c2_overseas_territories",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 2,
+      "section": "What is the UK?",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Confirm the handbook names both. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO of these are British overseas territories?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Falkland Islands",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "The Isle of Man",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "St Helena",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Anglesey",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Falkland Islands and St Helena are British overseas territories. The Isle of Man is a Crown dependency and Anglesey is part of Wales."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c2_westminster_tf_b",
+    "fact_id": "c2_parliament_westminster",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 2,
+      "section": "What is the UK?",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The United Kingdom is governed by the Parliament sitting in Westminster.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The UK is governed by the Parliament sitting in Westminster, London."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c2_westminster_single_c",
+    "fact_id": "c2_parliament_westminster",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 2,
+      "section": "What is the UK?",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "In which city does the UK Parliament sit?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cardiff",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Edinburgh",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Belfast",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "London",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "The UK Parliament sits in Westminster, in London."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c2_devolution_single_b",
+    "fact_id": "c2_devolved_powers",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 2,
+      "section": "What is the UK?",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Which of these have their own parliament or assembly with powers over some matters?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Scotland, Wales and Northern Ireland",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "The Isle of Man and the Channel Islands only",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "England, Scotland and Wales",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Only Scotland",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Scotland, Wales and Northern Ireland have their own parliament or assemblies with devolved powers in some areas."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c2_devolution_tf_c",
+    "fact_id": "c2_devolved_powers",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 2,
+      "section": "What is the UK?",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? England has its own separate parliament, apart from the UK Parliament.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "Scotland, Wales and Northern Ireland have their own parliament or assemblies. England is governed by the UK Parliament at Westminster."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c2_british_isles_tf_b",
+    "fact_id": "c2_uk_not_whole_british_isles",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 2,
+      "section": "What is the UK?",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The Republic of Ireland is a separate country from the United Kingdom.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Northern Ireland is part of the UK; the Republic of Ireland is a separate, independent country."
   }
 ]

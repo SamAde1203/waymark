@@ -6405,5 +6405,2006 @@
       }
     ],
     "explanation_simple": "The tower was renamed Elizabeth Tower in 2012 in honour of Queen Elizabeth II's Diamond Jubilee. 'Big Ben' is the nickname of the great bell."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_currency_tf_b",
+    "fact_id": "c4_currency",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "The UK today",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The currency of the UK is the pound sterling, and there are 100 pence in a pound.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The currency is the pound sterling (£). There are 100 pence in a pound."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_banknotes_single_b",
+    "fact_id": "c4_scottish_ni_banknotes",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "The UK today",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Which parts of the UK have their own banknotes, which are valid everywhere in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Wales only",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Scotland and Northern Ireland",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "England and Wales",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Wales and Scotland",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Scotland and Northern Ireland have their own banknotes, which are valid everywhere in the UK, though shops do not have to accept them."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_welsh_tf_b",
+    "fact_id": "c4_languages_wales",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "The UK today",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Welsh is widely spoken in Wales and is taught in schools there.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Welsh language is widely spoken in Wales, including as a first language, and is taught in schools."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_distance_single_b",
+    "fact_id": "c4_longest_distance",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "The UK today",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "The longest distance on the UK mainland runs between which two places?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dover and Inverness",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "John O'Groats and Land's End",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "Cardiff and Belfast",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "London and Edinburgh",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The longest distance on the mainland is from John O'Groats on the north coast of Scotland to Land's End in the south-west corner of England, about 870 miles."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_dialects_single_b",
+    "fact_id": "c4_dialects",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "The UK today",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "'Geordie' is the dialect of people from which area?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Liverpool",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Tyneside",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "London",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Birmingham",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "There are many regional dialects. Geordie is from Tyneside, Scouse from Liverpool and Cockney from London."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_archbishop_tf_b",
+    "fact_id": "c4_coe_archbishop",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Religion",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The Archbishop of York is the spiritual leader of the Church of England.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "The spiritual leader of the Church of England is the Archbishop of Canterbury."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_church_scotland_tf_b",
+    "fact_id": "c4_church_of_scotland",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Religion",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The Church of Scotland is governed by ministers and elders.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Church of Scotland is a Presbyterian church, governed by ministers and elders."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_patron_wales_tf_b",
+    "fact_id": "c4_patron_saint_wales",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Religion",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? St David is the patron saint of Wales.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "St David is the patron saint of Wales. St David's Day is 1 March."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_patron_scotland_single_b",
+    "fact_id": "c4_patron_saint_scotland",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Religion",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Who is the patron saint of Scotland?",
+    "options": [
+      {
+        "id": "a",
+        "text": "St Andrew",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "St George",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "St Patrick",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "St David",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "St Andrew is the patron saint of Scotland. St Andrew's Day is 30 November."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_patron_england_single_b",
+    "fact_id": "c4_patron_saint_england",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Religion",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "On which date is St George's Day?",
+    "options": [
+      {
+        "id": "a",
+        "text": "17 March",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "30 November",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "1 March",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "23 April",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "St George is the patron saint of England, and St George's Day is 23 April."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_patron_ni_single_b",
+    "fact_id": "c4_patron_saint_ni",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Religion",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Who is the patron saint of Northern Ireland?",
+    "options": [
+      {
+        "id": "a",
+        "text": "St Patrick",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "St Columba",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "St David",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "St Andrew",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "St Patrick is the patron saint of Northern Ireland. St Patrick's Day is 17 March."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_boxing_day_tf_b",
+    "fact_id": "c4_boxing_day",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Customs and traditions",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Boxing Day, 26 December, is a public holiday.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Boxing Day is the day after Christmas Day and is a public holiday."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_easter_single_b",
+    "fact_id": "c4_easter",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Customs and traditions",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "What does Easter celebrate for Christians?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The birth of Jesus Christ",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "The end of the harvest",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "The death and resurrection of Jesus Christ",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "The arrival of Christianity in Britain",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Easter marks the death of Jesus Christ on Good Friday and his rising from the dead on Easter Sunday."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_lent_single_b",
+    "fact_id": "c4_lent",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Customs and traditions",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "What do some people traditionally do during Lent?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Wear poppies",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Light bonfires",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Give something up, such as a favourite food",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Exchange presents every day",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Lent is the 40 days before Easter, when Christians take time to reflect and prepare. Many give something up."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_pancake_tf_b",
+    "fact_id": "c4_shrove_tuesday",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Customs and traditions",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Shrove Tuesday, or Pancake Day, is the day before Lent starts.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Shrove Tuesday is the day before Lent starts. People eat pancakes, traditionally to use up rich foods before fasting."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_diwali_tf_b",
+    "fact_id": "c4_diwali",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Customs and traditions",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Diwali, the Festival of Lights, is celebrated mainly by Hindus and Sikhs.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Diwali normally falls in October or November and lasts for five days. It celebrates the victory of good over evil."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_hanukkah_tf_b",
+    "fact_id": "c4_hanukkah",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Customs and traditions",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? During Hanukkah, candles are lit on a stand called a menorah.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Hanukkah, in November or December, is celebrated for eight days. On each day a candle is lit on a menorah."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_eid_tf_b",
+    "fact_id": "c4_eid_al_fitr",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Customs and traditions",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Eid al-Fitr celebrates the end of Ramadan, when Muslims have fasted for a month.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Eid al-Fitr marks the end of Ramadan. Muslims thank Allah for giving them the strength to complete the fast."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_vaisakhi_tf_b",
+    "fact_id": "c4_vaisakhi",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Customs and traditions",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Date. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Vaisakhi is a Sikh festival celebrating the founding of the Sikh community, the Khalsa.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Vaisakhi, also spelled Baisakhi, is a Sikh festival held on 14 April. It celebrates the founding of the Khalsa."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_hogmanay_tf_b",
+    "fact_id": "c4_hogmanay",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Customs and traditions",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? In Scotland, 2 January is also a public holiday.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "New Year's Eve is called Hogmanay in Scotland, and 2 January is also a public holiday there."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_valentines_tf_b",
+    "fact_id": "c4_valentines_day",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Customs and traditions",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? On Valentine's Day, lovers and partners exchange cards and gifts.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Valentine's Day, 14 February, is when lovers exchange cards and gifts, sometimes anonymously."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_mothering_tf_b",
+    "fact_id": "c4_mothering_sunday",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Customs and traditions",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Mothering Sunday is three weeks before Easter.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Mothering Sunday, or Mother's Day, is the Sunday three weeks before Easter. Children send cards or buy gifts for their mothers."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_silence_single_b",
+    "fact_id": "c4_remembrance_silence",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Customs and traditions",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "On Remembrance Day, a two-minute silence is held at what time?",
+    "options": [
+      {
+        "id": "a",
+        "text": "6.00 pm",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "12 noon",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "11.00 am",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "9.00 am",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "A two-minute silence is held at 11.00 am on 11 November."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_football_tf_b",
+    "fact_id": "c4_football_most_popular",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Sport",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Football is the UK's most popular sport.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Football is the most popular sport in the UK, with a long history in England."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_tennis_club_tf_b",
+    "fact_id": "c4_first_tennis_club",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Sport",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Modern lawn tennis developed in England in the late 19th century.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Modern tennis evolved in England in the late 19th century. The first tennis club was founded in Leamington Spa in 1872."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_st_andrews_tf_b",
+    "fact_id": "c4_golf_home",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Sport",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? St Andrews, in Scotland, is known as the home of golf.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Golf dates back to 15th-century Scotland, and St Andrews is known as its home."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_grand_national_tf_b",
+    "fact_id": "c4_grand_national",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Sport",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The Grand National is a famous horse race held at Aintree, near Liverpool.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Famous horse-racing events include Royal Ascot, the Grand National at Aintree and the Scottish Grand National at Ayr."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_ashes_tf_b",
+    "fact_id": "c4_ashes",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Sport",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The Ashes is a series of cricket matches between England and India.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "The Ashes are a series of Test cricket matches between England and Australia."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_olympics_tf_b",
+    "fact_id": "c4_olympics_hosted",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Sport",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? London has hosted the Olympic Games three times: in 1908, 1948 and 2012.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The UK has hosted the Olympic Games on three occasions, in 1908, 1948 and 2012."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_stoke_mandeville_tf_b",
+    "fact_id": "c4_paralympics_origin",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Sport",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The Paralympic Games have their origins in work at Stoke Mandeville hospital in Buckinghamshire.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Paralympics grew from work at Stoke Mandeville hospital, where a doctor developed new methods of treating people with spinal injuries."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_moore_tf_b",
+    "fact_id": "c4_bobby_moore",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Sport",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? England won the football World Cup in 1966, captained by Bobby Moore.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Bobby Moore captained the England team that won the World Cup in 1966."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_redgrave_tf_b",
+    "fact_id": "c4_steve_redgrave",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Sport",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Sir Steve Redgrave won gold medals in rowing at five consecutive Olympic Games.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Sir Steve Redgrave won rowing gold medals at five consecutive Olympics and is one of Britain's greatest Olympians."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_macarthur_tf_b",
+    "fact_id": "c4_ellen_macarthur",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Sport",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? In 2004, Dame Ellen MacArthur became the fastest person to sail solo around the world.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Dame Ellen MacArthur set the record for the fastest solo sail around the world in 2004."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_wiggins_tf_b",
+    "fact_id": "c4_bradley_wiggins",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Sport",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Bradley Wiggins was the first Briton to win the Tour de France.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "In 2012 Bradley Wiggins became the first Briton to win the Tour de France. He has also won Olympic gold medals."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_farah_tf_b",
+    "fact_id": "c4_mo_farah",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Sport",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Mo Farah won Olympic gold medals in 2012 for the 5,000 metres and 10,000 metres.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Mo Farah, born in Somalia, became the first Briton to win Olympic gold in the 10,000 metres in 2012, and also won the 5,000 metres."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_ennis_tf_b",
+    "fact_id": "c4_jessica_ennis",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Sport",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Jessica Ennis won the heptathlon gold medal at the 2012 Olympic Games.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Jessica Ennis won gold in the heptathlon, seven different track and field events, in 2012."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_murray_tf_b",
+    "fact_id": "c4_andy_murray",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Sport",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Andy Murray was the first British man to win a singles title in a Grand Slam tournament since 1936.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "In 2012 Andy Murray won the US Open, the first British man to win a Grand Slam singles title since 1936. He went on to win Wimbledon."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_proms_tf_b",
+    "fact_id": "c4_proms",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The Proms is an eight-week summer season of orchestral music held mainly at the Royal Albert Hall.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Proms, held mainly at the Royal Albert Hall in London, have been run by the BBC since 1927."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_handel_tf_b",
+    "fact_id": "c4_handel",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? George Frederick Handel was born in Germany and spent many years in the UK.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Handel was born in Germany and spent many years in the UK. He wrote the Water Music for George I and Music for the Royal Fireworks for George II."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_elgar_tf_b",
+    "fact_id": "c4_elgar",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Sir Edward Elgar's 'Land of Hope and Glory' is usually played at the last night of the Proms.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Elgar is best known for his Pomp and Circumstance Marches. March No. 1, 'Land of Hope and Glory', is usually played at the last night of the Proms."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_britten_tf_b",
+    "fact_id": "c4_britten",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Benjamin Britten founded the Aldeburgh festival in Suffolk.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Benjamin Britten is best known for his opera Peter Grimes. He founded the Aldeburgh festival in Suffolk."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_lloyd_webber_tf_b",
+    "fact_id": "c4_lloyd_webber",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Andrew Lloyd Webber wrote music for musicals that have been popular around the world.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Andrew Lloyd Webber's musicals include Jesus Christ Superstar, Evita and The Phantom of the Opera."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_mousetrap_tf_b",
+    "fact_id": "c4_mousetrap",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? 'The Mousetrap', a murder-mystery play, has been running in the West End since 1952.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Agatha Christie's The Mousetrap has been running since 1952 and has the longest initial run of any show in history."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_edinburgh_fest_tf_b",
+    "fact_id": "c4_edinburgh_festival",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The Edinburgh Festival, including the Fringe, takes place every summer.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Edinburgh Festival is a series of arts festivals held every summer. The Edinburgh Fringe showcases theatre and comedy."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_constable_tf_b",
+    "fact_id": "c4_constable",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? John Constable painted 'The Hay Wain'.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "John Constable was a landscape painter, famous for The Hay Wain and his paintings of Dedham Vale."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_turner_prize_tf_b",
+    "fact_id": "c4_turner_prize",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The Turner Prize, for contemporary art, is named after J.M.W. Turner.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Turner Prize was established in 1984 and celebrates contemporary art. It is named after Joseph Turner."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_wren_tf_b",
+    "fact_id": "c4_christopher_wren",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Sir Christopher Wren designed the new St Paul's Cathedral after the Great Fire of London.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "After the Great Fire, Sir Christopher Wren helped rebuild London's churches and designed the new St Paul's Cathedral."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_cenotaph_tf_b",
+    "fact_id": "c4_lutyens",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The Cenotaph in Whitehall was designed by Sir Edwin Lutyens.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Sir Edwin Lutyens designed the Cenotaph in Whitehall and many buildings in New Delhi, India."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_burns_tf_b",
+    "fact_id": "c4_robert_burns",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Robert Burns, known in Scotland as 'The Bard', wrote 'Auld Lang Syne'.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Robert Burns was a Scottish poet who wrote in Scots, English and a mix of both. His best-known work is Auld Lang Syne."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_owen_single_b",
+    "fact_id": "c4_wilfred_owen",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Confirm the poem title is in the handbook. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Which poet is known for poems about the First World War, such as 'Anthem for Doomed Youth'?",
+    "options": [
+      {
+        "id": "a",
+        "text": "John Keats",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "William Wordsworth",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Wilfred Owen",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Robert Burns",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Wilfred Owen wrote about the First World War. Siegfried Sassoon also wrote war poetry."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_booker_tf_b",
+    "fact_id": "c4_booker_prize",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Eligibility wording. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The Booker Prize is awarded each year for the best fiction novel.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Man Booker Prize for Fiction is awarded annually for the best fiction novel written by an author from the Commonwealth, Ireland or Zimbabwe."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_conan_doyle_tf_b",
+    "fact_id": "c4_conan_doyle",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Sir Arthur Conan Doyle, who created Sherlock Holmes, was a Scottish doctor and writer.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Sir Arthur Conan Doyle was a Scottish doctor and writer, best known for the Sherlock Holmes stories."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_haggis_tf_b",
+    "fact_id": "c4_food_scotland",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Leisure",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Haggis is a traditional food of Wales.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "Haggis is a traditional Scottish food. Welsh cakes are traditional in Wales."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_tv_licence_single_b",
+    "fact_id": "c4_tv_licence",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Leisure",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "What do you need if you watch TV programmes as they are broadcast in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A television licence",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "A library card",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "A passport",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "A driving licence",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Everyone who watches or records TV as it is broadcast needs a TV licence. One licence covers a household."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_dog_tf_b",
+    "fact_id": "c4_dog_collar",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Leisure",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Confirm the handbook mentions clearing up. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Dog owners must clean up after their dog in public places.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "In public, a dog must wear a collar showing the owner's name and address, and owners must clean up after their dog."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_hitchcock_tf_b",
+    "fact_id": "c4_hitchcock",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Leisure",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Alfred Hitchcock was a British film director who later made films in Hollywood.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Alfred Hitchcock made The 39 Steps in 1935 and later went to Hollywood, where he made many famous films."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_eden_tf_b",
+    "fact_id": "c4_eden_project",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Places of interest",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The Eden Project in Cornwall has large greenhouses containing plants from around the world.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Eden Project in Cornwall has biomes, huge greenhouses, containing plants from many environments."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_giants_causeway_tf_b",
+    "fact_id": "c4_giants_causeway",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Places of interest",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The Giant's Causeway is in Wales.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "The Giant's Causeway is on the north-east coast of Northern Ireland."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_loch_lomond_tf_b",
+    "fact_id": "c4_loch_lomond",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Places of interest",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Loch Lomond is the largest expanse of fresh water in mainland Britain.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Loch Lomond, in Scotland, is the largest expanse of fresh water in mainland Britain."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_london_eye_tf_b",
+    "fact_id": "c4_london_eye",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Places of interest",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The London Eye is on the southern bank of the River Thames.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The London Eye is a Ferris wheel on the south bank of the Thames, built for the millennium."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_snowdon_tf_b",
+    "fact_id": "c4_snowdonia",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Places of interest",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Snowdon is the highest mountain in Wales.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Snowdon is in Snowdonia, a national park in north Wales. It is the highest mountain in Wales."
   }
 ]

@@ -597,5 +597,859 @@
       }
     ],
     "explanation_simple": "Most applicants need to pass the Life in the UK test and show they can speak and understand English to the required standard."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c1_principles_multi_d",
+    "fact_id": "c1_fundamental_principles",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 1,
+      "section": "The values and principles of the UK",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO of these are fundamental principles of British life?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Participation in community life",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "Loyalty to the ruling party",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Obedience to religious leaders",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Democracy",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "The fundamental principles are democracy, the rule of law, individual liberty, tolerance of those with different faiths and beliefs, and participation in community life."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c1_principles_tf_e",
+    "fact_id": "c1_fundamental_principles",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 1,
+      "section": "The values and principles of the UK",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The rule of law is one of the fundamental principles of British life.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The rule of law is one of the five fundamental principles."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c1_principles_tf_f",
+    "fact_id": "c1_fundamental_principles",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 1,
+      "section": "The values and principles of the UK",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Following the religion of the monarch is one of the fundamental principles of British life.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "Tolerance of those with different faiths and beliefs is a fundamental principle. No one has to follow any particular religion."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c1_principles_single_g",
+    "fact_id": "c1_fundamental_principles",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 1,
+      "section": "The values and principles of the UK",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Which of these is NOT one of the fundamental principles of British life?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Democracy",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Compulsory membership of a trade union",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "Tolerance of those with different faiths and beliefs",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Individual liberty",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The five principles are democracy, the rule of law, individual liberty, tolerance of those with different faiths and beliefs, and participation in community life."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c1_principles_statement_h",
+    "fact_id": "c1_fundamental_principles",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 1,
+      "section": "The values and principles of the UK",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "statement",
+    "selections_required": 1,
+    "question_text": "Which of these statements is correct?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Tolerance is expected only of people who follow the same religion.",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Tolerance of those with different faiths and beliefs is a fundamental principle of British life.",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "Tolerance of those with different faiths and beliefs is one of the fundamental principles."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c1_values_tf_b",
+    "fact_id": "c1_values_protected_by",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 1,
+      "section": "The values and principles of the UK",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? British values are based on history and traditions.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The values and principles of the UK are based on history and traditions, and are protected by law, customs and expectations."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c1_extremism_statement_b",
+    "fact_id": "c1_no_place_for_extremism",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 1,
+      "section": "The values and principles of the UK",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Confirm wording. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "statement",
+    "selections_required": 1,
+    "question_text": "Which of these statements is correct?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Extremism is acceptable in British society if it is peaceful.",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "There is no place in British society for extremism or intolerance.",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "There is no place in British society for extremism or intolerance."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c1_responsibilities_multi_e",
+    "fact_id": "c1_responsibilities",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 1,
+      "section": "The values and principles of the UK",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO of these are responsibilities of people who want to be permanent residents or citizens?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Attend a citizenship class every year",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Respect the rights of others, including their right to their own opinions",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "Vote for the party in government",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Treat others with fairness",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "Responsibilities include respecting and obeying the law, respecting the rights of others, treating others with fairness, looking after yourself and your family, and looking after your area and the environment."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c1_responsibilities_tf_f",
+    "fact_id": "c1_responsibilities",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 1,
+      "section": "The values and principles of the UK",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Looking after the area in which you live and the environment is one of the responsibilities of living in the UK.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Looking after your area and the environment is one of the responsibilities listed."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c1_responsibilities_single_g",
+    "fact_id": "c1_responsibilities",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 1,
+      "section": "The values and principles of the UK",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Which of these is a responsibility of people who want to live permanently in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Respect and obey the law",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "Own a car",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Join a political party",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Live in London",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Respecting and obeying the law is one of the responsibilities of residents."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c1_freedoms_multi_d",
+    "fact_id": "c1_freedoms",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 1,
+      "section": "The values and principles of the UK",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO of these freedoms does the UK offer in return?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Freedom from all laws",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Freedom of belief and religion",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "Free university places for everyone",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Freedom from unfair discrimination",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "The UK offers freedom of belief and religion, freedom of speech, freedom from unfair discrimination, a right to a fair trial and a right to join in the election of a government."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c1_freedoms_tf_e",
+    "fact_id": "c1_freedoms",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 1,
+      "section": "The values and principles of the UK",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Freedom of speech is one of the freedoms the UK offers.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Freedom of speech is one of the freedoms offered in return for meeting your responsibilities."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c1_freedoms_tf_f",
+    "fact_id": "c1_freedoms",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 1,
+      "section": "The values and principles of the UK",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? A guaranteed job is one of the freedoms the UK offers to residents.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "The freedoms are belief and religion, speech, freedom from unfair discrimination, a fair trial, and joining in the election of a government. A job is not guaranteed."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c1_freedoms_single_g",
+    "fact_id": "c1_freedoms",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 1,
+      "section": "The values and principles of the UK",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Which of these is a freedom offered to people in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A right to vote in every country",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "A right to free housing",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "A right to a fair trial",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "A right to choose which laws apply to you",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "A right to a fair trial is one of the freedoms the UK offers."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c1_ceremony_tf_b",
+    "fact_id": "c1_citizenship_ceremony",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 1,
+      "section": "The values and principles of the UK",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? New citizens make an oath or affirmation of allegiance at a citizenship ceremony.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "At a citizenship ceremony, new citizens swear an oath (or make an affirmation) of allegiance and make a pledge."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c1_ceremony_single_c",
+    "fact_id": "c1_citizenship_ceremony",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 1,
+      "section": "The values and principles of the UK",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Confirm the handbook explains the difference. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "What is the difference between an oath and an affirmation at a citizenship ceremony?",
+    "options": [
+      {
+        "id": "a",
+        "text": "An oath is spoken; an affirmation is sung",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "There is no difference",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "An oath is for adults; an affirmation is for children",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "An oath mentions God; an affirmation does not",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "People can choose to swear by Almighty God (an oath) or to make a solemn affirmation, which does not mention God."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c1_pledge_tf_b",
+    "fact_id": "c1_citizenship_pledge",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 1,
+      "section": "The values and principles of the UK",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? In the citizenship pledge, new citizens promise to fulfil their duties and obligations as British citizens.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The pledge includes a promise to fulfil one's duties and obligations as a British citizen."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c1_pledge_single_c",
+    "fact_id": "c1_citizenship_pledge",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 1,
+      "section": "The values and principles of the UK",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "In the citizenship pledge, new citizens give their loyalty to whom?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The United Kingdom",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "The political party in government",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "The Church of England",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Their local council",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "New citizens pledge to give their loyalty to the United Kingdom and to respect its rights and freedoms."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c1_settle_requirements_tf_b",
+    "fact_id": "c1_settlement_requirements",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 1,
+      "section": "Becoming a permanent resident",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Most people applying to settle permanently in the UK need to pass the Life in the UK test.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Most applicants for settlement or citizenship need to pass the Life in the UK test and show they can speak and understand English."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c1_settle_requirements_multi_c",
+    "fact_id": "c1_settlement_requirements",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 1,
+      "section": "Becoming a permanent resident",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO things do most people applying for settlement or citizenship need to do?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Pass a UK driving test",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Pass the Life in the UK test",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "Show they can speak and read English to the required standard",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Own property in the UK",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Most applicants must pass the Life in the UK test and meet the English language requirement."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c1_test_questions_single_a",
+    "fact_id": "c1_test_format",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 1,
+      "section": "Taking the Life in the UK test",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Confirm the handbook gives the number of questions. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "How many questions are there in the Life in the UK test?",
+    "options": [
+      {
+        "id": "a",
+        "text": "50",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "40",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "24",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "The test has 24 questions about important aspects of life in the UK, based on the handbook."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c1_test_source_tf_a",
+    "fact_id": "c1_test_based_on_handbook",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 1,
+      "section": "Taking the Life in the UK test",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Questions in the Life in the UK test are based on the official handbook.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The questions are based on all parts of the official handbook, Life in the United Kingdom: A Guide for New Residents."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c1_test_booking_single_a",
+    "fact_id": "c1_test_booking",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 1,
+      "section": "Taking the Life in the UK test",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Confirm wording and that booking is in the handbook. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "How do you book a Life in the UK test?",
+    "options": [
+      {
+        "id": "a",
+        "text": "At a post office",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Through your MP",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "At a police station",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Online",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "The test must be booked online, at an approved test centre."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c1_test_centres_tf_a",
+    "fact_id": "c1_test_centres",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 1,
+      "section": "Taking the Life in the UK test",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Confirm the handbook says this. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? You can take the Life in the UK test at any approved test centre, but not at home.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The test is taken at an approved test centre. You cannot take it online at home."
   }
 ]
