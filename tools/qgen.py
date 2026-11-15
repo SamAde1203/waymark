@@ -83,9 +83,17 @@ def build(mod):
 
 
 if __name__ == "__main__":
-    mod = load(sys.argv[1])
-    items = build(mod)
-    with open(sys.argv[2], "w", encoding="utf-8") as f:
+    # Usage: qgen.py spec1.py [spec2.py ...] out.json  (all specs must share CHAPTER)
+    *specs, out = sys.argv[1:]
+    items = []
+    for path in specs:
+        items += build(load(path))
+    ids = [i["item_id"] for i in items]
+    dupes = {x for x in ids if ids.count(x) > 1}
+    if dupes:
+        raise SystemExit(f"duplicate ids across specs: {sorted(dupes)}")
+    sys.argv[2:] = [out]
+    with open(out, "w", encoding="utf-8") as f:
         json.dump(items, f, indent=2, ensure_ascii=False)
         f.write("\n")
-    print(f"{len(items)} items -> {sys.argv[2]}")
+    print(f"{len(items)} items -> {out}")
