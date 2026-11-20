@@ -7,6 +7,9 @@ INT = "The UK and international institutions"
 LAW = "Respecting the law"
 FUN = "Fundamental principles"
 ROLE = "Your role in the community"
+COURTS = "The role of the courts"
+SUPPORT = "How you can support your community"
+ENV = "Looking after the environment"
 
 ITEMS = [
     # ---------- Democracy ----------
@@ -128,33 +131,33 @@ ITEMS = [
          e="The Council of Europe is responsible for protecting human rights. It is separate from the EU and has no power to make laws, but it draws up conventions and charters."),
 
     # ---------- Law ----------
-    dict(id="c5_supreme_court_single_a", fact="c5_supreme_court", sec=LAW, t="single",
+    dict(id="c5_supreme_court_single_a", fact="c5_supreme_court", sec=COURTS, t="single",
          q="What is the highest court in the UK?", c=["The Supreme Court"],
          w=["The Crown Court", "The High Court", "The Court of Session"],
          e="The Supreme Court is the final court of appeal for all civil cases in the UK, and for criminal cases in England, Wales and Northern Ireland."),
-    dict(id="c5_judges_independent_tf_a", fact="c5_judicial_independence", sec=LAW, t="tf",
+    dict(id="c5_judges_independent_tf_a", fact="c5_judicial_independence", sec=COURTS, t="tf",
          q="Judges in the UK are independent of the government.", c=[True],
          e="The judiciary is independent of the government. Judges can find that the government has acted illegally."),
-    dict(id="c5_county_court_single_a", fact="c5_county_courts", sec=LAW, t="single",
+    dict(id="c5_county_court_single_a", fact="c5_county_courts", sec=COURTS, t="single",
          q="Which court deals with a wide range of civil disputes, such as people trying to get back money they are owed?",
          c=["The county court"], w=["The Crown Court", "The youth court", "The magistrates' court only"],
          e="County courts deal with a wide range of civil disputes, such as debts, personal injury, family matters and breaches of contract."),
-    dict(id="c5_sheriff_court_single_a", fact="c5_sheriff_court", sec=LAW, t="single",
+    dict(id="c5_sheriff_court_single_a", fact="c5_sheriff_court", sec=COURTS, t="single",
          q="In Scotland, most minor and more serious criminal cases are heard in which court?", c=["A Sheriff Court"],
          w=["A Crown Court", "A county court", "The Supreme Court"],
          e="In Scotland, most criminal cases go to a Sheriff Court. The most serious cases go to the High Court of Justiciary.",
          check="Confirm wording"),
-    dict(id="c5_justice_peace_single_a", fact="c5_justice_of_the_peace", sec=LAW, t="single",
+    dict(id="c5_justice_peace_single_a", fact="c5_justice_of_the_peace", sec=COURTS, t="single",
          q="In Scotland, minor criminal cases are dealt with by whom?", c=["A Justice of the Peace"],
          w=["A Sheriff only", "A jury of 15", "A Police and Crime Commissioner"],
          e="In Scotland, minor criminal offences go to a Justice of the Peace Court.",
          check="Confirm wording"),
-    dict(id="c5_solicitors_single_a", fact="c5_solicitors", sec=LAW, t="single",
+    dict(id="c5_solicitors_single_a", fact="c5_solicitors", sec=COURTS, t="single",
          q="Where can you find a list of local solicitors?", c=["Through the Law Society or Citizens Advice"],
          w=["From your MP only", "At the House of Lords", "Only from the police"],
          e="Solicitors give advice and can represent clients. You can find one through the Law Society, Citizens Advice or other directories.",
          check="Confirm organisations listed"),
-    dict(id="c5_legal_aid_tf_a", fact="c5_legal_aid", sec=LAW, t="tf",
+    dict(id="c5_legal_aid_tf_a", fact="c5_legal_aid", sec=COURTS, t="tf",
          q="Help with legal costs (legal aid) may be available, depending on the case and your income.", c=[True],
          e="Legal aid may be available to help with the cost of legal advice, depending on your circumstances.",
          check="Confirm the handbook mentions legal aid"),
@@ -177,23 +180,23 @@ ITEMS = [
          check="Confirm wording"),
 
     # ---------- Role in the community ----------
-    dict(id="c5_school_governors_single_a", fact="c5_school_governors", sec=ROLE, t="single",
+    dict(id="c5_school_governors_single_a", fact="c5_school_governors", sec=SUPPORT, t="single",
          q="School governors and school boards help to do what?", c=["Set the strategic direction of a school"],
          w=["Mark the national exams", "Choose the national curriculum", "Hire the police for school events"],
          e="School governors (school boards in Scotland) are unpaid volunteers who set the strategic direction of the school and help ensure it is accountable.",
          check="Confirm wording"),
-    dict(id="c5_parent_volunteering_tf_a", fact="c5_school_volunteering", sec=ROLE, t="tf",
+    dict(id="c5_parent_volunteering_tf_a", fact="c5_school_volunteering", sec=SUPPORT, t="tf",
          q="Parents can help their child's school, for example by helping in classrooms or joining a parent-teacher association.", c=[True],
          e="Parents can help in many ways, such as listening to children read or joining a parent-teacher association (PTA)."),
-    dict(id="c5_organ_donation_single_a", fact="c5_organ_donation", sec=ROLE, t="single",
+    dict(id="c5_organ_donation_single_a", fact="c5_organ_donation", sec=SUPPORT, t="single",
          q="What can you do to help other people through organ donation?", c=["Register as an organ donor"],
          w=["Give money to your MP", "Join a jury", "Apply to the House of Lords"],
          e="You can register to become an organ donor. Many people are waiting for transplants.",
          check="Rules are now opt-out in all four nations; check wording"),
-    dict(id="c5_recycling_tf_b", fact="c5_environment", sec=ROLE, t="tf",
+    dict(id="c5_recycling_tf_b", fact="c5_environment", sec=ENV, t="tf",
          q="Recycling as much waste as possible is one way to help protect the environment.", c=[True],
          e="Recycling and buying local produce are among the ways to help protect the environment."),
-    dict(id="c5_volunteering_examples_multi_b", fact="c5_volunteering", sec=ROLE, t="multi",
+    dict(id="c5_volunteering_examples_multi_b", fact="c5_volunteering", sec=SUPPORT, t="multi",
          q="Which TWO of these are examples of volunteering?", c=["Helping at a youth club", "Working in a charity shop for no pay"],
          w=["Paying council tax", "Voting in a general election"],
          e="Volunteering means working for good causes without payment, for example helping at a youth club, in a charity shop or with a local environmental project."),

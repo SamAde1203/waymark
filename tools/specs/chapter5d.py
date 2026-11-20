@@ -7,6 +7,9 @@ INT = "The UK and international institutions"
 LAW = "Respecting the law"
 FUN = "Fundamental principles"
 ROLE = "Your role in the community"
+COURTS = "The role of the courts"
+SUPPORT = "How you can support your community"
+ENV = "Looking after the environment"
 
 ITEMS = [
     dict(id="c5_pm_homes_multi_a", fact="c5_pm_residence", sec=GOV, t="multi",
@@ -55,12 +58,12 @@ ITEMS = [
          w=["By telephone", "By text message", "You cannot vote at all"],
          e="You can apply for a postal vote and have your ballot paper sent to your home.",
          check="Confirm wording"),
-    dict(id="c5_courts_multi_a", fact="c5_crown_court", sec=LAW, t="multi",
+    dict(id="c5_courts_multi_a", fact="c5_crown_court", sec=COURTS, t="multi",
          q="Which TWO statements about courts in England and Wales are correct?",
          c=["Most minor criminal cases go to a Magistrates' Court", "Serious criminal cases are tried in a Crown Court"],
          w=["All cases go straight to the Supreme Court", "Youth Courts are open to the public"],
          e="Minor cases go to Magistrates' Courts and serious ones to Crown Courts. Youth Courts are closed to the public."),
-    dict(id="c5_juries_multi_a", fact="c5_jury_size_scotland", sec=LAW, t="multi",
+    dict(id="c5_juries_multi_a", fact="c5_jury_size_scotland", sec=COURTS, t="multi",
          q="Which TWO statements about juries are correct?",
          c=["A jury in England has 12 members", "A jury in Scotland has 15 members"],
          w=["A jury in Wales has 6 members", "A jury in Scotland has 12 members"],
@@ -99,7 +102,7 @@ ITEMS = [
          q="Which TWO of these are legal requirements for drivers in the UK?",
          c=["Having car insurance", "Having a valid driving licence"], w=["Owning a satnav", "Joining a motoring club"],
          e="Drivers need a licence and insurance, and cars over three years old need an MOT. Driving without insurance is a criminal offence."),
-    dict(id="c5_help_community_multi_a", fact="c5_volunteering", sec=ROLE, t="multi",
+    dict(id="c5_help_community_multi_a", fact="c5_volunteering", sec=SUPPORT, t="multi",
          q="Which TWO of these are ways you can help your local community?",
          c=["Volunteering at a charity", "Becoming a school governor"], w=["Ignoring jury service", "Dropping litter"],
          e="You can help by volunteering, becoming a school governor, joining a local group, or supporting events and charities."),
@@ -108,11 +111,11 @@ ITEMS = [
          c=["Introducing yourself and keeping noise down"], w=["Leaving rubbish outside their home", "Playing loud music late at night", "Parking across their driveway"],
          e="Getting to know your neighbours, keeping noise down and putting rubbish out properly help you become part of the community.",
          check="Confirm the handbook covers this"),
-    dict(id="c5_charity_examples_single_a", fact="c5_charities", sec=ROLE, t="single",
+    dict(id="c5_charity_examples_single_a", fact="c5_charities", sec=SUPPORT, t="single",
          q="What is the role of charities in the UK?", c=["They work to help people, animals and causes, often with volunteers"],
          w=["They collect taxes for the government", "They run the courts", "They elect local councillors"],
          e="There are thousands of charities working for good causes, such as helping children, older people, animals or the environment. Many rely on volunteers."),
-    dict(id="c5_young_people_single_a", fact="c5_youth_volunteering", sec=ROLE, t="single",
+    dict(id="c5_young_people_single_a", fact="c5_youth_volunteering", sec=SUPPORT, t="single",
          q="Which national scheme helps young people aged 16 and 17 take part in community projects?",
          c=["The National Citizen Service"], w=["The Civil Service", "The Royal Mail", "The National Lottery"],
          e="The National Citizen Service gives 16- and 17-year-olds the chance to enjoy outdoor activities and take part in a community project.",

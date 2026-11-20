@@ -7,6 +7,9 @@ INT = "The UK and international institutions"
 LAW = "Respecting the law"
 FUN = "Fundamental principles"
 ROLE = "Your role in the community"
+COURTS = "The role of the courts"
+SUPPORT = "How you can support your community"
+ENV = "Looking after the environment"
 
 ITEMS = [
     dict(id="c5_constitutional_monarchy_tf_b", fact="c5_constitutional_monarchy", sec=CON, t="tf",
@@ -91,19 +94,19 @@ ITEMS = [
          q="The UK is a permanent member of which body?", c=["The UN Security Council"],
          w=["The European Union", "The Council of the Commonwealth", "The Arab League"],
          e="The UK is one of five permanent members of the UN Security Council."),
-    dict(id="c5_magistrates_tf_b", fact="c5_magistrates_court", sec=LAW, t="tf",
+    dict(id="c5_magistrates_tf_b", fact="c5_magistrates_court", sec=COURTS, t="tf",
          q="Most minor criminal cases in England, Wales and Northern Ireland are dealt with in a Magistrates' Court.", c=[True],
          e="Minor criminal cases go to a Magistrates' Court in England, Wales and Northern Ireland. In Scotland they go to a Justice of the Peace Court."),
-    dict(id="c5_crown_court_tf_b", fact="c5_crown_court", sec=LAW, t="tf",
+    dict(id="c5_crown_court_tf_b", fact="c5_crown_court", sec=COURTS, t="tf",
          q="Serious offences such as murder are tried in a Crown Court in front of a judge and jury.", c=[True],
          e="In England, Wales and Northern Ireland, serious offences go to a Crown Court with a judge and a jury."),
-    dict(id="c5_youth_court_tf_b", fact="c5_youth_court", sec=LAW, t="tf",
+    dict(id="c5_youth_court_tf_b", fact="c5_youth_court", sec=COURTS, t="tf",
          q="The public is not allowed into a Youth Court, and the young person's name may not be published.", c=[True],
          e="Young people aged 10 to 17 are tried in a Youth Court. Members of the public cannot attend, and the name of the accused cannot be published."),
-    dict(id="c5_jury_size_tf_b", fact="c5_jury_size", sec=LAW, t="tf",
+    dict(id="c5_jury_size_tf_b", fact="c5_jury_size", sec=COURTS, t="tf",
          q="A jury in England, Wales and Northern Ireland has 12 members.", c=[True],
          e="A jury has 12 members in England, Wales and Northern Ireland, and 15 in Scotland."),
-    dict(id="c5_small_claims_tf_b", fact="c5_small_claims", sec=LAW, t="tf",
+    dict(id="c5_small_claims_tf_b", fact="c5_small_claims", sec=COURTS, t="tf",
          q="The small claims procedure is an informal way of settling disputes that does not usually need a lawyer.", c=[True],
          e="The small claims procedure is informal and does not need a lawyer. It is for claims below a set value.",
          check="Value limits differ by nation; keep the answer general"),
@@ -122,7 +125,7 @@ ITEMS = [
     dict(id="c5_council_tax_tf_b", fact="c5_council_tax", sec=ROLE, t="tf",
          q="Council tax is a local tax used to fund local services.", c=[True],
          e="Council tax is paid to the local council and helps pay for local services."),
-    dict(id="c5_blood_tf_b", fact="c5_blood_donation", sec=ROLE, t="tf",
+    dict(id="c5_blood_tf_b", fact="c5_blood_donation", sec=SUPPORT, t="tf",
          q="You can donate blood to help people in hospital.", c=[True],
          e="Donated blood is used by hospitals to help people with injuries and illnesses. You can register to give blood."),
 ]
