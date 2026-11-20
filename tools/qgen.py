@@ -97,3 +97,6 @@ if __name__ == "__main__":
         json.dump(items, f, indent=2, ensure_ascii=False)
         f.write("\n")
     print(f"{len(items)} items -> {out}")
+    # Re-apply Sam's review decisions, so regenerating never loses approvals.
+    import apply_review
+    apply_review.apply()

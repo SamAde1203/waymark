@@ -40,7 +40,8 @@
       }
     ],
     "explanation_simple": "The UK is made up of England, Scotland, Wales and Northern Ireland.",
-    "memory_tip": "Great Britain is the big island; the UK adds Northern Ireland."
+    "memory_tip": "Great Britain is the big island; the UK adds Northern Ireland.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -71,7 +72,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Northern Ireland is one of the four countries of the UK, with England, Scotland and Wales."
+    "explanation_simple": "Northern Ireland is one of the four countries of the UK, with England, Scotland and Wales.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -113,7 +115,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Great Britain means England, Scotland and Wales. The UK is Great Britain plus Northern Ireland."
+    "explanation_simple": "Great Britain means England, Scotland and Wales. The UK is Great Britain plus Northern Ireland.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -144,7 +147,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Northern Ireland is part of the UK but not of Great Britain, which is England, Scotland and Wales."
+    "explanation_simple": "Northern Ireland is part of the UK but not of Great Britain, which is England, Scotland and Wales.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -185,7 +189,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The official name is the United Kingdom of Great Britain and Northern Ireland."
+    "explanation_simple": "The official name is the United Kingdom of Great Britain and Northern Ireland.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -216,7 +221,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The Isle of Man and the Channel Islands are Crown dependencies. They are closely linked to the UK but are not part of it."
+    "explanation_simple": "The Isle of Man and the Channel Islands are Crown dependencies. They are closely linked to the UK but are not part of it.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -257,7 +263,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The Channel Islands and the Isle of Man have their own governments and are not part of the UK."
+    "explanation_simple": "The Channel Islands and the Isle of Man have their own governments and are not part of the UK.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -288,7 +295,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Crown dependencies have their own governments, though they are linked to the UK."
+    "explanation_simple": "The Crown dependencies have their own governments, though they are linked to the UK.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -329,7 +337,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "British overseas territories, such as the Falkland Islands and St Helena, are linked to the UK but are not part of it."
+    "explanation_simple": "British overseas territories, such as the Falkland Islands and St Helena, are linked to the UK but are not part of it.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -370,7 +379,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The UK is governed by the Parliament sitting in Westminster, London."
+    "explanation_simple": "The UK is governed by the Parliament sitting in Westminster, London.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -401,7 +411,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Some powers are devolved: Scotland, Wales and Northern Ireland have their own parliament or assemblies that decide some matters for themselves."
+    "explanation_simple": "Some powers are devolved: Scotland, Wales and Northern Ireland have their own parliament or assemblies that decide some matters for themselves.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -432,7 +443,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Ireland is divided: Northern Ireland is part of the UK, while the Republic of Ireland is a separate country."
+    "explanation_simple": "Ireland is divided: Northern Ireland is part of the UK, while the Republic of Ireland is a separate country.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -473,7 +485,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The UK is England, Scotland, Wales and Northern Ireland. The Republic of Ireland is a separate country and the Isle of Man is a Crown dependency."
+    "explanation_simple": "The UK is England, Scotland, Wales and Northern Ireland. The Republic of Ireland is a separate country and the Isle of Man is a Crown dependency.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -504,7 +517,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The four countries of the UK are England, Scotland, Wales and Northern Ireland."
+    "explanation_simple": "The four countries of the UK are England, Scotland, Wales and Northern Ireland.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -535,7 +549,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The Republic of Ireland is a separate country. Northern Ireland is the part of Ireland that is in the UK."
+    "explanation_simple": "The Republic of Ireland is a separate country. Northern Ireland is the part of Ireland that is in the UK.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -576,7 +591,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Great Britain is England, Scotland and Wales. Northern Ireland is in the UK but not in Great Britain."
+    "explanation_simple": "Great Britain is England, Scotland and Wales. Northern Ireland is in the UK but not in Great Britain.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -607,7 +623,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Great Britain is England, Scotland and Wales. With Northern Ireland, they make up the UK."
+    "explanation_simple": "Great Britain is England, Scotland and Wales. With Northern Ireland, they make up the UK.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -638,7 +655,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "That is the country's full official name. 'UK' is its short form."
+    "explanation_simple": "That is the country's full official name. 'UK' is its short form.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -669,7 +687,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The official name includes Northern Ireland: the United Kingdom of Great Britain and Northern Ireland."
+    "explanation_simple": "The official name includes Northern Ireland: the United Kingdom of Great Britain and Northern Ireland.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -710,7 +729,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The Channel Islands and the Isle of Man are Crown dependencies. They are closely linked to the UK but are not part of it."
+    "explanation_simple": "The Channel Islands and the Isle of Man are Crown dependencies. They are closely linked to the UK but are not part of it.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -741,7 +761,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The Channel Islands are a Crown dependency, linked to the UK but not part of it."
+    "explanation_simple": "The Channel Islands are a Crown dependency, linked to the UK but not part of it.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -772,7 +793,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Crown dependencies, the Channel Islands and the Isle of Man, have their own governments."
+    "explanation_simple": "The Crown dependencies, the Channel Islands and the Isle of Man, have their own governments.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -803,7 +825,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The Falkland Islands are a British overseas territory. They are linked to the UK but are not part of it."
+    "explanation_simple": "The Falkland Islands are a British overseas territory. They are linked to the UK but are not part of it.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -844,7 +867,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Falkland Islands and St Helena are British overseas territories. The Isle of Man is a Crown dependency and Anglesey is part of Wales."
+    "explanation_simple": "The Falkland Islands and St Helena are British overseas territories. The Isle of Man is a Crown dependency and Anglesey is part of Wales.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -875,7 +899,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The UK is governed by the Parliament sitting in Westminster, London."
+    "explanation_simple": "The UK is governed by the Parliament sitting in Westminster, London.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -916,7 +941,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The UK Parliament sits in Westminster, in London."
+    "explanation_simple": "The UK Parliament sits in Westminster, in London.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -957,7 +983,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Scotland, Wales and Northern Ireland have their own parliament or assemblies with devolved powers in some areas."
+    "explanation_simple": "Scotland, Wales and Northern Ireland have their own parliament or assemblies with devolved powers in some areas.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -988,7 +1015,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Scotland, Wales and Northern Ireland have their own parliament or assemblies. England is governed by the UK Parliament at Westminster."
+    "explanation_simple": "Scotland, Wales and Northern Ireland have their own parliament or assemblies. England is governed by the UK Parliament at Westminster.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1019,6 +1047,7 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Northern Ireland is part of the UK; the Republic of Ireland is a separate, independent country."
+    "explanation_simple": "Northern Ireland is part of the UK; the Republic of Ireland is a separate, independent country.",
+    "review": {}
   }
 ]

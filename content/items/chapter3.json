@@ -38,7 +38,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Stonehenge, in Wiltshire, was built in the Stone Age and probably used for seasonal ceremonies."
+    "explanation_simple": "Stonehenge, in Wiltshire, was built in the Stone Age and probably used for seasonal ceremonies.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -79,7 +80,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Skara Brae on Orkney is the best-preserved prehistoric village in northern Europe."
+    "explanation_simple": "Skara Brae on Orkney is the best-preserved prehistoric village in northern Europe.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -120,7 +122,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Around 4,000 years ago people learned to make bronze. They buried their dead in tombs called round barrows."
+    "explanation_simple": "Around 4,000 years ago people learned to make bronze. They buried their dead in tombs called round barrows.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -161,7 +164,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Iron Age people lived in roundhouses and grouped together in larger settlements, sometimes hill forts such as Maiden Castle in Dorset."
+    "explanation_simple": "Iron Age people lived in roundhouses and grouped together in larger settlements, sometimes hill forts such as Maiden Castle in Dorset.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -192,7 +196,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The first coins minted in Britain date from the Iron Age; some were inscribed with the names of Iron Age kings."
+    "explanation_simple": "The first coins minted in Britain date from the Iron Age; some were inscribed with the names of Iron Age kings.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -233,7 +238,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Julius Caesar led a Roman invasion in 55 BC, but it was unsuccessful. The Romans conquered Britain nearly 100 years later."
+    "explanation_simple": "Julius Caesar led a Roman invasion in 55 BC, but it was unsuccessful. The Romans conquered Britain nearly 100 years later.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -274,7 +280,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Emperor Claudius led the Roman invasion of AD 43. Julius Caesar's earlier invasion in 55 BC had failed."
+    "explanation_simple": "Emperor Claudius led the Roman invasion of AD 43. Julius Caesar's earlier invasion in 55 BC had failed.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -315,7 +322,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Boudicca was queen of the Iceni in what is now eastern England. A statue of her stands near Westminster Bridge in London."
+    "explanation_simple": "Boudicca was queen of the Iceni in what is now eastern England. A statue of her stands near Westminster Bridge in London.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -346,7 +354,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Boudicca's statue stands on Westminster Bridge, near the Houses of Parliament."
+    "explanation_simple": "Boudicca's statue stands on Westminster Bridge, near the Houses of Parliament.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -387,7 +396,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Emperor Hadrian built a wall in the north of England to keep out the Picts (ancestors of the Scottish people)."
+    "explanation_simple": "Emperor Hadrian built a wall in the north of England to keep out the Picts (ancestors of the Scottish people).",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -428,7 +438,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The Romans stayed in Britain for about 400 years, leaving in AD 410 to defend other parts of their empire."
+    "explanation_simple": "The Romans stayed in Britain for about 400 years, leaving in AD 410 to defend other parts of their empire.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -469,7 +480,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Romans left in AD 410 to defend other parts of their empire."
+    "explanation_simple": "The Romans left in AD 410 to defend other parts of their empire.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -510,7 +522,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The Romans built roads and public buildings, created a structure of law and introduced new plants and animals."
+    "explanation_simple": "The Romans built roads and public buildings, created a structure of law and introduced new plants and animals.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -551,7 +564,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The Jutes, Angles and Saxons invaded after the Romans left. Their languages are the basis of modern English."
+    "explanation_simple": "The Jutes, Angles and Saxons invaded after the Romans left. Their languages are the basis of modern English.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -592,7 +606,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Sutton Hoo is the burial place of an Anglo-Saxon king, buried with treasure and armour in a ship."
+    "explanation_simple": "Sutton Hoo is the burial place of an Anglo-Saxon king, buried with treasure and armour in a ship.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -633,7 +648,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "St Augustine led missionaries from Rome to spread Christianity in the south and became the first Archbishop of Canterbury."
+    "explanation_simple": "St Augustine led missionaries from Rome to spread Christianity in the south and became the first Archbishop of Canterbury.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -674,7 +690,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "St Columba founded a monastery on the island of Iona. St Patrick became the patron saint of Ireland."
+    "explanation_simple": "St Columba founded a monastery on the island of Iona. St Patrick became the patron saint of Ireland.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -715,7 +732,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Vikings came from Denmark and Norway. They first visited Britain in AD 789 to raid coastal towns."
+    "explanation_simple": "The Vikings came from Denmark and Norway. They first visited Britain in AD 789 to raid coastal towns.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -756,7 +774,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Vikings first visited Britain in AD 789."
+    "explanation_simple": "The Vikings first visited Britain in AD 789.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -797,7 +816,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Anglo-Saxon kingdoms united under King Alfred the Great, who defeated the Vikings."
+    "explanation_simple": "The Anglo-Saxon kingdoms united under King Alfred the Great, who defeated the Vikings.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -838,7 +858,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Many Vikings stayed in the east and north of England, in an area known as the Danelaw."
+    "explanation_simple": "Many Vikings stayed in the east and north of England, in an area known as the Danelaw.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -881,7 +902,8 @@
       }
     ],
     "explanation_simple": "William of Normandy defeated Harold at Hastings in 1066, beginning the Norman Conquest.",
-    "memory_tip": "Ten-sixty-six: the last successful foreign invasion of England."
+    "memory_tip": "Ten-sixty-six: the last successful foreign invasion of England.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -922,7 +944,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The Battle of Hastings is commemorated in the Bayeux Tapestry, which can still be seen in France."
+    "explanation_simple": "The Battle of Hastings is commemorated in the Bayeux Tapestry, which can still be seen in France.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -953,7 +976,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Norman Conquest of 1066 was the last successful foreign invasion of England."
+    "explanation_simple": "The Norman Conquest of 1066 was the last successful foreign invasion of England.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -994,7 +1018,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "William the Conqueror sent people all over England to draw up lists of towns, villages, owners and animals. This was the Domesday Book."
+    "explanation_simple": "William the Conqueror sent people all over England to draw up lists of towns, villages, owners and animals. This was the Domesday Book.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1035,7 +1060,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Edward I of England conquered Wales; the Statute of Rhuddlan of 1284 annexed it to the Crown of England. He built castles such as Conwy and Caernarvon."
+    "explanation_simple": "Edward I of England conquered Wales; the Statute of Rhuddlan of 1284 annexed it to the Crown of England. He built castles such as Conwy and Caernarvon.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1076,7 +1102,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Robert the Bruce defeated the English at Bannockburn in 1314, and Scotland remained unconquered by the English."
+    "explanation_simple": "Robert the Bruce defeated the English at Bannockburn in 1314, and Scotland remained unconquered by the English.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1117,7 +1144,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Battle of Bannockburn was fought in 1314."
+    "explanation_simple": "The Battle of Bannockburn was fought in 1314.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1158,7 +1186,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "In the Middle Ages the English ruled an area of Ireland known as the Pale, around Dublin."
+    "explanation_simple": "In the Middle Ages the English ruled an area of Ireland known as the Pale, around Dublin.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1199,7 +1228,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Hundred Years War with France actually lasted 116 years. One famous battle was Agincourt in 1415."
+    "explanation_simple": "The Hundred Years War with France actually lasted 116 years. One famous battle was Agincourt in 1415.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1240,7 +1270,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Henry V's army defeated the French at the Battle of Agincourt in 1415."
+    "explanation_simple": "Henry V's army defeated the French at the Battle of Agincourt in 1415.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1281,7 +1312,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Black Death, a plague, killed about one third of the population of England in 1348."
+    "explanation_simple": "The Black Death, a plague, killed about one third of the population of England in 1348.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1323,7 +1355,8 @@
       }
     ],
     "explanation_simple": "The Black Death arrived in 1348.",
-    "memory_tip": "Don't confuse it with the Great Plague of 1665."
+    "memory_tip": "Don't confuse it with the Great Plague of 1665.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1366,7 +1399,8 @@
         "rationale": "The Domesday Book was a survey ordered by William the Conqueror."
       }
     ],
-    "explanation_simple": "The Magna Carta (the Great Charter) of 1215 established that even the king was subject to the law."
+    "explanation_simple": "The Magna Carta (the Great Charter) of 1215 established that even the king was subject to the law.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1397,7 +1431,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Magna Carta limited the king's power and protected the rights of the nobility."
+    "explanation_simple": "The Magna Carta limited the king's power and protected the rights of the nobility.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1438,7 +1473,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The House of Lords was made up of the nobility, great landowners and bishops. The Commons was knights and wealthy people from towns and cities."
+    "explanation_simple": "The House of Lords was made up of the nobility, great landowners and bishops. The Commons was knights and wealthy people from towns and cities.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1479,7 +1515,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "In England, judges developed 'common law' by a process of precedent (following previous decisions) and tradition."
+    "explanation_simple": "In England, judges developed 'common law' by a process of precedent (following previous decisions) and tradition.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1520,7 +1557,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Geoffrey Chaucer wrote The Canterbury Tales, about pilgrims travelling to Canterbury."
+    "explanation_simple": "Geoffrey Chaucer wrote The Canterbury Tales, about pilgrims travelling to Canterbury.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1561,7 +1599,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "William Caxton was the first person in England to print books with a printing press. The Canterbury Tales was one of the first."
+    "explanation_simple": "William Caxton was the first person in England to print books with a printing press. The Canterbury Tales was one of the first.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1602,7 +1641,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "In 1455 a civil war began between the House of Lancaster (red rose) and the House of York (white rose)."
+    "explanation_simple": "In 1455 a civil war began between the House of Lancaster (red rose) and the House of York (white rose).",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1643,7 +1683,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Wars of the Roses ended with the Battle of Bosworth Field in 1485. Henry Tudor became King Henry VII."
+    "explanation_simple": "The Wars of the Roses ended with the Battle of Bosworth Field in 1485. Henry Tudor became King Henry VII.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1674,7 +1715,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Henry VII married Elizabeth of York, uniting the two houses. The red and white Tudor rose became the symbol of the House of Tudor."
+    "explanation_simple": "Henry VII married Elizabeth of York, uniting the two houses. The red and white Tudor rose became the symbol of the House of Tudor.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1717,7 +1759,8 @@
       }
     ],
     "explanation_simple": "Henry VIII married six times: Catherine of Aragon, Anne Boleyn, Jane Seymour, Anne of Cleves, Catherine Howard and Catherine Parr.",
-    "memory_tip": "Divorced, beheaded, died; divorced, beheaded, survived."
+    "memory_tip": "Divorced, beheaded, died; divorced, beheaded, survived.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1758,7 +1801,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "When the Pope refused to let Henry VIII divorce Catherine of Aragon, he established the Church of England, with the king as its head."
+    "explanation_simple": "When the Pope refused to let Henry VIII divorce Catherine of Aragon, he established the Church of England, with the king as its head.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1799,7 +1843,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Jane Seymour gave Henry VIII the son he wanted, Edward, but she died shortly after the birth."
+    "explanation_simple": "Jane Seymour gave Henry VIII the son he wanted, Edward, but she died shortly after the birth.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1840,7 +1885,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Catherine Parr was Henry VIII's sixth wife and outlived him."
+    "explanation_simple": "Catherine Parr was Henry VIII's sixth wife and outlived him.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1871,7 +1917,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "During the reign of Henry VIII, Wales was formally united with England by the Act for the Government of Wales."
+    "explanation_simple": "During the reign of Henry VIII, Wales was formally united with England by the Act for the Government of Wales.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1912,7 +1959,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Mary I, a devout Catholic, persecuted Protestants and is remembered as 'Bloody Mary'."
+    "explanation_simple": "Mary I, a devout Catholic, persecuted Protestants and is remembered as 'Bloody Mary'.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1953,7 +2001,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Elizabeth I was the daughter of Henry VIII and Anne Boleyn."
+    "explanation_simple": "Elizabeth I was the daughter of Henry VIII and Anne Boleyn.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1994,7 +2043,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The defeat of the Spanish Armada in 1588 made Elizabeth I one of the most popular monarchs in English history."
+    "explanation_simple": "The defeat of the Spanish Armada in 1588 made Elizabeth I one of the most popular monarchs in English history.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2035,7 +2085,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Spanish Armada was defeated in 1588, during the reign of Elizabeth I."
+    "explanation_simple": "The Spanish Armada was defeated in 1588, during the reign of Elizabeth I.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2076,7 +2127,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Sir Francis Drake, one of the founders of England's navy, sailed one of the first ships around the world in the Golden Hind."
+    "explanation_simple": "Sir Francis Drake, one of the founders of England's navy, sailed one of the first ships around the world in the Golden Hind.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2117,7 +2169,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "William Shakespeare, a playwright and actor, was born in Stratford-upon-Avon. His plays include Hamlet, Macbeth and Romeo and Juliet."
+    "explanation_simple": "William Shakespeare, a playwright and actor, was born in Stratford-upon-Avon. His plays include Hamlet, Macbeth and Romeo and Juliet.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2158,7 +2211,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Shakespeare's plays include Hamlet, A Midsummer Night's Dream, Macbeth and Romeo and Juliet. The Mousetrap is by Agatha Christie."
+    "explanation_simple": "Shakespeare's plays include Hamlet, A Midsummer Night's Dream, Macbeth and Romeo and Juliet. The Mousetrap is by Agatha Christie.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2199,7 +2253,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "In Scotland the Reformation, led by John Knox, established a Protestant Church of Scotland."
+    "explanation_simple": "In Scotland the Reformation, led by John Knox, established a Protestant Church of Scotland.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2240,7 +2295,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Mary, Queen of Scots, a Catholic, fled to England. Elizabeth I held her prisoner for 20 years and later had her executed."
+    "explanation_simple": "Mary, Queen of Scots, a Catholic, fled to England. Elizabeth I held her prisoner for 20 years and later had her executed.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2281,7 +2337,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Elizabeth I never married and had no children. Her heir was James VI of Scotland, who became James I of England, Wales and Ireland."
+    "explanation_simple": "Elizabeth I never married and had no children. Her heir was James VI of Scotland, who became James I of England, Wales and Ireland.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2322,7 +2379,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "A new translation of the Bible into English, the 'King James Version', was produced during James I's reign and is still used today."
+    "explanation_simple": "A new translation of the Bible into English, the 'King James Version', was produced during James I's reign and is still used today.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2363,7 +2421,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Many Protestants from Scotland and England settled in Ulster in the 'plantations', taking land from Catholic landholders."
+    "explanation_simple": "Many Protestants from Scotland and England settled in Ulster in the 'plantations', taking land from Catholic landholders.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2404,7 +2463,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Supporters of King Charles I were called Cavaliers; supporters of Parliament were called Roundheads."
+    "explanation_simple": "Supporters of King Charles I were called Cavaliers; supporters of Parliament were called Roundheads.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2445,7 +2505,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Supporters of Parliament were known as Roundheads."
+    "explanation_simple": "Supporters of Parliament were known as Roundheads.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2486,7 +2547,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Civil war between the king and Parliament began in 1642."
+    "explanation_simple": "Civil war between the king and Parliament began in 1642.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2527,7 +2589,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Charles I's army was defeated at the Battle of Naseby in 1645."
+    "explanation_simple": "Charles I's army was defeated at the Battle of Naseby in 1645.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2568,7 +2631,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Charles I was executed in 1649 and England became a republic called the Commonwealth."
+    "explanation_simple": "Charles I was executed in 1649 and England became a republic called the Commonwealth.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2609,7 +2673,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Oliver Cromwell, the army leader, became the Lord Protector and ruled until his death in 1658."
+    "explanation_simple": "Oliver Cromwell, the army leader, became the Lord Protector and ruled until his death in 1658.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2650,7 +2715,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "In 1660 Parliament invited Charles II to come back from exile in the Netherlands. This is called the Restoration."
+    "explanation_simple": "In 1660 Parliament invited Charles II to come back from exile in the Netherlands. This is called the Restoration.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2692,7 +2758,8 @@
       }
     ],
     "explanation_simple": "In 1665 there was a major outbreak of plague in London. The Great Fire followed in 1666.",
-    "memory_tip": "Plague in 1665, then the fire in 1666."
+    "memory_tip": "Plague in 1665, then the fire in 1666.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2733,7 +2800,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Great Fire of London in 1666 destroyed much of the city, including many churches. St Paul's Cathedral was rebuilt by Sir Christopher Wren."
+    "explanation_simple": "The Great Fire of London in 1666 destroyed much of the city, including many churches. St Paul's Cathedral was rebuilt by Sir Christopher Wren.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2774,7 +2842,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Samuel Pepys wrote a diary describing everyday life in London, including the Great Fire."
+    "explanation_simple": "Samuel Pepys wrote a diary describing everyday life in London, including the Great Fire.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2815,7 +2884,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The Habeas Corpus Act 1679 guaranteed that no one could be held prisoner unlawfully: every prisoner has a right to a court hearing."
+    "explanation_simple": "The Habeas Corpus Act 1679 guaranteed that no one could be held prisoner unlawfully: every prisoner has a right to a court hearing.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2846,7 +2916,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Royal Society was formed to promote 'natural knowledge' and is the oldest surviving scientific society in the world."
+    "explanation_simple": "The Royal Society was formed to promote 'natural knowledge' and is the oldest surviving scientific society in the world.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2887,7 +2958,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "In 1688 Protestants invited William of Orange to invade. James II fled and William and Mary became joint rulers. It is called the Glorious Revolution because there was no fighting in England."
+    "explanation_simple": "In 1688 Protestants invited William of Orange to invade. James II fled and William and Mary became joint rulers. It is called the Glorious Revolution because there was no fighting in England.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2928,7 +3000,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Bill of Rights of 1689 confirmed the rights of Parliament and the limits of the king's power."
+    "explanation_simple": "The Bill of Rights of 1689 confirmed the rights of Parliament and the limits of the king's power.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2969,7 +3042,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "William III defeated James II at the Battle of the Boyne in Ireland in 1690, an event still celebrated by some in Northern Ireland."
+    "explanation_simple": "William III defeated James II at the Battle of the Boyne in Ireland in 1690, an event still celebrated by some in Northern Ireland.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3010,7 +3084,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Two main groups developed in Parliament: the Whigs and the Tories. The modern Conservative Party is still sometimes called the Tories."
+    "explanation_simple": "Two main groups developed in Parliament: the Whigs and the Tories. The modern Conservative Party is still sometimes called the Tories.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3052,7 +3127,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "In 1707 England (already united with Wales) and Scotland became one country. Scotland kept its own legal and education systems and Presbyterian Church."
+    "explanation_simple": "In 1707 England (already united with Wales) and Scotland became one country. Scotland kept its own legal and education systems and Presbyterian Church.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3083,7 +3159,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Scotland was no longer an independent country, but it kept its own legal and education systems and Presbyterian Church of Scotland."
+    "explanation_simple": "Scotland was no longer an independent country, but it kept its own legal and education systems and Presbyterian Church of Scotland.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3124,7 +3201,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Sir Robert Walpole was Prime Minister from 1721 to 1742 and is regarded as the first Prime Minister."
+    "explanation_simple": "Sir Robert Walpole was Prime Minister from 1721 to 1742 and is regarded as the first Prime Minister.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3165,7 +3243,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "In 1745 Bonnie Prince Charlie tried to take the throne; he was defeated at the Battle of Culloden in 1746."
+    "explanation_simple": "In 1745 Bonnie Prince Charlie tried to take the throne; he was defeated at the Battle of Culloden in 1746.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3206,7 +3285,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "In the Highland Clearances many Scottish landlords destroyed small farms to make room for sheep and cattle, and many people emigrated to North America."
+    "explanation_simple": "In the Highland Clearances many Scottish landlords destroyed small farms to make room for sheep and cattle, and many people emigrated to North America.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3247,7 +3327,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "During the Enlightenment, Adam Smith developed ideas about economics that are still referred to today. David Hume's ideas about human nature were also influential."
+    "explanation_simple": "During the Enlightenment, Adam Smith developed ideas about economics that are still referred to today. David Hume's ideas about human nature were also influential.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3288,7 +3369,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "James Watt's work on steam power helped the progress of the Industrial Revolution."
+    "explanation_simple": "James Watt's work on steam power helped the progress of the Industrial Revolution.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3329,7 +3411,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Industrial Revolution was the rapid development of industry in Britain in the 18th and 19th centuries, with machines and coal powering factories."
+    "explanation_simple": "The Industrial Revolution was the rapid development of industry in Britain in the 18th and 19th centuries, with machines and coal powering factories.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3370,7 +3453,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Richard Arkwright improved the carding machine and developed horse-driven spinning mills, and is remembered for efficient and profitable factories."
+    "explanation_simple": "Richard Arkwright improved the carding machine and developed horse-driven spinning mills, and is remembered for efficient and profitable factories.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3411,7 +3495,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Bessemer process for the mass production of steel led to the development of the shipbuilding industry and railways."
+    "explanation_simple": "The Bessemer process for the mass production of steel led to the development of the shipbuilding industry and railways.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3452,7 +3537,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "In 1807 it became illegal to trade slaves in British ships or from British ports. In 1833 the Emancipation Act abolished slavery throughout the British Empire."
+    "explanation_simple": "In 1807 it became illegal to trade slaves in British ships or from British ports. In 1833 the Emancipation Act abolished slavery throughout the British Empire.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3494,7 +3580,8 @@
       }
     ],
     "explanation_simple": "The Emancipation Act of 1833 abolished slavery throughout the British Empire.",
-    "memory_tip": "Trade banned 1807, slavery itself 1833."
+    "memory_tip": "Trade banned 1807, slavery itself 1833.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3535,7 +3622,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "William Wilberforce, an evangelical Christian and MP, played an important part in changing the law to end the slave trade."
+    "explanation_simple": "William Wilberforce, an evangelical Christian and MP, played an important part in changing the law to end the slave trade.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3566,7 +3654,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The first formal anti-slavery groups were set up by the Quakers in the late 1700s."
+    "explanation_simple": "The first formal anti-slavery groups were set up by the Quakers in the late 1700s.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3607,7 +3696,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "In 1776, 13 American colonies declared independence, and Britain recognised it in 1783."
+    "explanation_simple": "In 1776, 13 American colonies declared independence, and Britain recognised it in 1783.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3648,7 +3738,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Admiral Nelson won the Battle of Trafalgar in 1805 but was killed. Nelson's Column in Trafalgar Square commemorates him, and his ship HMS Victory can be seen in Portsmouth."
+    "explanation_simple": "Admiral Nelson won the Battle of Trafalgar in 1805 but was killed. Nelson's Column in Trafalgar Square commemorates him, and his ship HMS Victory can be seen in Portsmouth.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3689,7 +3780,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The Duke of Wellington defeated Napoleon at the Battle of Waterloo in 1815."
+    "explanation_simple": "The Duke of Wellington defeated Napoleon at the Battle of Waterloo in 1815.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3730,7 +3822,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Union Flag combines the crosses of St George (England), St Andrew (Scotland) and St Patrick (Ireland). Wales is not represented because it was already united with England."
+    "explanation_simple": "The Union Flag combines the crosses of St George (England), St Andrew (Scotland) and St Patrick (Ireland). Wales is not represented because it was already united with England.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3771,7 +3864,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Ireland was united with England, Wales and Scotland by the Act of Union of 1801, creating the United Kingdom of Great Britain and Ireland."
+    "explanation_simple": "Ireland was united with England, Wales and Scotland by the Act of Union of 1801, creating the United Kingdom of Great Britain and Ireland.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3812,7 +3906,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Queen Victoria became queen in 1837 at the age of 18 and reigned until 1901, almost 64 years."
+    "explanation_simple": "Queen Victoria became queen in 1837 at the age of 18 and reigned until 1901, almost 64 years.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3853,7 +3948,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The British Empire became the largest empire the world has ever seen, with an estimated population of more than 400 million people."
+    "explanation_simple": "The British Empire became the largest empire the world has ever seen, with an estimated population of more than 400 million people.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3894,7 +3990,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Reform Act of 1832 increased the number of people with the right to vote and abolished 'rotten boroughs'."
+    "explanation_simple": "The Reform Act of 1832 increased the number of people with the right to vote and abolished 'rotten boroughs'.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3935,7 +4032,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The Chartists campaigned for reform, including that every man should have the vote, elections every year and secret ballots."
+    "explanation_simple": "The Chartists campaigned for reform, including that every man should have the vote, elections every year and secret ballots.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3976,7 +4074,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Emmeline Pankhurst campaigned for women's votes. The 'suffragettes' used civil disobedience as part of their protests."
+    "explanation_simple": "Emmeline Pankhurst campaigned for women's votes. The 'suffragettes' used civil disobedience as part of their protests.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4017,7 +4116,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "In 1918 women over 30 were given the vote. In 1928 women were given the vote at 21, the same age as men."
+    "explanation_simple": "In 1918 women over 30 were given the vote. In 1928 women were given the vote at 21, the same age as men.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4058,7 +4158,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "In 1928 women were given the right to vote at the age of 21, the same as men."
+    "explanation_simple": "In 1928 women were given the right to vote at the age of 21, the same as men.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4099,7 +4200,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The potato crop failed in Ireland in the mid-1840s. A million people died and many emigrated."
+    "explanation_simple": "The potato crop failed in Ireland in the mid-1840s. A million people died and many emigrated.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4140,7 +4242,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Isambard Kingdom Brunel built tunnels, bridges, railway lines and ships, including the Great Western Railway."
+    "explanation_simple": "Isambard Kingdom Brunel built tunnels, bridges, railway lines and ships, including the Great Western Railway.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4181,7 +4284,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Great Exhibition opened in 1851 in the Crystal Palace, a huge glass building in Hyde Park."
+    "explanation_simple": "The Great Exhibition opened in 1851 in the Crystal Palace, a huge glass building in Hyde Park.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4222,7 +4326,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Florence Nightingale went to Turkey to treat soldiers fighting in the Crimean War (1853–56). She is often regarded as the founder of modern nursing."
+    "explanation_simple": "Florence Nightingale went to Turkey to treat soldiers fighting in the Crimean War (1853–56). She is often regarded as the founder of modern nursing.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4263,7 +4368,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "In 1860 she established the Nightingale Training School for nurses at St Thomas' Hospital in London."
+    "explanation_simple": "In 1860 she established the Nightingale Training School for nurses at St Thomas' Hospital in London.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4304,7 +4410,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The Boer War of 1899 to 1902 was fought in South Africa against settlers of Dutch origin, the Boers."
+    "explanation_simple": "The Boer War of 1899 to 1902 was fought in South Africa against settlers of Dutch origin, the Boers.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4345,7 +4452,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Rudyard Kipling was awarded the Nobel Prize in Literature in 1907. His books include the Just So Stories and The Jungle Book."
+    "explanation_simple": "Rudyard Kipling was awarded the Nobel Prize in Literature in 1907. His books include the Just So Stories and The Jungle Book.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4386,7 +4494,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The First World War started in 1914 after the assassination of Archduke Franz Ferdinand of Austria."
+    "explanation_simple": "The First World War started in 1914 after the assassination of Archduke Franz Ferdinand of Austria.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4427,7 +4536,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The First World War ended at 11 am on 11 November 1918 with victory for Britain and its allies."
+    "explanation_simple": "The First World War ended at 11 am on 11 November 1918 with victory for Britain and its allies.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4468,7 +4578,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Battle of the Somme in July 1916 resulted in about 60,000 British casualties on the first day alone."
+    "explanation_simple": "The Battle of the Somme in July 1916 resulted in about 60,000 British casualties on the first day alone.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4509,7 +4620,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "In 1922 Ireland became two countries: the six counties in the north stayed part of the UK and the rest became the Irish Free State, later the Republic of Ireland."
+    "explanation_simple": "In 1922 Ireland became two countries: the six counties in the north stayed part of the UK and the rest became the Irish Free State, later the Republic of Ireland.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4540,7 +4652,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The world entered the Great Depression in 1929, and some parts of the UK suffered mass unemployment in the 1930s."
+    "explanation_simple": "The world entered the Great Depression in 1929, and some parts of the UK suffered mass unemployment in the 1930s.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4581,7 +4694,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Britain and France declared war on Germany after Hitler invaded Poland in 1939."
+    "explanation_simple": "Britain and France declared war on Germany after Hitler invaded Poland in 1939.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4622,7 +4736,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Winston Churchill became Prime Minister in 1940 and refused to surrender. He was voted the greatest Briton of all time in 2002."
+    "explanation_simple": "Winston Churchill became Prime Minister in 1940 and refused to surrender. He was voted the greatest Briton of all time in 2002.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4663,7 +4778,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Churchill's speeches, including 'We shall fight on the beaches', inspired the nation during the Second World War."
+    "explanation_simple": "Churchill's speeches, including 'We shall fight on the beaches', inspired the nation during the Second World War.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4704,7 +4820,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "In 1940 many civilian volunteers in small boats helped the navy rescue more than 300,000 men from the beaches around Dunkirk. 'The Dunkirk spirit' is still used to describe people pulling together."
+    "explanation_simple": "In 1940 many civilian volunteers in small boats helped the navy rescue more than 300,000 men from the beaches around Dunkirk. 'The Dunkirk spirit' is still used to describe people pulling together.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4745,7 +4862,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "In the summer of 1940 the Royal Air Force fought the German air force over Britain. Britain's victory meant Germany could not invade."
+    "explanation_simple": "In the summer of 1940 the Royal Air Force fought the German air force over Britain. Britain's victory meant Germany could not invade.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4786,7 +4904,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Blitz was the German bombing of London and other British cities at night in 1940 and 1941. Coventry was almost completely destroyed."
+    "explanation_simple": "The Blitz was the German bombing of London and other British cities at night in 1940 and 1941. Coventry was almost completely destroyed.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4827,7 +4946,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "On D-Day, 6 June 1944, allied forces landed in Normandy, beginning the liberation of western Europe."
+    "explanation_simple": "On D-Day, 6 June 1944, allied forces landed in Normandy, beginning the liberation of western Europe.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4868,7 +4988,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Germany surrendered in May 1945. Japan surrendered in August 1945 after atomic bombs were dropped on Hiroshima and Nagasaki."
+    "explanation_simple": "Germany surrendered in May 1945. Japan surrendered in August 1945 after atomic bombs were dropped on Hiroshima and Nagasaki.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4909,7 +5030,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Sir Alexander Fleming discovered penicillin in 1928. It was later developed into a usable drug and is still used to treat bacterial infections."
+    "explanation_simple": "Sir Alexander Fleming discovered penicillin in 1928. It was later developed into a usable drug and is still used to treat bacterial infections.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4950,7 +5072,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Alan Turing's work led to the development of the modern computer. He also helped break enemy codes in the Second World War."
+    "explanation_simple": "Alan Turing's work led to the development of the modern computer. He also helped break enemy codes in the Second World War.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4991,7 +5114,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Sir Frank Whittle, a British Royal Air Force engineer officer, developed the jet engine."
+    "explanation_simple": "Sir Frank Whittle, a British Royal Air Force engineer officer, developed the jet engine.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5032,7 +5156,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Radar was developed by the Scotsman Sir Robert Watson-Watt and helped detect enemy aircraft."
+    "explanation_simple": "Radar was developed by the Scotsman Sir Robert Watson-Watt and helped detect enemy aircraft.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5073,7 +5198,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "John Logie Baird developed television in the 1920s. In 1932 he made the first television broadcast between London and Glasgow."
+    "explanation_simple": "John Logie Baird developed television in the 1920s. In 1932 he made the first television broadcast between London and Glasgow.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5114,7 +5240,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The NHS was set up in 1948, giving free medical treatment to everyone, under the Labour government of Clement Attlee."
+    "explanation_simple": "The NHS was set up in 1948, giving free medical treatment to everyone, under the Labour government of Clement Attlee.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5155,7 +5282,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Aneurin Bevan, the Minister for Health, led the establishment of the NHS."
+    "explanation_simple": "Aneurin Bevan, the Minister for Health, led the establishment of the NHS.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5196,7 +5324,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Clement Attlee was Labour Prime Minister from 1945 to 1951. His government created the NHS and nationalised major industries."
+    "explanation_simple": "Clement Attlee was Labour Prime Minister from 1945 to 1951. His government created the NHS and nationalised major industries.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5237,7 +5366,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "William Beveridge's report identified five 'Giant Evils' and formed the basis of the modern welfare state."
+    "explanation_simple": "William Beveridge's report identified five 'Giant Evils' and formed the basis of the modern welfare state.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5278,7 +5408,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "In 1947 independence was granted to nine countries, including India, Pakistan and Ceylon (now Sri Lanka)."
+    "explanation_simple": "In 1947 independence was granted to nine countries, including India, Pakistan and Ceylon (now Sri Lanka).",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5309,7 +5440,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Labour shortages after the war led the government to encourage workers from Ireland, the West Indies, India, Pakistan and later Bangladesh."
+    "explanation_simple": "Labour shortages after the war led the government to encourage workers from Ireland, the West Indies, India, Pakistan and later Bangladesh.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5350,7 +5482,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Dolly the sheep was the first mammal to be cloned from an adult cell, by scientists in Edinburgh in 1996."
+    "explanation_simple": "Dolly the sheep was the first mammal to be cloned from an adult cell, by scientists in Edinburgh in 1996.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5391,7 +5524,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The world's first 'test-tube baby' was born in Oldham, Lancashire, in 1978 using IVF therapy."
+    "explanation_simple": "The world's first 'test-tube baby' was born in Oldham, Lancashire, in 1978 using IVF therapy.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5432,7 +5566,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Sir Tim Berners-Lee invented the World Wide Web. Information was first successfully transferred over the web in December 1990."
+    "explanation_simple": "Sir Tim Berners-Lee invented the World Wide Web. Information was first successfully transferred over the web in December 1990.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5473,7 +5608,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The hovercraft was invented by Sir Christopher Cockerell in the 1950s."
+    "explanation_simple": "The hovercraft was invented by Sir Christopher Cockerell in the 1950s.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5504,7 +5640,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Concorde was developed by Britain and France and flew passengers from 1976 to 2003."
+    "explanation_simple": "Concorde was developed by Britain and France and flew passengers from 1976 to 2003.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5545,7 +5682,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Margaret Thatcher became the UK's first woman Prime Minister in 1979 and was the longest-serving Prime Minister of the 20th century."
+    "explanation_simple": "Margaret Thatcher became the UK's first woman Prime Minister in 1979 and was the longest-serving Prime Minister of the 20th century.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5586,7 +5724,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "In 1982 Argentina invaded the Falkland Islands, a British overseas territory. A British force recovered the islands."
+    "explanation_simple": "In 1982 Argentina invaded the Falkland Islands, a British overseas territory. A British force recovered the islands.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5617,7 +5756,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "From the late 1960s there was conflict in Northern Ireland, known as 'the Troubles'. Over 3,000 people lost their lives."
+    "explanation_simple": "From the late 1960s there was conflict in Northern Ireland, known as 'the Troubles'. Over 3,000 people lost their lives.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5658,7 +5798,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The Good Friday Agreement of 1998 led to the establishment of the Northern Ireland Assembly."
+    "explanation_simple": "The Good Friday Agreement of 1998 led to the establishment of the Northern Ireland Assembly.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5699,7 +5840,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Following referendums, the Scottish Parliament and the Welsh Assembly were formed in 1999."
+    "explanation_simple": "Following referendums, the Scottish Parliament and the Welsh Assembly were formed in 1999.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5740,7 +5882,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "In 1997 the Labour Party led by Tony Blair was elected. Blair was succeeded by Gordon Brown in 2007."
+    "explanation_simple": "In 1997 the Labour Party led by Tony Blair was elected. Blair was succeeded by Gordon Brown in 2007.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5781,7 +5924,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "In 2010 no party had an overall majority, so the Conservative and Liberal Democrat parties formed a coalition, with David Cameron as Prime Minister."
+    "explanation_simple": "In 2010 no party had an overall majority, so the Conservative and Liberal Democrat parties formed a coalition, with David Cameron as Prime Minister.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5822,7 +5966,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The first farmers arrived in Britain about 6,000 years ago, probably from south-east Europe."
+    "explanation_simple": "The first farmers arrived in Britain about 6,000 years ago, probably from south-east Europe.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5863,7 +6008,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Britain was once joined to the continent by a land bridge. It became permanently separated by the Channel about 10,000 years ago."
+    "explanation_simple": "Britain was once joined to the continent by a land bridge. It became permanently separated by the Channel about 10,000 years ago.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5894,7 +6040,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Iron Age people spoke Celtic languages. Related languages are still spoken today in some parts of Wales, Scotland and Ireland."
+    "explanation_simple": "Iron Age people spoke Celtic languages. Related languages are still spoken today in some parts of Wales, Scotland and Ireland.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5925,7 +6072,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "William, Duke of Normandy, defeated and killed King Harold at the Battle of Hastings in 1066."
+    "explanation_simple": "William, Duke of Normandy, defeated and killed King Harold at the Battle of Hastings in 1066.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5966,7 +6114,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "King Harold, the Saxon king of England, was killed at Hastings by the Norman army of William of Normandy."
+    "explanation_simple": "King Harold, the Saxon king of England, was killed at Hastings by the Norman army of William of Normandy.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5997,7 +6146,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Parts of Hadrian's Wall can still be seen. It is a popular area for walkers and a UNESCO World Heritage Site."
+    "explanation_simple": "Parts of Hadrian's Wall can still be seen. It is a popular area for walkers and a UNESCO World Heritage Site.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -6028,7 +6178,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Romans left in AD 410 and never returned."
+    "explanation_simple": "The Romans left in AD 410 and never returned.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -6069,7 +6220,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Viking threat united the Picts and Scots under Kenneth MacAlpin, and the term Scotland began to be used."
+    "explanation_simple": "The Viking threat united the Picts and Scots under Kenneth MacAlpin, and the term Scotland began to be used.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -6100,7 +6252,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Western parts of Britain, including much of Wales, and Scotland remained free of Anglo-Saxon rule."
+    "explanation_simple": "Western parts of Britain, including much of Wales, and Scotland remained free of Anglo-Saxon rule.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -6141,7 +6294,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "England was united under a Danish king, Cnut (also called Canute), before the Norman Conquest."
+    "explanation_simple": "England was united under a Danish king, Cnut (also called Canute), before the Norman Conquest.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -6182,7 +6336,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Under feudalism, the king gave land to his lords in return for help in war. Landowners had to send men to serve in the army."
+    "explanation_simple": "Under feudalism, the king gave land to his lords in return for help in war. Landowners had to send men to serve in the army.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -6223,7 +6378,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "During the Middle Ages English kings fought in the Crusades, in which European Christians fought for control of the Holy Land."
+    "explanation_simple": "During the Middle Ages English kings fought in the Crusades, in which European Christians fought for control of the Holy Land.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -6264,7 +6420,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "After the Norman Conquest the king and nobles spoke Norman French. By about 1400, English had become the preferred language of the royal court and Parliament."
+    "explanation_simple": "After the Norman Conquest the king and nobles spoke Norman French. By about 1400, English had become the preferred language of the royal court and Parliament.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -6305,7 +6462,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Edward I built castles including Conwy and Caernarvon to maintain his power in Wales."
+    "explanation_simple": "Edward I built castles including Conwy and Caernarvon to maintain his power in Wales.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -6346,7 +6504,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Henry V defeated the French at Agincourt in 1415, during the Hundred Years War."
+    "explanation_simple": "Henry V defeated the French at Agincourt in 1415, during the Hundred Years War.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -6387,7 +6546,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "So many people died that there were labour shortages. Peasants began to demand higher wages, and new social classes appeared."
+    "explanation_simple": "So many people died that there were labour shortages. Peasants began to demand higher wages, and new social classes appeared.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -6428,7 +6588,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Henry Tudor won at Bosworth Field in 1485 and became King Henry VII."
+    "explanation_simple": "Henry Tudor won at Bosworth Field in 1485 and became King Henry VII.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -6469,7 +6630,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Henry VII (of Lancaster) married Elizabeth of York, uniting the two houses and ending the rivalry behind the Wars of the Roses."
+    "explanation_simple": "Henry VII (of Lancaster) married Elizabeth of York, uniting the two houses and ending the rivalry behind the Wars of the Roses.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -6510,7 +6672,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Lancaster's symbol was a red rose and York's a white rose. The Tudor rose combines both."
+    "explanation_simple": "Lancaster's symbol was a red rose and York's a white rose. The Tudor rose combines both.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -6551,7 +6714,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Catherine of Aragon was a Spanish princess. When she had no surviving son, Henry wanted a divorce."
+    "explanation_simple": "Catherine of Aragon was a Spanish princess. When she had no surviving son, Henry wanted a divorce.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -6592,7 +6756,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Anne Boleyn, Elizabeth I's mother, was accused of taking lovers and executed at the Tower of London."
+    "explanation_simple": "Anne Boleyn, Elizabeth I's mother, was accused of taking lovers and executed at the Tower of London.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -6633,7 +6798,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Anne of Cleves was a German princess. Henry divorced her soon after marrying her."
+    "explanation_simple": "Anne of Cleves was a German princess. Henry divorced her soon after marrying her.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -6664,7 +6830,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Catherine Howard was a cousin of Anne Boleyn. She was accused of taking lovers and executed."
+    "explanation_simple": "Catherine Howard was a cousin of Anne Boleyn. She was accused of taking lovers and executed.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -6705,7 +6872,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Edward VI was a strong Protestant. During his reign the Book of Common Prayer was written for the Church of England. A version is still used today."
+    "explanation_simple": "Edward VI was a strong Protestant. During his reign the Book of Common Prayer was written for the Church of England. A version is still used today.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -6746,7 +6914,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Elizabeth I was a Protestant. She re-established the Church of England as the official Church in England and tried to find a balance between Catholics and extreme Protestants."
+    "explanation_simple": "Elizabeth I was a Protestant. She re-established the Church of England as the official Church in England and tried to find a balance between Catholics and extreme Protestants.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -6777,7 +6946,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The English defeated the Spanish Armada in 1588."
+    "explanation_simple": "The English defeated the Spanish Armada in 1588.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -6808,7 +6978,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Elizabeth I never married and had no children. Her cousin James VI of Scotland became king when she died in 1603."
+    "explanation_simple": "Elizabeth I never married and had no children. Her cousin James VI of Scotland became king when she died in 1603.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -6849,7 +7020,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "'To be or not to be' is from Hamlet. Many lines from Shakespeare's plays are still used in everyday English."
+    "explanation_simple": "'To be or not to be' is from Hamlet. Many lines from Shakespeare's plays are still used in everyday English.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -6890,7 +7062,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "When Elizabeth I died in 1603, James VI of Scotland became James I of England, Wales and Ireland. Scotland remained a separate country."
+    "explanation_simple": "When Elizabeth I died in 1603, James VI of Scotland became James I of England, Wales and Ireland. Scotland remained a separate country.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -6931,7 +7104,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "After defeat at the Battle of Worcester, Charles II famously hid in an oak tree before escaping to Europe."
+    "explanation_simple": "After defeat at the Battle of Worcester, Charles II famously hid in an oak tree before escaping to Europe.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -6972,7 +7146,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Cromwell's army defeated the Irish rising, and the brutality of his campaign is still remembered in Ireland."
+    "explanation_simple": "Cromwell's army defeated the Irish rising, and the brutality of his campaign is still remembered in Ireland.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -7013,7 +7188,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Isaac Newton's Principia Mathematica, published in 1687, showed how gravity applied to the whole universe. He also discovered that white light is made up of colours."
+    "explanation_simple": "Isaac Newton's Principia Mathematica, published in 1687, showed how gravity applied to the whole universe. He also discovered that white light is made up of colours.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -7054,7 +7230,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Many Huguenots, French Protestants, came to England between 1680 and 1720 to escape religious persecution. Many were skilled scientists, bankers and craftsmen."
+    "explanation_simple": "Many Huguenots, French Protestants, came to England between 1680 and 1720 to escape religious persecution. Many were skilled scientists, bankers and craftsmen.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -7085,7 +7262,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "It is called the Glorious Revolution because there was no fighting in England when William of Orange and Mary took the throne."
+    "explanation_simple": "It is called the Glorious Revolution because there was no fighting in England when William of Orange and Mary took the throne.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -7116,7 +7294,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Bill of Rights confirmed the rights of Parliament and the limits of the king's power, and that the monarch must be Protestant."
+    "explanation_simple": "The Bill of Rights confirmed the rights of Parliament and the limits of the king's power, and that the monarch must be Protestant.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -7157,7 +7336,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Queen Anne had no surviving children, so Parliament chose a German, George I, to be the next king. He was a Protestant."
+    "explanation_simple": "Queen Anne had no surviving children, so Parliament chose a German, George I, to be the next king. He was a Protestant.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -7198,7 +7378,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "George I did not speak very good English, which increased the importance of his ministers. Sir Robert Walpole is regarded as the first Prime Minister."
+    "explanation_simple": "George I did not speak very good English, which increased the importance of his ministers. Sir Robert Walpole is regarded as the first Prime Minister.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -7239,7 +7420,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Sake Dean Mahomet opened the Hindoostane Coffee House in George Street, London, in 1810. He also introduced 'shampooing' (Indian head massage) to Britain."
+    "explanation_simple": "Sake Dean Mahomet opened the Hindoostane Coffee House in George Street, London, in 1810. He also introduced 'shampooing' (Indian head massage) to Britain.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -7270,7 +7452,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Canals were built to link factories to towns and ports, before railways took over much of this work."
+    "explanation_simple": "Canals were built to link factories to towns and ports, before railways took over much of this work.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -7301,7 +7484,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Britain was the first country to industrialise on a large scale, helped by its coal, raw materials and growing empire."
+    "explanation_simple": "Britain was the first country to industrialise on a large scale, helped by its coal, raw materials and growing empire.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -7342,7 +7526,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Charles Edward Stuart, grandson of James II, landed in Scotland in 1745 to claim the throne. He was defeated at Culloden in 1746."
+    "explanation_simple": "Charles Edward Stuart, grandson of James II, landed in Scotland in 1745 to claim the throne. He was defeated at Culloden in 1746.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -7383,7 +7568,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Bonnie Prince Charlie's army was defeated at Culloden in 1746, the last Jacobite rising."
+    "explanation_simple": "Bonnie Prince Charlie's army was defeated at Culloden in 1746, the last Jacobite rising.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -7424,7 +7610,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "David Hume's ideas about human nature continue to influence philosophers. Adam Smith is known for ideas about economics."
+    "explanation_simple": "David Hume's ideas about human nature continue to influence philosophers. Adam Smith is known for ideas about economics.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -7455,7 +7642,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "1807 is when the slave trade became illegal in British ships and ports. Slavery itself was abolished throughout the Empire in 1833."
+    "explanation_simple": "1807 is when the slave trade became illegal in British ships and ports. Slavery itself was abolished throughout the Empire in 1833.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -7486,7 +7674,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "After 1833, about two million Indian and Chinese workers were employed to replace freed slaves, working in places such as the Caribbean, South Africa and Mauritius."
+    "explanation_simple": "After 1833, about two million Indian and Chinese workers were employed to replace freed slaves, working in places such as the Caribbean, South Africa and Mauritius.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -7527,7 +7716,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Britain fought Napoleon, emperor of France, winning at sea at Trafalgar (1805) and on land at Waterloo (1815)."
+    "explanation_simple": "Britain fought Napoleon, emperor of France, winning at sea at Trafalgar (1805) and on land at Waterloo (1815).",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -7569,7 +7759,8 @@
       }
     ],
     "explanation_simple": "The Duke of Wellington defeated Napoleon at Waterloo in 1815. He later became Prime Minister.",
-    "memory_tip": "Nelson won at sea (Trafalgar); Wellington won on land (Waterloo)."
+    "memory_tip": "Nelson won at sea (Trafalgar); Wellington won on land (Waterloo).",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -7610,7 +7801,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "HMS Victory, Nelson's ship, can be visited in Portsmouth."
+    "explanation_simple": "HMS Victory, Nelson's ship, can be visited in Portsmouth.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -7651,7 +7843,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Nelson won the Battle of Trafalgar in 1805 but was killed in the battle."
+    "explanation_simple": "Nelson won the Battle of Trafalgar in 1805 but was killed in the battle.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -7692,7 +7885,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Before 1870, a woman's property passed to her husband when she married. The 1870 and 1882 Acts gave wives the right to keep their own earnings and property."
+    "explanation_simple": "Before 1870, a woman's property passed to her husband when she married. The 1870 and 1882 Acts gave wives the right to keep their own earnings and property.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -7723,7 +7917,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Victoria became queen in 1837 and reigned until 1901, almost 64 years."
+    "explanation_simple": "Victoria became queen in 1837 and reigned until 1901, almost 64 years.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -7754,7 +7949,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The Union Flag combines the crosses of St George, St Andrew and St Patrick. The Welsh dragon does not appear because Wales was already united with England."
+    "explanation_simple": "The Union Flag combines the crosses of St George, St Andrew and St Patrick. The Welsh dragon does not appear because Wales was already united with England.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -7795,7 +7991,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The Union Flag is made of the crosses of St George (England), St Andrew (Scotland) and St Patrick (Ireland)."
+    "explanation_simple": "The Union Flag is made of the crosses of St George (England), St Andrew (Scotland) and St Patrick (Ireland).",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -7836,7 +8033,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Early 20th-century reforms included financial help for the unemployed, old-age pensions and free school meals. The NHS came later, in 1948."
+    "explanation_simple": "Early 20th-century reforms included financial help for the unemployed, old-age pensions and free school meals. The NHS came later, in 1948.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -7877,7 +8075,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Britain was part of the Allied Powers, with France, Russia and later the United States. They fought the Central Powers, including Germany and Austria-Hungary."
+    "explanation_simple": "Britain was part of the Allied Powers, with France, Russia and later the United States. They fought the Central Powers, including Germany and Austria-Hungary.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -7908,7 +8107,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The war ended at 11 am on 11 November 1918. This is remembered every year on Remembrance Day."
+    "explanation_simple": "The war ended at 11 am on 11 November 1918. This is remembered every year on Remembrance Day.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -7939,7 +8139,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "In 1922 the south became the Irish Free State. The six counties of Northern Ireland stayed part of the UK."
+    "explanation_simple": "In 1922 the south became the Irish Free State. The six counties of Northern Ireland stayed part of the UK.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -7980,7 +8181,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The United States entered the war in 1941 after Japan bombed its naval base at Pearl Harbor."
+    "explanation_simple": "The United States entered the war in 1941 after Japan bombed its naval base at Pearl Harbor.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -8021,7 +8223,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Churchill was a Conservative. He was Prime Minister from 1940 to 1945 and again from 1951 to 1955."
+    "explanation_simple": "Churchill was a Conservative. He was Prime Minister from 1940 to 1945 and again from 1951 to 1955.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -8062,7 +8265,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "On D-Day, 6 June 1944, allied forces landed in Normandy."
+    "explanation_simple": "On D-Day, 6 June 1944, allied forces landed in Normandy.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -8103,7 +8307,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Francis Crick, a British scientist, and his colleagues discovered the structure of the DNA molecule in 1953."
+    "explanation_simple": "Francis Crick, a British scientist, and his colleagues discovered the structure of the DNA molecule in 1953.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -8144,7 +8349,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "John Macleod was involved in the discovery of insulin, used to treat diabetes."
+    "explanation_simple": "John Macleod was involved in the discovery of insulin, used to treat diabetes.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -8185,7 +8391,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The 1944 Education Act, often called the Butler Act, introduced free secondary education in England and Wales."
+    "explanation_simple": "The 1944 Education Act, often called the Butler Act, introduced free secondary education in England and Wales.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -8216,7 +8423,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The NHS was set up in 1948 by the Labour government to give free medical treatment to everyone."
+    "explanation_simple": "The NHS was set up in 1948 by the Labour government to give free medical treatment to everyone.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -8257,7 +8465,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The 1960s were a time of social change, known as the 'Swinging Sixties', with growth in British fashion, cinema and popular music."
+    "explanation_simple": "The 1960s were a time of social change, known as the 'Swinging Sixties', with growth in British fashion, cinema and popular music.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -8288,7 +8497,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Social laws were liberalised in the 1960s, including those on divorce and abortion in England, Wales and Scotland."
+    "explanation_simple": "Social laws were liberalised in the 1960s, including those on divorce and abortion in England, Wales and Scotland.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -8329,7 +8539,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Margaret Thatcher became the first woman Prime Minister in 1979 and served until 1990."
+    "explanation_simple": "Margaret Thatcher became the first woman Prime Minister in 1979 and served until 1990.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -8370,7 +8581,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Margaret Thatcher was the leader of the Conservative Party and Prime Minister from 1979 to 1990."
+    "explanation_simple": "Margaret Thatcher was the leader of the Conservative Party and Prime Minister from 1979 to 1990.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -8411,7 +8623,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "John Major replaced Margaret Thatcher as Prime Minister in 1990 and helped establish the Northern Ireland peace process."
+    "explanation_simple": "John Major replaced Margaret Thatcher as Prime Minister in 1990 and helped establish the Northern Ireland peace process.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -8442,7 +8655,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Good Friday (Belfast) Agreement was signed in 1998 and led to the Northern Ireland Assembly."
+    "explanation_simple": "The Good Friday (Belfast) Agreement was signed in 1998 and led to the Northern Ireland Assembly.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -8483,7 +8697,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Gordon Brown took over as Prime Minister in 2007."
+    "explanation_simple": "Gordon Brown took over as Prime Minister in 2007.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -8524,7 +8739,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "James Goodfellow invented the cash machine (ATM) with a PIN in the 1960s."
+    "explanation_simple": "James Goodfellow invented the cash machine (ATM) with a PIN in the 1960s.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -8565,7 +8781,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Harrier jump jet, an aircraft capable of vertical take-off, was designed and developed in the UK."
+    "explanation_simple": "The Harrier jump jet, an aircraft capable of vertical take-off, was designed and developed in the UK.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -8606,7 +8823,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Sir Peter Mansfield co-invented the MRI (magnetic resonance imaging) scanner."
+    "explanation_simple": "Sir Peter Mansfield co-invented the MRI (magnetic resonance imaging) scanner.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -8647,7 +8865,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Professor Peter Higgs predicted the Higgs boson particle. Its existence was confirmed in 2012."
+    "explanation_simple": "Professor Peter Higgs predicted the Higgs boson particle. Its existence was confirmed in 2012.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -8678,7 +8897,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Stonehenge, a prehistoric monument in Wiltshire, is one of the UK's UNESCO World Heritage Sites."
+    "explanation_simple": "Stonehenge, a prehistoric monument in Wiltshire, is one of the UK's UNESCO World Heritage Sites.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -8709,7 +8929,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Skara Brae is on Orkney, off the north coast of Scotland. It is the best-preserved prehistoric village in northern Europe."
+    "explanation_simple": "Skara Brae is on Orkney, off the north coast of Scotland. It is the best-preserved prehistoric village in northern Europe.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -8750,7 +8971,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Bronze Age began around 4,000 years ago, when people learned to make bronze. They buried their dead in round barrows."
+    "explanation_simple": "The Bronze Age began around 4,000 years ago, when people learned to make bronze. They buried their dead in round barrows.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -8791,7 +9013,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The first coins minted in Britain date from the Iron Age, some inscribed with the names of Iron Age kings."
+    "explanation_simple": "The first coins minted in Britain date from the Iron Age, some inscribed with the names of Iron Age kings.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -8822,7 +9045,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Julius Caesar led an unsuccessful invasion in 55 BC. Emperor Claudius led the successful invasion in AD 43."
+    "explanation_simple": "Julius Caesar led an unsuccessful invasion in 55 BC. Emperor Claudius led the successful invasion in AD 43.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -8863,7 +9087,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Emperor Claudius led the Roman invasion of AD 43. Julius Caesar's earlier attempt in 55 BC failed."
+    "explanation_simple": "Emperor Claudius led the Roman invasion of AD 43. Julius Caesar's earlier attempt in 55 BC failed.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -8904,7 +9129,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Boudicca, queen of the Iceni in what is now eastern England, fought against the Romans. She is still remembered as a symbol of resistance."
+    "explanation_simple": "Boudicca, queen of the Iceni in what is now eastern England, fought against the Romans. She is still remembered as a symbol of resistance.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -8945,7 +9171,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "There is a statue of Boudicca on Westminster Bridge, near the Houses of Parliament in London."
+    "explanation_simple": "There is a statue of Boudicca on Westminster Bridge, near the Houses of Parliament in London.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -8976,7 +9203,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Romans remained in Britain for about 400 years, from AD 43 until AD 410."
+    "explanation_simple": "The Romans remained in Britain for about 400 years, from AD 43 until AD 410.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -9007,7 +9235,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Tribes from northern Europe, the Jutes, Angles and Saxons, invaded after the Romans left. Their languages are the basis of modern English."
+    "explanation_simple": "Tribes from northern Europe, the Jutes, Angles and Saxons, invaded after the Romans left. Their languages are the basis of modern English.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -9038,7 +9267,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Sutton Hoo is thought to be the burial place of an Anglo-Saxon king, buried with treasure and armour in a ship."
+    "explanation_simple": "Sutton Hoo is thought to be the burial place of an Anglo-Saxon king, buried with treasure and armour in a ship.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -9079,7 +9309,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "St Augustine led missionaries from Rome in the south and became the first Archbishop of Canterbury. St Patrick and St Columba spread Christianity in Ireland and Scotland."
+    "explanation_simple": "St Augustine led missionaries from Rome in the south and became the first Archbishop of Canterbury. St Patrick and St Columba spread Christianity in Ireland and Scotland.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -9110,7 +9341,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "St Columba founded a monastery on Iona, off the west coast of Scotland."
+    "explanation_simple": "St Columba founded a monastery on Iona, off the west coast of Scotland.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -9141,7 +9373,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Vikings came from Denmark and Norway and first raided Britain in AD 789."
+    "explanation_simple": "The Vikings came from Denmark and Norway and first raided Britain in AD 789.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -9172,7 +9405,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Alfred the Great united the kingdoms in England and defeated the Vikings."
+    "explanation_simple": "Alfred the Great united the kingdoms in England and defeated the Vikings.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -9203,7 +9437,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Many Vikings stayed in the east and north of England, an area known as the Danelaw. Place names such as Grimsby and Scunthorpe come from Viking languages."
+    "explanation_simple": "Many Vikings stayed in the east and north of England, an area known as the Danelaw. Place names such as Grimsby and Scunthorpe come from Viking languages.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -9234,7 +9469,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Bayeux Tapestry, an embroidery of the Battle of Hastings, can still be seen in Bayeux, France."
+    "explanation_simple": "The Bayeux Tapestry, an embroidery of the Battle of Hastings, can still be seen in Bayeux, France.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -9275,7 +9511,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Norman Conquest was the last successful foreign invasion of England."
+    "explanation_simple": "The Norman Conquest was the last successful foreign invasion of England.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -9306,7 +9543,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "William the Conqueror sent people all over England to record towns, villages, land and animals. This became the Domesday Book, which still exists."
+    "explanation_simple": "William the Conqueror sent people all over England to record towns, villages, land and animals. This became the Domesday Book, which still exists.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -9337,7 +9575,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Edward I annexed Wales with the Statute of Rhuddlan in 1284 and built castles to keep control."
+    "explanation_simple": "Edward I annexed Wales with the Statute of Rhuddlan in 1284 and built castles to keep control.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -9368,7 +9607,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "In 1314 the Scots, led by Robert the Bruce, defeated the English at the Battle of Bannockburn, and Scotland remained unconquered."
+    "explanation_simple": "In 1314 the Scots, led by Robert the Bruce, defeated the English at the Battle of Bannockburn, and Scotland remained unconquered.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -9399,7 +9639,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "English rule in the Middle Ages was mostly limited to an area around Dublin known as the Pale."
+    "explanation_simple": "English rule in the Middle Ages was mostly limited to an area around Dublin known as the Pale.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -9430,7 +9671,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Hundred Years War with France lasted 116 years, despite its name."
+    "explanation_simple": "The Hundred Years War with France lasted 116 years, despite its name.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -9471,7 +9713,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "King John was forced by his noblemen to agree to the Magna Carta in 1215."
+    "explanation_simple": "King John was forced by his noblemen to agree to the Magna Carta in 1215.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -9512,7 +9755,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "King John agreed to the Magna Carta in 1215. It established the idea that even the king was subject to the law."
+    "explanation_simple": "King John agreed to the Magna Carta in 1215. It established the idea that even the king was subject to the law.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -9543,7 +9787,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Parliament began to develop in the Middle Ages. The House of Lords had nobility, great landowners and bishops; the House of Commons had knights and wealthy people from towns."
+    "explanation_simple": "Parliament began to develop in the Middle Ages. The House of Lords had nobility, great landowners and bishops; the House of Commons had knights and wealthy people from towns.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -9584,7 +9829,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Geoffrey Chaucer wrote The Canterbury Tales, a series of poems in English about pilgrims travelling to Canterbury."
+    "explanation_simple": "Geoffrey Chaucer wrote The Canterbury Tales, a series of poems in English about pilgrims travelling to Canterbury.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -9615,7 +9861,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "William Caxton was the first person in England to print books using a printing press."
+    "explanation_simple": "William Caxton was the first person in England to print books using a printing press.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -9646,7 +9893,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The Wars of the Roses were a civil war between the Houses of Lancaster and York, in 1455."
+    "explanation_simple": "The Wars of the Roses were a civil war between the Houses of Lancaster and York, in 1455.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -9677,7 +9925,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Jane Seymour gave Henry the son he wanted, Edward, but she died shortly after his birth."
+    "explanation_simple": "Jane Seymour gave Henry the son he wanted, Edward, but she died shortly after his birth.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -9708,7 +9957,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Catherine Parr was widowed when she married Henry. She outlived him and married again, but died soon after."
+    "explanation_simple": "Catherine Parr was widowed when she married Henry. She outlived him and married again, but died soon after.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -9739,7 +9989,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Mary I was a devout Catholic. She persecuted Protestants, which is why she is called 'Bloody Mary'."
+    "explanation_simple": "Mary I was a devout Catholic. She persecuted Protestants, which is why she is called 'Bloody Mary'.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -9770,7 +10021,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Francis Drake helped defeat the Spanish Armada. His ship, the Golden Hind, was one of the first to sail around the world."
+    "explanation_simple": "Francis Drake helped defeat the Spanish Armada. His ship, the Golden Hind, was one of the first to sail around the world.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -9801,7 +10053,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Shakespeare, born in Stratford-upon-Avon, wrote many poems and plays and is widely regarded as the greatest writer in the English language."
+    "explanation_simple": "Shakespeare, born in Stratford-upon-Avon, wrote many poems and plays and is widely regarded as the greatest writer in the English language.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -9832,7 +10085,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Under John Knox, the Scottish Parliament abolished the authority of the Pope and set up a Protestant Church of Scotland."
+    "explanation_simple": "Under John Knox, the Scottish Parliament abolished the authority of the Pope and set up a Protestant Church of Scotland.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -9873,7 +10127,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Mary, Queen of Scots, was Elizabeth I's cousin. She was imprisoned in England for 20 years and later executed for plotting against Elizabeth."
+    "explanation_simple": "Mary, Queen of Scots, was Elizabeth I's cousin. She was imprisoned in England for 20 years and later executed for plotting against Elizabeth.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -9914,7 +10169,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "During James I's reign a new English translation of the Bible was made, still used in many Protestant churches today."
+    "explanation_simple": "During James I's reign a new English translation of the Bible was made, still used in many Protestant churches today.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -9945,7 +10201,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Protestant farmers from Scotland and England settled in Ulster, taking over land from Catholics. This was called the plantation."
+    "explanation_simple": "Protestant farmers from Scotland and England settled in Ulster, taking over land from Catholics. This was called the plantation.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -9976,7 +10233,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Supporters of the king were called Cavaliers. Supporters of Parliament were called Roundheads."
+    "explanation_simple": "Supporters of the king were called Cavaliers. Supporters of Parliament were called Roundheads.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -10007,7 +10265,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Charles I's army was defeated at Marston Moor and Naseby. By 1646 it was clear Parliament had won."
+    "explanation_simple": "Charles I's army was defeated at Marston Moor and Naseby. By 1646 it was clear Parliament had won.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -10038,7 +10297,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Charles I was executed in 1649. England then became a republic called the Commonwealth."
+    "explanation_simple": "Charles I was executed in 1649. England then became a republic called the Commonwealth.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -10069,7 +10329,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Cromwell was given the title of Lord Protector. He ruled until his death in 1658."
+    "explanation_simple": "Cromwell was given the title of Lord Protector. He ruled until his death in 1658.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -10100,7 +10361,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "In May 1660 Parliament invited Charles II back from exile. This is called the Restoration."
+    "explanation_simple": "In May 1660 Parliament invited Charles II back from exile. This is called the Restoration.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -10131,7 +10393,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Great Fire destroyed much of London. Many churches were rebuilt by Sir Christopher Wren, including St Paul's Cathedral."
+    "explanation_simple": "The Great Fire destroyed much of London. Many churches were rebuilt by Sir Christopher Wren, including St Paul's Cathedral.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -10162,7 +10425,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Samuel Pepys's diary describes events of his time, including the Great Plague and the Great Fire."
+    "explanation_simple": "Samuel Pepys's diary describes events of his time, including the Great Plague and the Great Fire.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -10193,7 +10457,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Habeas Corpus is Latin for 'you must present the person in court'. The Act guaranteed that no one could be held unlawfully."
+    "explanation_simple": "Habeas Corpus is Latin for 'you must present the person in court'. The Act guaranteed that no one could be held unlawfully.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -10224,7 +10489,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "William III defeated James II at the Boyne in Ireland in 1690, an event still celebrated by some in Northern Ireland."
+    "explanation_simple": "William III defeated James II at the Boyne in Ireland in 1690, an event still celebrated by some in Northern Ireland.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -10255,7 +10521,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Two main groups developed in Parliament, the Whigs and the Tories. The modern Conservative Party is descended from the Tories."
+    "explanation_simple": "Two main groups developed in Parliament, the Whigs and the Tories. The modern Conservative Party is descended from the Tories.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -10286,7 +10553,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Act of Union, known in Scotland as the Treaty of Union, created the Kingdom of Great Britain in 1707."
+    "explanation_simple": "The Act of Union, known in Scotland as the Treaty of Union, created the Kingdom of Great Britain in 1707.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -10317,7 +10585,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "In the Highland Clearances, landlords destroyed small farms (crofts) for sheep and cattle. Many Scots left for North America."
+    "explanation_simple": "In the Highland Clearances, landlords destroyed small farms (crofts) for sheep and cattle. Many Scots left for North America.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -10358,7 +10627,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Adam Smith developed ideas about economics that are still referred to today."
+    "explanation_simple": "Adam Smith developed ideas about economics that are still referred to today.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -10389,7 +10659,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "James Watt, a Scottish engineer, worked on steam power, which helped the progress of the Industrial Revolution."
+    "explanation_simple": "James Watt, a Scottish engineer, worked on steam power, which helped the progress of the Industrial Revolution.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -10420,7 +10691,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Richard Arkwright trained as a barber. He improved the carding machine and developed efficient, profitable factories."
+    "explanation_simple": "Richard Arkwright trained as a barber. He improved the carding machine and developed efficient, profitable factories.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -10451,7 +10723,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "William Wilberforce helped change the law to end the slave trade."
+    "explanation_simple": "William Wilberforce helped change the law to end the slave trade.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -10482,7 +10755,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The colonists disagreed with being taxed without representation in Parliament, and declared independence in 1776."
+    "explanation_simple": "The colonists disagreed with being taxed without representation in Parliament, and declared independence in 1776.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -10513,7 +10787,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "In 1801 Ireland became unified with England, Scotland and Wales, creating the United Kingdom of Great Britain and Ireland."
+    "explanation_simple": "In 1801 Ireland became unified with England, Scotland and Wales, creating the United Kingdom of Great Britain and Ireland.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -10544,7 +10819,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The 1832 Reform Act greatly increased the number of people with the right to vote and abolished the old pocket and rotten boroughs."
+    "explanation_simple": "The 1832 Reform Act greatly increased the number of people with the right to vote and abolished the old pocket and rotten boroughs.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -10575,7 +10851,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Emmeline Pankhurst set up the Women's Franchise League in 1889 to fight for votes for women in local elections, and later led the suffragettes."
+    "explanation_simple": "Emmeline Pankhurst set up the Women's Franchise League in 1889 to fight for votes for women in local elections, and later led the suffragettes.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -10606,7 +10883,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "In 1918 women over 30 were given the right to vote and stand for Parliament. In 1928 women got the vote at 21, the same as men."
+    "explanation_simple": "In 1918 women over 30 were given the right to vote and stand for Parliament. In 1928 women got the vote at 21, the same as men.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -10637,7 +10915,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The potato crop failed, and a million people died. About 1.5 million left Ireland."
+    "explanation_simple": "The potato crop failed, and a million people died. About 1.5 million left Ireland.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -10668,7 +10947,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Brunel built tunnels, bridges, railway lines and ships. He was responsible for the Great Western Railway."
+    "explanation_simple": "Brunel built tunnels, bridges, railway lines and ships. He was responsible for the Great Western Railway.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -10699,7 +10979,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Great Exhibition, held in the Crystal Palace in Hyde Park, showed goods and exhibits from Britain and around the world."
+    "explanation_simple": "The Great Exhibition, held in the Crystal Palace in Hyde Park, showed goods and exhibits from Britain and around the world.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -10730,7 +11011,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Florence Nightingale nursed soldiers in the Crimean War and set up the Nightingale Training School for nurses in 1860. She is often called the founder of modern nursing."
+    "explanation_simple": "Florence Nightingale nursed soldiers in the Crimean War and set up the Nightingale Training School for nurses in 1860. She is often called the founder of modern nursing.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -10761,7 +11043,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Britain fought the Boer War in South Africa against settlers of Dutch origin, the Boers."
+    "explanation_simple": "Britain fought the Boer War in South Africa against settlers of Dutch origin, the Boers.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -10802,7 +11085,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Rudyard Kipling wrote The Jungle Book and Just So Stories. He won the Nobel Prize in Literature in 1907."
+    "explanation_simple": "Rudyard Kipling wrote The Jungle Book and Just So Stories. He won the Nobel Prize in Literature in 1907.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -10833,7 +11117,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The First World War began in 1914, after the assassination of Archduke Franz Ferdinand of Austria."
+    "explanation_simple": "The First World War began in 1914, after the assassination of Archduke Franz Ferdinand of Austria.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -10864,7 +11149,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Battle of the Somme began in July 1916 and the British suffered about 60,000 casualties on the first day."
+    "explanation_simple": "The Battle of the Somme began in July 1916 and the British suffered about 60,000 casualties on the first day.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -10905,7 +11191,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Britain declared war on Germany in 1939, after Germany invaded Poland."
+    "explanation_simple": "Britain declared war on Germany in 1939, after Germany invaded Poland.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -10936,7 +11223,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Many civilian boats helped rescue soldiers from Dunkirk in 1940. 'The Dunkirk spirit' describes people pulling together in a crisis."
+    "explanation_simple": "Many civilian boats helped rescue soldiers from Dunkirk in 1940. 'The Dunkirk spirit' describes people pulling together in a crisis.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -10977,7 +11265,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "In 1940 the RAF won the Battle of Britain, using Spitfire and Hurricane aircraft."
+    "explanation_simple": "In 1940 the RAF won the Battle of Britain, using Spitfire and Hurricane aircraft.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -11008,7 +11297,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Blitz was the German bombing of London and other cities at night in 1940 and 1941."
+    "explanation_simple": "The Blitz was the German bombing of London and other cities at night in 1940 and 1941.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -11039,7 +11329,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Alexander Fleming, from Scotland, discovered penicillin in 1928. It was later developed into a usable drug."
+    "explanation_simple": "Alexander Fleming, from Scotland, discovered penicillin in 1928. It was later developed into a usable drug.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -11070,7 +11361,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Alan Turing developed the 'Turing machine' in the 1930s, a theoretical model that helped lead to modern computers."
+    "explanation_simple": "Alan Turing developed the 'Turing machine' in the 1930s, a theoretical model that helped lead to modern computers.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -11101,7 +11393,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Sir Frank Whittle, a British RAF engineer, developed the jet engine in the 1930s."
+    "explanation_simple": "Sir Frank Whittle, a British RAF engineer, developed the jet engine in the 1930s.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -11132,7 +11425,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "John Logie Baird developed television in the 1920s. In 1932 he made the first TV broadcast between London and Glasgow."
+    "explanation_simple": "John Logie Baird developed television in the 1920s. In 1932 he made the first TV broadcast between London and Glasgow.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -11163,7 +11457,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Aneurin Bevan, Minister for Health in the Attlee government, led the setting up of the NHS."
+    "explanation_simple": "Aneurin Bevan, Minister for Health in the Attlee government, led the setting up of the NHS.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -11194,7 +11489,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Clement Attlee was Prime Minister from 1945 to 1951. His government set up the NHS and nationalised major industries."
+    "explanation_simple": "Clement Attlee was Prime Minister from 1945 to 1951. His government set up the NHS and nationalised major industries.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -11225,7 +11521,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Beveridge Report identified five 'Giant Evils' and became the basis of the modern welfare state."
+    "explanation_simple": "The Beveridge Report identified five 'Giant Evils' and became the basis of the modern welfare state.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -11256,7 +11553,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "In 1947 independence was granted to nine countries, including India, Pakistan and Ceylon. Others followed over the next decades."
+    "explanation_simple": "In 1947 independence was granted to nine countries, including India, Pakistan and Ceylon. Others followed over the next decades.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -11287,7 +11585,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Dolly the sheep was cloned by scientists at the Roslin Institute near Edinburgh in 1996."
+    "explanation_simple": "Dolly the sheep was cloned by scientists at the Roslin Institute near Edinburgh in 1996.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -11318,7 +11617,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Sir Robert Edwards and Patrick Steptoe pioneered IVF. The first IVF baby was born in Oldham in 1978."
+    "explanation_simple": "Sir Robert Edwards and Patrick Steptoe pioneered IVF. The first IVF baby was born in Oldham in 1978.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -11349,7 +11649,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Sir Tim Berners-Lee invented the World Wide Web. Information was first transferred on it in December 1990."
+    "explanation_simple": "Sir Tim Berners-Lee invented the World Wide Web. Information was first transferred on it in December 1990.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -11380,7 +11681,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Sir Christopher Cockerell invented the hovercraft in the 1950s."
+    "explanation_simple": "Sir Christopher Cockerell invented the hovercraft in the 1950s.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -11421,7 +11723,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Concorde was developed jointly by Britain and France. It first flew in 1969 and carried passengers from 1976 to 2003."
+    "explanation_simple": "Concorde was developed jointly by Britain and France. It first flew in 1969 and carried passengers from 1976 to 2003.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -11452,7 +11755,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Argentina invaded the Falkland Islands, a British overseas territory, in 1982. A British force was sent and the islands were recovered."
+    "explanation_simple": "Argentina invaded the Falkland Islands, a British overseas territory, in 1982. A British force was sent and the islands were recovered.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -11483,7 +11787,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Labour government elected in 1997 introduced devolution, and the Scottish Parliament and Welsh Assembly were set up in 1999."
+    "explanation_simple": "The Labour government elected in 1997 introduced devolution, and the Scottish Parliament and Welsh Assembly were set up in 1999.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -11514,7 +11819,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Tony Blair became Prime Minister in 1997 and was in office until 2007."
+    "explanation_simple": "Tony Blair became Prime Minister in 1997 and was in office until 2007.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -11545,7 +11851,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "After the 2010 election, the Conservatives and the Liberal Democrats formed a coalition. David Cameron became Prime Minister."
+    "explanation_simple": "After the 2010 election, the Conservatives and the Liberal Democrats formed a coalition. David Cameron became Prime Minister.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -11586,7 +11893,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Caesar's attempt in 55 BC failed. Claudius invaded successfully in AD 43, and the Romans stayed until AD 410."
+    "explanation_simple": "Caesar's attempt in 55 BC failed. Claudius invaded successfully in AD 43, and the Romans stayed until AD 410.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -11627,7 +11935,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "St Augustine led missionaries in the south and St Columba founded a monastery on Iona. St Patrick worked in Ireland."
+    "explanation_simple": "St Augustine led missionaries in the south and St Columba founded a monastery on Iona. St Patrick worked in Ireland.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -11668,7 +11977,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "William defeated Harold at Hastings in 1066. The Bayeux Tapestry shows the battle."
+    "explanation_simple": "William defeated Harold at Hastings in 1066. The Bayeux Tapestry shows the battle.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -11709,7 +12019,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Bannockburn was in 1314 and Agincourt in 1415. Hastings was 1066 and Bosworth Field 1485."
+    "explanation_simple": "Bannockburn was in 1314 and Agincourt in 1415. Hastings was 1066 and Bosworth Field 1485.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -11750,7 +12061,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The House of Lords was made up of the nobility, great landowners and bishops. Knights and wealthy townspeople sat in the Commons."
+    "explanation_simple": "The House of Lords was made up of the nobility, great landowners and bishops. Knights and wealthy townspeople sat in the Commons.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -11791,7 +12103,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Anne Boleyn and Catherine Howard were executed. Jane Seymour died after giving birth, and Catherine Parr outlived Henry."
+    "explanation_simple": "Anne Boleyn and Catherine Howard were executed. Jane Seymour died after giving birth, and Catherine Parr outlived Henry.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -11832,7 +12145,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Henry VIII was followed by Edward VI, then Mary I, then Elizabeth I. James I and Charles I were Stuarts."
+    "explanation_simple": "Henry VIII was followed by Edward VI, then Mary I, then Elizabeth I. James I and Charles I were Stuarts.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -11873,7 +12187,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The Civil War began in 1642. Cavaliers supported Charles I and Roundheads supported Parliament, which won."
+    "explanation_simple": "The Civil War began in 1642. Cavaliers supported Charles I and Roundheads supported Parliament, which won.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -11914,7 +12229,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "A major plague outbreak hit London in 1665, and the Great Fire destroyed much of the city in 1666."
+    "explanation_simple": "A major plague outbreak hit London in 1665, and the Great Fire destroyed much of the city in 1666.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -11955,7 +12271,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Enlightenment included Adam Smith (economics), David Hume (human nature) and James Watt (steam power)."
+    "explanation_simple": "The Enlightenment included Adam Smith (economics), David Hume (human nature) and James Watt (steam power).",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -11996,7 +12313,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Arkwright developed efficient factories and Bessemer a way to mass-produce steel."
+    "explanation_simple": "Arkwright developed efficient factories and Bessemer a way to mass-produce steel.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -12037,7 +12355,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Trading slaves in British ships and ports became illegal in 1807, and slavery itself was abolished across the Empire in 1833."
+    "explanation_simple": "Trading slaves in British ships and ports became illegal in 1807, and slavery itself was abolished across the Empire in 1833.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -12078,7 +12397,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Women over 30 got the vote in 1918, and in 1928 the voting age for women was lowered to 21, the same as for men."
+    "explanation_simple": "Women over 30 got the vote in 1918, and in 1928 the voting age for women was lowered to 21, the same as for men.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -12119,7 +12439,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Brunel built railways, bridges and ships, and Florence Nightingale nursed soldiers in the Crimean War. Both lived in the Victorian period."
+    "explanation_simple": "Brunel built railways, bridges and ships, and Florence Nightingale nursed soldiers in the Crimean War. Both lived in the Victorian period.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -12160,7 +12481,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Dunkirk and the Battle of Britain were both in 1940. D-Day was in 1944, and the war ended in 1945."
+    "explanation_simple": "Dunkirk and the Battle of Britain were both in 1940. D-Day was in 1944, and the war ended in 1945.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -12201,7 +12523,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Baird developed television and Whittle the jet engine. Radar came from Robert Watson-Watt and the Web from Tim Berners-Lee."
+    "explanation_simple": "Baird developed television and Whittle the jet engine. Radar came from Robert Watson-Watt and the Web from Tim Berners-Lee.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -12242,7 +12565,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Alexander Fleming discovered penicillin, and British scientists pioneered IVF. The steam engine and hovercraft are not medical."
+    "explanation_simple": "Alexander Fleming discovered penicillin, and British scientists pioneered IVF. The steam engine and hovercraft are not medical.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -12283,7 +12607,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Attlee (1945–51) and Blair (1997–2007) led Labour governments. Thatcher and Churchill were Conservatives."
+    "explanation_simple": "Attlee (1945–51) and Blair (1997–2007) led Labour governments. Thatcher and Churchill were Conservatives.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -12324,7 +12649,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The hovercraft (1950s) and the World Wide Web (1990) were developed after 1945. The printing press and steam engine are far older."
+    "explanation_simple": "The hovercraft (1950s) and the World Wide Web (1990) were developed after 1945. The printing press and steam engine are far older.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -12365,7 +12691,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Henry VII wanted to make sure England stayed peaceful and his position as king was secure. He reduced the power of the nobles."
+    "explanation_simple": "Henry VII wanted to make sure England stayed peaceful and his position as king was secure. He reduced the power of the nobles.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -12406,7 +12733,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Protestants formed churches that did not accept the Pope's authority, and believed people should read the Bible in their own language."
+    "explanation_simple": "Protestants formed churches that did not accept the Pope's authority, and believed people should read the Bible in their own language.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -12447,7 +12775,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "During Henry VIII's reign, Wales became formally united with England. Welsh representatives sat in the House of Commons."
+    "explanation_simple": "During Henry VIII's reign, Wales became formally united with England. Welsh representatives sat in the House of Commons.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -12488,7 +12817,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "In Elizabeth I's reign English settlers began to colonise the eastern coast of America, which later led to further settlement."
+    "explanation_simple": "In Elizabeth I's reign English settlers began to colonise the eastern coast of America, which later led to further settlement.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -12529,7 +12859,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Charles I tried to impose a prayer book similar to the English one on Scotland. The Scots rebelled, and Charles needed Parliament to raise money for an army."
+    "explanation_simple": "Charles I tried to impose a prayer book similar to the English one on Scotland. The Scots rebelled, and Charles needed Parliament to raise money for an army.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -12560,7 +12891,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Charles I believed in the divine right of kings and tried to rule without Parliament for 11 years."
+    "explanation_simple": "Charles I believed in the divine right of kings and tried to rule without Parliament for 11 years.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -12601,7 +12933,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "James II, Charles II's brother, was a Roman Catholic. People feared he would try to make England Catholic again."
+    "explanation_simple": "James II, Charles II's brother, was a Roman Catholic. People feared he would try to make England Catholic again.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -12642,7 +12975,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Important Protestants invited William of Orange, husband of James II's daughter Mary, to invade. He became William III; Mary became Queen Mary II."
+    "explanation_simple": "Important Protestants invited William of Orange, husband of James II's daughter Mary, to invade. He became William III; Mary became Queen Mary II.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -12683,7 +13017,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The first Jews to come to Britain since the Middle Ages settled in London in 1656."
+    "explanation_simple": "The first Jews to come to Britain since the Middle Ages settled in London in 1656.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -12724,7 +13059,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "From 1695, newspapers were allowed to operate without a government licence, and more and more were published."
+    "explanation_simple": "From 1695, newspapers were allowed to operate without a government licence, and more and more were published.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -12765,7 +13101,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "By the Victorian period the British Empire included India, Australia, Canada and large parts of Africa."
+    "explanation_simple": "By the Victorian period the British Empire included India, Australia, Canada and large parts of Africa.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -12806,7 +13143,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "In 1916 there was an uprising, the Easter Rising, against British rule in Dublin. Its leaders were executed."
+    "explanation_simple": "In 1916 there was an uprising, the Easter Rising, against British rule in Dublin. Its leaders were executed.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -12847,7 +13185,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "While older industries such as shipbuilding were badly hit in the 1930s, new industries such as cars and aviation developed."
+    "explanation_simple": "While older industries such as shipbuilding were badly hit in the 1930s, new industries such as cars and aviation developed.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -12878,7 +13217,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Britain was exhausted economically after 1945, and rationing of some goods continued for years afterwards."
+    "explanation_simple": "Britain was exhausted economically after 1945, and rationing of some goods continued for years afterwards.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -12919,7 +13259,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Labour shortages after the war led to people from the West Indies, India, Pakistan and later Bangladesh being encouraged to come and work in Britain."
+    "explanation_simple": "Labour shortages after the war led to people from the West Indies, India, Pakistan and later Bangladesh being encouraged to come and work in Britain.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -12960,7 +13301,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The UK joined the EEC in 1973. It left the European Union in 2020."
+    "explanation_simple": "The UK joined the EEC in 1973. It left the European Union in 2020.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -13001,7 +13343,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Conflict in Northern Ireland from the late 1960s is known as the Troubles. More than 3,000 people lost their lives."
+    "explanation_simple": "Conflict in Northern Ireland from the late 1960s is known as the Troubles. More than 3,000 people lost their lives.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -13042,7 +13385,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Thatcher's government privatised nationalised industries and reduced the power of trade unions. The NHS (1948) and EEC entry (1973) came before."
+    "explanation_simple": "Thatcher's government privatised nationalised industries and reduced the power of trade unions. The NHS (1948) and EEC entry (1973) came before.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -13083,7 +13427,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "David Cameron, leader of the Conservatives, became Prime Minister of a coalition with the Liberal Democrats in 2010."
+    "explanation_simple": "David Cameron, leader of the Conservatives, became Prime Minister of a coalition with the Liberal Democrats in 2010.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -13124,6 +13469,7 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The cash machine (James Goodfellow) and the MRI scanner (Peter Mansfield) both came from the UK."
+    "explanation_simple": "The cash machine (James Goodfellow) and the MRI scanner (Peter Mansfield) both came from the UK.",
+    "review": {}
   }
 ]

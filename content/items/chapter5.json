@@ -38,7 +38,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The UK is a parliamentary democracy with the monarch as head of state."
+    "explanation_simple": "The UK is a parliamentary democracy with the monarch as head of state.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -69,7 +70,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The British constitution is not written down in any single document, so it is sometimes described as 'unwritten'."
+    "explanation_simple": "The British constitution is not written down in any single document, so it is sometimes described as 'unwritten'.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -110,7 +112,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "In a constitutional monarchy the monarch does not rule the country. The government is chosen in democratic elections."
+    "explanation_simple": "In a constitutional monarchy the monarch does not rule the country. The government is chosen in democratic elections.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -151,7 +154,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The monarch is head of state of the UK and head of the Commonwealth."
+    "explanation_simple": "The monarch is head of state of the UK and head of the Commonwealth.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -192,7 +196,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Key institutions include the monarchy, Parliament, the Prime Minister and cabinet, the judiciary, the police, the civil service and local government."
+    "explanation_simple": "Key institutions include the monarchy, Parliament, the Prime Minister and cabinet, the judiciary, the police, the civil service and local government.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -223,7 +228,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The UK Parliament has two houses: the elected House of Commons and the House of Lords, whose members are not elected."
+    "explanation_simple": "The UK Parliament has two houses: the elected House of Commons and the House of Lords, whose members are not elected.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -254,7 +260,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The House of Commons is regarded as the more important chamber. The Lords can suggest changes to laws, and the Commons can overrule them."
+    "explanation_simple": "The House of Commons is regarded as the more important chamber. The Lords can suggest changes to laws, and the Commons can overrule them.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -295,7 +302,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Members of the House of Lords are not elected. They include life peers, some hereditary peers and senior bishops of the Church of England."
+    "explanation_simple": "Members of the House of Lords are not elected. They include life peers, some hereditary peers and senior bishops of the Church of England.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -336,7 +344,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Life peers are appointed by the monarch on the advice of the Prime Minister. They do not pass their title on."
+    "explanation_simple": "Life peers are appointed by the monarch on the advice of the Prime Minister. They do not pass their title on.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -377,7 +386,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Speaker chairs debates in the House of Commons and keeps order. The Speaker is neutral and is chosen by other MPs in a secret ballot."
+    "explanation_simple": "The Speaker chairs debates in the House of Commons and keeps order. The Speaker is neutral and is chosen by other MPs in a secret ballot.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -408,7 +418,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "MPs elect the Speaker in a secret ballot."
+    "explanation_simple": "MPs elect the Speaker in a secret ballot.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -449,7 +460,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Each MP represents everyone in their constituency, which is a local area."
+    "explanation_simple": "Each MP represents everyone in their constituency, which is a local area.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -490,7 +502,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The UK is divided into 650 parliamentary constituencies, each electing one MP."
+    "explanation_simple": "The UK is divided into 650 parliamentary constituencies, each electing one MP.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -531,7 +544,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "If an MP dies or resigns there is a by-election, an election in that constituency only."
+    "explanation_simple": "If an MP dies or resigns there is a by-election, an election in that constituency only.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -572,7 +586,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "MPs are elected through a 'first past the post' system. The candidate who gets the most votes in a constituency is elected."
+    "explanation_simple": "MPs are elected through a 'first past the post' system. The candidate who gets the most votes in a constituency is elected.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -613,7 +628,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Whips are a small group of MPs appointed by their party leaders to ensure discipline and attendance at votes."
+    "explanation_simple": "Whips are a small group of MPs appointed by their party leaders to ensure discipline and attendance at votes.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -654,7 +670,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Prime Minister's official home is 10 Downing Street. There is also a country house outside London called Chequers."
+    "explanation_simple": "The Prime Minister's official home is 10 Downing Street. There is also a country house outside London called Chequers.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -695,7 +712,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Chequers is the Prime Minister's country house outside London."
+    "explanation_simple": "Chequers is the Prime Minister's country house outside London.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -736,7 +754,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Prime Minister is the leader of the political party in power, usually the party with the most MPs."
+    "explanation_simple": "The Prime Minister is the leader of the political party in power, usually the party with the most MPs.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -777,7 +796,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Prime Minister appoints about 20 senior MPs to the cabinet, which meets weekly to make decisions on government policy."
+    "explanation_simple": "The Prime Minister appoints about 20 senior MPs to the cabinet, which meets weekly to make decisions on government policy.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -818,7 +838,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Chancellor of the Exchequer is responsible for the economy."
+    "explanation_simple": "The Chancellor of the Exchequer is responsible for the economy.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -859,7 +880,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The Home Secretary is responsible for crime, policing and immigration."
+    "explanation_simple": "The Home Secretary is responsible for crime, policing and immigration.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -900,7 +922,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Foreign Secretary manages relationships with foreign countries."
+    "explanation_simple": "The Foreign Secretary manages relationships with foreign countries.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -941,7 +964,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The second-largest party in the House of Commons is the opposition. Its leader is the Leader of the Opposition."
+    "explanation_simple": "The second-largest party in the House of Commons is the opposition. Its leader is the Leader of the Opposition.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -972,7 +996,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Leader of the Opposition leads a shadow cabinet whose members each follow a government department."
+    "explanation_simple": "The Leader of the Opposition leads a shadow cabinet whose members each follow a government department.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1013,7 +1038,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Prime Minister's Questions takes place every week while Parliament is sitting; the Leader of the Opposition usually asks questions."
+    "explanation_simple": "Prime Minister's Questions takes place every week while Parliament is sitting; the Leader of the Opposition usually asks questions.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1044,7 +1070,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Civil servants carry out government policy but are politically neutral. They are not political appointees."
+    "explanation_simple": "Civil servants carry out government policy but are politically neutral. They are not political appointees.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1085,7 +1112,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Scottish Parliament sits in Edinburgh, at Holyrood. It was formed in 1999."
+    "explanation_simple": "The Scottish Parliament sits in Edinburgh, at Holyrood. It was formed in 1999.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1126,7 +1154,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The National Assembly for Wales sits in Cardiff. It was established in 1999."
+    "explanation_simple": "The National Assembly for Wales sits in Cardiff. It was established in 1999.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1167,7 +1196,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The Scottish Parliament can pass laws on matters not reserved to the UK Parliament, such as education and health. Defence and foreign affairs remain with the UK Parliament."
+    "explanation_simple": "The Scottish Parliament can pass laws on matters not reserved to the UK Parliament, such as education and health. Defence and foreign affairs remain with the UK Parliament.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1198,7 +1228,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Northern Ireland Assembly was established soon after the Belfast Agreement in 1998."
+    "explanation_simple": "The Northern Ireland Assembly was established soon after the Belfast Agreement in 1998.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1229,7 +1260,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The UK has a free press. Newspapers are often biased towards a party, but radio and TV coverage of political parties must be balanced."
+    "explanation_simple": "The UK has a free press. Newspapers are often biased towards a party, but radio and TV coverage of political parties must be balanced.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1270,7 +1302,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "British citizens and citizens of the Commonwealth and the Irish Republic who are resident in the UK can vote in all public elections."
+    "explanation_simple": "British citizens and citizens of the Commonwealth and the Irish Republic who are resident in the UK can vote in all public elections.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1311,7 +1344,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "To vote in an election you must have your name on the electoral register."
+    "explanation_simple": "To vote in an election you must have your name on the electoral register.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1352,7 +1386,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Polling stations are usually open from 7 am to 10 pm on election day."
+    "explanation_simple": "Polling stations are usually open from 7 am to 10 pm on election day.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1393,7 +1428,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The handbook gives 18 as the voting age for UK Parliament elections."
+    "explanation_simple": "The handbook gives 18 as the voting age for UK Parliament elections.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1434,7 +1470,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "MPs are elected at a general election, which is held at least every five years."
+    "explanation_simple": "MPs are elected at a general election, which is held at least every five years.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1465,7 +1502,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Elections are held by secret ballot, and you can also apply to vote by post."
+    "explanation_simple": "Elections are held by secret ballot, and you can also apply to vote by post.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1506,7 +1544,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Most citizens of the UK, the Irish Republic or the Commonwealth aged 18 or over can stand for public office."
+    "explanation_simple": "Most citizens of the UK, the Irish Republic or the Commonwealth aged 18 or over can stand for public office.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1547,7 +1586,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Many MPs hold regular local 'surgeries' where constituents can go to see them in person."
+    "explanation_simple": "Many MPs hold regular local 'surgeries' where constituents can go to see them in person.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1588,7 +1628,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Commonwealth is a voluntary association of countries. Most were once part of the British Empire. Members work together towards shared goals."
+    "explanation_simple": "The Commonwealth is a voluntary association of countries. Most were once part of the British Empire. Members work together towards shared goals.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1619,7 +1660,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The UK is part of the United Nations and is one of the five permanent members of the UN Security Council."
+    "explanation_simple": "The UK is part of the United Nations and is one of the five permanent members of the UN Security Council.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1660,7 +1702,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "NATO is a group of European and North American countries that have agreed to help each other if they come under attack."
+    "explanation_simple": "NATO is a group of European and North American countries that have agreed to help each other if they come under attack.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1701,7 +1744,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Council of Europe created the European Convention on Human Rights. It is separate from the European Union."
+    "explanation_simple": "The Council of Europe created the European Convention on Human Rights. It is separate from the European Union.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1732,7 +1776,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Criminal law deals with crimes, which are investigated by the police. Civil law settles disputes, for example about housing or employment."
+    "explanation_simple": "Criminal law deals with crimes, which are investigated by the police. Civil law settles disputes, for example about housing or employment.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1773,7 +1818,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Civil law covers disputes such as housing, employment and consumer rights. Carrying a weapon and burglary are crimes."
+    "explanation_simple": "Civil law covers disputes such as housing, employment and consumer rights. Carrying a weapon and burglary are crimes.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1804,7 +1850,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "It is a criminal offence to sell tobacco products to anyone under 18."
+    "explanation_simple": "It is a criminal offence to sell tobacco products to anyone under 18.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1845,7 +1892,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The police protect life and property, prevent disturbances (keep the peace), and prevent and detect crime. Courts decide sentences and Parliament makes laws."
+    "explanation_simple": "The police protect life and property, prevent disturbances (keep the peace), and prevent and detect crime. Courts decide sentences and Parliament makes laws.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1886,7 +1934,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "PCSOs patrol the streets, work with the public and support police officers at crime scenes and major events."
+    "explanation_simple": "PCSOs patrol the streets, work with the public and support police officers at crime scenes and major events.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1927,7 +1976,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Since November 2012, people in England and Wales have elected Police and Crime Commissioners, who set local police priorities."
+    "explanation_simple": "Since November 2012, people in England and Wales have elected Police and Crime Commissioners, who set local police priorities.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1968,7 +2018,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Most minor criminal cases are heard in a Magistrates' Court. In Scotland they go to a Justice of the Peace Court."
+    "explanation_simple": "Most minor criminal cases are heard in a Magistrates' Court. In Scotland they go to a Justice of the Peace Court.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1999,7 +2050,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Magistrates and Justices of the Peace are members of the local community. They are usually unpaid and do not need legal qualifications."
+    "explanation_simple": "Magistrates and Justices of the Peace are members of the local community. They are usually unpaid and do not need legal qualifications.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2041,7 +2093,8 @@
       }
     ],
     "explanation_simple": "Juries in England, Wales and Northern Ireland have 12 members. In Scotland a jury has 15 members.",
-    "memory_tip": "Scotland's jury is bigger: 15."
+    "memory_tip": "Scotland's jury is bigger: 15.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2082,7 +2135,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Scottish juries have 15 members; juries elsewhere in the UK have 12."
+    "explanation_simple": "Scottish juries have 15 members; juries elsewhere in the UK have 12.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2123,7 +2177,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "In England, Wales and Northern Ireland, people aged 10 to 17 accused of a crime are tried in a Youth Court, before up to three specially trained magistrates or a District Judge."
+    "explanation_simple": "In England, Wales and Northern Ireland, people aged 10 to 17 accused of a crime are tried in a Youth Court, before up to three specially trained magistrates or a District Judge.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2164,7 +2219,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Serious offences are tried in front of a judge and a jury in a Crown Court. In Scotland they are tried in a Sheriff Court or the High Court."
+    "explanation_simple": "Serious offences are tried in front of a judge and a jury in a Crown Court. In Scotland they are tried in a Sheriff Court or the High Court.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2205,7 +2261,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The small claims procedure helps people settle disputes over smaller amounts of money without a lawyer, at an informal hearing."
+    "explanation_simple": "The small claims procedure helps people settle disputes over smaller amounts of money without a lawyer, at an informal hearing.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2246,7 +2303,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Citizens Advice gives free, confidential advice on many problems, including legal matters, debt and housing."
+    "explanation_simple": "Citizens Advice gives free, confidential advice on many problems, including legal matters, debt and housing.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2277,7 +2335,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Domestic violence is a serious crime. Anyone who is violent towards their partner, including forcing them to have sex, can be prosecuted."
+    "explanation_simple": "Domestic violence is a serious crime. Anyone who is violent towards their partner, including forcing them to have sex, can be prosecuted.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2308,7 +2367,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "FGM is a crime in the UK, and it is also a crime to take a girl abroad for FGM."
+    "explanation_simple": "FGM is a crime in the UK, and it is also a crime to take a girl abroad for FGM.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2339,7 +2399,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Forced marriage, where one or both people do not consent, is a crime. Arranged marriages, where both agree, are different."
+    "explanation_simple": "Forced marriage, where one or both people do not consent, is a crime. Arranged marriages, where both agree, are different.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2380,7 +2441,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Human Rights Act 1998 incorporates the European Convention on Human Rights into UK law."
+    "explanation_simple": "The Human Rights Act 1998 incorporates the European Convention on Human Rights into UK law.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2421,7 +2483,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Rights protected include the right to life, prohibition of torture, the right to liberty and a fair trial, freedom of thought, conscience and religion, and freedom of expression."
+    "explanation_simple": "Rights protected include the right to life, prohibition of torture, the right to liberty and a fair trial, freedom of thought, conscience and religion, and freedom of expression.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2452,7 +2515,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "UK laws ensure people are not treated unfairly because of characteristics such as age, disability, sex, race, religion or sexual orientation."
+    "explanation_simple": "UK laws ensure people are not treated unfairly because of characteristics such as age, disability, sex, race, religion or sexual orientation.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2493,7 +2557,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "You must be at least 17 years old to drive a car or motorcycle, and you must have a driving licence."
+    "explanation_simple": "You must be at least 17 years old to drive a car or motorcycle, and you must have a driving licence.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2534,7 +2599,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "If your vehicle is over three years old, you must take it for a Ministry of Transport (MOT) test every year."
+    "explanation_simple": "If your vehicle is over three years old, you must take it for a Ministry of Transport (MOT) test every year.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2565,7 +2631,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Drivers must have valid motor insurance. Driving without it is a serious criminal offence."
+    "explanation_simple": "Drivers must have valid motor insurance. Driving without it is a serious criminal offence.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2606,7 +2673,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Income tax is collected by HM Revenue & Customs. Many people have it taken from their pay through PAYE."
+    "explanation_simple": "Income tax is collected by HM Revenue & Customs. Many people have it taken from their pay through PAYE.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2647,7 +2715,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "National Insurance contributions pay for state benefits and services, such as the state retirement pension and the National Health Service."
+    "explanation_simple": "National Insurance contributions pay for state benefits and services, such as the state retirement pension and the National Health Service.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2688,7 +2757,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Council tax is a local tax that helps pay for local services such as rubbish collection and schools."
+    "explanation_simple": "Council tax is a local tax that helps pay for local services such as rubbish collection and schools.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2729,7 +2799,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Anyone on the electoral register aged 18 to 70 can be asked to serve on a jury."
+    "explanation_simple": "Anyone on the electoral register aged 18 to 70 can be asked to serve on a jury.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2760,7 +2831,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Volunteering helps others, builds your community and can give you useful experience."
+    "explanation_simple": "Volunteering helps others, builds your community and can give you useful experience.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2801,7 +2873,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Donated blood is used in hospitals to help people with injuries and illnesses. Many people also register as organ donors."
+    "explanation_simple": "Donated blood is used in hospitals to help people with injuries and illnesses. Many people also register as organ donors.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2832,7 +2905,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Looking after the environment includes recycling, not dropping litter and using public transport, walking or cycling."
+    "explanation_simple": "Looking after the environment includes recycling, not dropping litter and using public transport, walking or cycling.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2873,7 +2947,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Chartists campaigned for reform, including the right for every man to vote and elections every year. Most of their demands were eventually adopted."
+    "explanation_simple": "The Chartists campaigned for reform, including the right for every man to vote and elections every year. Most of their demands were eventually adopted.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2914,7 +2989,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The voting age was reduced to 18 in 1969, with equal voting rights for men and women."
+    "explanation_simple": "The voting age was reduced to 18 in 1969, with equal voting rights for men and women.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2955,7 +3031,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The monarch has important ceremonial roles, such as opening Parliament each year with a speech setting out the government's policies. The monarch also meets the Prime Minister regularly and can advise, warn and encourage."
+    "explanation_simple": "The monarch has important ceremonial roles, such as opening Parliament each year with a speech setting out the government's policies. The monarch also meets the Prime Minister regularly and can advise, warn and encourage.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -2986,7 +3063,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The monarch reads a speech summarising the government's policies for the year ahead. Decisions on policy are made by the Prime Minister and Cabinet."
+    "explanation_simple": "The monarch reads a speech summarising the government's policies for the year ahead. Decisions on policy are made by the Prime Minister and Cabinet.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3027,7 +3105,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "When a bill has passed both Houses, it receives royal assent from the monarch and becomes an Act of Parliament."
+    "explanation_simple": "When a bill has passed both Houses, it receives royal assent from the monarch and becomes an Act of Parliament.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3068,7 +3147,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The heir to the throne is the monarch's eldest son, Prince William, the Prince of Wales."
+    "explanation_simple": "The heir to the throne is the monarch's eldest son, Prince William, the Prince of Wales.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3109,7 +3189,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The national anthem is 'God Save the King'. It is played at important national occasions and events attended by the monarch."
+    "explanation_simple": "The national anthem is 'God Save the King'. It is played at important national occasions and events attended by the monarch.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3150,7 +3231,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The House of Lords examines and checks laws passed by the House of Commons to make sure they are fit for purpose. It can suggest amendments or propose new laws."
+    "explanation_simple": "The House of Lords examines and checks laws passed by the House of Commons to make sure they are fit for purpose. It can suggest amendments or propose new laws.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3181,7 +3263,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Hereditary peers lost the automatic right to attend the House of Lords. They now elect a few of their number to sit there."
+    "explanation_simple": "Hereditary peers lost the automatic right to attend the House of Lords. They now elect a few of their number to sit there.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3222,7 +3305,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Proceedings in Parliament are broadcast and published in official reports called Hansard."
+    "explanation_simple": "Proceedings in Parliament are broadcast and published in official reports called Hansard.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3253,7 +3337,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "You can watch debates from the public galleries in both Houses. Entrance is free, but there can be queues."
+    "explanation_simple": "You can watch debates from the public galleries in both Houses. Entrance is free, but there can be queues.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3294,7 +3379,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Prime Minister appoints about 20 senior MPs to the Cabinet. They make important decisions about government policy."
+    "explanation_simple": "The Prime Minister appoints about 20 senior MPs to the Cabinet. They make important decisions about government policy.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3325,7 +3411,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The Prime Minister is the leader of the political party in power. They are not elected separately by all voters."
+    "explanation_simple": "The Prime Minister is the leader of the political party in power. They are not elected separately by all voters.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3366,7 +3453,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Towns, cities and rural areas are governed by elected councils, called local authorities. They provide services such as education, housing, social services, refuse collection and libraries."
+    "explanation_simple": "Towns, cities and rural areas are governed by elected councils, called local authorities. They provide services such as education, housing, social services, refuse collection and libraries.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3407,7 +3495,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Local elections for councillors are held in May every year."
+    "explanation_simple": "Local elections for councillors are held in May every year.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3438,7 +3527,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Many local authorities appoint a mayor as a ceremonial leader. Some towns and cities, including London, have a directly elected mayor."
+    "explanation_simple": "Many local authorities appoint a mayor as a ceremonial leader. Some towns and cities, including London, have a directly elected mayor.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3479,7 +3569,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "There are 129 members of the Scottish Parliament (MSPs), elected by a form of proportional representation."
+    "explanation_simple": "There are 129 members of the Scottish Parliament (MSPs), elected by a form of proportional representation.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3520,7 +3611,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "There are 90 members of the Northern Ireland Assembly (MLAs)."
+    "explanation_simple": "There are 90 members of the Northern Ireland Assembly (MLAs).",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3561,7 +3653,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Welsh Parliament had 60 members. This is due to rise to 96 from the 2026 election."
+    "explanation_simple": "The Welsh Parliament had 60 members. This is due to rise to 96 from the 2026 election.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3602,7 +3695,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Pressure and lobby groups try to influence government policy. They play an important role in politics."
+    "explanation_simple": "Pressure and lobby groups try to influence government policy. They play an important role in politics.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3633,7 +3727,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Political parties welcome new members. Members help campaign, for example by delivering leaflets or persuading people to vote."
+    "explanation_simple": "Political parties welcome new members. Members help campaign, for example by delivering leaflets or persuading people to vote.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3674,7 +3769,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Commonwealth is an association of countries that support each other. It has 56 member states."
+    "explanation_simple": "The Commonwealth is an association of countries that support each other. It has 56 member states.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3705,7 +3801,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Membership of the Commonwealth is voluntary. It has no power over its members, but it can suspend membership."
+    "explanation_simple": "Membership of the Commonwealth is voluntary. It has no power over its members, but it can suspend membership.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3746,7 +3843,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The UN was set up after the Second World War and aims to prevent war and promote international peace and security."
+    "explanation_simple": "The UN was set up after the Second World War and aims to prevent war and promote international peace and security.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3787,7 +3885,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "NATO is a group of European and North American countries that have agreed to help each other if they come under attack."
+    "explanation_simple": "NATO is a group of European and North American countries that have agreed to help each other if they come under attack.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3828,7 +3927,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Council of Europe is responsible for protecting human rights. It is separate from the EU and has no power to make laws, but it draws up conventions and charters."
+    "explanation_simple": "The Council of Europe is responsible for protecting human rights. It is separate from the EU and has no power to make laws, but it draws up conventions and charters.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3869,7 +3969,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The Supreme Court is the final court of appeal for all civil cases in the UK, and for criminal cases in England, Wales and Northern Ireland."
+    "explanation_simple": "The Supreme Court is the final court of appeal for all civil cases in the UK, and for criminal cases in England, Wales and Northern Ireland.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3900,7 +4001,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The judiciary is independent of the government. Judges can find that the government has acted illegally."
+    "explanation_simple": "The judiciary is independent of the government. Judges can find that the government has acted illegally.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3941,7 +4043,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "County courts deal with a wide range of civil disputes, such as debts, personal injury, family matters and breaches of contract."
+    "explanation_simple": "County courts deal with a wide range of civil disputes, such as debts, personal injury, family matters and breaches of contract.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -3982,7 +4085,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "In Scotland, most criminal cases go to a Sheriff Court. The most serious cases go to the High Court of Justiciary."
+    "explanation_simple": "In Scotland, most criminal cases go to a Sheriff Court. The most serious cases go to the High Court of Justiciary.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4023,7 +4127,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "In Scotland, minor criminal offences go to a Justice of the Peace Court."
+    "explanation_simple": "In Scotland, minor criminal offences go to a Justice of the Peace Court.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4064,7 +4169,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Solicitors give advice and can represent clients. You can find one through the Law Society, Citizens Advice or other directories."
+    "explanation_simple": "Solicitors give advice and can represent clients. You can find one through the Law Society, Citizens Advice or other directories.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4095,7 +4201,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Legal aid may be available to help with the cost of legal advice, depending on your circumstances."
+    "explanation_simple": "Legal aid may be available to help with the cost of legal advice, depending on your circumstances.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4136,7 +4243,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "You can complain about the police by going to a police station or writing to the Chief Constable. Complaints can also go to an independent body."
+    "explanation_simple": "You can complain about the police by going to a police station or writing to the Chief Constable. Complaints can also go to an independent body.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4177,7 +4285,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Carrying a weapon and selling tobacco to under-18s are crimes. Disputes about goods or housing are usually civil matters."
+    "explanation_simple": "Carrying a weapon and selling tobacco to under-18s are crimes. Disputes about goods or housing are usually civil matters.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4218,7 +4327,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The Equality Act 2010 makes it unlawful to discriminate against people on grounds such as age, disability, sex, race and religion."
+    "explanation_simple": "The Equality Act 2010 makes it unlawful to discriminate against people on grounds such as age, disability, sex, race and religion.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4259,7 +4369,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "School governors (school boards in Scotland) are unpaid volunteers who set the strategic direction of the school and help ensure it is accountable."
+    "explanation_simple": "School governors (school boards in Scotland) are unpaid volunteers who set the strategic direction of the school and help ensure it is accountable.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4290,7 +4401,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Parents can help in many ways, such as listening to children read or joining a parent-teacher association (PTA)."
+    "explanation_simple": "Parents can help in many ways, such as listening to children read or joining a parent-teacher association (PTA).",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4331,7 +4443,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "You can register to become an organ donor. Many people are waiting for transplants."
+    "explanation_simple": "You can register to become an organ donor. Many people are waiting for transplants.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4362,7 +4475,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Recycling and buying local produce are among the ways to help protect the environment."
+    "explanation_simple": "Recycling and buying local produce are among the ways to help protect the environment.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4403,7 +4517,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Volunteering means working for good causes without payment, for example helping at a youth club, in a charity shop or with a local environmental project."
+    "explanation_simple": "Volunteering means working for good causes without payment, for example helping at a youth club, in a charity shop or with a local environmental project.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4444,7 +4559,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Anyone on the electoral register aged 18 to 75 can be asked to serve on a jury."
+    "explanation_simple": "Anyone on the electoral register aged 18 to 75 can be asked to serve on a jury.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4475,7 +4591,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "In a constitutional monarchy, the monarch does not rule the country but appoints the government, which the people choose in elections."
+    "explanation_simple": "In a constitutional monarchy, the monarch does not rule the country but appoints the government, which the people choose in elections.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4506,7 +4623,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The UK Parliament has two Houses: the House of Commons and the House of Lords."
+    "explanation_simple": "The UK Parliament has two Houses: the House of Commons and the House of Lords.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4537,7 +4655,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Life peers are appointed by the monarch on the advice of the Prime Minister. They are not elected."
+    "explanation_simple": "Life peers are appointed by the monarch on the advice of the Prime Minister. They are not elected.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4568,7 +4687,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "MPs represent everyone in their constituency. They help create new laws and scrutinise the government."
+    "explanation_simple": "MPs represent everyone in their constituency. They help create new laws and scrutinise the government.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4599,7 +4719,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "There are 650 constituencies, and each elects one MP."
+    "explanation_simple": "There are 650 constituencies, and each elects one MP.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4630,7 +4751,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "If an MP dies or resigns, a by-election is held to elect a new MP for that constituency."
+    "explanation_simple": "If an MP dies or resigns, a by-election is held to elect a new MP for that constituency.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4661,7 +4783,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "MPs are elected by 'first past the post': the candidate with the most votes in each constituency wins."
+    "explanation_simple": "MPs are elected by 'first past the post': the candidate with the most votes in each constituency wins.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4692,7 +4815,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Whips are a small group of MPs appointed by their party leaders to ensure discipline and attendance at votes."
+    "explanation_simple": "Whips are a small group of MPs appointed by their party leaders to ensure discipline and attendance at votes.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4723,7 +4847,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Prime Minister's official home is 10 Downing Street, in central London near the Houses of Parliament."
+    "explanation_simple": "The Prime Minister's official home is 10 Downing Street, in central London near the Houses of Parliament.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4754,7 +4879,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Prime Minister also has a country house outside London called Chequers."
+    "explanation_simple": "The Prime Minister also has a country house outside London called Chequers.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4785,7 +4911,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Chancellor of the Exchequer is the cabinet minister responsible for the economy."
+    "explanation_simple": "The Chancellor of the Exchequer is the cabinet minister responsible for the economy.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4816,7 +4943,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The Home Secretary is responsible for crime, policing and immigration. The Foreign Secretary manages relations with other countries."
+    "explanation_simple": "The Home Secretary is responsible for crime, policing and immigration. The Foreign Secretary manages relations with other countries.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4857,7 +4985,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Foreign Secretary manages relationships with foreign countries."
+    "explanation_simple": "The Foreign Secretary manages relationships with foreign countries.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4888,7 +5017,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The second-largest party in the House of Commons is called the opposition. Its leader is the Leader of the Opposition."
+    "explanation_simple": "The second-largest party in the House of Commons is called the opposition. Its leader is the Leader of the Opposition.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4919,7 +5049,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Every week while Parliament is sitting, the Leader of the Opposition and other MPs can question the Prime Minister."
+    "explanation_simple": "Every week while Parliament is sitting, the Leader of the Opposition and other MPs can question the Prime Minister.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4960,7 +5091,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Civil servants carry out government policy. They are politically neutral and not chosen by the party in power."
+    "explanation_simple": "Civil servants carry out government policy. They are politically neutral and not chosen by the party in power.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -4991,7 +5123,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Scottish Parliament was formed in 1999 and sits in Edinburgh."
+    "explanation_simple": "The Scottish Parliament was formed in 1999 and sits in Edinburgh.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5022,7 +5155,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The Welsh devolved parliament sits in Cardiff, the capital of Wales."
+    "explanation_simple": "The Welsh devolved parliament sits in Cardiff, the capital of Wales.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5063,7 +5197,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Northern Ireland Assembly sits at Stormont, in Belfast."
+    "explanation_simple": "The Northern Ireland Assembly sits at Stormont, in Belfast.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5104,7 +5239,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The UK has a free press. Newspapers are free from government control, and some have strong political opinions."
+    "explanation_simple": "The UK has a free press. Newspapers are free from government control, and some have strong political opinions.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5135,7 +5271,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "You must have your name on the electoral register to vote. You can register online or through your local council."
+    "explanation_simple": "You must have your name on the electoral register to vote. You can register online or through your local council.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5166,7 +5303,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Voting takes place at polling stations, usually open from 7 am to 10 pm."
+    "explanation_simple": "Voting takes place at polling stations, usually open from 7 am to 10 pm.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5197,7 +5335,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "General elections are held at least every five years."
+    "explanation_simple": "General elections are held at least every five years.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5228,7 +5367,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Many MPs hold regular local 'surgeries' where constituents can meet them. You can also write, phone or email."
+    "explanation_simple": "Many MPs hold regular local 'surgeries' where constituents can meet them. You can also write, phone or email.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5269,7 +5409,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The UK is one of five permanent members of the UN Security Council."
+    "explanation_simple": "The UK is one of five permanent members of the UN Security Council.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5300,7 +5441,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Minor criminal cases go to a Magistrates' Court in England, Wales and Northern Ireland. In Scotland they go to a Justice of the Peace Court."
+    "explanation_simple": "Minor criminal cases go to a Magistrates' Court in England, Wales and Northern Ireland. In Scotland they go to a Justice of the Peace Court.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5331,7 +5473,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "In England, Wales and Northern Ireland, serious offences go to a Crown Court with a judge and a jury."
+    "explanation_simple": "In England, Wales and Northern Ireland, serious offences go to a Crown Court with a judge and a jury.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5362,7 +5505,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Young people aged 10 to 17 are tried in a Youth Court. Members of the public cannot attend, and the name of the accused cannot be published."
+    "explanation_simple": "Young people aged 10 to 17 are tried in a Youth Court. Members of the public cannot attend, and the name of the accused cannot be published.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5393,7 +5537,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "A jury has 12 members in England, Wales and Northern Ireland, and 15 in Scotland."
+    "explanation_simple": "A jury has 12 members in England, Wales and Northern Ireland, and 15 in Scotland.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5424,7 +5569,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The small claims procedure is informal and does not need a lawyer. It is for claims below a set value."
+    "explanation_simple": "The small claims procedure is informal and does not need a lawyer. It is for claims below a set value.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5455,7 +5601,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Human Rights Act 1998 incorporated the European Convention on Human Rights into UK law."
+    "explanation_simple": "The Human Rights Act 1998 incorporated the European Convention on Human Rights into UK law.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5486,7 +5633,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "You must be at least 17 to drive a car or motorcycle, and you must have a driving licence."
+    "explanation_simple": "You must be at least 17 to drive a car or motorcycle, and you must have a driving licence.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5517,7 +5665,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "If your vehicle is over three years old, you must take it for an MOT test every year."
+    "explanation_simple": "If your vehicle is over three years old, you must take it for an MOT test every year.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5548,7 +5697,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "HMRC collects income tax. For most employees it is taken from wages through the PAYE system."
+    "explanation_simple": "HMRC collects income tax. For most employees it is taken from wages through the PAYE system.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5579,7 +5729,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Council tax is paid to the local council and helps pay for local services."
+    "explanation_simple": "Council tax is paid to the local council and helps pay for local services.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5610,7 +5761,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Donated blood is used by hospitals to help people with injuries and illnesses. You can register to give blood."
+    "explanation_simple": "Donated blood is used by hospitals to help people with injuries and illnesses. You can register to give blood.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5651,7 +5803,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The Prime Minister lives at 10 Downing Street and also has a country house, Chequers. Buckingham Palace and Balmoral are royal residences."
+    "explanation_simple": "The Prime Minister lives at 10 Downing Street and also has a country house, Chequers. Buckingham Palace and Balmoral are royal residences.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5692,7 +5845,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Chancellor handles the economy and the Home Secretary crime, policing and immigration. The Foreign Secretary handles relations with other countries."
+    "explanation_simple": "The Chancellor handles the economy and the Home Secretary crime, policing and immigration. The Foreign Secretary handles relations with other countries.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5733,7 +5887,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Scottish Parliament sits in Edinburgh and the Welsh Parliament in Cardiff. The Northern Ireland Assembly sits at Stormont in Belfast."
+    "explanation_simple": "The Scottish Parliament sits in Edinburgh and the Welsh Parliament in Cardiff. The Northern Ireland Assembly sits at Stormont in Belfast.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5774,7 +5929,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Policies on defence, foreign affairs, immigration and taxation stay with the UK government. Education and health are among the devolved areas."
+    "explanation_simple": "Policies on defence, foreign affairs, immigration and taxation stay with the UK government. Education and health are among the devolved areas.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5815,7 +5971,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "MPs in the Commons are elected. Members of the Lords are appointed, or sit as bishops or elected hereditary peers. The Speaker chairs the Commons."
+    "explanation_simple": "MPs in the Commons are elected. Members of the Lords are appointed, or sit as bishops or elected hereditary peers. The Speaker chairs the Commons.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5856,7 +6013,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Speaker is a neutral MP elected by other MPs. They chair debates and keep order in the Commons."
+    "explanation_simple": "The Speaker is a neutral MP elected by other MPs. They chair debates and keep order in the Commons.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5887,7 +6045,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Speaker is an MP chosen by other MPs, who is neutral and does not represent a political party."
+    "explanation_simple": "The Speaker is an MP chosen by other MPs, who is neutral and does not represent a political party.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5928,7 +6087,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "UK-born and naturalised citizens, and resident citizens of the Commonwealth and the Irish Republic, can vote in all public elections."
+    "explanation_simple": "UK-born and naturalised citizens, and resident citizens of the Commonwealth and the Irish Republic, can vote in all public elections.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -5969,7 +6129,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Before an election you receive a poll card telling you where and when to vote."
+    "explanation_simple": "Before an election you receive a poll card telling you where and when to vote.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -6010,7 +6171,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "You can apply for a postal vote and have your ballot paper sent to your home."
+    "explanation_simple": "You can apply for a postal vote and have your ballot paper sent to your home.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -6051,7 +6213,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Minor cases go to Magistrates' Courts and serious ones to Crown Courts. Youth Courts are closed to the public."
+    "explanation_simple": "Minor cases go to Magistrates' Courts and serious ones to Crown Courts. Youth Courts are closed to the public.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -6092,7 +6255,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Juries have 12 members in England, Wales and Northern Ireland, and 15 in Scotland."
+    "explanation_simple": "Juries have 12 members in England, Wales and Northern Ireland, and 15 in Scotland.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -6133,7 +6297,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Civil law covers disputes such as housing, employment, consumer rights and debt. Burglary and drink-driving are crimes."
+    "explanation_simple": "Civil law covers disputes such as housing, employment, consumer rights and debt. Burglary and drink-driving are crimes.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -6164,7 +6329,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The police protect life and property and keep the peace. They must obey the law, and complaints about them can be made."
+    "explanation_simple": "The police protect life and property and keep the peace. They must obey the law, and complaints about them can be made.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -6205,7 +6371,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "It is against the law to discriminate on grounds such as age, disability, sex, pregnancy, race, religion or belief, and sexual orientation."
+    "explanation_simple": "It is against the law to discriminate on grounds such as age, disability, sex, pregnancy, race, religion or belief, and sexual orientation.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -6246,7 +6413,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "A forced marriage is one where one or both people do not or cannot agree. It is a criminal offence. Arranged marriages, where both agree, are different."
+    "explanation_simple": "A forced marriage is one where one or both people do not or cannot agree. It is a criminal offence. Arranged marriages, where both agree, are different.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -6287,7 +6455,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Rights protected include the right to life, the prohibition of torture and of slavery, a fair trial, and freedom of thought and expression."
+    "explanation_simple": "Rights protected include the right to life, the prohibition of torture and of slavery, a fair trial, and freedom of thought and expression.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -6328,7 +6497,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "For most employees, income tax and National Insurance are taken from wages by the employer. Council tax and the TV licence are paid separately."
+    "explanation_simple": "For most employees, income tax and National Insurance are taken from wages by the employer. Council tax and the TV licence are paid separately.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -6369,7 +6539,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Your National Insurance number makes sure your contributions and tax are recorded against your name. You need one to work."
+    "explanation_simple": "Your National Insurance number makes sure your contributions and tax are recorded against your name. You need one to work.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -6410,7 +6581,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Drivers need a licence and insurance, and cars over three years old need an MOT. Driving without insurance is a criminal offence."
+    "explanation_simple": "Drivers need a licence and insurance, and cars over three years old need an MOT. Driving without insurance is a criminal offence.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -6451,7 +6623,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "You can help by volunteering, becoming a school governor, joining a local group, or supporting events and charities."
+    "explanation_simple": "You can help by volunteering, becoming a school governor, joining a local group, or supporting events and charities.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -6492,7 +6665,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Getting to know your neighbours, keeping noise down and putting rubbish out properly help you become part of the community."
+    "explanation_simple": "Getting to know your neighbours, keeping noise down and putting rubbish out properly help you become part of the community.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -6533,7 +6707,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "There are thousands of charities working for good causes, such as helping children, older people, animals or the environment. Many rely on volunteers."
+    "explanation_simple": "There are thousands of charities working for good causes, such as helping children, older people, animals or the environment. Many rely on volunteers.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -6574,6 +6749,7 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The National Citizen Service gives 16- and 17-year-olds the chance to enjoy outdoor activities and take part in a community project."
+    "explanation_simple": "The National Citizen Service gives 16- and 17-year-olds the chance to enjoy outdoor activities and take part in a community project.",
+    "review": {}
   }
 ]

@@ -40,7 +40,8 @@
       }
     ],
     "explanation_simple": "The fundamental principles are democracy, the rule of law, individual liberty, tolerance of those with different faiths and beliefs, and participation in community life.",
-    "memory_tip": "Think: democracy, law, liberty, tolerance, community."
+    "memory_tip": "Think: democracy, law, liberty, tolerance, community.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -81,7 +82,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Individual liberty is one of the five fundamental principles, alongside democracy, the rule of law, tolerance and participation in community life."
+    "explanation_simple": "Individual liberty is one of the five fundamental principles, alongside democracy, the rule of law, tolerance and participation in community life.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -112,7 +114,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Participation in community life is one of the five fundamental principles."
+    "explanation_simple": "Participation in community life is one of the five fundamental principles.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -153,7 +156,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The values are based on history and traditions and are protected by law, customs and expectations."
+    "explanation_simple": "The values are based on history and traditions and are protected by law, customs and expectations.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -184,7 +188,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The handbook states that there is no place in British society for extremism or intolerance."
+    "explanation_simple": "The handbook states that there is no place in British society for extremism or intolerance.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -215,7 +220,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The fundamental values apply to everyone who lives in the UK, not only to people born here or to citizens."
+    "explanation_simple": "The fundamental values apply to everyone who lives in the UK, not only to people born here or to citizens.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -257,7 +263,8 @@
         "rationale": "Freedom of belief means nobody has to follow a religion."
       }
     ],
-    "explanation_simple": "Responsibilities include respecting and obeying the law, respecting the rights of others, treating others with fairness, looking after yourself and your family, and looking after your area and the environment."
+    "explanation_simple": "Responsibilities include respecting and obeying the law, respecting the rights of others, treating others with fairness, looking after yourself and your family, and looking after your area and the environment.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -298,7 +305,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Respecting the rights of others includes respecting their right to their own opinions."
+    "explanation_simple": "Respecting the rights of others includes respecting their right to their own opinions.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -329,7 +337,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Looking after yourself and your family is listed among the responsibilities of residents."
+    "explanation_simple": "Looking after yourself and your family is listed among the responsibilities of residents.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -360,7 +369,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Treating others with fairness is a responsibility for everyone who wants to be a permanent resident or citizen."
+    "explanation_simple": "Treating others with fairness is a responsibility for everyone who wants to be a permanent resident or citizen.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -401,7 +411,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The UK offers freedom of belief and religion, freedom of speech, freedom from unfair discrimination, a right to a fair trial and a right to join in the election of a government."
+    "explanation_simple": "The UK offers freedom of belief and religion, freedom of speech, freedom from unfair discrimination, a right to a fair trial and a right to join in the election of a government.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -442,7 +453,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Freedom of belief and religion is one of the freedoms offered, alongside freedom of speech, freedom from unfair discrimination, a fair trial and a say in electing a government."
+    "explanation_simple": "Freedom of belief and religion is one of the freedoms offered, alongside freedom of speech, freedom from unfair discrimination, a fair trial and a say in electing a government.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -473,7 +485,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Taking part in electing a government is one of the freedoms the UK offers."
+    "explanation_simple": "Taking part in electing a government is one of the freedoms the UK offers.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -514,7 +527,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "New citizens make an oath (or affirmation) of allegiance and a pledge, promising to respect the rights, freedoms and laws of the UK."
+    "explanation_simple": "New citizens make an oath (or affirmation) of allegiance and a pledge, promising to respect the rights, freedoms and laws of the UK.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -555,7 +569,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "In the pledge, new citizens promise loyalty to the UK, to respect its rights and freedoms, to uphold its democratic values, to observe its laws faithfully and to fulfil their duties and obligations as British citizens."
+    "explanation_simple": "In the pledge, new citizens promise loyalty to the UK, to respect its rights and freedoms, to uphold its democratic values, to observe its laws faithfully and to fulfil their duties and obligations as British citizens.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -596,7 +611,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Most applicants need to pass the Life in the UK test and show they can speak and understand English to the required standard."
+    "explanation_simple": "Most applicants need to pass the Life in the UK test and show they can speak and understand English to the required standard.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -637,7 +653,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The fundamental principles are democracy, the rule of law, individual liberty, tolerance of those with different faiths and beliefs, and participation in community life."
+    "explanation_simple": "The fundamental principles are democracy, the rule of law, individual liberty, tolerance of those with different faiths and beliefs, and participation in community life.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -668,7 +685,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The rule of law is one of the five fundamental principles."
+    "explanation_simple": "The rule of law is one of the five fundamental principles.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -699,7 +717,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Tolerance of those with different faiths and beliefs is a fundamental principle. No one has to follow any particular religion."
+    "explanation_simple": "Tolerance of those with different faiths and beliefs is a fundamental principle. No one has to follow any particular religion.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -740,7 +759,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The five principles are democracy, the rule of law, individual liberty, tolerance of those with different faiths and beliefs, and participation in community life."
+    "explanation_simple": "The five principles are democracy, the rule of law, individual liberty, tolerance of those with different faiths and beliefs, and participation in community life.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -771,7 +791,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Tolerance of those with different faiths and beliefs is one of the fundamental principles."
+    "explanation_simple": "Tolerance of those with different faiths and beliefs is one of the fundamental principles.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -802,7 +823,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The values and principles of the UK are based on history and traditions, and are protected by law, customs and expectations."
+    "explanation_simple": "The values and principles of the UK are based on history and traditions, and are protected by law, customs and expectations.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -833,7 +855,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "There is no place in British society for extremism or intolerance."
+    "explanation_simple": "There is no place in British society for extremism or intolerance.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -874,7 +897,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Responsibilities include respecting and obeying the law, respecting the rights of others, treating others with fairness, looking after yourself and your family, and looking after your area and the environment."
+    "explanation_simple": "Responsibilities include respecting and obeying the law, respecting the rights of others, treating others with fairness, looking after yourself and your family, and looking after your area and the environment.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -905,7 +929,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Looking after your area and the environment is one of the responsibilities listed."
+    "explanation_simple": "Looking after your area and the environment is one of the responsibilities listed.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -946,7 +971,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Respecting and obeying the law is one of the responsibilities of residents."
+    "explanation_simple": "Respecting and obeying the law is one of the responsibilities of residents.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -987,7 +1013,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The UK offers freedom of belief and religion, freedom of speech, freedom from unfair discrimination, a right to a fair trial and a right to join in the election of a government."
+    "explanation_simple": "The UK offers freedom of belief and religion, freedom of speech, freedom from unfair discrimination, a right to a fair trial and a right to join in the election of a government.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1018,7 +1045,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Freedom of speech is one of the freedoms offered in return for meeting your responsibilities."
+    "explanation_simple": "Freedom of speech is one of the freedoms offered in return for meeting your responsibilities.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1049,7 +1077,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The freedoms are belief and religion, speech, freedom from unfair discrimination, a fair trial, and joining in the election of a government. A job is not guaranteed."
+    "explanation_simple": "The freedoms are belief and religion, speech, freedom from unfair discrimination, a fair trial, and joining in the election of a government. A job is not guaranteed.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1090,7 +1119,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "A right to a fair trial is one of the freedoms the UK offers."
+    "explanation_simple": "A right to a fair trial is one of the freedoms the UK offers.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1121,7 +1151,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "At a citizenship ceremony, new citizens swear an oath (or make an affirmation) of allegiance and make a pledge."
+    "explanation_simple": "At a citizenship ceremony, new citizens swear an oath (or make an affirmation) of allegiance and make a pledge.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1162,7 +1193,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "People can choose to swear by Almighty God (an oath) or to make a solemn affirmation, which does not mention God."
+    "explanation_simple": "People can choose to swear by Almighty God (an oath) or to make a solemn affirmation, which does not mention God.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1193,7 +1225,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The pledge includes a promise to fulfil one's duties and obligations as a British citizen."
+    "explanation_simple": "The pledge includes a promise to fulfil one's duties and obligations as a British citizen.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1234,7 +1267,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "New citizens pledge to give their loyalty to the United Kingdom and to respect its rights and freedoms."
+    "explanation_simple": "New citizens pledge to give their loyalty to the United Kingdom and to respect its rights and freedoms.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1265,7 +1299,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Most applicants for settlement or citizenship need to pass the Life in the UK test and show they can speak and understand English."
+    "explanation_simple": "Most applicants for settlement or citizenship need to pass the Life in the UK test and show they can speak and understand English.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1306,7 +1341,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Most applicants must pass the Life in the UK test and meet the English language requirement."
+    "explanation_simple": "Most applicants must pass the Life in the UK test and meet the English language requirement.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1347,7 +1383,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The test has 24 questions about important aspects of life in the UK, based on the handbook."
+    "explanation_simple": "The test has 24 questions about important aspects of life in the UK, based on the handbook.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1378,7 +1415,8 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The questions are based on all parts of the official handbook, Life in the United Kingdom: A Guide for New Residents."
+    "explanation_simple": "The questions are based on all parts of the official handbook, Life in the United Kingdom: A Guide for New Residents.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1419,7 +1457,8 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The test must be booked online, at an approved test centre."
+    "explanation_simple": "The test must be booked online, at an approved test centre.",
+    "review": {}
   },
   {
     "schema_version": 2,
@@ -1450,6 +1489,7 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The test is taken at an approved test centre. You cannot take it online at home."
+    "explanation_simple": "The test is taken at an approved test centre. You cannot take it online at home.",
+    "review": {}
   }
 ]

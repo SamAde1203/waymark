@@ -55,3 +55,18 @@ pnpm build:site      # static output in apps/site/dist
 - Build output directory: `apps/site/dist`
 - Environment variable: `NODE_VERSION=22`
 - Custom domain: `waymarkprep.co.uk`; add `waymarkprep.com` and `waymarkprep.org` as redirects (301) to it.
+
+## Reviewing questions
+
+Questions are drafts until Sam approves them in the review sheet ("Waymark question review").
+
+1. **Section names tab**: mark each section heading *Matches* the handbook, or *Different* with the book's wording.
+2. **Question tabs**: set Status to *Approved* or *Needs change* (with a note).
+3. **Sync** (Claude does this when asked): export the sheet's Status, Note, Question, Correct answer and ID
+   columns plus the Section names tab to JSON, then run
+   `python3 tools/apply_review.py --import export.json`.
+
+A question goes live only when it is approved, its section is confirmed, and it reads exactly as it did when
+approved. Decisions are kept in `content/review/` and re-applied whenever `tools/qgen.py` regenerates a chapter;
+a question edited after approval drops back to draft. *Needs change* items are listed in
+`content/review/needs-change.md`. The old "Chapter 1" tab is ignored.
