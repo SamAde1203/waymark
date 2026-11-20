@@ -5611,5 +5611,969 @@
       }
     ],
     "explanation_simple": "Donated blood is used by hospitals to help people with injuries and illnesses. You can register to give blood."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_pm_homes_multi_a",
+    "fact_id": "c5_pm_residence",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The government",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO places are homes of the Prime Minister?",
+    "options": [
+      {
+        "id": "a",
+        "text": "10 Downing Street",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "Buckingham Palace",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Balmoral",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Chequers",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "The Prime Minister lives at 10 Downing Street and also has a country house, Chequers. Buckingham Palace and Balmoral are royal residences."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_ministers_multi_a",
+    "fact_id": "c5_chancellor",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The government",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO cabinet ministers are correctly matched with their responsibilities?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Home Secretary: crime, policing and immigration",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "Foreign Secretary: schools",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Chancellor of the Exchequer: the economy",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Home Secretary: relations with other countries",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Chancellor handles the economy and the Home Secretary crime, policing and immigration. The Foreign Secretary handles relations with other countries."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_devolved_seats_multi_a",
+    "fact_id": "c5_scottish_parliament",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The government",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO devolved bodies are correctly matched with their city?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Scottish Parliament: Glasgow",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "The Scottish Parliament: Edinburgh",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "The Welsh Parliament (Senedd): Cardiff",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "The Northern Ireland Assembly: Dublin",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Scottish Parliament sits in Edinburgh and the Welsh Parliament in Cardiff. The Northern Ireland Assembly sits at Stormont in Belfast."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_devolved_topics_multi_b",
+    "fact_id": "c5_devolved_powers",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The government",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO of these are decided by the UK government at Westminster, not by the devolved parliaments?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Foreign affairs",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "Defence",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "Health in Wales",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Education in Scotland",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Policies on defence, foreign affairs, immigration and taxation stay with the UK government. Education and health are among the devolved areas."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_parliament_houses_multi_a",
+    "fact_id": "c5_houses_of_parliament",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The British constitution",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO statements about the Houses of Parliament are correct?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Members of the House of Lords are elected every four years",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Members of the House of Commons are elected",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "The House of Commons is chaired by the Prime Minister",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Members of the House of Lords are not elected",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "MPs in the Commons are elected. Members of the Lords are appointed, or sit as bishops or elected hereditary peers. The Speaker chairs the Commons."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_speaker_single_b",
+    "fact_id": "c5_speaker",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The British constitution",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Who chairs debates in the House of Commons and keeps order?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Prime Minister",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "The monarch",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "The Speaker",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "The Chief Whip",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Speaker is a neutral MP elected by other MPs. They chair debates and keep order in the Commons."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_speaker_neutral_tf_b",
+    "fact_id": "c5_speaker",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The British constitution",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The Speaker of the House of Commons is politically neutral.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Speaker is an MP chosen by other MPs, who is neutral and does not represent a political party."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_voting_multi_a",
+    "fact_id": "c5_who_can_vote",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The government",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Confirm wording. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO of these can vote in UK Parliament elections, if aged 18 or over and resident?",
+    "options": [
+      {
+        "id": "a",
+        "text": "UK-born and naturalised citizens",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "Anyone visiting the UK on holiday",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Citizens of the Commonwealth",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Citizens of any EU country",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "UK-born and naturalised citizens, and resident citizens of the Commonwealth and the Irish Republic, can vote in all public elections."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_polling_card_single_a",
+    "fact_id": "c5_polling_card",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The government",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Confirm the handbook mentions poll cards. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Before an election, what is sent to people on the electoral register?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A ballot paper already filled in",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "A tax form",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "A poll card",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "A passport",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Before an election you receive a poll card telling you where and when to vote."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_postal_vote_single_a",
+    "fact_id": "c5_postal_vote",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "The government",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Confirm wording. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "If you can't get to your polling station, how else can you vote?",
+    "options": [
+      {
+        "id": "a",
+        "text": "By text message",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "By post (a postal vote)",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "By telephone",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "You cannot vote at all",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "You can apply for a postal vote and have your ballot paper sent to your home."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_courts_multi_a",
+    "fact_id": "c5_crown_court",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Respecting the law",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO statements about courts in England and Wales are correct?",
+    "options": [
+      {
+        "id": "a",
+        "text": "All cases go straight to the Supreme Court",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Serious criminal cases are tried in a Crown Court",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "Most minor criminal cases go to a Magistrates' Court",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Youth Courts are open to the public",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Minor cases go to Magistrates' Courts and serious ones to Crown Courts. Youth Courts are closed to the public."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_juries_multi_a",
+    "fact_id": "c5_jury_size_scotland",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Respecting the law",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO statements about juries are correct?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A jury in Scotland has 15 members",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "A jury in Scotland has 12 members",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "A jury in Wales has 6 members",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "A jury in England has 12 members",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "Juries have 12 members in England, Wales and Northern Ireland, and 15 in Scotland."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_civil_criminal_multi_b",
+    "fact_id": "c5_criminal_vs_civil",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Respecting the law",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO of these are usually civil law matters?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Drink-driving",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Disputes about employment rights",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "Debt",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Burglary",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Civil law covers disputes such as housing, employment, consumer rights and debt. Burglary and drink-driving are crimes."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_police_tf_b",
+    "fact_id": "c5_police_duties",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Respecting the law",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The police must themselves obey the law.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The police protect life and property and keep the peace. They must obey the law, and complaints about them can be made."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_women_rights_single_a",
+    "fact_id": "c5_equal_opportunities",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Fundamental principles",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "On which of these grounds is it against the law to discriminate when employing someone?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Their qualifications",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Their religion",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "Whether they turn up to the interview",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Their work experience",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "It is against the law to discriminate on grounds such as age, disability, sex, pregnancy, race, religion or belief, and sexual orientation."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_forced_marriage_single_b",
+    "fact_id": "c5_forced_marriage",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Respecting the law",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "What is a forced marriage?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A marriage where one or both people do not agree to it",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "A marriage arranged by families where both people agree",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "A marriage at a register office",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "A marriage abroad",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "A forced marriage is one where one or both people do not or cannot agree. It is a criminal offence. Arranged marriages, where both agree, are different."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_echr_multi_b",
+    "fact_id": "c5_echr_rights",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Fundamental principles",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO of these are protected by the European Convention on Human Rights?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The right to a job",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "The right to life",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "The right to free housing",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Freedom from slavery and forced labour",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "Rights protected include the right to life, the prohibition of torture and of slavery, a fair trial, and freedom of thought and expression."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_taxes_multi_a",
+    "fact_id": "c5_national_insurance",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Your role in the community",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO of these are usually taken from employees' pay?",
+    "options": [
+      {
+        "id": "a",
+        "text": "TV licence fee",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Income tax",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "Council tax",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "National Insurance contributions",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "For most employees, income tax and National Insurance are taken from wages by the employer. Council tax and the TV licence are paid separately."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_ni_number_single_a",
+    "fact_id": "c5_ni_number",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Your role in the community",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Confirm wording. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "What is a National Insurance number used for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Making sure your contributions and tax are recorded against your name",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "Booking a doctor's appointment only",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Voting in elections",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Opening a library account",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Your National Insurance number makes sure your contributions and tax are recorded against your name. You need one to work."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_driving_rules_multi_a",
+    "fact_id": "c5_car_insurance",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Your role in the community",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO of these are legal requirements for drivers in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Owning a satnav",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Joining a motoring club",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Having a valid driving licence",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Having car insurance",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "Drivers need a licence and insurance, and cars over three years old need an MOT. Driving without insurance is a criminal offence."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_help_community_multi_a",
+    "fact_id": "c5_volunteering",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Your role in the community",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO of these are ways you can help your local community?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Becoming a school governor",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "Dropping litter",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Volunteering at a charity",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Ignoring jury service",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "You can help by volunteering, becoming a school governor, joining a local group, or supporting events and charities."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_neighbours_single_a",
+    "fact_id": "c5_good_neighbour",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Your role in the community",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Confirm the handbook covers this. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Which of these is a good way to get on with your neighbours?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Playing loud music late at night",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Leaving rubbish outside their home",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Parking across their driveway",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Introducing yourself and keeping noise down",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "Getting to know your neighbours, keeping noise down and putting rubbish out properly help you become part of the community."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_charity_examples_single_a",
+    "fact_id": "c5_charities",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Your role in the community",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "What is the role of charities in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They run the courts",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "They elect local councillors",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "They collect taxes for the government",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "They work to help people, animals and causes, often with volunteers",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "There are thousands of charities working for good causes, such as helping children, older people, animals or the environment. Many rely on volunteers."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c5_young_people_single_a",
+    "fact_id": "c5_youth_volunteering",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 5,
+      "section": "Your role in the community",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Confirm the handbook mentions this; scheme may have changed. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Which national scheme helps young people aged 16 and 17 take part in community projects?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Civil Service",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "The National Citizen Service",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "The National Lottery",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "The Royal Mail",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The National Citizen Service gives 16- and 17-year-olds the chance to enjoy outdoor activities and take part in a community project."
   }
 ]

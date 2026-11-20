@@ -8406,5 +8406,1349 @@
       }
     ],
     "explanation_simple": "Snowdon is in Snowdonia, a national park in north Wales. It is the highest mountain in Wales."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_dialects_multi_c",
+    "fact_id": "c4_dialects",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "The UK today",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO regional dialects are correctly matched to their area?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cockney: Glasgow",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Scouse: Liverpool",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "Geordie: Cardiff",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Geordie: Tyneside",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "Scouse is from Liverpool, Geordie from Tyneside and Cockney from London."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_capitals_multi_d",
+    "fact_id": "c4_capital_cities",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "The UK today",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO capital cities are correctly matched?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Northern Ireland: Dublin",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Scotland: Edinburgh",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "England: Manchester",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Wales: Cardiff",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "The capitals are London, Edinburgh, Cardiff and Belfast. Dublin is the capital of the Republic of Ireland."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_ageing_tf_a",
+    "fact_id": "c4_ageing_population",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "The UK today",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Confirm wording. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The UK has an ageing population, with more people aged 85 and over than ever before.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "People in the UK are living longer than ever, partly because of better living standards and healthcare."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_equality_single_a",
+    "fact_id": "c4_women_rights_today",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "The UK today",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Which of these is true about women in Britain today?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They cannot own property after marriage",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "They have equal rights to men and are protected by law from discrimination",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "They need a husband's permission to work",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "They cannot stand for Parliament",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Women in Britain today have equal rights. They make up about half the workforce, and employers cannot discriminate because of sex."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_census_religions_multi_a",
+    "fact_id": "c4_religion_census",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Religion",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Figures; a 2021 Census exists but the handbook uses 2011. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "According to the 2011 Census, which TWO statements are correct?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Most people who stated a religion identified as Christian",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "Most people said they were Muslim",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Fewer than 1% said they had no religion",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "About a quarter of people said they had no religion",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "In 2011, 59% identified as Christian, about 25% said they had no religion, and 4.8% identified as Muslim."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_religion_free_tf_a",
+    "fact_id": "c4_religious_freedom",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Religion",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Everyone in the UK has the legal right to choose their religion, or to choose not to practise a religion.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The UK is historically a Christian country, but everyone has the right to choose their religion or to have none."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_patron_saints_multi_c",
+    "fact_id": "c4_patron_saint_dates",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Religion",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO patron saints are correctly matched with their country?",
+    "options": [
+      {
+        "id": "a",
+        "text": "St Andrew: England",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "St George: Scotland",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "St Patrick: Northern Ireland",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "St David: Wales",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "St George is England's, St Andrew Scotland's, St David Wales's and St Patrick Northern Ireland's patron saint."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_religious_festivals_multi_a",
+    "fact_id": "c4_diwali",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Customs and traditions",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO of these festivals are correctly matched with a religion that celebrates them?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hanukkah: Judaism",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "Diwali: Christianity",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Eid al-Fitr: Hinduism",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Vaisakhi: Sikhism",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "Hanukkah is Jewish, Vaisakhi Sikh, Eid al-Fitr Muslim, and Diwali is celebrated mainly by Hindus and Sikhs."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_dates_multi_a",
+    "fact_id": "c4_valentines_day",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Customs and traditions",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO of these days are correctly matched with their dates?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Halloween: 31 October",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "April Fool's Day: 1 May",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Valentine's Day: 14 February",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Bonfire Night: 11 November",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Valentine's Day is 14 February and Halloween 31 October. Bonfire Night is 5 November and April Fool's Day 1 April."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_april_fools_tf_b",
+    "fact_id": "c4_april_fools",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Customs and traditions",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? On April Fool's Day, jokes are traditionally played until midday.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "On 1 April people play jokes on each other until midday. Television and newspapers sometimes join in."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_fathers_tf_b",
+    "fact_id": "c4_fathers_day",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Customs and traditions",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? Father's Day is the third Sunday in June.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Father's Day is the third Sunday in June. Children send cards or buy gifts for their fathers."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_christmas_eve_single_a",
+    "fact_id": "c4_christmas",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Customs and traditions",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Christmas Day celebrates what?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The start of a new year",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "The end of the harvest",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "The birth of Jesus Christ",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "The death of Jesus Christ",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Christmas Day, 25 December, celebrates the birth of Jesus Christ. It is a public holiday."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_sports_origins_multi_a",
+    "fact_id": "c4_cricket",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Sport",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Confirm the handbook lists these origins. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO of these sports originated in Britain?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Baseball",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Basketball",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Cricket",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Rugby",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "Cricket, rugby, football and golf all have their origins in Britain. Basketball and baseball developed in the United States."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_horse_racing_multi_a",
+    "fact_id": "c4_grand_national",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Sport",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO of these are famous horse-racing events in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Wimbledon",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "The Grand National",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "Royal Ascot",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "The Ashes",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Famous horse-racing events include Royal Ascot, the Grand National and the Scottish Grand National. The Ashes is cricket and Wimbledon is tennis."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_olympians_multi_a",
+    "fact_id": "c4_steve_redgrave",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Sport",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO British sportspeople are correctly matched with their sport?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sir Steve Redgrave: rowing",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "Jessica Ennis: tennis",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Sir Chris Hoy: cycling",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Mo Farah: swimming",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Redgrave rowed and Hoy cycled. Mo Farah is a runner and Jessica Ennis won the heptathlon."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_wimbledon_single_c",
+    "fact_id": "c4_wimbledon",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Sport",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Wimbledon is the only Grand Slam tennis event played on which surface?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Grass",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "Carpet",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Hard court",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Clay",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Wimbledon, held in London, is the oldest tennis tournament in the world and the only Grand Slam event on grass."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_skiing_single_a",
+    "fact_id": "c4_skiing",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Sport",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Confirm the handbook mentions this. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Where in the UK are there ski resorts with natural snow?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Scotland",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "Cornwall",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Kent",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Norfolk",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Skiing is increasingly popular. Many people go abroad, but there are also five ski centres in Scotland, and dry ski slopes elsewhere."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_composers_multi_a",
+    "fact_id": "c4_elgar",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO composers are correctly matched with their work?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Benjamin Britten: Water Music",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Handel: Peter Grimes",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Sir Edward Elgar: Pomp and Circumstance Marches",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Gustav Holst: The Planets",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "Holst wrote The Planets and Elgar the Pomp and Circumstance Marches. Handel wrote the Water Music, and Britten wrote Peter Grimes."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_royal_academy_single_a",
+    "fact_id": "c4_royal_academy",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Confirm the handbook mentions this. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Which organisation holds a famous summer exhibition of art in London?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Royal Society",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "The Royal Academy",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "The National Trust",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "The BBC",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Royal Academy holds a summer exhibition of work from established and new artists."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_west_end_single_a",
+    "fact_id": "c4_west_end",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Confirm the handbook mentions this. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "London's main theatre district is known as what?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The East End",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Soho Square",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "The City",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "The West End",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "London's West End, also known as 'Theatreland', is famous for its theatres and musicals."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_painters_multi_a",
+    "fact_id": "c4_constable",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO British artists are known mainly for landscape painting?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Henry Moore",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "John Constable",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "J.M.W. Turner",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Thomas Chippendale",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Constable and Turner were landscape painters. Henry Moore was a sculptor and Chippendale designed furniture."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_architects_multi_a",
+    "fact_id": "c4_christopher_wren",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO of these are well-known British architects or designers of buildings?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sir Edwin Lutyens",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "Charles Dickens",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Andrew Lloyd Webber",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Sir Christopher Wren",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "Wren designed St Paul's Cathedral and Lutyens the Cenotaph. Dickens was a novelist and Lloyd Webber a composer."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_authors_multi_a",
+    "fact_id": "c4_charles_dickens",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO authors are correctly matched with their work?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Charles Dickens: Oliver Twist",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "J K Rowling: Treasure Island",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Robert Louis Stevenson: Harry Potter",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Jane Austen: Pride and Prejudice",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "Dickens wrote Oliver Twist and Austen Pride and Prejudice. Stevenson wrote Treasure Island, and Rowling the Harry Potter books."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_poets_scotland_wales_multi_a",
+    "fact_id": "c4_robert_burns",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO poets are correctly matched with their country?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dylan Thomas: Wales",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "William Wordsworth: Wales",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Robert Burns: Scotland",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Wilfred Owen: Scotland",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Robert Burns was Scottish and Dylan Thomas Welsh. Wordsworth and Owen were English."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_comedy_single_a",
+    "fact_id": "c4_comedy",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Arts and culture",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Confirm the handbook's wording. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Which tradition of British comedy goes back to the Middle Ages?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Stand-up comedy on television",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Satire and political comedy",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "Radio sitcoms",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Silent film comedy",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "British comedy has a long tradition. Satire of the powerful goes back to medieval times, and today comedy is popular on TV and on stage."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_film_awards_multi_a",
+    "fact_id": "c4_baftas",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Leisure",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO statements about British film are correct?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The BAFTAs are the British film awards",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "Alfred Hitchcock made films in Britain and Hollywood",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "Charlie Chaplin was famous for talking films only",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "The BAFTAs are awarded for music albums",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The BAFTAs are the British equivalent of the Oscars. Hitchcock worked in Britain and later Hollywood."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_bond_single_a",
+    "fact_id": "c4_james_bond",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Leisure",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Confirm the handbook mentions Bond. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Which famous film character was created by the British author Ian Fleming?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mr Bean",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "James Bond",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "Sherlock Holmes",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "Harry Potter",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Ian Fleming created James Bond. The Bond films are among the most successful British film series."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_nick_park_single_a",
+    "fact_id": "c4_nick_park",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Leisure",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Confirm the handbook mentions Nick Park. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Nick Park is famous for which animated characters?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Paddington Bear",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "The Teletubbies",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Wallace and Gromit",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Peter Rabbit",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Nick Park has won four Oscars for his animated films, including those featuring Wallace and Gromit."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_gardens_single_a",
+    "fact_id": "c4_gardening",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Leisure",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Confirm the handbook mentions Chelsea. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "Which famous flower show is held in London every year?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Eden Festival",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "The Chelsea Flower Show",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "The Glastonbury Show",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "The Henley Regatta",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "Gardening is a popular hobby in the UK, and the Chelsea Flower Show is one of many flower shows across the country."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_national_dishes_multi_a",
+    "fact_id": "c4_food_wales",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Leisure",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO traditional foods are correctly matched with their country?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Welsh cakes: England",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "Roast beef: Wales",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "Haggis: Scotland",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "The Ulster fry: Northern Ireland",
+        "is_correct": true
+      }
+    ],
+    "explanation_simple": "Haggis is Scottish, the Ulster fry is from Northern Ireland, Welsh cakes are Welsh and roast beef with Yorkshire pudding is English."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_age_limits_multi_a",
+    "fact_id": "c4_alcohol_age",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Leisure",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO statements about age limits in the UK are correct?",
+    "options": [
+      {
+        "id": "a",
+        "text": "You must be 18 to go into a betting shop",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "You must be 21 to buy alcohol",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "You must be 18 to buy alcohol",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "You can buy alcohol at 16 in a shop",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "You must be 18 to buy alcohol and to go into betting shops or gambling clubs."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_landmarks_multi_a",
+    "fact_id": "c4_giants_causeway",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Places of interest",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO landmarks are correctly matched with their country?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Loch Lomond: Scotland",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "The Eden Project: Wales",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "The Giant's Causeway: Northern Ireland",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "Snowdon: England",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The Giant's Causeway is in Northern Ireland and Loch Lomond in Scotland. Snowdon is in Wales and the Eden Project in Cornwall."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_london_places_multi_a",
+    "fact_id": "c4_london_eye",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Places of interest",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "multi",
+    "selections_required": 2,
+    "question_text": "Which TWO of these attractions are in London?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Tower of London",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "Edinburgh Castle",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "The London Eye",
+        "is_correct": true
+      },
+      {
+        "id": "d",
+        "text": "The Eden Project",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The London Eye and the Tower of London are in London. The Eden Project is in Cornwall and Edinburgh Castle in Scotland."
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c4_national_trust_tf_b",
+    "fact_id": "c4_national_trust",
+    "item_version": 1,
+    "status": "draft",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 4,
+      "section": "Places of interest",
+      "section_confirmed": false,
+      "page_ref": [],
+      "reviewer_note": "CHECK FIRST: Confirm wording. Confirm the section heading wording in the handbook"
+    },
+    "question_type": "true_false",
+    "selections_required": 1,
+    "question_text": "Is the following statement TRUE or FALSE? The National Trust is a charity that relies on volunteers to help look after historic places.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True",
+        "is_correct": true
+      },
+      {
+        "id": "b",
+        "text": "False",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The National Trust was founded in 1895 to preserve important buildings, coastline and countryside. It relies on volunteers."
   }
 ]
