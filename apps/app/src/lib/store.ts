@@ -68,6 +68,8 @@ export async function loadState(): Promise<void> {
   try {
     const raw = await AsyncStorage.getItem(KEY);
     if (raw) state = { ...initial, ...(JSON.parse(raw) as Partial<State>) };
+    // Devices unlocked with the old preview button (before payments) have no purchase: lock them again.
+    if (state.unlocked && !state.purchase && !__DEV__) state = { ...state, unlocked: false };
   } catch {
     // Storage can be unavailable (private browsing); the app still works for this session.
   }

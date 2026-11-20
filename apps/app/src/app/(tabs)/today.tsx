@@ -68,6 +68,9 @@ export default function Today() {
           disabled={!s.mistakes.length}
           onPress={() => router.push("/session?kind=mistakes")}
         />
+        {!s.unlocked && (
+          <Button label="Unlock everything · £9.99 one-off" onPress={() => router.push("/unlock")} />
+        )}
         <Button label="Test day: what to bring" kind="ghost" onPress={() => router.push("/test-day")} />
       </View>
     </Screen>

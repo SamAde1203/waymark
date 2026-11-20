@@ -38,6 +38,20 @@ export default function Settings() {
         ))}
       </Row>
 
+      <H2>Full access</H2>
+      <Card>
+        {s.purchase ? (
+          <P>Unlocked. Your unlock code is {s.purchase.code}. Use it to unlock Waymark on another device.</P>
+        ) : (
+          <P>Chapters 3 to 5 and unlimited mock exams are locked. Unlock them once for £9.99, or enter an unlock code.</P>
+        )}
+        {!s.purchase && (
+          <View style={{ marginTop: space.md }}>
+            <Button label="Unlock or enter a code" small onPress={() => router.push("/unlock")} />
+          </View>
+        )}
+      </Card>
+
       <H2>Your data</H2>
       <P small>
         Your progress is stored only on this device. There is no account and no advertising tracking.
