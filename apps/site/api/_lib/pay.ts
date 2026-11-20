@@ -64,12 +64,6 @@ export async function createCheckout(
     allow_promotion_codes: true,
     metadata,
     payment_intent_data: { description: `${plan.name} · unlock code ${code}`, metadata },
-    custom_text: {
-      submit: {
-        message:
-          "Access starts as soon as you pay. Your unlock code will be shown on the next screen. Keep it to unlock Waymark on another device.",
-      },
-    },
     success_url: `${opts.origin}/app/unlock?session_id={CHECKOUT_SESSION_ID}`,
     cancel_url: `${opts.origin}/app/unlock`,
   });
