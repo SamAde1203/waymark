@@ -61,7 +61,7 @@ pnpm build:site      # static output in apps/site/dist
 Questions are drafts until Sam approves them in the review sheet ("Waymark question review").
 
 1. **Section names tab**: mark each section heading *Matches* the handbook, or *Different* with the book's wording.
-2. **Question tabs**: set Status to *Approved* or *Needs change* (with a note).
+2. **Chapter tabs** (1 Values … 5 Government, check-first questions at the top): set Status to *Approved* or *Needs change* (with a note).
 3. **Sync** (Claude does this when asked): export the sheet's Status, Note, Question, Correct answer and ID
    columns plus the Section names tab to JSON, then run
    `python3 tools/apply_review.py --import export.json`.
@@ -69,4 +69,4 @@ Questions are drafts until Sam approves them in the review sheet ("Waymark quest
 A question goes live only when it is approved, its section is confirmed, and it reads exactly as it did when
 approved. Decisions are kept in `content/review/` and re-applied whenever `tools/qgen.py` regenerates a chapter;
 a question edited after approval drops back to draft. *Needs change* items are listed in
-`content/review/needs-change.md`. The old "Chapter 1" tab is ignored.
+`content/review/needs-change.md`.
