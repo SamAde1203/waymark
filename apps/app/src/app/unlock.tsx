@@ -1,7 +1,7 @@
 import { router, useLocalSearchParams } from "expo-router";
 import { useEffect, useState } from "react";
 import { Linking, Platform, Pressable, Text, TextInput, View } from "react-native";
-import { setState, useStore } from "@/lib/store";
+import { getState, setState, useStore } from "@/lib/store";
 import { Button, Card, H1, H2, P, Screen } from "@/ui/kit";
 import { color, font, radius, space } from "@/ui/theme";
 
@@ -10,18 +10,23 @@ const STANDARD = [
   "Unlimited mock exams",
   "Daily plan and spaced review to your test date",
   "Works offline · no ads, ever",
+  "Use it on up to 3 of your own devices",
 ];
 
 const SITE = "https://www.waymarkprep.co.uk";
+const LIMIT_MESSAGE =
+  "This code is already in use on 3 devices, which is the most one purchase covers. If you've changed phone or computer, email support@waymarkprep.co.uk with your code and we'll reset it.";
 // On the web the app is served from the same site as the API.
 const API = Platform.OS === "web" ? "" : SITE;
 
 type Unlock = { plan: string; code: string };
 
-async function askServer(query: string): Promise<Unlock | "none" | "error"> {
+async function askServer(query: string): Promise<Unlock | "none" | "limit" | "error"> {
   try {
-    const r = await fetch(`${API}/api/unlock?${query}`);
+    const device = getState().deviceId;
+    const r = await fetch(`${API}/api/unlock?${query}&device=${encodeURIComponent(device)}`);
     if (r.status === 404) return "none";
+    if (r.status === 409) return "limit";
     if (!r.ok) return "error";
     return (await r.json()) as Unlock;
   } catch {
@@ -56,6 +61,10 @@ export default function UnlockScreen() {
           setMessage(null);
           break;
         }
+        if (r === "limit") {
+          setMessage(LIMIT_MESSAGE);
+          break;
+        }
         if (i === 3) setMessage("We couldn't confirm your payment yet. If you were charged, enter the unlock code from your receipt below, or email support@waymarkprep.co.uk.");
         await new Promise((ok) => setTimeout(ok, 1500));
       }
@@ -81,7 +90,14 @@ export default function UnlockScreen() {
     const r = await askServer(`code=${encodeURIComponent(code)}`);
     setChecking(false);
     if (typeof r === "object") grant(r);
-    else setMessage(r === "none" ? "That code doesn't match a purchase. Check it and try again." : "Something went wrong. Please try again.");
+    else
+      setMessage(
+        r === "limit"
+          ? LIMIT_MESSAGE
+          : r === "none"
+            ? "That code doesn't match a purchase. Check it and try again."
+            : "Something went wrong. Please try again.",
+      );
   }
 
   return (
@@ -101,7 +117,7 @@ export default function UnlockScreen() {
               <Text selectable style={[font.h2, { marginVertical: space.sm, letterSpacing: 1 }]}>
                 {purchase.code}
               </Text>
-              <P small>Keep this code. Enter it on another phone or computer to unlock Waymark there too.</P>
+              <P small>Keep this code. You can use it to unlock Waymark on up to 3 of your own devices.</P>
             </>
           ) : (
             <P style={{ marginTop: space.sm }}>Everything is unlocked on this device.</P>

@@ -39,29 +39,73 @@ describe("checkout", () => {
   });
 });
 
+const D1 = "aaaaaaaaaaa1", D2 = "aaaaaaaaaaa2", D3 = "aaaaaaaaaaa3", D4 = "aaaaaaaaaaa4";
+
+function fakeStripe(opts: { paid?: boolean; refunded?: boolean; devices?: string; found?: boolean } = {}) {
+  const pi = { id: "pi_1", metadata: { plan: "standard", unlock_code: "WM-ABCD-2345", devices: opts.devices ?? "" }, latest_charge: "ch_1" };
+  const update = vi.fn(async (_id: string, p: { metadata: { devices: string } }) => {
+    pi.metadata.devices = p.metadata.devices;
+    return pi;
+  });
+  const stripe = {
+    checkout: {
+      sessions: {
+        retrieve: vi.fn(async () => ({
+          payment_status: opts.paid === false ? "unpaid" : "paid",
+          metadata: { plan: "standard", unlock_code: "WM-ABCD-2345" },
+          payment_intent: pi,
+        })),
+      },
+    },
+    paymentIntents: { search: vi.fn(async () => ({ data: opts.found === false ? [] : [pi] })), update },
+    charges: { retrieve: vi.fn(async () => ({ refunded: !!opts.refunded })) },
+  } as unknown as Stripe;
+  return { stripe, pi, update };
+}
+
 describe("verify and restore", () => {
-  const paid = { payment_status: "paid", metadata: { plan: "standard", unlock_code: "WM-ABCD-2345" } };
-
-  it("unlocks a paid session only", async () => {
-    const retrieve = vi.fn().mockResolvedValueOnce(paid).mockResolvedValueOnce({ ...paid, payment_status: "unpaid" });
-    const stripe = { checkout: { sessions: { retrieve } } } as unknown as Stripe;
-    expect(await verifySession(stripe, "cs_test_abc123")).toEqual({ plan: "standard", code: "WM-ABCD-2345" });
-    expect(await verifySession(stripe, "cs_test_abc123")).toBeNull();
-    expect(await verifySession(stripe, "not-a-session")).toBeNull();
+  it("unlocks a paid session and records the device", async () => {
+    const { stripe, pi } = fakeStripe();
+    expect(await verifySession(stripe, "cs_test_abc123", D1)).toEqual({ plan: "standard", code: "WM-ABCD-2345" });
+    expect(pi.metadata.devices).toBe(D1);
   });
 
-  it("restores by code, but not after a refund", async () => {
-    const pi = { metadata: { plan: "standard" }, latest_charge: "ch_1" };
-    const search = vi.fn().mockResolvedValue({ data: [pi] });
-    const charges = vi.fn().mockResolvedValueOnce({ refunded: false }).mockResolvedValueOnce({ refunded: true });
-    const stripe = { paymentIntents: { search }, charges: { retrieve: charges } } as unknown as Stripe;
-    expect(await restoreByCode(stripe, "wm abcd 2345")).toEqual({ plan: "standard", code: "WM-ABCD-2345" });
-    expect(search.mock.calls[0]![0].query).toBe("metadata['unlock_code']:'WM-ABCD-2345' AND status:'succeeded'");
-    expect(await restoreByCode(stripe, "WM-ABCD-2345")).toBeNull();
+  it("refuses unpaid sessions, bad ids and missing devices", async () => {
+    expect(await verifySession(fakeStripe({ paid: false }).stripe, "cs_test_abc123", D1)).toBeNull();
+    expect(await verifySession(fakeStripe().stripe, "not-a-session", D1)).toBeNull();
+    expect(await verifySession(fakeStripe().stripe, "cs_test_abc123", "x")).toBeNull();
   });
 
-  it("finds nothing for an unknown code", async () => {
-    const stripe = { paymentIntents: { search: vi.fn().mockResolvedValue({ data: [] }) } } as unknown as Stripe;
-    expect(await restoreByCode(stripe, "WM-ZZZZ-9999")).toBeNull();
+  it("restores by code on up to 3 devices, then refuses a 4th", async () => {
+    const { stripe, pi } = fakeStripe({ devices: D1 });
+    expect(await restoreByCode(stripe, "wm abcd 2345", D2)).toEqual({ plan: "standard", code: "WM-ABCD-2345" });
+    expect(await restoreByCode(stripe, "WM-ABCD-2345", D3)).not.toBe("limit");
+    expect(pi.metadata.devices).toBe(`${D1},${D2},${D3}`);
+    expect(await restoreByCode(stripe, "WM-ABCD-2345", D4)).toBe("limit");
+  });
+
+  it("lets a device that already used the code unlock again without using a slot", async () => {
+    const { stripe, update } = fakeStripe({ devices: `${D1},${D2},${D3}` });
+    expect(await restoreByCode(stripe, "WM-ABCD-2345", D2)).toEqual({ plan: "standard", code: "WM-ABCD-2345" });
+    expect(update).not.toHaveBeenCalled();
+  });
+
+  it("counts the shared return link like a code", async () => {
+    const { stripe } = fakeStripe({ devices: `${D1},${D2},${D3}` });
+    expect(await verifySession(stripe, "cs_test_abc123", D4)).toBe("limit");
+  });
+
+  it("does not unlock refunded purchases or unknown codes", async () => {
+    expect(await restoreByCode(fakeStripe({ refunded: true }).stripe, "WM-ABCD-2345", D1)).toBeNull();
+    expect(await verifySession(fakeStripe({ refunded: true }).stripe, "cs_test_abc123", D1)).toBeNull();
+    expect(await restoreByCode(fakeStripe({ found: false }).stripe, "WM-ZZZZ-9999", D1)).toBeNull();
+  });
+
+  it("searches Stripe with a safe, exact query", async () => {
+    const { stripe } = fakeStripe();
+    await restoreByCode(stripe, "wm abcd 2345", D1);
+    expect((stripe.paymentIntents.search as ReturnType<typeof vi.fn>).mock.calls[0]![0].query).toBe(
+      "metadata['unlock_code']:'WM-ABCD-2345' AND status:'succeeded'",
+    );
   });
 });

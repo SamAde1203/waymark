@@ -42,6 +42,17 @@ export interface State {
   unlocked: boolean;
   /** Set after a real purchase; the code unlocks Waymark on another device. */
   purchase: { plan: string; code: string; at: string } | null;
+  /** Random, anonymous id for this install. Counts towards an unlock code's 3-device limit. */
+  deviceId: string;
+}
+
+function newDeviceId(): string {
+  const chars = "abcdefghijklmnopqrstuvwxyz0123456789";
+  const bytes = new Uint8Array(12);
+  // Web browsers have crypto; fall back to Math.random where a native runtime lacks it (not a secret).
+  if (typeof globalThis.crypto?.getRandomValues === "function") globalThis.crypto.getRandomValues(bytes);
+  else for (let i = 0; i < bytes.length; i++) bytes[i] = Math.floor(Math.random() * 256);
+  return Array.from(bytes, (b) => chars[b % chars.length]).join("");
 }
 
 const KEY = "waymark:v1";
@@ -58,6 +69,7 @@ const initial: State = {
   mistakes: [],
   unlocked: false,
   purchase: null,
+  deviceId: "",
 };
 
 let state: State = initial;
@@ -72,6 +84,10 @@ export async function loadState(): Promise<void> {
     if (state.unlocked && !state.purchase && !__DEV__) state = { ...state, unlocked: false };
   } catch {
     // Storage can be unavailable (private browsing); the app still works for this session.
+  }
+  if (!/^[a-z0-9]{12}$/.test(state.deviceId)) {
+    state = { ...state, deviceId: newDeviceId() };
+    persist();
   }
   loaded = true;
   listeners.forEach((l) => l());
@@ -96,7 +112,7 @@ export function setState(update: (s: State) => State): void {
 }
 
 export function resetState(): void {
-  setState(() => ({ ...initial }));
+  setState((s) => ({ ...initial, unlocked: s.unlocked, purchase: s.purchase, deviceId: s.deviceId }));
 }
 
 function subscribe(l: () => void) {

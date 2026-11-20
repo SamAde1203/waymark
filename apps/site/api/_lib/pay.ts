@@ -76,20 +76,46 @@ export async function createCheckout(
 }
 
 export type Unlock = { plan: Plan; code: string };
+/** "limit" means the code is already in use on MAX_DEVICES other devices. */
+export type UnlockResult = Unlock | "limit" | null;
 
-export async function verifySession(stripe: Stripe, sessionId: string): Promise<Unlock | null> {
-  if (!/^cs_(test|live)_[A-Za-z0-9]+$/.test(sessionId)) return null;
-  const s = await stripe.checkout.sessions.retrieve(sessionId);
+export const MAX_DEVICES = 3;
+export const DEVICE_RE = /^[a-z0-9]{12}$/;
+
+/**
+ * Records `device` against the purchase, in the PaymentIntent's metadata ("devices", comma-separated).
+ * A device that is already listed can always unlock again. To reset a customer's devices, clear the
+ * "devices" metadata on their payment in the Stripe dashboard.
+ */
+export async function claimDevice(stripe: Stripe, pi: Stripe.PaymentIntent, device: string): Promise<boolean> {
+  const devices = (pi.metadata?.devices ?? "").split(",").filter((d) => DEVICE_RE.test(d));
+  if (devices.includes(device)) return true;
+  if (devices.length >= MAX_DEVICES) return false;
+  await stripe.paymentIntents.update(pi.id, { metadata: { devices: [...devices, device].join(",") } });
+  return true;
+}
+
+async function refunded(stripe: Stripe, pi: Stripe.PaymentIntent): Promise<boolean> {
+  const charge = typeof pi.latest_charge === "string" ? await stripe.charges.retrieve(pi.latest_charge) : pi.latest_charge;
+  return !!charge?.refunded;
+}
+
+export async function verifySession(stripe: Stripe, sessionId: string, device: string): Promise<UnlockResult> {
+  if (!/^cs_(test|live)_[A-Za-z0-9]+$/.test(sessionId) || !DEVICE_RE.test(device)) return null;
+  const s = await stripe.checkout.sessions.retrieve(sessionId, { expand: ["payment_intent"] });
   if (s.payment_status !== "paid") return null;
   const plan = s.metadata?.plan;
   const code = s.metadata?.unlock_code;
-  if (!isPlan(plan) || !code || !CODE_RE.test(code)) return null;
-  return { plan, code };
+  const pi = s.payment_intent;
+  if (!isPlan(plan) || !code || !CODE_RE.test(code) || !pi || typeof pi === "string") return null;
+  if (await refunded(stripe, pi)) return null;
+  // The return link could be shared too, so it counts towards the device limit like a code.
+  return (await claimDevice(stripe, pi, device)) ? { plan, code } : "limit";
 }
 
-export async function restoreByCode(stripe: Stripe, input: string): Promise<Unlock | null> {
+export async function restoreByCode(stripe: Stripe, input: string, device: string): Promise<UnlockResult> {
   const code = normaliseCode(input);
-  if (!code) return null;
+  if (!code || !DEVICE_RE.test(device)) return null;
   // `code` matches CODE_RE, so it is safe to place inside the search query.
   const res = await stripe.paymentIntents.search({
     query: `metadata['unlock_code']:'${code}' AND status:'succeeded'`,
@@ -98,8 +124,8 @@ export async function restoreByCode(stripe: Stripe, input: string): Promise<Unlo
   const pi = res.data[0];
   if (!pi) return null;
   // A refunded purchase no longer unlocks.
-  const charge = typeof pi.latest_charge === "string" ? await stripe.charges.retrieve(pi.latest_charge) : pi.latest_charge;
-  if (charge?.refunded) return null;
+  if (await refunded(stripe, pi)) return null;
   const plan = pi.metadata?.plan;
-  return isPlan(plan) ? { plan, code } : null;
+  if (!isPlan(plan)) return null;
+  return (await claimDevice(stripe, pi, device)) ? { plan, code } : "limit";
 }
