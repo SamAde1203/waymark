@@ -48,7 +48,10 @@ export async function createCheckout(
     // The buyer ticked the box on Waymark's own buy screen before reaching Stripe (see /refunds).
     consent_immediate_access: opts.consentAt,
   };
-  const session = await stripe.checkout.sessions.create({
+  // Waymark is the seller (see /terms), so Stripe's merchant-of-record service stays off for every
+  // checkout, whatever the account default. Not in this SDK version's types, hence the spread.
+  const params: Stripe.Checkout.SessionCreateParams & { managed_payments?: { enabled: boolean } } = {
+    managed_payments: { enabled: false },
     mode: "payment",
     line_items: [
       {
@@ -66,7 +69,8 @@ export async function createCheckout(
     payment_intent_data: { description: `${plan.name} · unlock code ${code}`, metadata },
     success_url: `${opts.origin}/app/unlock?session_id={CHECKOUT_SESSION_ID}`,
     cancel_url: `${opts.origin}/app/unlock`,
-  });
+  };
+  const session = await stripe.checkout.sessions.create(params);
   if (!session.url) throw new Error("Stripe returned no checkout URL");
   return session.url;
 }

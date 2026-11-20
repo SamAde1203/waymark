@@ -31,6 +31,7 @@ describe("checkout", () => {
     expect(url).toBe("https://checkout.stripe.com/x");
     const arg = create.mock.calls[0]![0];
     expect(arg.mode).toBe("payment");
+    expect(arg.managed_payments).toEqual({ enabled: false });
     expect(arg.line_items[0].price_data).toMatchObject({ currency: "gbp", unit_amount: 999 });
     expect(arg.payment_intent_data.metadata).toMatchObject({ plan: "standard", unlock_code: "WM-ABCD-2345" });
     expect(arg.metadata.consent_immediate_access).toBe("2026-11-20T21:30:00.000Z");
