@@ -42,7 +42,7 @@ describe("checkout", () => {
 const D1 = "aaaaaaaaaaa1", D2 = "aaaaaaaaaaa2", D3 = "aaaaaaaaaaa3", D4 = "aaaaaaaaaaa4";
 
 function fakeStripe(opts: { paid?: boolean; refunded?: boolean; devices?: string; found?: boolean } = {}) {
-  const pi = { id: "pi_1", metadata: { plan: "standard", unlock_code: "WM-ABCD-2345", devices: opts.devices ?? "" }, latest_charge: "ch_1" };
+  const pi = { id: "pi_1", created: 1795200000, receipt_email: "a@b.co", metadata: { plan: "standard", unlock_code: "WM-ABCD-2345", devices: opts.devices ?? "" }, latest_charge: "ch_1" };
   const update = vi.fn(async (_id: string, p: { metadata: { devices: string } }) => {
     pi.metadata.devices = p.metadata.devices;
     return pi;
@@ -58,6 +58,7 @@ function fakeStripe(opts: { paid?: boolean; refunded?: boolean; devices?: string
       },
     },
     paymentIntents: { search: vi.fn(async () => ({ data: opts.found === false ? [] : [pi] })), update },
+    customers: { search: vi.fn(async () => ({ data: [] })) },
     charges: { retrieve: vi.fn(async () => ({ refunded: !!opts.refunded })) },
   } as unknown as Stripe;
   return { stripe, pi, update };
@@ -107,5 +108,35 @@ describe("verify and restore", () => {
     expect((stripe.paymentIntents.search as ReturnType<typeof vi.fn>).mock.calls[0]![0].query).toBe(
       "metadata['unlock_code']:'WM-ABCD-2345' AND status:'succeeded'",
     );
+  });
+});
+
+describe("codes made on the admin page", () => {
+  function manualStripe(meta: Record<string, string> = {}) {
+    const cus = {
+      id: "cus_1", created: 1795200000, name: "Ada", email: null,
+      metadata: { source: "manual", plan: "standard", unlock_code: "WM-CASH-2345", devices: "", ...meta },
+    };
+    const update = vi.fn(async (_id: string, p: { metadata: Record<string, string> }) => {
+      Object.assign(cus.metadata, p.metadata);
+      return cus;
+    });
+    const stripe = {
+      paymentIntents: { search: vi.fn(async () => ({ data: [] })) },
+      customers: { search: vi.fn(async () => ({ data: [cus] })), update },
+    } as unknown as Stripe;
+    return { stripe, cus };
+  }
+
+  it("unlock like bought codes, with the same 3-device limit", async () => {
+    const { stripe, cus } = manualStripe();
+    for (const d of [D1, D2, D3]) expect(await restoreByCode(stripe, "WM-CASH-2345", d)).toEqual({ plan: "standard", code: "WM-CASH-2345" });
+    expect(cus.metadata.devices).toBe(`${D1},${D2},${D3}`);
+    expect(await restoreByCode(stripe, "WM-CASH-2345", D4)).toBe("limit");
+  });
+
+  it("stop working once cancelled", async () => {
+    const { stripe } = manualStripe({ cancelled: "yes" });
+    expect(await restoreByCode(stripe, "WM-CASH-2345", D1)).toBeNull();
   });
 });

@@ -1,0 +1,258 @@
+---
+// Private admin page: make unlock codes for cash sales, look up any code, reset devices, cancel codes.
+// Not linked from anywhere, kept out of search engines, and every action needs ADMIN_PASSWORD.
+import "../styles/global.css";
+---
+
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex, nofollow" />
+    <title>Waymark admin</title>
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <style is:global>
+      body { background: var(--bg-2); }
+      .adm { max-width: 860px; margin: 0 auto; padding: 24px 16px 64px; }
+      .adm h1 { font-size: 26px; margin: 0 0 4px; }
+      .panel { background: #fff; border: 1px solid var(--line); border-radius: var(--radius); padding: 20px; margin-top: 20px; }
+      .panel h2 { font-size: 19px; margin: 0 0 12px; }
+      .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+      @media (max-width: 640px) { .grid { grid-template-columns: 1fr; } }
+      label { display: block; font-weight: 600; font-size: 14px; margin-bottom: 4px; }
+      input, textarea { width: 100%; box-sizing: border-box; font: inherit; padding: 10px 12px; border: 1px solid var(--line); border-radius: 10px; }
+      textarea { min-height: 60px; }
+      .row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin-top: 12px; }
+      .muted { color: var(--ink-2); font-size: 14px; }
+      .msg { margin-top: 12px; padding: 10px 12px; border-radius: 10px; font-size: 15px; }
+      .msg.err { background: var(--red-tint); color: var(--red-ink); }
+      .msg.ok { background: var(--emerald-tint); }
+      .code { font-size: 28px; font-weight: 800; letter-spacing: 1px; margin: 6px 0; }
+      .mode { display: inline-block; font-size: 13px; font-weight: 700; padding: 2px 8px; border-radius: 99px; background: #fff7e6; color: #b54708; }
+      .mode.live { background: var(--emerald-tint); color: var(--emerald-ink); }
+      table { width: 100%; border-collapse: collapse; font-size: 14px; }
+      th, td { text-align: left !important; padding: 8px 6px; border-bottom: 1px solid var(--line); vertical-align: top; }
+      .hidden { display: none !important; }
+      pre.share { white-space: pre-wrap; background: var(--bg-2); padding: 10px 12px; border-radius: 10px; font: inherit; font-size: 14px; }
+    </style>
+  </head>
+  <body>
+    <main class="adm">
+      <h1>Waymark admin <span id="mode" class="mode hidden"></span></h1>
+      <p class="muted">Make unlock codes for people who pay by cash or bank transfer, and manage existing codes.</p>
+
+      <section id="login" class="panel">
+        <h2>Sign in</h2>
+        <form id="loginForm">
+          <label for="pw">Admin password</label>
+          <input id="pw" type="password" autocomplete="current-password" required />
+          <div class="row"><button class="btn" type="submit">Sign in</button></div>
+        </form>
+        <div id="loginMsg"></div>
+      </section>
+
+      <div id="app" class="hidden">
+        <section class="panel">
+          <h2>Make a code</h2>
+          <form id="createForm">
+            <div class="grid">
+              <div><label for="c-name">Name</label><input id="c-name" name="name" required maxlength="100" /></div>
+              <div><label for="c-email">Email (optional)</label><input id="c-email" name="email" type="email" maxlength="200" /></div>
+              <div><label for="c-amount">Amount paid in £ (optional)</label><input id="c-amount" name="amount" inputmode="decimal" placeholder="9.99" /></div>
+              <div><label for="c-note">Note (optional)</label><input id="c-note" name="note" maxlength="400" placeholder="e.g. paid cash at church" /></div>
+            </div>
+            <div class="row"><button class="btn" type="submit">Make code</button></div>
+          </form>
+          <div id="createOut"></div>
+        </section>
+
+        <section class="panel">
+          <h2>Look up a code</h2>
+          <p class="muted">Works for card purchases and codes made here.</p>
+          <form id="lookupForm" class="row">
+            <input id="l-code" placeholder="WM-XXXX-XXXX" style="max-width: 220px" required />
+            <button class="btn secondary" type="submit">Look up</button>
+          </form>
+          <div id="lookupOut"></div>
+        </section>
+
+        <section class="panel">
+          <h2>Codes made here</h2>
+          <div class="row" style="margin-top: 0"><button id="refresh" class="btn secondary small" type="button">Refresh</button></div>
+          <div id="listOut" class="muted" style="margin-top: 12px">Loading…</div>
+        </section>
+
+        <div class="row"><button id="logout" class="btn secondary small" type="button">Sign out</button></div>
+      </div>
+    </main>
+
+    <script>
+      const KEY = "waymark-admin";
+      const $ = (id: string) => document.getElementById(id)!;
+      const esc = (s: unknown) =>
+        String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]!);
+      const money = (p: number | null) => (p ? `£${(p / 100).toFixed(2)}` : "");
+      const day = (iso: string) => new Date(iso).toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" });
+
+      type View = {
+        code: string; kind: "payment" | "manual"; active: boolean; devicesUsed: number; name: string | null;
+        email: string | null; amountPence: number | null; note: string | null; created: string;
+      };
+
+      function pw(): string {
+        try { return sessionStorage.getItem(KEY) ?? ""; } catch { return ""; }
+      }
+
+      async function call(action: string, data: Record<string, string> = {}, password = pw()) {
+        const r = await fetch("/api/admin", {
+          method: "POST",
+          headers: { "Content-Type": "application/json", Authorization: `Bearer ${password}` },
+          body: JSON.stringify({ action, ...data }),
+        });
+        const body = await r.json().catch(() => ({ error: "Unexpected reply from the server" }));
+        if (r.status === 401) { signOut(); throw new Error("Please sign in again."); }
+        if (!r.ok) throw new Error(body.error ?? "Something went wrong");
+        return body;
+      }
+
+      function show(el: HTMLElement, html: string, kind: "ok" | "err" | "" = "") {
+        el.innerHTML = kind ? `<div class="msg ${kind}">${html}</div>` : html;
+      }
+
+      function shareText(v: View) {
+        return `Hello ${v.name ?? ""},\n\nThank you for buying Waymark. Your unlock code is: ${v.code}\n\n` +
+          `To use it, open https://www.waymarkprep.co.uk/app, go to Settings, choose "Unlock or enter a code" and type it in. ` +
+          `It works on up to 3 of your own devices.\n\nGood luck with your test!\nWaymark`;
+      }
+
+      function detail(v: View) {
+        const status = v.active ? "Active" : v.kind === "payment" ? "Refunded" : "Cancelled";
+        return `<p class="code">${esc(v.code)}</p>
+          <p>${esc(v.name || v.email || "")}${v.kind === "payment" ? " · card purchase" : " · made here"} · ${status} ·
+          ${v.devicesUsed} of 3 devices used · ${day(v.created)}${v.amountPence ? " · " + money(v.amountPence) : ""}</p>
+          ${v.note ? `<p class="muted">${esc(v.note)}</p>` : ""}
+          <div class="row">
+            <button class="btn secondary small" data-act="reset" data-code="${esc(v.code)}" ${v.devicesUsed ? "" : "disabled"}>Reset devices</button>
+            ${v.kind === "manual" && v.active ? `<button class="btn secondary small" data-act="cancel" data-code="${esc(v.code)}">Cancel code</button>` : ""}
+          </div>`;
+      }
+
+      async function loadList() {
+        const out = $("listOut");
+        try {
+          const rows: View[] = await call("list");
+          if (!rows.length) return show(out, "No codes made here yet.");
+          const total = rows.filter((r) => r.active).reduce((t, r) => t + (r.amountPence ?? 0), 0);
+          show(out, `<table><thead><tr><th>Code</th><th>Name</th><th>Paid</th><th>Devices</th><th>Made</th><th>Status</th></tr></thead><tbody>${rows
+            .map((r) => `<tr><td><a href="#" data-look="${esc(r.code)}">${esc(r.code)}</a></td><td>${esc(r.name)}${r.note ? `<br><span class="muted">${esc(r.note)}</span>` : ""}</td>
+              <td>${money(r.amountPence)}</td><td>${r.devicesUsed}/3</td><td>${day(r.created)}</td><td>${r.active ? "Active" : "Cancelled"}</td></tr>`)
+            .join("")}</tbody></table><p class="muted">${rows.length} code${rows.length === 1 ? "" : "s"} · ${money(total) || "£0.00"} recorded on active codes. New codes can take up to a minute to appear here.</p>`);
+        } catch (e) {
+          show(out, esc((e as Error).message), "err");
+        }
+      }
+
+      async function lookup(code: string) {
+        const out = $("lookupOut");
+        show(out, "Looking up…");
+        try { show(out, detail(await call("lookup", { code }))); } catch (e) { show(out, esc((e as Error).message), "err"); }
+      }
+
+      function signIn(mode: string) {
+        $("login").classList.add("hidden");
+        $("app").classList.remove("hidden");
+        const m = $("mode");
+        m.textContent = mode === "live" ? "Live" : "Test mode";
+        m.className = `mode ${mode === "live" ? "live" : ""}`;
+        loadList();
+      }
+
+      function signOut() {
+        try { sessionStorage.removeItem(KEY); } catch {}
+        $("app").classList.add("hidden");
+        $("login").classList.remove("hidden");
+        $("mode").classList.add("hidden");
+      }
+
+      $("loginForm").addEventListener("submit", async (e) => {
+        e.preventDefault();
+        const password = ($("pw") as HTMLInputElement).value;
+        show($("loginMsg"), "Checking…");
+        try {
+          const r = await fetch("/api/admin", {
+            method: "POST",
+            headers: { "Content-Type": "application/json", Authorization: `Bearer ${password}` },
+            body: JSON.stringify({ action: "check" }),
+          });
+          const body = await r.json().catch(() => ({}));
+          if (!r.ok) return show($("loginMsg"), esc(body.error ?? "Could not sign in"), "err");
+          try { sessionStorage.setItem(KEY, password); } catch {}
+          ($("pw") as HTMLInputElement).value = "";
+          show($("loginMsg"), "");
+          signIn(body.mode);
+        } catch {
+          show($("loginMsg"), "Could not reach the server.", "err");
+        }
+      });
+
+      $("createForm").addEventListener("submit", async (e) => {
+        e.preventDefault();
+        const form = e.target as HTMLFormElement;
+        const data = Object.fromEntries(new FormData(form)) as Record<string, string>;
+        const out = $("createOut");
+        show(out, "Making code…");
+        try {
+          const v: View = await call("create", data);
+          form.reset();
+          show(out, `<div class="msg ok"><strong>Code made for ${esc(v.name)}</strong><p class="code">${esc(v.code)}</p>
+            <p class="muted">Message you can send them:</p><pre class="share" id="share">${esc(shareText(v))}</pre>
+            <div class="row"><button class="btn small" type="button" id="copy">Copy message</button>
+            <button class="btn secondary small" type="button" id="copyCode">Copy code only</button></div>
+            <p class="muted">The code works within about a minute.</p></div>`);
+          $("copy").addEventListener("click", () => navigator.clipboard.writeText(shareText(v)).then(() => ($("copy").textContent = "Copied")));
+          $("copyCode").addEventListener("click", () => navigator.clipboard.writeText(v.code).then(() => ($("copyCode").textContent = "Copied")));
+          setTimeout(loadList, 4000);
+        } catch (e) {
+          show(out, esc((e as Error).message), "err");
+        }
+      });
+
+      $("lookupForm").addEventListener("submit", (e) => {
+        e.preventDefault();
+        lookup(($("l-code") as HTMLInputElement).value);
+      });
+
+      document.addEventListener("click", async (e) => {
+        const t = e.target as HTMLElement;
+        const look = t.closest<HTMLElement>("[data-look]");
+        if (look) {
+          e.preventDefault();
+          ($("l-code") as HTMLInputElement).value = look.dataset.look!;
+          lookup(look.dataset.look!);
+          $("lookupForm").scrollIntoView({ behavior: "smooth", block: "center" });
+          return;
+        }
+        const btn = t.closest<HTMLButtonElement>("button[data-act]");
+        if (!btn) return;
+        const { act, code } = btn.dataset as { act: "reset" | "cancel"; code: string };
+        const ask = act === "reset"
+          ? `Reset devices for ${code}? Its owner can then unlock 3 devices again.`
+          : `Cancel ${code}? It will stop unlocking Waymark on new devices.`;
+        if (!confirm(ask)) return;
+        btn.disabled = true;
+        try {
+          show($("lookupOut"), detail(await call(act, { code })));
+          loadList();
+        } catch (err) {
+          show($("lookupOut"), esc((err as Error).message), "err");
+        }
+      });
+
+      $("refresh").addEventListener("click", loadList);
+      $("logout").addEventListener("click", signOut);
+
+      if (pw()) call("check").then((b) => signIn(b.mode)).catch(() => signOut());
+    </script>
+  </body>
+</html>
