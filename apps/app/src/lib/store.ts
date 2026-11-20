@@ -40,6 +40,8 @@ export interface State {
   /** item ids answered wrongly and not yet answered right since */
   mistakes: string[];
   unlocked: boolean;
+  /** Set after a real purchase; the code unlocks Waymark on another device. */
+  purchase: { plan: string; code: string; at: string } | null;
 }
 
 const KEY = "waymark:v1";
@@ -55,6 +57,7 @@ const initial: State = {
   flagged: [],
   mistakes: [],
   unlocked: false,
+  purchase: null,
 };
 
 let state: State = initial;
