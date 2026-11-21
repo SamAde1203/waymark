@@ -2728,7 +2728,7 @@
     "item_id": "c4_handel_single_a",
     "fact_id": "c4_handel",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -2763,14 +2763,17 @@
       }
     ],
     "explanation_simple": "George Frederick Handel, who became a British citizen, wrote the Water Music for King George I and the oratorio Messiah.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_elgar_single_a",
     "fact_id": "c4_elgar",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -2805,14 +2808,17 @@
       }
     ],
     "explanation_simple": "Sir Edward Elgar composed the Pomp and Circumstance Marches. March No 1 is known as 'Land of Hope and Glory'.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_holst_single_a",
     "fact_id": "c4_holst",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -2827,17 +2833,17 @@
     "options": [
       {
         "id": "a",
-        "text": "Benjamin Britten",
+        "text": "Sir Edward Elgar",
         "is_correct": false
       },
       {
         "id": "b",
-        "text": "Henry Purcell",
+        "text": "Benjamin Britten",
         "is_correct": false
       },
       {
         "id": "c",
-        "text": "Sir Edward Elgar",
+        "text": "Henry Purcell",
         "is_correct": false
       },
       {
@@ -2846,8 +2852,11 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Gustav Holst's best-known work is The Planets, a suite in seven parts.",
-    "review": {}
+    "explanation_simple": "The Planets is a suite of pieces themed around the planets of the solar system. Holst adapted Jupiter, part of the suite, as the tune for the hymn I vow to thee my country.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -3349,7 +3358,7 @@
     "item_id": "c4_burns_single_a",
     "fact_id": "c4_robert_burns",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -3384,7 +3393,10 @@
       }
     ],
     "explanation_simple": "Robert Burns, known in Scotland as 'The Bard', wrote 'Auld Lang Syne', which is sung at New Year celebrations.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -8463,7 +8475,7 @@
     "item_id": "c4_handel_tf_b",
     "fact_id": "c4_handel",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -8488,14 +8500,17 @@
       }
     ],
     "explanation_simple": "Handel was born in Germany and spent many years in the UK. He wrote the Water Music for George I and Music for the Royal Fireworks for George II.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_elgar_tf_b",
     "fact_id": "c4_elgar",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -8520,7 +8535,10 @@
       }
     ],
     "explanation_simple": "Elgar is best known for his Pomp and Circumstance Marches. March No. 1, 'Land of Hope and Glory', is usually played at the last night of the Proms.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -8807,7 +8825,7 @@
     "item_id": "c4_burns_tf_b",
     "fact_id": "c4_robert_burns",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -8831,8 +8849,11 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Robert Burns was a Scottish poet who wrote in Scots, English and a mix of both. His best-known work is Auld Lang Syne.",
-    "review": {}
+    "explanation_simple": "Robert Burns was a Scottish poet. He wrote in the Scots language, English with some Scottish words, and standard English. His best-known work is probably the song Auld Lang Syne.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -10004,7 +10025,7 @@
     "item_id": "c4_composers_multi_a",
     "fact_id": "c4_elgar",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -10015,31 +10036,34 @@
     },
     "question_type": "multi",
     "selections_required": 2,
-    "question_text": "Which TWO composers are correctly matched with their work?",
+    "question_text": "Which TWO composers are correctly matched with their work? (choose 2)",
     "options": [
       {
         "id": "a",
-        "text": "Benjamin Britten: Water Music",
+        "text": "Holst: Messiah",
         "is_correct": false
       },
       {
         "id": "b",
-        "text": "Handel: Peter Grimes",
+        "text": "Handel: The Planets",
         "is_correct": false
       },
       {
         "id": "c",
-        "text": "Sir Edward Elgar: Pomp and Circumstance Marches",
+        "text": "Gustav Holst: The Planets",
         "is_correct": true
       },
       {
         "id": "d",
-        "text": "Gustav Holst: The Planets",
+        "text": "Sir Edward Elgar: Pomp and Circumstance Marches",
         "is_correct": true
       }
     ],
-    "explanation_simple": "Holst wrote The Planets and Elgar the Pomp and Circumstance Marches. Handel wrote the Water Music, and Britten wrote Peter Grimes.",
-    "review": {}
+    "explanation_simple": "Holst wrote The Planets and Elgar the Pomp and Circumstance Marches. Handel wrote the Water Music, Music for the Royal Fireworks and Messiah.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,

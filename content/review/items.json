@@ -2699,6 +2699,18 @@
     "note": "",
     "reviewed_at": "2026-11-21"
   },
+  "c4_burns_single_a": {
+    "decision": "approved",
+    "fingerprint": "150b148150bf6cde",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_burns_tf_b": {
+    "decision": "approved",
+    "fingerprint": "6228b5db55a2194d",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
   "c4_capability_brown_single_a": {
     "decision": "approved",
     "fingerprint": "4ba7fd3a5a8205e4",
@@ -2841,6 +2853,12 @@
     "decision": "approved",
     "fingerprint": "abd418c8b3ad6656",
     "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_composers_multi_a": {
+    "decision": "approved",
+    "fingerprint": "41c2ac378b0b5773",
+    "note": "Matches the book (checked by Claude)",
     "reviewed_at": "2026-11-21"
   },
   "c4_conan_doyle_single_a": {
@@ -3015,6 +3033,18 @@
     "decision": "approved",
     "fingerprint": "af7c1cb27e264cdb",
     "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_elgar_single_a": {
+    "decision": "approved",
+    "fingerprint": "17ac9e957bf48808",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_elgar_tf_b": {
+    "decision": "approved",
+    "fingerprint": "1f3cef0bb8fd9e2a",
+    "note": "Matches the book (checked by Claude)",
     "reviewed_at": "2026-11-21"
   },
   "c4_ellen_macarthur_single_a": {
@@ -3215,6 +3245,18 @@
     "note": "",
     "reviewed_at": "2026-11-21"
   },
+  "c4_handel_single_a": {
+    "decision": "approved",
+    "fingerprint": "ef9fd7c6a0763390",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_handel_tf_b": {
+    "decision": "approved",
+    "fingerprint": "570b11b6221dd7dc",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
   "c4_hanukkah_single_a": {
     "decision": "approved",
     "fingerprint": "63c2589a668b02cd",
@@ -3267,6 +3309,12 @@
     "decision": "approved",
     "fingerprint": "ed0d159151173328",
     "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_holst_single_a": {
+    "decision": "approved",
+    "fingerprint": "a4ceeec006c83a4f",
+    "note": "Matches the book (checked by Claude)",
     "reviewed_at": "2026-11-21"
   },
   "c4_horse_racing_multi_a": {

@@ -171,7 +171,7 @@ ITEMS = [
          e='Sir Edwin Lutyens designed New Delhi to be the seat of government in India. After the First World War he was responsible for many war memorials, including the Cenotaph.'),
     dict(id="c4_burns_tf_b", fact="c4_robert_burns", sec=ART, t="tf",
          q="Robert Burns, known in Scotland as 'The Bard', wrote 'Auld Lang Syne'.", c=[True],
-         e="Robert Burns was a Scottish poet who wrote in Scots, English and a mix of both. His best-known work is Auld Lang Syne."),
+         e="Robert Burns was a Scottish poet. He wrote in the Scots language, English with some Scottish words, and standard English. His best-known work is probably the song Auld Lang Syne."),
     dict(id="c4_owen_single_b", fact="c4_wilfred_owen", sec=ART, t="single",
          q="Which poet is known for poems about the First World War, such as 'Anthem for Doomed Youth'?", c=["Wilfred Owen"],
          w=["William Wordsworth", "Robert Burns", "John Keats"],
