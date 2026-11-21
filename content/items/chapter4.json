@@ -6613,7 +6613,7 @@
     "item_id": "c4_dylan_thomas_single_a",
     "fact_id": "c4_dylan_thomas",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -6648,7 +6648,10 @@
       }
     ],
     "explanation_simple": "Dylan Thomas was a Welsh poet. His best-known works include Under Milk Wood.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -10295,7 +10298,7 @@
     "item_id": "c4_poets_scotland_wales_multi_a",
     "fact_id": "c4_robert_burns",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -10330,7 +10333,10 @@
       }
     ],
     "explanation_simple": "Robert Burns was Scottish and Dylan Thomas Welsh. Wordsworth and Owen were English.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,

@@ -2963,6 +2963,12 @@
     "note": "",
     "reviewed_at": "2026-11-21"
   },
+  "c4_dylan_thomas_single_a": {
+    "decision": "approved",
+    "fingerprint": "7d1296d8eea1ff6c",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
   "c4_ealing_single_a": {
     "decision": "approved",
     "fingerprint": "dc668e4184d29970",
@@ -3681,6 +3687,12 @@
     "decision": "approved",
     "fingerprint": "f2328fd80aeabbac",
     "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_poets_scotland_wales_multi_a": {
+    "decision": "approved",
+    "fingerprint": "c027af98b2e52e58",
+    "note": "Matches the book (checked by Claude)",
     "reviewed_at": "2026-11-21"
   },
   "c4_poppy_reason_single_d": {
