@@ -94,7 +94,7 @@ ITEMS = [
          e="The hovercraft (1950s) and the World Wide Web (1990) were developed after 1945. The printing press and steam engine are far older."),
 
     # ---------- new facts (check against the handbook) ----------
-    dict(id="c3_henry_vii_power_single_a", fact="c3_henry_vii_rule", sec=MID, t="single",
+    dict(id="c3_henry_vii_power_single_a", fact="c3_henry_vii_rule", sec=TUD, t="single",
          q="After the Wars of the Roses, what did Henry VII do to strengthen royal power?",
          c=["He reduced the power of the nobles and strengthened central government"],
          w=["He gave the nobles their own armies", "He made Parliament elect the king", "He handed control of England to Scotland"],

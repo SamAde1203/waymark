@@ -41,6 +41,36 @@
     "note": "",
     "reviewed_at": "2026-11-21"
   },
+  "c3_anne_boleyn_single_a": {
+    "decision": "approved",
+    "fingerprint": "05a872d6a743aced",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_anne_cleves_single_a": {
+    "decision": "approved",
+    "fingerprint": "e684af4d8ae12b8c",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_armada_date_single_b": {
+    "decision": "approved",
+    "fingerprint": "e582bc586f4beb16",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_armada_single_a": {
+    "decision": "approved",
+    "fingerprint": "4973f860fd9ae2a8",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_armada_tf_c": {
+    "decision": "approved",
+    "fingerprint": "bee22578864ea4fe",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
   "c3_augustine_single_b": {
     "decision": "approved",
     "fingerprint": "db57922f859255d6",
@@ -86,6 +116,24 @@
   "c3_black_death_single_a": {
     "decision": "approved",
     "fingerprint": "0662c8a35a6d5bb4",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_bloody_mary_single_a": {
+    "decision": "approved",
+    "fingerprint": "648aa1ce7dee474c",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_bosworth_date_single_b": {
+    "decision": "approved",
+    "fingerprint": "98909d48514f4716",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_bosworth_single_a": {
+    "decision": "approved",
+    "fingerprint": "ca515e7fadaa56f3",
     "note": "",
     "reviewed_at": "2026-11-21"
   },
@@ -149,15 +197,87 @@
     "note": "",
     "reviewed_at": "2026-11-21"
   },
+  "c3_catherine_aragon_single_a": {
+    "decision": "approved",
+    "fingerprint": "5432a5dc70e9d8a0",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_catherine_howard_tf_a": {
+    "decision": "approved",
+    "fingerprint": "eb2187dfe1e5ec74",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_catherine_parr_single_a": {
+    "decision": "approved",
+    "fingerprint": "d7b37c3f74e35a87",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_catherine_parr_tf_b": {
+    "decision": "approved",
+    "fingerprint": "600c407f516a9ecc",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_caxton_single_a": {
+    "decision": "approved",
+    "fingerprint": "63df45f1afa7909a",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_caxton_tf_b": {
+    "decision": "approved",
+    "fingerprint": "717a7e200cd45adf",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
   "c3_celtic_language_tf_a": {
     "decision": "approved",
     "fingerprint": "7ff245d3a51d2bd6",
     "note": "",
     "reviewed_at": "2026-11-21"
   },
+  "c3_charles_i_parliament_tf_a": {
+    "decision": "approved",
+    "fingerprint": "9cd864eb29bf3c24",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_charles_i_prayer_single_a": {
+    "decision": "approved",
+    "fingerprint": "ae4632f179170915",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_chaucer_single_a": {
+    "decision": "approved",
+    "fingerprint": "5a9e25f2d86e3a7a",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_chaucer_single_b": {
+    "decision": "approved",
+    "fingerprint": "295abf15223b7cd1",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
   "c3_christian_missionaries_multi_c": {
     "decision": "approved",
     "fingerprint": "4f9cb976987bc4ab",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_civil_war_date_single_c": {
+    "decision": "approved",
+    "fingerprint": "be2a0542dd110575",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_civil_war_single_a": {
+    "decision": "approved",
+    "fingerprint": "2f6e3a3cdaf50f27",
     "note": "",
     "reviewed_at": "2026-11-21"
   },
@@ -215,6 +335,18 @@
     "note": "",
     "reviewed_at": "2026-11-21"
   },
+  "c3_drake_single_a": {
+    "decision": "approved",
+    "fingerprint": "9258fd8672152e18",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_drake_tf_b": {
+    "decision": "approved",
+    "fingerprint": "c723d7ad97934cd2",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
   "c3_early_parliament_tf_b": {
     "decision": "approved",
     "fingerprint": "935d579e1dd59c0c",
@@ -224,6 +356,42 @@
   "c3_edward_i_tf_b": {
     "decision": "approved",
     "fingerprint": "deb79c19a10e70bb",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_edward_vi_single_a": {
+    "decision": "approved",
+    "fingerprint": "32a37d9af75969c5",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_elizabeth_parents_single_a": {
+    "decision": "approved",
+    "fingerprint": "1cd82d6603e7d40c",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_elizabeth_religion_single_b": {
+    "decision": "approved",
+    "fingerprint": "3e71e992f24a1db2",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_elizabeth_settlers_single_a": {
+    "decision": "approved",
+    "fingerprint": "c33fa98e0b9873fa",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_elizabeth_unmarried_tf_a": {
+    "decision": "approved",
+    "fingerprint": "2b1d8c0b56eccf1b",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_english_language_single_a": {
+    "decision": "approved",
+    "fingerprint": "d15893002cc7beb0",
     "note": "",
     "reviewed_at": "2026-11-21"
   },
@@ -281,6 +449,36 @@
     "note": "",
     "reviewed_at": "2026-11-21"
   },
+  "c3_henry_vii_power_single_a": {
+    "decision": "approved",
+    "fingerprint": "c79f81f7a7075f00",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_henry_vii_single_a": {
+    "decision": "approved",
+    "fingerprint": "110f27b2461c9856",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_henry_viii_church_single_a": {
+    "decision": "approved",
+    "fingerprint": "65ac409aad10b902",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_henry_viii_wives_multi_a": {
+    "decision": "approved",
+    "fingerprint": "0c5e5dcc42d39bdf",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_henry_viii_wives_multi_c": {
+    "decision": "approved",
+    "fingerprint": "2fe9572ebd52a7b2",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
   "c3_hill_forts_single_a": {
     "decision": "approved",
     "fingerprint": "3b0e72f22abc13a0",
@@ -305,9 +503,57 @@
     "note": "",
     "reviewed_at": "2026-11-21"
   },
+  "c3_james_union_crowns_single_a": {
+    "decision": "approved",
+    "fingerprint": "4570d516fb44ba00",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_james_union_date_single_b": {
+    "decision": "approved",
+    "fingerprint": "1166d09a055d9a3b",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_jane_seymour_single_a": {
+    "decision": "approved",
+    "fingerprint": "8ea223b1f072952e",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_jane_seymour_tf_b": {
+    "decision": "approved",
+    "fingerprint": "e218dcf3bb6a690d",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_john_knox_single_a": {
+    "decision": "approved",
+    "fingerprint": "22987a426330430f",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
   "c3_kenneth_macalpin_single_a": {
     "decision": "approved",
     "fingerprint": "3e1a991dc69a84ba",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_king_james_bible_single_a": {
+    "decision": "approved",
+    "fingerprint": "aae2a7570f5c4581",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_kjv_single_b": {
+    "decision": "approved",
+    "fingerprint": "11359983dce1311f",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_knox_tf_b": {
+    "decision": "approved",
+    "fingerprint": "b68c64cd407b3468",
     "note": "",
     "reviewed_at": "2026-11-21"
   },
@@ -347,6 +593,24 @@
     "note": "",
     "reviewed_at": "2026-11-21"
   },
+  "c3_mary_i_tf_b": {
+    "decision": "approved",
+    "fingerprint": "e955f695f4779bce",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_mary_queen_scots_single_a": {
+    "decision": "approved",
+    "fingerprint": "f17245d82fc82e4f",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_mary_scots_single_b": {
+    "decision": "approved",
+    "fingerprint": "4dc6c440a8ffd082",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
   "c3_medieval_parliament_multi_c": {
     "decision": "approved",
     "fingerprint": "fa0a65ea57b72abf",
@@ -374,6 +638,12 @@
   "c3_parliament_houses_single_a": {
     "decision": "approved",
     "fingerprint": "a1dff77f3c29cd73",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_reformation_single_a": {
+    "decision": "approved",
+    "fingerprint": "e7ab0a2ae968dab0",
     "note": "",
     "reviewed_at": "2026-11-21"
   },
@@ -410,6 +680,42 @@
   "c3_romans_stay_single_a": {
     "decision": "approved",
     "fingerprint": "5b340e29e836128c",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_roundheads_single_b": {
+    "decision": "approved",
+    "fingerprint": "1180f11f13c40572",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_roundheads_tf_b": {
+    "decision": "approved",
+    "fingerprint": "0c01d4e4c21c25b9",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_shakespeare_plays_multi_b": {
+    "decision": "approved",
+    "fingerprint": "b1376ec2e6d7163a",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_shakespeare_quote_single_c": {
+    "decision": "approved",
+    "fingerprint": "61bc71a04770e8a4",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_shakespeare_single_a": {
+    "decision": "approved",
+    "fingerprint": "fb5ad2a6e694bdda",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_shakespeare_tf_b": {
+    "decision": "approved",
+    "fingerprint": "59bbed7115a7c955",
     "note": "",
     "reviewed_at": "2026-11-21"
   },
@@ -467,6 +773,30 @@
     "note": "",
     "reviewed_at": "2026-11-21"
   },
+  "c3_tudor_monarchs_multi_a": {
+    "decision": "approved",
+    "fingerprint": "2e5c314e30db2738",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_tudor_rose_tf_a": {
+    "decision": "approved",
+    "fingerprint": "4eab66bf65c73db8",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_ulster_plantation_single_a": {
+    "decision": "approved",
+    "fingerprint": "e68714cf38533730",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_ulster_tf_b": {
+    "decision": "approved",
+    "fingerprint": "b189ce9ffe4ffb6b",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
   "c3_vikings_date_single_b": {
     "decision": "approved",
     "fingerprint": "9971b0524bc12cd1",
@@ -494,6 +824,36 @@
   "c3_wales_conquered_single_a": {
     "decision": "approved",
     "fingerprint": "c55917265495aca2",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_wales_union_single_b": {
+    "decision": "approved",
+    "fingerprint": "87196854630c351f",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_wales_union_tf_a": {
+    "decision": "approved",
+    "fingerprint": "4b23c00db58a72c2",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_wars_of_roses_single_a": {
+    "decision": "approved",
+    "fingerprint": "46841fcec1ddd3e6",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_wars_roses_symbols_multi_b": {
+    "decision": "approved",
+    "fingerprint": "13f13b44bfed176b",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_wars_roses_tf_b": {
+    "decision": "approved",
+    "fingerprint": "cb45c3ae90850448",
     "note": "",
     "reviewed_at": "2026-11-21"
   }

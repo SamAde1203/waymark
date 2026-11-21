@@ -121,7 +121,7 @@ ITEMS = [
          e="The English defeated the Spanish Armada in 1588."),
     dict(id="c3_elizabeth_unmarried_tf_a", fact="c3_elizabeth_no_heir", sec=TUD, t="tf",
          q="Elizabeth I never married and had no children.", c=[True],
-         e="Elizabeth I never married and had no children. Her cousin James VI of Scotland became king when she died in 1603."),
+         e="Elizabeth I never married and had no children. When she died in 1603, her heir was James VI of Scotland."),
     dict(id="c3_shakespeare_quote_single_c", fact="c3_shakespeare_lines", sec=TUD, t="single",
          q="'To be or not to be' is a famous line from which Shakespeare play?", c=["Hamlet"],
          w=["Macbeth", "Romeo and Juliet", "A Midsummer Night's Dream"],

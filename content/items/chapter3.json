@@ -1634,7 +1634,7 @@
     "item_id": "c3_chaucer_single_a",
     "fact_id": "c3_chaucer",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -1669,14 +1669,17 @@
       }
     ],
     "explanation_simple": "Geoffrey Chaucer wrote The Canterbury Tales, about pilgrims travelling to Canterbury.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_caxton_single_a",
     "fact_id": "c3_caxton",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -1711,14 +1714,17 @@
       }
     ],
     "explanation_simple": "William Caxton was the first person in England to print books with a printing press. The Canterbury Tales was one of the first.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_wars_of_roses_single_a",
     "fact_id": "c3_wars_of_the_roses",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -1753,14 +1759,17 @@
       }
     ],
     "explanation_simple": "In 1455 a civil war began between the House of Lancaster (red rose) and the House of York (white rose).",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_bosworth_single_a",
     "fact_id": "c3_bosworth",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -1795,14 +1804,17 @@
       }
     ],
     "explanation_simple": "The Wars of the Roses ended with the Battle of Bosworth Field in 1485. Henry Tudor became King Henry VII.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_tudor_rose_tf_a",
     "fact_id": "c3_tudor_rose",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -1827,14 +1839,17 @@
       }
     ],
     "explanation_simple": "Henry VII married Elizabeth of York, uniting the two houses. The red and white Tudor rose became the symbol of the House of Tudor.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_henry_viii_wives_multi_a",
     "fact_id": "c3_henry_viii_wives",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -1871,14 +1886,17 @@
     ],
     "explanation_simple": "Henry VIII married six times: Catherine of Aragon, Anne Boleyn, Jane Seymour, Anne of Cleves, Catherine Howard and Catherine Parr.",
     "memory_tip": "Divorced, beheaded, died; divorced, beheaded, survived.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_henry_viii_church_single_a",
     "fact_id": "c3_henry_viii_church",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -1912,15 +1930,18 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "When the Pope refused to let Henry VIII divorce Catherine of Aragon, he established the Church of England, with the king as its head.",
-    "review": {}
+    "explanation_simple": "When the Pope refused to let Henry VIII divorce his first wife, Henry set up the Church of England. In it the king, not the Pope, appointed bishops and decided how people should worship.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_jane_seymour_single_a",
     "fact_id": "c3_jane_seymour",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -1955,14 +1976,17 @@
       }
     ],
     "explanation_simple": "Jane Seymour gave Henry VIII the son he wanted, Edward, but she died shortly after the birth.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_catherine_parr_single_a",
     "fact_id": "c3_catherine_parr",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -1997,14 +2021,17 @@
       }
     ],
     "explanation_simple": "Catherine Parr was Henry VIII's sixth wife and outlived him.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_wales_union_tf_a",
     "fact_id": "c3_wales_act_of_union",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -2029,14 +2056,17 @@
       }
     ],
     "explanation_simple": "During the reign of Henry VIII, Wales was formally united with England by the Act for the Government of Wales.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_bloody_mary_single_a",
     "fact_id": "c3_mary_i",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -2071,14 +2101,17 @@
       }
     ],
     "explanation_simple": "Mary I, a devout Catholic, persecuted Protestants and is remembered as 'Bloody Mary'.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_elizabeth_parents_single_a",
     "fact_id": "c3_elizabeth_i_parents",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -2113,14 +2146,17 @@
       }
     ],
     "explanation_simple": "Elizabeth I was the daughter of Henry VIII and Anne Boleyn.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_armada_single_a",
     "fact_id": "c3_spanish_armada",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -2154,15 +2190,18 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The defeat of the Spanish Armada in 1588 made Elizabeth I one of the most popular monarchs in English history.",
-    "review": {}
+    "explanation_simple": "The Spanish Armada was sent by Spain to conquer England and restore Catholicism. Elizabeth I was especially popular after its defeat in 1588.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_armada_date_single_b",
     "fact_id": "c3_spanish_armada_date",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -2197,14 +2236,17 @@
       }
     ],
     "explanation_simple": "The Spanish Armada was defeated in 1588, during the reign of Elizabeth I.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_drake_single_a",
     "fact_id": "c3_francis_drake",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -2238,15 +2280,18 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Sir Francis Drake, one of the founders of England's navy, sailed one of the first ships around the world in the Golden Hind.",
-    "review": {}
+    "explanation_simple": "Sir Francis Drake, one of the founders of England's naval tradition, sailed the Golden Hind, one of the first ships to sail right around the world.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_shakespeare_single_a",
     "fact_id": "c3_shakespeare",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -2281,14 +2326,17 @@
       }
     ],
     "explanation_simple": "William Shakespeare, a playwright and actor, was born in Stratford-upon-Avon. His plays include Hamlet, Macbeth and Romeo and Juliet.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_shakespeare_plays_multi_b",
     "fact_id": "c3_shakespeare_plays",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -2323,56 +2371,62 @@
       }
     ],
     "explanation_simple": "Shakespeare's plays include Hamlet, A Midsummer Night's Dream, Macbeth and Romeo and Juliet. The Mousetrap is by Agatha Christie.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_john_knox_single_a",
     "fact_id": "c3_scottish_reformation",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
       "section": "The Tudors and Stuarts",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Confirm the handbook names John Knox. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "Who led the Reformation in Scotland, establishing a Protestant church?",
+    "question_text": "In 1560, what did the mainly Protestant Scottish Parliament do?",
     "options": [
       {
         "id": "a",
-        "text": "St Columba",
+        "text": "Made Roman Catholicism the official religion",
         "is_correct": false
       },
       {
         "id": "b",
-        "text": "Robert the Bruce",
+        "text": "Made the king head of the Church of Scotland",
         "is_correct": false
       },
       {
         "id": "c",
-        "text": "John Knox",
+        "text": "Abolished the authority of the Pope in Scotland",
         "is_correct": true
       },
       {
         "id": "d",
-        "text": "James VI",
+        "text": "United Scotland with England",
         "is_correct": false
       }
     ],
-    "explanation_simple": "In Scotland the Reformation, led by John Knox, established a Protestant Church of Scotland.",
-    "review": {}
+    "explanation_simple": "In 1560 the Scottish Parliament abolished the Pope's authority in Scotland, and Roman Catholic services became illegal. A Protestant Church of Scotland was set up.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_mary_queen_scots_single_a",
     "fact_id": "c3_mary_queen_of_scots",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -2407,14 +2461,17 @@
       }
     ],
     "explanation_simple": "Mary, Queen of Scots, a Catholic, fled to England. Elizabeth I held her prisoner for 20 years and later had her executed.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_james_union_crowns_single_a",
     "fact_id": "c3_union_of_crowns",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -2449,14 +2506,17 @@
       }
     ],
     "explanation_simple": "Elizabeth I never married and had no children. Her heir was James VI of Scotland, who became James I of England, Wales and Ireland.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_king_james_bible_single_a",
     "fact_id": "c3_king_james_bible",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -2491,25 +2551,28 @@
       }
     ],
     "explanation_simple": "A new translation of the Bible into English, the 'King James Version', was produced during James I's reign and is still used today.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_ulster_plantation_single_a",
     "fact_id": "c3_plantation_of_ulster",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
       "section": "The Tudors and Stuarts",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Confirm the handbook's description. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "What were the 'plantations' in Ireland during the reign of Elizabeth I and James I?",
+    "question_text": "What were the 'plantations' in Ireland during the reigns of Elizabeth I and James I?",
     "options": [
       {
         "id": "a",
@@ -2523,7 +2586,7 @@
       },
       {
         "id": "c",
-        "text": "Settlements of Protestant farmers from England and Scotland on land taken from Catholic landholders",
+        "text": "Settlements of Scottish and English Protestants on land taken from Catholic landholders",
         "is_correct": true
       },
       {
@@ -2532,15 +2595,18 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Many Protestants from Scotland and England settled in Ulster in the 'plantations', taking land from Catholic landholders.",
-    "review": {}
+    "explanation_simple": "The English government encouraged Scottish and English Protestants to settle in Ulster, taking over land from Catholic landholders. These settlements were called plantations.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_civil_war_single_a",
     "fact_id": "c3_civil_war",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -2575,14 +2641,17 @@
       }
     ],
     "explanation_simple": "Supporters of King Charles I were called Cavaliers; supporters of Parliament were called Roundheads.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_roundheads_single_b",
     "fact_id": "c3_civil_war_roundheads",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -2617,14 +2686,17 @@
       }
     ],
     "explanation_simple": "Supporters of Parliament were known as Roundheads.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_civil_war_date_single_c",
     "fact_id": "c3_civil_war_date",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -2659,7 +2731,10 @@
       }
     ],
     "explanation_simple": "Civil war between the king and Parliament began in 1642.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -6533,7 +6608,7 @@
     "item_id": "c3_english_language_single_a",
     "fact_id": "c3_english_official_language",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -6568,7 +6643,10 @@
       }
     ],
     "explanation_simple": "After the Norman Conquest the king and nobles spoke Norman French. By about 1400, English had become the preferred language of the royal court and Parliament.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -6710,7 +6788,7 @@
     "item_id": "c3_bosworth_date_single_b",
     "fact_id": "c3_bosworth",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -6745,14 +6823,17 @@
       }
     ],
     "explanation_simple": "Henry Tudor won at Bosworth Field in 1485 and became King Henry VII.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_henry_vii_single_a",
     "fact_id": "c3_henry_vii_marriage",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -6787,14 +6868,17 @@
       }
     ],
     "explanation_simple": "Henry VII (of Lancaster) married Elizabeth of York, uniting the two houses and ending the rivalry behind the Wars of the Roses.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_wars_roses_symbols_multi_b",
     "fact_id": "c3_wars_of_the_roses_symbols",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -6829,14 +6913,17 @@
       }
     ],
     "explanation_simple": "Lancaster's symbol was a red rose and York's a white rose. The Tudor rose combines both.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_catherine_aragon_single_a",
     "fact_id": "c3_catherine_of_aragon",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -6871,14 +6958,17 @@
       }
     ],
     "explanation_simple": "Catherine of Aragon was a Spanish princess. When she had no surviving son, Henry wanted a divorce.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_anne_boleyn_single_a",
     "fact_id": "c3_anne_boleyn",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -6913,14 +7003,17 @@
       }
     ],
     "explanation_simple": "Anne Boleyn, Elizabeth I's mother, was accused of taking lovers and executed at the Tower of London.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_anne_cleves_single_a",
     "fact_id": "c3_anne_of_cleves",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -6955,14 +7048,17 @@
       }
     ],
     "explanation_simple": "Anne of Cleves was a German princess. Henry divorced her soon after marrying her.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_catherine_howard_tf_a",
     "fact_id": "c3_catherine_howard",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -6987,14 +7083,17 @@
       }
     ],
     "explanation_simple": "Catherine Howard was a cousin of Anne Boleyn. She was accused of taking lovers and executed.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_edward_vi_single_a",
     "fact_id": "c3_edward_vi",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -7029,14 +7128,17 @@
       }
     ],
     "explanation_simple": "Edward VI was a strong Protestant. During his reign the Book of Common Prayer was written for the Church of England. A version is still used today.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_elizabeth_religion_single_b",
     "fact_id": "c3_elizabeth_religion",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -7071,14 +7173,17 @@
       }
     ],
     "explanation_simple": "Elizabeth I was a Protestant. She re-established the Church of England as the official Church in England and tried to find a balance between Catholics and extreme Protestants.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_armada_tf_c",
     "fact_id": "c3_spanish_armada",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -7103,14 +7208,17 @@
       }
     ],
     "explanation_simple": "The English defeated the Spanish Armada in 1588.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_elizabeth_unmarried_tf_a",
     "fact_id": "c3_elizabeth_no_heir",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -7134,15 +7242,18 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Elizabeth I never married and had no children. Her cousin James VI of Scotland became king when she died in 1603.",
-    "review": {}
+    "explanation_simple": "Elizabeth I never married and had no children. When she died in 1603, her heir was James VI of Scotland.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_shakespeare_quote_single_c",
     "fact_id": "c3_shakespeare_lines",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -7177,14 +7288,17 @@
       }
     ],
     "explanation_simple": "'To be or not to be' is from Hamlet. Many lines from Shakespeare's plays are still used in everyday English.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_james_union_date_single_b",
     "fact_id": "c3_union_of_crowns",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -7219,7 +7333,10 @@
       }
     ],
     "explanation_simple": "When Elizabeth I died in 1603, James VI of Scotland became James I of England, Wales and Ireland. Scotland remained a separate country.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -10029,7 +10146,7 @@
     "item_id": "c3_chaucer_single_b",
     "fact_id": "c3_chaucer",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -10064,14 +10181,17 @@
       }
     ],
     "explanation_simple": "Geoffrey Chaucer wrote The Canterbury Tales, a series of poems in English about pilgrims travelling to Canterbury.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_caxton_tf_b",
     "fact_id": "c3_caxton",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -10096,14 +10216,17 @@
       }
     ],
     "explanation_simple": "William Caxton was the first person in England to print books using a printing press.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_wars_roses_tf_b",
     "fact_id": "c3_wars_of_the_roses",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -10128,14 +10251,17 @@
       }
     ],
     "explanation_simple": "The Wars of the Roses were a civil war between the Houses of Lancaster and York, in 1455.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_jane_seymour_tf_b",
     "fact_id": "c3_jane_seymour",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -10160,14 +10286,17 @@
       }
     ],
     "explanation_simple": "Jane Seymour gave Henry the son he wanted, Edward, but she died shortly after his birth.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_catherine_parr_tf_b",
     "fact_id": "c3_catherine_parr",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -10192,14 +10321,17 @@
       }
     ],
     "explanation_simple": "Catherine Parr was widowed when she married Henry. She outlived him and married again, but died soon after.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_mary_i_tf_b",
     "fact_id": "c3_mary_i",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -10224,14 +10356,17 @@
       }
     ],
     "explanation_simple": "Mary I was a devout Catholic. She persecuted Protestants, which is why she is called 'Bloody Mary'.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_drake_tf_b",
     "fact_id": "c3_francis_drake",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -10256,14 +10391,17 @@
       }
     ],
     "explanation_simple": "Francis Drake helped defeat the Spanish Armada. His ship, the Golden Hind, was one of the first to sail around the world.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_shakespeare_tf_b",
     "fact_id": "c3_shakespeare",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -10288,14 +10426,17 @@
       }
     ],
     "explanation_simple": "Shakespeare, born in Stratford-upon-Avon, wrote many poems and plays and is widely regarded as the greatest writer in the English language.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_knox_tf_b",
     "fact_id": "c3_scottish_reformation",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -10306,28 +10447,31 @@
     },
     "question_type": "true_false",
     "selections_required": 1,
-    "question_text": "Is the following statement TRUE or FALSE? John Knox led the Reformation in Scotland.",
+    "question_text": "Is the following statement TRUE or FALSE? The Protestant Church of Scotland set up in 1560 was a state Church, like the Church of England.",
     "options": [
       {
         "id": "a",
         "text": "True",
-        "is_correct": true
+        "is_correct": false
       },
       {
         "id": "b",
         "text": "False",
-        "is_correct": false
+        "is_correct": true
       }
     ],
-    "explanation_simple": "Under John Knox, the Scottish Parliament abolished the authority of the Pope and set up a Protestant Church of Scotland.",
-    "review": {}
+    "explanation_simple": "The Church of Scotland had an elected leadership and, unlike the Church of England, it was not a state Church.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_mary_scots_single_b",
     "fact_id": "c3_mary_queen_of_scots",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -10362,14 +10506,17 @@
       }
     ],
     "explanation_simple": "Mary, Queen of Scots, was Elizabeth I's cousin. She was imprisoned in England for 20 years and later executed for plotting against Elizabeth.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_kjv_single_b",
     "fact_id": "c3_king_james_bible",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -10404,14 +10551,17 @@
       }
     ],
     "explanation_simple": "During James I's reign a new English translation of the Bible was made, still used in many Protestant churches today.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_ulster_tf_b",
     "fact_id": "c3_plantation_of_ulster",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -10435,15 +10585,18 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Protestant farmers from Scotland and England settled in Ulster, taking over land from Catholics. This was called the plantation.",
-    "review": {}
+    "explanation_simple": "Scottish and English Protestants settled in Ulster, taking over land from Catholic landholders. These settlements were called plantations.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_roundheads_tf_b",
     "fact_id": "c3_civil_war_roundheads",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -10468,7 +10621,10 @@
       }
     ],
     "explanation_simple": "Supporters of the king were called Cavaliers. Supporters of Parliament were called Roundheads.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -12318,7 +12474,7 @@
     "item_id": "c3_henry_viii_wives_multi_c",
     "fact_id": "c3_henry_viii_wives",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -12353,14 +12509,17 @@
       }
     ],
     "explanation_simple": "Anne Boleyn and Catherine Howard were executed. Jane Seymour died after giving birth, and Catherine Parr outlived Henry.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_tudor_monarchs_multi_a",
     "fact_id": "c3_mary_i",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -12395,7 +12554,10 @@
       }
     ],
     "explanation_simple": "Henry VIII was followed by Edward VI, then Mary I, then Elizabeth I. James I and Charles I were Stuarts.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -12906,11 +13068,11 @@
     "item_id": "c3_henry_vii_power_single_a",
     "fact_id": "c3_henry_vii_rule",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
-      "section": "The Middle Ages",
+      "section": "The Tudors and Stuarts",
       "section_confirmed": true,
       "page_ref": [],
       "reviewer_note": "CHECK FIRST: Confirm the handbook's wording. Confirm the section heading wording in the handbook"
@@ -12941,14 +13103,17 @@
       }
     ],
     "explanation_simple": "Henry VII wanted to make sure England stayed peaceful and his position as king was secure. He reduced the power of the nobles.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_reformation_single_a",
     "fact_id": "c3_reformation",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -12983,14 +13148,17 @@
       }
     ],
     "explanation_simple": "Protestants formed churches that did not accept the Pope's authority, and believed people should read the Bible in their own language.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_wales_union_single_b",
     "fact_id": "c3_wales_act_of_union",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -13025,14 +13193,17 @@
       }
     ],
     "explanation_simple": "During Henry VIII's reign, Wales became formally united with England. Welsh representatives sat in the House of Commons.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_elizabeth_settlers_single_a",
     "fact_id": "c3_elizabethan_exploration",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -13067,14 +13238,17 @@
       }
     ],
     "explanation_simple": "In Elizabeth I's reign English settlers began to colonise the eastern coast of America, which later led to further settlement.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_charles_i_prayer_single_a",
     "fact_id": "c3_charles_i_scotland",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -13109,14 +13283,17 @@
       }
     ],
     "explanation_simple": "Charles I tried to impose a prayer book similar to the English one on Scotland. The Scots rebelled, and Charles needed Parliament to raise money for an army.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_charles_i_parliament_tf_a",
     "fact_id": "c3_charles_i_parliament",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -13141,7 +13318,10 @@
       }
     ],
     "explanation_simple": "Charles I believed in the divine right of kings and tried to rule without Parliament for 11 years.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
