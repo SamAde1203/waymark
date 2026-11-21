@@ -2896,7 +2896,7 @@
     "item_id": "c4_gilbert_sullivan_single_a",
     "fact_id": "c4_gilbert_sullivan",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -2931,14 +2931,17 @@
       }
     ],
     "explanation_simple": "Gilbert and Sullivan's comic operas include HMS Pinafore, The Pirates of Penzance and The Mikado.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_lloyd_webber_single_a",
     "fact_id": "c4_lloyd_webber",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -2973,7 +2976,10 @@
       }
     ],
     "explanation_simple": "Andrew Lloyd Webber has written many musicals, including Jesus Christ Superstar, Evita, Cats and The Phantom of the Opera.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -3022,7 +3028,7 @@
     "item_id": "c4_edinburgh_festival_single_a",
     "fact_id": "c4_edinburgh_festival",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -3057,14 +3063,17 @@
       }
     ],
     "explanation_simple": "The Edinburgh Festival takes place every summer. The Edinburgh Fringe is a showcase of mainly theatre and comedy.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_olivier_awards_single_a",
     "fact_id": "c4_olivier_awards",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -3099,14 +3108,17 @@
       }
     ],
     "explanation_simple": "The Laurence Olivier Awards take place annually in London and recognise achievement in theatre.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_constable_single_a",
     "fact_id": "c4_constable",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -3117,7 +3129,7 @@
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "John Constable, famous for 'The Hay Wain', painted mainly what?",
+    "question_text": "John Constable, most famous for his works of Dedham Vale, painted mainly what?",
     "options": [
       {
         "id": "a",
@@ -3126,36 +3138,39 @@
       },
       {
         "id": "b",
-        "text": "Battle scenes",
+        "text": "Abstract shapes",
         "is_correct": false
       },
       {
         "id": "c",
-        "text": "Portraits of the royal family",
+        "text": "Battle scenes",
         "is_correct": false
       },
       {
         "id": "d",
-        "text": "Abstract shapes",
+        "text": "Portraits of the royal family",
         "is_correct": false
       }
     ],
-    "explanation_simple": "John Constable was a landscape painter, best known for his works of Dedham Vale on the Suffolk–Essex border.",
-    "review": {}
+    "explanation_simple": "John Constable was a landscape painter most famous for his works of Dedham Vale on the Suffolk–Essex border in the east of England.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_turner_prize_single_a",
     "fact_id": "c4_turner_prize",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
       "section": "Arts and culture",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Year 1984. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "single",
     "selections_required": 1,
@@ -3173,24 +3188,27 @@
       },
       {
         "id": "c",
-        "text": "Poetry",
+        "text": "Architecture",
         "is_correct": false
       },
       {
         "id": "d",
-        "text": "Architecture",
+        "text": "Poetry",
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Turner Prize, named after the painter J.M.W. Turner, celebrates contemporary art.",
-    "review": {}
+    "explanation_simple": "The Turner Prize is named after Joseph Turner. Four works are shortlisted every year and shown at Tate Britain or a regional venue before the winner is announced.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_wren_single_a",
     "fact_id": "c4_christopher_wren",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -3225,14 +3243,17 @@
       }
     ],
     "explanation_simple": "Sir Christopher Wren helped rebuild many London churches after the Great Fire of 1666, including St Paul's Cathedral.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_lutyens_single_a",
     "fact_id": "c4_lutyens",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -3267,14 +3288,17 @@
       }
     ],
     "explanation_simple": "Sir Edwin Lutyens designed the Cenotaph in Whitehall and also had a great influence on the building of New Delhi.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_capability_brown_single_a",
     "fact_id": "c4_capability_brown",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -3309,7 +3333,10 @@
       }
     ],
     "explanation_simple": "In the 18th century Capability Brown designed the grounds around many country houses so that the landscape appeared natural.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -3358,7 +3385,7 @@
     "item_id": "c4_wordsworth_single_a",
     "fact_id": "c4_wordsworth",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -3369,38 +3396,41 @@
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "William Wordsworth was inspired by nature. Which poem about daffodils did he write?",
+    "question_text": "William Wordsworth was inspired by nature. Which of these poems did he write?",
     "options": [
       {
         "id": "a",
-        "text": "I Wandered Lonely as a Cloud",
+        "text": "The Daffodils",
         "is_correct": true
       },
       {
         "id": "b",
-        "text": "Dulce et Decorum Est",
+        "text": "She Walks in Beauty",
         "is_correct": false
       },
       {
         "id": "c",
-        "text": "The Charge of the Light Brigade",
+        "text": "Anthem for Doomed Youth",
         "is_correct": false
       },
       {
         "id": "d",
-        "text": "Auld Lang Syne",
+        "text": "The Tyger",
         "is_correct": false
       }
     ],
-    "explanation_simple": "William Wordsworth wrote the poem about daffodils that begins 'I wandered lonely as a cloud'.",
-    "review": {}
+    "explanation_simple": "Wordsworth's The Daffodils begins 'I wander'd lonely as a cloud'. The Tyger is by William Blake, She Walks in Beauty by Lord Byron and Anthem for Doomed Youth by Wilfred Owen.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_wilfred_owen_single_a",
     "fact_id": "c4_wilfred_owen",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -3435,14 +3465,17 @@
       }
     ],
     "explanation_simple": "Many poets, including Wilfred Owen and Siegfried Sassoon, wrote about their experiences of the First World War.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_poets_corner_single_a",
     "fact_id": "c4_poets_corner",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -3477,29 +3510,32 @@
       }
     ],
     "explanation_simple": "Many great poets and writers are buried or commemorated in Poets' Corner in Westminster Abbey.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_booker_single_a",
     "fact_id": "c4_booker_prize",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
       "section": "Arts and culture",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Eligibility wording as printed in the handbook. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "The Man Booker Prize is awarded each year for what?",
+    "question_text": "The Booker Prize is awarded each year for what?",
     "options": [
       {
         "id": "a",
-        "text": "The best newspaper",
+        "text": "The best film of the year",
         "is_correct": false
       },
       {
@@ -3509,17 +3545,20 @@
       },
       {
         "id": "c",
-        "text": "The best film of the year",
+        "text": "The best newspaper",
         "is_correct": false
       },
       {
         "id": "d",
-        "text": "The best fiction novel written by an author from the Commonwealth, Ireland or Zimbabwe",
+        "text": "The best fiction novel written in English and published in the UK and Ireland",
         "is_correct": true
       }
     ],
-    "explanation_simple": "The Man Booker Prize for Fiction is awarded annually for the best fiction novel.",
-    "review": {}
+    "explanation_simple": "The Booker Prize has been awarded since 1968. Past winners include Ian McEwan, Hilary Mantel and Julian Barnes.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -3568,7 +3607,7 @@
     "item_id": "c4_jk_rowling_single_a",
     "fact_id": "c4_jk_rowling",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -3603,14 +3642,17 @@
       }
     ],
     "explanation_simple": "J K Rowling's Harry Potter series has been translated into many languages and made into films.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_haggis_single_a",
     "fact_id": "c4_food_scotland",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -3645,14 +3687,17 @@
       }
     ],
     "explanation_simple": "Haggis is a traditional Scottish dish. Other traditional foods include roast beef with Yorkshire pudding (England), Welsh cakes (Wales) and the Ulster fry (Northern Ireland).",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_welsh_cakes_single_a",
     "fact_id": "c4_food_wales",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -3687,14 +3732,17 @@
       }
     ],
     "explanation_simple": "Welsh cakes are a traditional Welsh snack made from flour, dried fruit and spices.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_ulster_fry_single_a",
     "fact_id": "c4_food_ni",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -3729,14 +3777,17 @@
       }
     ],
     "explanation_simple": "The Ulster fry is a fried meal with bacon, eggs, sausage, black pudding, white pudding, tomatoes, mushrooms, soda bread and potato bread.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_tv_licence_tf_a",
     "fact_id": "c4_tv_licence",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -3761,14 +3812,17 @@
       }
     ],
     "explanation_simple": "You need a TV licence to watch live TV. The money pays for the BBC, which is a public service broadcaster.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_bbc_funding_single_a",
     "fact_id": "c4_bbc_funding",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -3783,17 +3837,17 @@
     "options": [
       {
         "id": "a",
-        "text": "By the National Lottery",
-        "is_correct": false
-      },
-      {
-        "id": "b",
         "text": "By subscription only",
         "is_correct": false
       },
       {
-        "id": "c",
+        "id": "b",
         "text": "By advertising",
+        "is_correct": false
+      },
+      {
+        "id": "c",
+        "text": "By the National Lottery",
         "is_correct": false
       },
       {
@@ -3802,15 +3856,18 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The BBC is funded by TV licences and does not show adverts.",
-    "review": {}
+    "explanation_simple": "The money from TV licences pays for the BBC. Other UK channels are mainly funded through advertisements and subscriptions.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_alcohol_age_single_a",
     "fact_id": "c4_alcohol_age",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -3821,11 +3878,11 @@
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "What is the minimum age to buy alcohol in a pub or shop?",
+    "question_text": "What is the minimum age to buy alcohol in a pub or night club?",
     "options": [
       {
         "id": "a",
-        "text": "17",
+        "text": "16",
         "is_correct": false
       },
       {
@@ -3835,7 +3892,7 @@
       },
       {
         "id": "c",
-        "text": "16",
+        "text": "17",
         "is_correct": false
       },
       {
@@ -3844,15 +3901,18 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "You must be 18 to buy alcohol. People aged 16 can drink wine or beer with a meal in a hotel or restaurant if they are with someone over 18.",
-    "review": {}
+    "explanation_simple": "You must be 18 to buy alcohol in a pub or night club. At 16, people can drink wine or beer with a meal in a hotel or restaurant if they are with someone over 18.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_gambling_age_single_a",
     "fact_id": "c4_gambling_age",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -3887,14 +3947,17 @@
       }
     ],
     "explanation_simple": "You have to be 18 to go into betting shops or gambling clubs.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_dog_collar_tf_a",
     "fact_id": "c4_dog_collar",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -3919,56 +3982,62 @@
       }
     ],
     "explanation_simple": "By law, a dog in a public place must wear a collar showing the owner's name and address.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_ealing_single_a",
     "fact_id": "c4_film_ealing",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
       "section": "Leisure",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Film titles. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "The Ealing studios are known for what kind of films, made in the 1940s and 1950s?",
+    "question_text": "Which film studio has a claim to being the oldest continuously working film studio facility in the world?",
     "options": [
       {
         "id": "a",
-        "text": "Science fiction films",
+        "text": "Shepperton Studios",
         "is_correct": false
       },
       {
         "id": "b",
-        "text": "Cartoons",
+        "text": "Elstree Studios",
         "is_correct": false
       },
       {
         "id": "c",
-        "text": "Comedies",
+        "text": "Ealing Studios",
         "is_correct": true
       },
       {
         "id": "d",
-        "text": "Silent horror films",
+        "text": "Pinewood Studios",
         "is_correct": false
       }
     ],
-    "explanation_simple": "Ealing studios produced comedies in the 1940s and 1950s, such as Passport to Pimlico and Kind Hearts and Coronets.",
-    "review": {}
+    "explanation_simple": "Ealing Studios has a claim to being the oldest continuously working film studio facility in the world.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_hitchcock_single_a",
     "fact_id": "c4_hitchcock",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -4003,14 +4072,17 @@
       }
     ],
     "explanation_simple": "Alfred Hitchcock began making films in Britain, including The 39 Steps, before moving to Hollywood.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_baftas_single_a",
     "fact_id": "c4_baftas",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -4025,7 +4097,7 @@
     "options": [
       {
         "id": "a",
-        "text": "The Turner Prize",
+        "text": "The Booker Prize",
         "is_correct": false
       },
       {
@@ -4035,24 +4107,27 @@
       },
       {
         "id": "c",
-        "text": "The Brit Awards",
+        "text": "The Turner Prize",
         "is_correct": false
       },
       {
         "id": "d",
-        "text": "The Booker Prize",
+        "text": "The Brit Awards",
         "is_correct": false
       }
     ],
-    "explanation_simple": "The BAFTAs, held each spring, are the British equivalent of the Oscars.",
-    "review": {}
+    "explanation_simple": "The annual British Academy Film Awards are hosted by the British Academy of Film and Television Arts (BAFTA).",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_national_trust_single_a",
     "fact_id": "c4_national_trust",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -4087,14 +4162,17 @@
       }
     ],
     "explanation_simple": "The National Trust was founded in 1895 by three volunteers and now relies on many volunteers to run its sites.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_big_ben_single_a",
     "fact_id": "c4_big_ben",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -4129,7 +4207,10 @@
       }
     ],
     "explanation_simple": "Big Ben is the nickname for the great bell of the clock at the Houses of Parliament. The clock tower was renamed Elizabeth Tower in 2012 for Queen Elizabeth II's Diamond Jubilee.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -5849,7 +5930,7 @@
     "item_id": "c4_pantomime_single_a",
     "fact_id": "c4_pantomime",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -5884,14 +5965,17 @@
       }
     ],
     "explanation_simple": "Pantomimes are a British tradition, performed at Christmas. They are based on fairy stories and are light-hearted plays with music and comedy.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_gainsborough_single_a",
     "fact_id": "c4_gainsborough",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -5926,14 +6010,17 @@
       }
     ],
     "explanation_simple": "Thomas Gainsborough was a portrait painter who often painted people in country or garden scenery.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_turner_single_a",
     "fact_id": "c4_jmw_turner",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -5944,7 +6031,7 @@
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "J.M.W. Turner is best known for paintings of what?",
+    "question_text": "Joseph Turner was an influential painter of what?",
     "options": [
       {
         "id": "a",
@@ -5953,29 +6040,32 @@
       },
       {
         "id": "b",
-        "text": "Sculpture",
+        "text": "Pop art",
         "is_correct": false
       },
       {
         "id": "c",
-        "text": "Landscapes, with dramatic light",
+        "text": "Landscapes",
         "is_correct": true
       },
       {
         "id": "d",
-        "text": "Pop art",
+        "text": "Sculpture",
         "is_correct": false
       }
     ],
-    "explanation_simple": "Joseph Turner was an influential landscape painter, known for his use of light. The Turner Prize is named after him.",
-    "review": {}
+    "explanation_simple": "Joseph Turner was an influential landscape painter in a modern style. He is considered the artist who raised the profile of landscape painting.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_hockney_single_a",
     "fact_id": "c4_hockney",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -6010,14 +6100,17 @@
       }
     ],
     "explanation_simple": "David Hockney was an important contributor to the 'pop art' movement of the 1960s and continues to be influential.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_henry_moore_single_a",
     "fact_id": "c4_henry_moore",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -6052,14 +6145,17 @@
       }
     ],
     "explanation_simple": "Henry Moore was an English sculptor and artist, best known for his large bronze abstract sculptures.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_pre_raphaelites_tf_a",
     "fact_id": "c4_pre_raphaelites",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -6070,7 +6166,7 @@
     },
     "question_type": "true_false",
     "selections_required": 1,
-    "question_text": "Is the following statement TRUE or FALSE? The Pre-Raphaelites were an important group of 19th-century painters.",
+    "question_text": "Is the following statement TRUE or FALSE? The Pre-Raphaelites were an important group of artists in the second half of the 19th century.",
     "options": [
       {
         "id": "a",
@@ -6083,15 +6179,18 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Pre-Raphaelites, including William Holman Hunt, Dante Gabriel Rossetti and Sir John Millais, painted detailed pictures, often on religious or literary themes.",
-    "review": {}
+    "explanation_simple": "They painted detailed pictures on religious or literary themes in bright colours. The group included Holman Hunt, Dante Gabriel Rossetti and Sir John Millais.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_gothic_revival_single_a",
     "fact_id": "c4_gothic_revival",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -6126,14 +6225,17 @@
       }
     ],
     "explanation_simple": "In the 19th century the medieval 'gothic' style became popular again. The Houses of Parliament and St Pancras Station were built in this style.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_chippendale_single_a",
     "fact_id": "c4_chippendale",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -6168,14 +6270,17 @@
       }
     ],
     "explanation_simple": "Thomas Chippendale designed furniture in the 18th century.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_fashion_designers_multi_a",
     "fact_id": "c4_fashion_designers",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -6210,7 +6315,10 @@
       }
     ],
     "explanation_simple": "Leading British fashion designers include Mary Quant, Alexander McQueen and Vivienne Westwood. Clarice Cliff designed Art Deco ceramics.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -6469,49 +6577,52 @@
     "item_id": "c4_poets_multi_a",
     "fact_id": "c4_romantic_poets",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
       "section": "Arts and culture",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Confirm names as listed. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "multi",
     "selections_required": 2,
-    "question_text": "Which TWO of these were 19th-century poets inspired by nature?",
+    "question_text": "Which TWO of these poets were popular in the 19th century?",
     "options": [
       {
         "id": "a",
-        "text": "J K Rowling",
+        "text": "Ted Hughes",
         "is_correct": false
       },
       {
         "id": "b",
-        "text": "John Keats",
+        "text": "Lord Byron",
         "is_correct": true
       },
       {
         "id": "c",
-        "text": "Wilfred Owen",
+        "text": "J K Rowling",
         "is_correct": false
       },
       {
         "id": "d",
-        "text": "William Wordsworth",
+        "text": "John Keats",
         "is_correct": true
       }
     ],
-    "explanation_simple": "In the 19th century, poets such as William Wordsworth, John Keats and Percy Shelley were inspired by nature. Wilfred Owen wrote about the First World War.",
-    "review": {}
+    "explanation_simple": "Poetry was very popular in the 19th century, with poets such as William Blake, John Keats, Lord Byron, Percy Shelley, Alfred Lord Tennyson and Robert and Elizabeth Browning.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_allotments_single_a",
     "fact_id": "c4_allotments",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -6546,14 +6657,17 @@
       }
     ],
     "explanation_simple": "Many people have gardens at home, and some rent an allotment, a piece of land for growing fruit and vegetables.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_roast_beef_single_a",
     "fact_id": "c4_food_england",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -6588,14 +6702,17 @@
       }
     ],
     "explanation_simple": "Roast beef with Yorkshire pudding is a traditional English dish. Fish and chips is also very popular.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_chaplin_single_a",
     "fact_id": "c4_charlie_chaplin",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -6630,14 +6747,17 @@
       }
     ],
     "explanation_simple": "Sir Charlie Chaplin became famous in silent movies for his tramp character.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_bbc_ads_tf_b",
     "fact_id": "c4_bbc_funding",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -6648,28 +6768,31 @@
     },
     "question_type": "true_false",
     "selections_required": 1,
-    "question_text": "Is the following statement TRUE or FALSE? The BBC shows paid advertisements between its programmes.",
+    "question_text": "Is the following statement TRUE or FALSE? Although the BBC receives some state funding, it is independent of the government.",
     "options": [
       {
         "id": "a",
         "text": "True",
-        "is_correct": false
+        "is_correct": true
       },
       {
         "id": "b",
         "text": "False",
-        "is_correct": true
+        "is_correct": false
       }
     ],
-    "explanation_simple": "The BBC is funded by TV licences and does not show adverts.",
-    "review": {}
+    "explanation_simple": "The BBC is a British public service broadcaster providing television and radio programmes. It is the largest broadcaster in the world.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_alcohol_16_tf_b",
     "fact_id": "c4_alcohol_with_meal",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -6694,7 +6817,10 @@
       }
     ],
     "explanation_simple": "You must be 18 to buy alcohol, but people aged 16 or 17 can drink wine or beer with a meal in a hotel or restaurant if they are with someone over 18.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -6765,7 +6891,7 @@
     "item_id": "c4_national_parks_single_a",
     "fact_id": "c4_national_parks",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -6800,14 +6926,17 @@
       }
     ],
     "explanation_simple": "National parks are areas of protected countryside that everyone can visit, and where people live, work and look after the landscape.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_big_ben_tf_b",
     "fact_id": "c4_big_ben",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -6832,7 +6961,10 @@
       }
     ],
     "explanation_simple": "The tower was renamed Elizabeth Tower in 2012 in honour of Queen Elizabeth II's Diamond Jubilee. 'Big Ben' is the nickname of the great bell.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -8355,7 +8487,7 @@
     "item_id": "c4_lloyd_webber_tf_b",
     "fact_id": "c4_lloyd_webber",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -8380,7 +8512,10 @@
       }
     ],
     "explanation_simple": "Andrew Lloyd Webber's musicals include Jesus Christ Superstar, Evita and The Phantom of the Opera.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -8419,7 +8554,7 @@
     "item_id": "c4_edinburgh_fest_tf_b",
     "fact_id": "c4_edinburgh_festival",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -8444,14 +8579,17 @@
       }
     ],
     "explanation_simple": "The Edinburgh Festival is a series of arts festivals held every summer. The Edinburgh Fringe showcases theatre and comedy.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_constable_tf_b",
     "fact_id": "c4_constable",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -8462,7 +8600,7 @@
     },
     "question_type": "true_false",
     "selections_required": 1,
-    "question_text": "Is the following statement TRUE or FALSE? John Constable painted 'The Hay Wain'.",
+    "question_text": "Is the following statement TRUE or FALSE? John Constable was a landscape painter most famous for his works of Dedham Vale.",
     "options": [
       {
         "id": "a",
@@ -8475,15 +8613,18 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "John Constable was a landscape painter, famous for The Hay Wain and his paintings of Dedham Vale.",
-    "review": {}
+    "explanation_simple": "Dedham Vale is on the Suffolk–Essex border in the east of England.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_turner_prize_tf_b",
     "fact_id": "c4_turner_prize",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -8494,7 +8635,7 @@
     },
     "question_type": "true_false",
     "selections_required": 1,
-    "question_text": "Is the following statement TRUE or FALSE? The Turner Prize, for contemporary art, is named after J.M.W. Turner.",
+    "question_text": "Is the following statement TRUE or FALSE? The Turner Prize, which celebrates contemporary art, is named after Joseph Turner.",
     "options": [
       {
         "id": "a",
@@ -8507,15 +8648,18 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Turner Prize was established in 1984 and celebrates contemporary art. It is named after Joseph Turner.",
-    "review": {}
+    "explanation_simple": "The Turner Prize was established in 1984. Previous winners include Damien Hirst and Richard Wright.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_wren_tf_b",
     "fact_id": "c4_christopher_wren",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -8540,14 +8684,17 @@
       }
     ],
     "explanation_simple": "After the Great Fire, Sir Christopher Wren helped rebuild London's churches and designed the new St Paul's Cathedral.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_cenotaph_tf_b",
     "fact_id": "c4_lutyens",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -8571,8 +8718,11 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Sir Edwin Lutyens designed the Cenotaph in Whitehall and many buildings in New Delhi, India.",
-    "review": {}
+    "explanation_simple": "Sir Edwin Lutyens designed New Delhi to be the seat of government in India. After the First World War he was responsible for many war memorials, including the Cenotaph.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -8611,7 +8761,7 @@
     "item_id": "c4_owen_single_b",
     "fact_id": "c4_wilfred_owen",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -8646,25 +8796,28 @@
       }
     ],
     "explanation_simple": "Wilfred Owen wrote about the First World War. Siegfried Sassoon also wrote war poetry.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_booker_tf_b",
     "fact_id": "c4_booker_prize",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
       "section": "Arts and culture",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Eligibility wording. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "true_false",
     "selections_required": 1,
-    "question_text": "Is the following statement TRUE or FALSE? The Booker Prize is awarded each year for the best fiction novel.",
+    "question_text": "Is the following statement TRUE or FALSE? The Booker Prize is awarded each year for the best fiction novel written in English and published in the UK and Ireland.",
     "options": [
       {
         "id": "a",
@@ -8677,8 +8830,11 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Man Booker Prize for Fiction is awarded annually for the best fiction novel written by an author from the Commonwealth, Ireland or Zimbabwe.",
-    "review": {}
+    "explanation_simple": "The Booker Prize has been awarded since 1968.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -8717,7 +8873,7 @@
     "item_id": "c4_haggis_tf_b",
     "fact_id": "c4_food_scotland",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -8742,14 +8898,17 @@
       }
     ],
     "explanation_simple": "Haggis is a traditional Scottish food. Welsh cakes are traditional in Wales.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_tv_licence_single_b",
     "fact_id": "c4_tv_licence",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -8760,7 +8919,7 @@
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "What do you need if you watch TV programmes as they are broadcast in the UK?",
+    "question_text": "What must everyone with a TV, computer or other device used to watch live TV have?",
     "options": [
       {
         "id": "a",
@@ -8769,29 +8928,32 @@
       },
       {
         "id": "b",
-        "text": "A library card",
+        "text": "A driving licence",
         "is_correct": false
       },
       {
         "id": "c",
-        "text": "A passport",
+        "text": "A library card",
         "is_correct": false
       },
       {
         "id": "d",
-        "text": "A driving licence",
+        "text": "A passport",
         "is_correct": false
       }
     ],
-    "explanation_simple": "Everyone who watches or records TV as it is broadcast needs a TV licence. One licence covers a household.",
-    "review": {}
+    "explanation_simple": "One licence covers all the equipment in one home, unless people rent rooms in a shared house with separate tenancy agreements. You can be fined up to £1,000 for watching TV without one.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_dog_tf_b",
     "fact_id": "c4_dog_collar",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -8816,14 +8978,17 @@
       }
     ],
     "explanation_simple": "In public, a dog must wear a collar showing the owner's name and address, and owners must clean up after their dog.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_hitchcock_tf_b",
     "fact_id": "c4_hitchcock",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -8848,7 +9013,10 @@
       }
     ],
     "explanation_simple": "Alfred Hitchcock made The 39 Steps in 1935 and later went to Hollywood, where he made many famous films.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -9779,45 +9947,48 @@
   },
   {
     "schema_version": 2,
-    "item_id": "c4_royal_academy_single_a",
-    "fact_id": "c4_royal_academy",
+    "item_id": "c4_galleries_single_a",
+    "fact_id": "c4_galleries",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
       "section": "Arts and culture",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Confirm the handbook mentions this. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "Which organisation holds a famous summer exhibition of art in London?",
+    "question_text": "Which of these well-known galleries is in Edinburgh?",
     "options": [
       {
         "id": "a",
-        "text": "The Royal Society",
+        "text": "Tate Britain",
         "is_correct": false
       },
       {
         "id": "b",
-        "text": "The Royal Academy",
+        "text": "The Scottish National Gallery",
         "is_correct": true
       },
       {
         "id": "c",
-        "text": "The National Trust",
+        "text": "Tate Modern",
         "is_correct": false
       },
       {
         "id": "d",
-        "text": "The BBC",
+        "text": "The National Museum",
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Royal Academy holds a summer exhibition of work from established and new artists.",
-    "review": {}
+    "explanation_simple": "Well-known galleries include The National Gallery, Tate Britain and Tate Modern in London, the National Museum in Cardiff, and the Scottish National Gallery in Edinburgh.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -9866,7 +10037,7 @@
     "item_id": "c4_painters_multi_a",
     "fact_id": "c4_constable",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -9891,7 +10062,7 @@
       },
       {
         "id": "c",
-        "text": "J.M.W. Turner",
+        "text": "Joseph Turner",
         "is_correct": true
       },
       {
@@ -9901,14 +10072,17 @@
       }
     ],
     "explanation_simple": "Constable and Turner were landscape painters. Henry Moore was a sculptor and Chippendale designed furniture.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_architects_multi_a",
     "fact_id": "c4_christopher_wren",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -9943,7 +10117,10 @@
       }
     ],
     "explanation_simple": "Wren designed St Paul's Cathedral and Lutyens the Cenotaph. Dickens was a novelist and Lloyd Webber a composer.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -10034,49 +10211,52 @@
     "item_id": "c4_comedy_single_a",
     "fact_id": "c4_comedy",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
       "section": "Arts and culture",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Confirm the handbook's wording. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "Which tradition of British comedy goes back to the Middle Ages?",
+    "question_text": "In the Middle Ages, who told jokes and made fun of people in the Court?",
     "options": [
       {
         "id": "a",
-        "text": "Stand-up comedy on television",
+        "text": "Satirical magazines",
         "is_correct": false
       },
       {
         "id": "b",
-        "text": "Satire and political comedy",
+        "text": "Jesters",
         "is_correct": true
       },
       {
         "id": "c",
-        "text": "Radio sitcoms",
+        "text": "Music hall performers",
         "is_correct": false
       },
       {
         "id": "d",
-        "text": "Silent film comedy",
+        "text": "Stand-up comedians",
         "is_correct": false
       }
     ],
-    "explanation_simple": "British comedy has a long tradition. Satire of the powerful goes back to medieval times, and today comedy is popular on TV and on stage.",
-    "review": {}
+    "explanation_simple": "Medieval kings and rich nobles had jesters. Later, Shakespeare included comic characters in his plays, and in the 18th century political cartoons became popular.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_film_awards_multi_a",
     "fact_id": "c4_baftas",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -10111,14 +10291,17 @@
       }
     ],
     "explanation_simple": "The BAFTAs are the British equivalent of the Oscars. Hitchcock worked in Britain and later Hollywood.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_bond_single_a",
     "fact_id": "c4_james_bond",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -10153,14 +10336,17 @@
       }
     ],
     "explanation_simple": "Ian Fleming created James Bond. The Bond films are among the most successful British film series.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_nick_park_single_a",
     "fact_id": "c4_nick_park",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -10195,29 +10381,32 @@
       }
     ],
     "explanation_simple": "Nick Park has won four Oscars for his animated films, including those featuring Wallace and Gromit.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_gardens_single_a",
     "fact_id": "c4_gardening",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
       "section": "Leisure",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Confirm the handbook mentions Chelsea. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "Which famous flower show is held in London every year?",
+    "question_text": "Which annual show showcases garden design from Britain and around the world?",
     "options": [
       {
         "id": "a",
-        "text": "The Eden Festival",
+        "text": "The Henley Regatta",
         "is_correct": false
       },
       {
@@ -10227,24 +10416,27 @@
       },
       {
         "id": "c",
-        "text": "The Glastonbury Show",
+        "text": "The Eden Festival",
         "is_correct": false
       },
       {
         "id": "d",
-        "text": "The Henley Regatta",
+        "text": "The Glastonbury Show",
         "is_correct": false
       }
     ],
-    "explanation_simple": "Gardening is a popular hobby in the UK, and the Chelsea Flower Show is one of many flower shows across the country.",
-    "review": {}
+    "explanation_simple": "Gardens continue to be an important part of homes in the UK, and the annual Chelsea Flower Show showcases garden design.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_national_dishes_multi_a",
     "fact_id": "c4_food_wales",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -10279,14 +10471,17 @@
       }
     ],
     "explanation_simple": "Haggis is Scottish, the Ulster fry is from Northern Ireland, Welsh cakes are Welsh and roast beef with Yorkshire pudding is English.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_age_limits_multi_a",
     "fact_id": "c4_alcohol_age",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -10321,7 +10516,10 @@
       }
     ],
     "explanation_simple": "You must be 18 to buy alcohol and to go into betting shops or gambling clubs.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -10412,7 +10610,7 @@
     "item_id": "c4_national_trust_tf_b",
     "fact_id": "c4_national_trust",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -10437,6 +10635,9 @@
       }
     ],
     "explanation_simple": "The National Trust was founded in 1895 to preserve important buildings, coastline and countryside. It relies on volunteers.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   }
 ]
