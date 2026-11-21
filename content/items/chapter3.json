@@ -4,7 +4,7 @@
     "item_id": "c3_stonehenge_single_a",
     "fact_id": "c3_stonehenge",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -39,14 +39,17 @@
       }
     ],
     "explanation_simple": "Stonehenge, in Wiltshire, was built in the Stone Age and probably used for seasonal ceremonies.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_skara_brae_single_a",
     "fact_id": "c3_skara_brae",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -81,14 +84,17 @@
       }
     ],
     "explanation_simple": "Skara Brae on Orkney is the best-preserved prehistoric village in northern Europe.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_bronze_age_single_a",
     "fact_id": "c3_bronze_age",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -123,14 +129,17 @@
       }
     ],
     "explanation_simple": "Around 4,000 years ago people learned to make bronze. They buried their dead in tombs called round barrows.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_hill_forts_single_a",
     "fact_id": "c3_iron_age",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -165,14 +174,17 @@
       }
     ],
     "explanation_simple": "Iron Age people lived in roundhouses and grouped together in larger settlements, sometimes hill forts such as Maiden Castle in Dorset.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_first_coins_tf_a",
     "fact_id": "c3_first_coins",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -197,14 +209,17 @@
       }
     ],
     "explanation_simple": "The first coins minted in Britain date from the Iron Age; some were inscribed with the names of Iron Age kings.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_caesar_single_a",
     "fact_id": "c3_julius_caesar",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -239,14 +254,17 @@
       }
     ],
     "explanation_simple": "Julius Caesar led a Roman invasion in 55 BC, but it was unsuccessful. The Romans conquered Britain nearly 100 years later.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_claudius_single_a",
     "fact_id": "c3_claudius_invasion",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -281,14 +299,17 @@
       }
     ],
     "explanation_simple": "Emperor Claudius led the Roman invasion of AD 43. Julius Caesar's earlier invasion in 55 BC had failed.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_boudicca_single_a",
     "fact_id": "c3_boudicca",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -322,15 +343,18 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Boudicca was queen of the Iceni in what is now eastern England. A statue of her stands near Westminster Bridge in London.",
-    "review": {}
+    "explanation_simple": "Boudicca was queen of the Iceni in what is now eastern England. There is a statue of her on Westminster Bridge, near the Houses of Parliament.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_boudicca_statue_tf_b",
     "fact_id": "c3_boudicca_statue",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -355,14 +379,17 @@
       }
     ],
     "explanation_simple": "Boudicca's statue stands on Westminster Bridge, near the Houses of Parliament.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_hadrians_wall_single_a",
     "fact_id": "c3_hadrians_wall",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -397,14 +424,17 @@
       }
     ],
     "explanation_simple": "Emperor Hadrian built a wall in the north of England to keep out the Picts (ancestors of the Scottish people).",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_romans_stay_single_a",
     "fact_id": "c3_roman_occupation",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -439,14 +469,17 @@
       }
     ],
     "explanation_simple": "The Romans stayed in Britain for about 400 years, leaving in AD 410 to defend other parts of their empire.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_romans_left_single_b",
     "fact_id": "c3_romans_left",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -481,14 +514,17 @@
       }
     ],
     "explanation_simple": "The Romans left in AD 410 to defend other parts of their empire.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_romans_legacy_multi_a",
     "fact_id": "c3_roman_legacy",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -523,14 +559,17 @@
       }
     ],
     "explanation_simple": "The Romans built roads and public buildings, created a structure of law and introduced new plants and animals.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_anglo_saxons_single_a",
     "fact_id": "c3_anglo_saxons",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -565,14 +604,17 @@
       }
     ],
     "explanation_simple": "The Jutes, Angles and Saxons invaded after the Romans left. Their languages are the basis of modern English.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_sutton_hoo_single_a",
     "fact_id": "c3_sutton_hoo",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -607,14 +649,17 @@
       }
     ],
     "explanation_simple": "Sutton Hoo is the burial place of an Anglo-Saxon king, buried with treasure and armour in a ship.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_st_augustine_single_a",
     "fact_id": "c3_st_augustine",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -649,14 +694,17 @@
       }
     ],
     "explanation_simple": "St Augustine led missionaries from Rome to spread Christianity in the south and became the first Archbishop of Canterbury.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_st_columba_single_a",
     "fact_id": "c3_st_columba",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -691,14 +739,17 @@
       }
     ],
     "explanation_simple": "St Columba founded a monastery on the island of Iona. St Patrick became the patron saint of Ireland.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_vikings_from_single_a",
     "fact_id": "c3_vikings_origin",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -713,34 +764,37 @@
     "options": [
       {
         "id": "a",
-        "text": "Germany and Poland",
+        "text": "Italy, Greece and Spain",
         "is_correct": false
       },
       {
         "id": "b",
-        "text": "Italy and Greece",
+        "text": "France, Belgium and the Netherlands",
         "is_correct": false
       },
       {
         "id": "c",
-        "text": "Denmark and Norway",
+        "text": "Denmark, Norway and Sweden",
         "is_correct": true
       },
       {
         "id": "d",
-        "text": "France and Spain",
+        "text": "Germany, Poland and Austria",
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Vikings came from Denmark and Norway. They first visited Britain in AD 789 to raid coastal towns.",
-    "review": {}
+    "explanation_simple": "The Vikings came from Denmark, Norway and Sweden. They first visited Britain in AD 789 to raid coastal towns.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_vikings_date_single_b",
     "fact_id": "c3_vikings_first_raid",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -775,14 +829,17 @@
       }
     ],
     "explanation_simple": "The Vikings first visited Britain in AD 789.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_alfred_single_a",
     "fact_id": "c3_alfred_the_great",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -817,14 +874,17 @@
       }
     ],
     "explanation_simple": "The Anglo-Saxon kingdoms united under King Alfred the Great, who defeated the Vikings.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_danelaw_single_a",
     "fact_id": "c3_danelaw",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -859,14 +919,17 @@
       }
     ],
     "explanation_simple": "Many Vikings stayed in the east and north of England, in an area known as the Danelaw.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_hastings_single_a",
     "fact_id": "c3_battle_of_hastings",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -903,14 +966,17 @@
     ],
     "explanation_simple": "William of Normandy defeated Harold at Hastings in 1066, beginning the Norman Conquest.",
     "memory_tip": "Ten-sixty-six: the last successful foreign invasion of England.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_bayeux_single_a",
     "fact_id": "c3_bayeux_tapestry",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -945,14 +1011,17 @@
       }
     ],
     "explanation_simple": "The Battle of Hastings is commemorated in the Bayeux Tapestry, which can still be seen in France.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_last_invasion_tf_a",
     "fact_id": "c3_norman_last_invasion",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -977,14 +1046,17 @@
       }
     ],
     "explanation_simple": "The Norman Conquest of 1066 was the last successful foreign invasion of England.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_domesday_single_a",
     "fact_id": "c3_domesday_book",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -1019,14 +1091,17 @@
       }
     ],
     "explanation_simple": "William the Conqueror sent people all over England to draw up lists of towns, villages, owners and animals. This was the Domesday Book.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_wales_conquered_single_a",
     "fact_id": "c3_edward_i_wales",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -1061,14 +1136,17 @@
       }
     ],
     "explanation_simple": "Edward I of England conquered Wales; the Statute of Rhuddlan of 1284 annexed it to the Crown of England. He built castles such as Conwy and Caernarvon.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_bannockburn_single_a",
     "fact_id": "c3_bannockburn",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -1103,14 +1181,17 @@
       }
     ],
     "explanation_simple": "Robert the Bruce defeated the English at Bannockburn in 1314, and Scotland remained unconquered by the English.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_bannockburn_date_single_b",
     "fact_id": "c3_bannockburn_date",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -1145,14 +1226,17 @@
       }
     ],
     "explanation_simple": "The Battle of Bannockburn was fought in 1314.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_the_pale_single_a",
     "fact_id": "c3_the_pale",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -1187,14 +1271,17 @@
       }
     ],
     "explanation_simple": "In the Middle Ages the English ruled an area of Ireland known as the Pale, around Dublin.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_hundred_years_war_single_a",
     "fact_id": "c3_hundred_years_war",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -1229,14 +1316,17 @@
       }
     ],
     "explanation_simple": "The Hundred Years War with France actually lasted 116 years. One famous battle was Agincourt in 1415.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_agincourt_single_a",
     "fact_id": "c3_agincourt",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -1271,14 +1361,17 @@
       }
     ],
     "explanation_simple": "Henry V's army defeated the French at the Battle of Agincourt in 1415.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_black_death_single_a",
     "fact_id": "c3_black_death",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -1313,14 +1406,17 @@
       }
     ],
     "explanation_simple": "The Black Death, a plague, killed about one third of the population of England in 1348.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_black_death_date_single_b",
     "fact_id": "c3_black_death_date",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -1356,14 +1452,17 @@
     ],
     "explanation_simple": "The Black Death arrived in 1348.",
     "memory_tip": "Don't confuse it with the Great Plague of 1665.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_magna_carta_single_a",
     "fact_id": "c3_magna_carta",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -1400,14 +1499,17 @@
       }
     ],
     "explanation_simple": "The Magna Carta (the Great Charter) of 1215 established that even the king was subject to the law.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_magna_carta_tf_b",
     "fact_id": "c3_magna_carta_meaning",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -1432,14 +1534,17 @@
       }
     ],
     "explanation_simple": "The Magna Carta limited the king's power and protected the rights of the nobility.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_parliament_houses_single_a",
     "fact_id": "c3_early_parliament",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -1474,14 +1579,17 @@
       }
     ],
     "explanation_simple": "The House of Lords was made up of the nobility, great landowners and bishops. The Commons was knights and wealthy people from towns and cities.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_common_law_single_a",
     "fact_id": "c3_common_law",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -1516,7 +1624,10 @@
       }
     ],
     "explanation_simple": "In England, judges developed 'common law' by a process of precedent (following previous decisions) and tradition.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -5932,7 +6043,7 @@
     "item_id": "c3_first_farmers_single_a",
     "fact_id": "c3_first_farmers",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -5967,14 +6078,17 @@
       }
     ],
     "explanation_simple": "The first farmers arrived in Britain about 6,000 years ago, probably from south-east Europe.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_island_single_a",
     "fact_id": "c3_britain_became_island",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -6009,14 +6123,17 @@
       }
     ],
     "explanation_simple": "Britain was once joined to the continent by a land bridge. It became permanently separated by the Channel about 10,000 years ago.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_celtic_language_tf_a",
     "fact_id": "c3_iron_age_celtic",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -6041,14 +6158,17 @@
       }
     ],
     "explanation_simple": "Iron Age people spoke Celtic languages. Related languages are still spoken today in some parts of Wales, Scotland and Ireland.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_hastings_tf_b",
     "fact_id": "c3_battle_of_hastings",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -6073,14 +6193,17 @@
       }
     ],
     "explanation_simple": "William, Duke of Normandy, defeated and killed King Harold at the Battle of Hastings in 1066.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_hastings_single_c",
     "fact_id": "c3_battle_of_hastings",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -6115,14 +6238,17 @@
       }
     ],
     "explanation_simple": "King Harold, the Saxon king of England, was killed at Hastings by the Norman army of William of Normandy.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_hadrian_tf_b",
     "fact_id": "c3_hadrians_wall",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -6147,14 +6273,17 @@
       }
     ],
     "explanation_simple": "Parts of Hadrian's Wall can still be seen. It is a popular area for walkers and a UNESCO World Heritage Site.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_romans_left_tf_c",
     "fact_id": "c3_romans_left",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -6179,25 +6308,28 @@
       }
     ],
     "explanation_simple": "The Romans left in AD 410 and never returned.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_kenneth_macalpin_single_a",
     "fact_id": "c3_kenneth_macalpin",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
       "section": "Early Britain",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Confirm the handbook names Kenneth MacAlpin. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "In the north, the threat of Viking attack united the Picts and Scots under which ruler?",
+    "question_text": "In the north, the threat of Viking attacks encouraged the people to unite under one king. Who was he?",
     "options": [
       {
         "id": "a",
@@ -6220,15 +6352,18 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Viking threat united the Picts and Scots under Kenneth MacAlpin, and the term Scotland began to be used.",
-    "review": {}
+    "explanation_simple": "Facing Viking attacks, the people in the north united under one king, Kenneth MacAlpin. The name Scotland then came into use for the country.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_anglo_saxon_wales_tf_a",
     "fact_id": "c3_anglo_saxon_extent",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -6253,56 +6388,62 @@
       }
     ],
     "explanation_simple": "Western parts of Britain, including much of Wales, and Scotland remained free of Anglo-Saxon rule.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_canute_single_a",
     "fact_id": "c3_canute",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
       "section": "Early Britain",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Confirm the handbook mentions Cnut. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "Which Danish king ruled England for a time after the Anglo-Saxon period?",
+    "question_text": "Anglo-Saxon kings ruled England except for a short period when there were Danish kings. Who was the first Danish king?",
     "options": [
       {
         "id": "a",
-        "text": "Kenneth MacAlpin",
+        "text": "Alfred the Great",
         "is_correct": false
       },
       {
         "id": "b",
-        "text": "William of Orange",
+        "text": "Kenneth MacAlpin",
         "is_correct": false
       },
       {
         "id": "c",
-        "text": "Cnut (Canute)",
+        "text": "Cnut, also called Canute",
         "is_correct": true
       },
       {
         "id": "d",
-        "text": "Hadrian",
+        "text": "Harold",
         "is_correct": false
       }
     ],
-    "explanation_simple": "England was united under a Danish king, Cnut (also called Canute), before the Norman Conquest.",
-    "review": {}
+    "explanation_simple": "For a short time England was ruled by Danish kings. The first of them was Cnut, also known as Canute.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_feudalism_single_a",
     "fact_id": "c3_feudalism",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -6313,7 +6454,7 @@
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "What was the feudal system introduced by the Normans?",
+    "question_text": "The Normans used a system of land ownership called feudalism. How did it work?",
     "options": [
       {
         "id": "a",
@@ -6337,14 +6478,17 @@
       }
     ],
     "explanation_simple": "Under feudalism, the king gave land to his lords in return for help in war. Landowners had to send men to serve in the army.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_crusades_single_a",
     "fact_id": "c3_crusades",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -6379,7 +6523,10 @@
       }
     ],
     "explanation_simple": "During the Middle Ages English kings fought in the Crusades, in which European Christians fought for control of the Holy Land.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -6428,7 +6575,7 @@
     "item_id": "c3_wales_castles_single_a",
     "fact_id": "c3_edward_i_castles",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -6463,14 +6610,17 @@
       }
     ],
     "explanation_simple": "Edward I built castles including Conwy and Caernarvon to maintain his power in Wales.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_agincourt_date_single_b",
     "fact_id": "c3_agincourt",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -6505,14 +6655,17 @@
       }
     ],
     "explanation_simple": "Henry V defeated the French at Agincourt in 1415, during the Hundred Years War.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_black_death_effects_single_c",
     "fact_id": "c3_black_death_effects",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -6547,7 +6700,10 @@
       }
     ],
     "explanation_simple": "So many people died that there were labour shortages. Peasants began to demand higher wages, and new social classes appeared.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -8873,7 +9029,7 @@
     "item_id": "c3_stonehenge_tf_b",
     "fact_id": "c3_stonehenge",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -8898,14 +9054,17 @@
       }
     ],
     "explanation_simple": "Stonehenge, a prehistoric monument in Wiltshire, is one of the UK's UNESCO World Heritage Sites.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_skara_brae_tf_b",
     "fact_id": "c3_skara_brae",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -8930,14 +9089,17 @@
       }
     ],
     "explanation_simple": "Skara Brae is on Orkney, off the north coast of Scotland. It is the best-preserved prehistoric village in northern Europe.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_bronze_age_single_b",
     "fact_id": "c3_bronze_age",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -8972,14 +9134,17 @@
       }
     ],
     "explanation_simple": "The Bronze Age began around 4,000 years ago, when people learned to make bronze. They buried their dead in round barrows.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_first_coins_single_b",
     "fact_id": "c3_first_coins",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -9014,14 +9179,17 @@
       }
     ],
     "explanation_simple": "The first coins minted in Britain date from the Iron Age, some inscribed with the names of Iron Age kings.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_caesar_tf_b",
     "fact_id": "c3_julius_caesar",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -9046,14 +9214,17 @@
       }
     ],
     "explanation_simple": "Julius Caesar led an unsuccessful invasion in 55 BC. Emperor Claudius led the successful invasion in AD 43.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_claudius_date_single_b",
     "fact_id": "c3_claudius_invasion",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -9088,14 +9259,17 @@
       }
     ],
     "explanation_simple": "Emperor Claudius led the Roman invasion of AD 43. Julius Caesar's earlier attempt in 55 BC failed.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_boudicca_single_b",
     "fact_id": "c3_boudicca",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -9129,15 +9303,18 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Boudicca, queen of the Iceni in what is now eastern England, fought against the Romans. She is still remembered as a symbol of resistance.",
-    "review": {}
+    "explanation_simple": "Boudicca, queen of the Iceni in what is now eastern England, fought against the Romans. She is still remembered today, and there is a statue of her on Westminster Bridge.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_boudicca_statue_single_b",
     "fact_id": "c3_boudicca_statue",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -9172,14 +9349,17 @@
       }
     ],
     "explanation_simple": "There is a statue of Boudicca on Westminster Bridge, near the Houses of Parliament in London.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_roman_occupation_tf_b",
     "fact_id": "c3_roman_occupation",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -9204,14 +9384,17 @@
       }
     ],
     "explanation_simple": "The Romans remained in Britain for about 400 years, from AD 43 until AD 410.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_anglo_saxons_tf_b",
     "fact_id": "c3_anglo_saxons",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -9236,14 +9419,17 @@
       }
     ],
     "explanation_simple": "Tribes from northern Europe, the Jutes, Angles and Saxons, invaded after the Romans left. Their languages are the basis of modern English.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_sutton_hoo_tf_b",
     "fact_id": "c3_sutton_hoo",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -9268,14 +9454,17 @@
       }
     ],
     "explanation_simple": "Sutton Hoo is thought to be the burial place of an Anglo-Saxon king, buried with treasure and armour in a ship.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_augustine_single_b",
     "fact_id": "c3_st_augustine",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -9309,15 +9498,18 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "St Augustine led missionaries from Rome in the south and became the first Archbishop of Canterbury. St Patrick and St Columba spread Christianity in Ireland and Scotland.",
-    "review": {}
+    "explanation_simple": "St Augustine's missionaries from Rome spread Christianity in the south, and he became the first Archbishop of Canterbury. Missionaries from Ireland, such as St Patrick and St Columba, spread it in the north.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_columba_tf_b",
     "fact_id": "c3_st_columba",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -9341,15 +9533,18 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "St Columba founded a monastery on Iona, off the west coast of Scotland.",
-    "review": {}
+    "explanation_simple": "St Columba founded a monastery on Iona, an island off the coast of what is now Scotland.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_vikings_tf_b",
     "fact_id": "c3_vikings_origin",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -9360,7 +9555,7 @@
     },
     "question_type": "true_false",
     "selections_required": 1,
-    "question_text": "Is the following statement TRUE or FALSE? The Vikings who raided Britain came from Denmark and Norway.",
+    "question_text": "Is the following statement TRUE or FALSE? The Vikings came from Denmark, Norway and Sweden.",
     "options": [
       {
         "id": "a",
@@ -9373,15 +9568,18 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Vikings came from Denmark and Norway and first raided Britain in AD 789.",
-    "review": {}
+    "explanation_simple": "The Vikings came from Denmark, Norway and Sweden, and first raided Britain in AD 789.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_alfred_tf_b",
     "fact_id": "c3_alfred_the_great",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -9406,14 +9604,17 @@
       }
     ],
     "explanation_simple": "Alfred the Great united the kingdoms in England and defeated the Vikings.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_danelaw_tf_b",
     "fact_id": "c3_danelaw",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -9438,14 +9639,17 @@
       }
     ],
     "explanation_simple": "Many Vikings stayed in the east and north of England, an area known as the Danelaw. Place names such as Grimsby and Scunthorpe come from Viking languages.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_bayeux_tf_b",
     "fact_id": "c3_bayeux_tapestry",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -9470,14 +9674,17 @@
       }
     ],
     "explanation_simple": "The Bayeux Tapestry, an embroidery of the Battle of Hastings, can still be seen in Bayeux, France.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_last_invasion_single_b",
     "fact_id": "c3_norman_last_invasion",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -9512,18 +9719,21 @@
       }
     ],
     "explanation_simple": "The Norman Conquest was the last successful foreign invasion of England.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_domesday_tf_b",
     "fact_id": "c3_domesday_book",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
-      "section": "The Middle Ages",
+      "section": "Early Britain",
       "section_confirmed": true,
       "page_ref": [],
       "reviewer_note": "Confirm the section heading wording in the handbook"
@@ -9544,14 +9754,17 @@
       }
     ],
     "explanation_simple": "William the Conqueror sent people all over England to record towns, villages, land and animals. This became the Domesday Book, which still exists.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_edward_i_tf_b",
     "fact_id": "c3_edward_i_wales",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -9576,14 +9789,17 @@
       }
     ],
     "explanation_simple": "Edward I annexed Wales with the Statute of Rhuddlan in 1284 and built castles to keep control.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_bruce_tf_b",
     "fact_id": "c3_bannockburn",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -9608,14 +9824,17 @@
       }
     ],
     "explanation_simple": "In 1314 the Scots, led by Robert the Bruce, defeated the English at the Battle of Bannockburn, and Scotland remained unconquered.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_pale_tf_b",
     "fact_id": "c3_the_pale",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -9640,14 +9859,17 @@
       }
     ],
     "explanation_simple": "English rule in the Middle Ages was mostly limited to an area around Dublin known as the Pale.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_hundred_years_tf_b",
     "fact_id": "c3_hundred_years_war",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -9672,14 +9894,17 @@
       }
     ],
     "explanation_simple": "The Hundred Years War with France lasted 116 years, despite its name.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_magna_carta_date_single_b",
     "fact_id": "c3_magna_carta",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -9714,14 +9939,17 @@
       }
     ],
     "explanation_simple": "King John was forced by his noblemen to agree to the Magna Carta in 1215.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_magna_carta_king_single_c",
     "fact_id": "c3_magna_carta_meaning",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -9756,14 +9984,17 @@
       }
     ],
     "explanation_simple": "King John agreed to the Magna Carta in 1215. It established the idea that even the king was subject to the law.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_early_parliament_tf_b",
     "fact_id": "c3_early_parliament",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -9788,7 +10019,10 @@
       }
     ],
     "explanation_simple": "Parliament began to develop in the Middle Ages. The House of Lords had nobility, great landowners and bishops; the House of Commons had knights and wealthy people from towns.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -11859,7 +12093,7 @@
     "item_id": "c3_roman_invasions_multi_c",
     "fact_id": "c3_claudius_invasion",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -11879,7 +12113,7 @@
       },
       {
         "id": "b",
-        "text": "The Romans never reached what is now Scotland",
+        "text": "The Romans conquered all of what is now Scotland",
         "is_correct": false
       },
       {
@@ -11893,15 +12127,18 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Caesar's attempt in 55 BC failed. Claudius invaded successfully in AD 43, and the Romans stayed until AD 410.",
-    "review": {}
+    "explanation_simple": "Caesar's attempt in 55 BC failed. Claudius invaded successfully in AD 43, and the Romans stayed until AD 410. Parts of what is now Scotland were never conquered.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_christian_missionaries_multi_c",
     "fact_id": "c3_st_augustine",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -11935,15 +12172,18 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "St Augustine led missionaries in the south and St Columba founded a monastery on Iona. St Patrick worked in Ireland.",
-    "review": {}
+    "explanation_simple": "St Augustine led missionaries from Rome in the south, and St Columba founded a monastery on Iona. St Patrick became the patron saint of Ireland.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_norman_conquest_multi_a",
     "fact_id": "c3_battle_of_hastings",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -11978,14 +12218,17 @@
       }
     ],
     "explanation_simple": "William defeated Harold at Hastings in 1066. The Bayeux Tapestry shows the battle.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_middle_ages_battles_multi_a",
     "fact_id": "c3_bannockburn_date",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -12020,14 +12263,17 @@
       }
     ],
     "explanation_simple": "Bannockburn was in 1314 and Agincourt in 1415. Hastings was 1066 and Bosworth Field 1485.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_medieval_parliament_multi_c",
     "fact_id": "c3_early_parliament",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -12062,7 +12308,10 @@
       }
     ],
     "explanation_simple": "The House of Lords was made up of the nobility, great landowners and bishops. Knights and wealthy townspeople sat in the Commons.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,

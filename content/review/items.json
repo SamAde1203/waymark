@@ -1,1 +1,500 @@
-{}
+{
+  "c3_agincourt_date_single_b": {
+    "decision": "approved",
+    "fingerprint": "dbdc89a71db807d9",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_agincourt_single_a": {
+    "decision": "approved",
+    "fingerprint": "b12bd3d420c042ce",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_alfred_single_a": {
+    "decision": "approved",
+    "fingerprint": "e3457630861cdbae",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_alfred_tf_b": {
+    "decision": "approved",
+    "fingerprint": "3a7c38e0a9f755a7",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_anglo_saxon_wales_tf_a": {
+    "decision": "approved",
+    "fingerprint": "73d9705d356a6934",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_anglo_saxons_single_a": {
+    "decision": "approved",
+    "fingerprint": "f339407c5fa75ebe",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_anglo_saxons_tf_b": {
+    "decision": "approved",
+    "fingerprint": "bb5706df8d76e912",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_augustine_single_b": {
+    "decision": "approved",
+    "fingerprint": "db57922f859255d6",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_bannockburn_date_single_b": {
+    "decision": "approved",
+    "fingerprint": "1c69b4cee1909366",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_bannockburn_single_a": {
+    "decision": "approved",
+    "fingerprint": "5c06b08ba966c0e5",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_bayeux_single_a": {
+    "decision": "approved",
+    "fingerprint": "671574110dcd720a",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_bayeux_tf_b": {
+    "decision": "approved",
+    "fingerprint": "6709df51ce71ca4a",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_black_death_date_single_b": {
+    "decision": "approved",
+    "fingerprint": "7c7a4c69f5197893",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_black_death_effects_single_c": {
+    "decision": "approved",
+    "fingerprint": "381339399a0328ea",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_black_death_single_a": {
+    "decision": "approved",
+    "fingerprint": "0662c8a35a6d5bb4",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_boudicca_single_a": {
+    "decision": "approved",
+    "fingerprint": "688b130bdc7258e5",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_boudicca_single_b": {
+    "decision": "approved",
+    "fingerprint": "8f55eb0e87c87bcb",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_boudicca_statue_single_b": {
+    "decision": "approved",
+    "fingerprint": "3d12fd745fd6fffe",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_boudicca_statue_tf_b": {
+    "decision": "approved",
+    "fingerprint": "75e6c2beef6679e8",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_bronze_age_single_a": {
+    "decision": "approved",
+    "fingerprint": "a66732d790bc37ea",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_bronze_age_single_b": {
+    "decision": "approved",
+    "fingerprint": "cacfcf18823aed5d",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_bruce_tf_b": {
+    "decision": "approved",
+    "fingerprint": "bdab795c15e58015",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_caesar_single_a": {
+    "decision": "approved",
+    "fingerprint": "21afae0a56193d95",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_caesar_tf_b": {
+    "decision": "approved",
+    "fingerprint": "a46dc94ac6a25ebc",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_canute_single_a": {
+    "decision": "approved",
+    "fingerprint": "a7d034248afff89a",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_celtic_language_tf_a": {
+    "decision": "approved",
+    "fingerprint": "7ff245d3a51d2bd6",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_christian_missionaries_multi_c": {
+    "decision": "approved",
+    "fingerprint": "4f9cb976987bc4ab",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_claudius_date_single_b": {
+    "decision": "approved",
+    "fingerprint": "d0c239b96863c383",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_claudius_single_a": {
+    "decision": "approved",
+    "fingerprint": "2eb302170d419906",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_columba_tf_b": {
+    "decision": "approved",
+    "fingerprint": "8933ff37f25beec7",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_common_law_single_a": {
+    "decision": "approved",
+    "fingerprint": "d6183056f4b34113",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_crusades_single_a": {
+    "decision": "approved",
+    "fingerprint": "9985c13e14a8d521",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_danelaw_single_a": {
+    "decision": "approved",
+    "fingerprint": "f8b99caf3b05b2e9",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_danelaw_tf_b": {
+    "decision": "approved",
+    "fingerprint": "8aadf90c5e871f39",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_domesday_single_a": {
+    "decision": "approved",
+    "fingerprint": "89525e1d6f0723e6",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_domesday_tf_b": {
+    "decision": "approved",
+    "fingerprint": "fd36538a32ed3edf",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_early_parliament_tf_b": {
+    "decision": "approved",
+    "fingerprint": "935d579e1dd59c0c",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_edward_i_tf_b": {
+    "decision": "approved",
+    "fingerprint": "deb79c19a10e70bb",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_feudalism_single_a": {
+    "decision": "approved",
+    "fingerprint": "ef3e0bd2ee9e81e3",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_first_coins_single_b": {
+    "decision": "approved",
+    "fingerprint": "73c0c0bce00fe85d",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_first_coins_tf_a": {
+    "decision": "approved",
+    "fingerprint": "bde67d66cb8352e8",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_first_farmers_single_a": {
+    "decision": "approved",
+    "fingerprint": "f6873350b1935cfa",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_hadrian_tf_b": {
+    "decision": "approved",
+    "fingerprint": "b514c1bd617173cd",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_hadrians_wall_single_a": {
+    "decision": "approved",
+    "fingerprint": "25bd330817b9d342",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_hastings_single_a": {
+    "decision": "approved",
+    "fingerprint": "8814944e377d862a",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_hastings_single_c": {
+    "decision": "approved",
+    "fingerprint": "13ee4372be21a4fd",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_hastings_tf_b": {
+    "decision": "approved",
+    "fingerprint": "181df17de83c1964",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_hill_forts_single_a": {
+    "decision": "approved",
+    "fingerprint": "3b0e72f22abc13a0",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_hundred_years_tf_b": {
+    "decision": "approved",
+    "fingerprint": "48cdffc956c74a0f",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_hundred_years_war_single_a": {
+    "decision": "approved",
+    "fingerprint": "c0ba997d27fa2a49",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_island_single_a": {
+    "decision": "approved",
+    "fingerprint": "e034661271f59592",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_kenneth_macalpin_single_a": {
+    "decision": "approved",
+    "fingerprint": "3e1a991dc69a84ba",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_last_invasion_single_b": {
+    "decision": "approved",
+    "fingerprint": "df283ef84e1e33da",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_last_invasion_tf_a": {
+    "decision": "approved",
+    "fingerprint": "385282cff0a7bf14",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_magna_carta_date_single_b": {
+    "decision": "approved",
+    "fingerprint": "cc5e894ebdfb7884",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_magna_carta_king_single_c": {
+    "decision": "approved",
+    "fingerprint": "b6a81e8f3888b656",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_magna_carta_single_a": {
+    "decision": "approved",
+    "fingerprint": "ccf30892d766989a",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_magna_carta_tf_b": {
+    "decision": "approved",
+    "fingerprint": "b82d53b4c07a8db4",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_medieval_parliament_multi_c": {
+    "decision": "approved",
+    "fingerprint": "fa0a65ea57b72abf",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_middle_ages_battles_multi_a": {
+    "decision": "approved",
+    "fingerprint": "b1a08033c2d97c81",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_norman_conquest_multi_a": {
+    "decision": "approved",
+    "fingerprint": "c2607cf8619ca9e6",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_pale_tf_b": {
+    "decision": "approved",
+    "fingerprint": "50c02bb51a797d83",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_parliament_houses_single_a": {
+    "decision": "approved",
+    "fingerprint": "a1dff77f3c29cd73",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_roman_invasions_multi_c": {
+    "decision": "approved",
+    "fingerprint": "fe77c25ae97ff739",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_roman_occupation_tf_b": {
+    "decision": "approved",
+    "fingerprint": "6258022a0cba65e2",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_romans_left_single_b": {
+    "decision": "approved",
+    "fingerprint": "dd976586d60b3170",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_romans_left_tf_c": {
+    "decision": "approved",
+    "fingerprint": "e57efd8e8a50aaef",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_romans_legacy_multi_a": {
+    "decision": "approved",
+    "fingerprint": "becec43636e64abf",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_romans_stay_single_a": {
+    "decision": "approved",
+    "fingerprint": "5b340e29e836128c",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_skara_brae_single_a": {
+    "decision": "approved",
+    "fingerprint": "e835b5dc53d609b6",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_skara_brae_tf_b": {
+    "decision": "approved",
+    "fingerprint": "fb998bf0d71e494a",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_st_augustine_single_a": {
+    "decision": "approved",
+    "fingerprint": "a727460dc792c449",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_st_columba_single_a": {
+    "decision": "approved",
+    "fingerprint": "d48e3471d58c8855",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_stonehenge_single_a": {
+    "decision": "approved",
+    "fingerprint": "3ff6237a43808802",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_stonehenge_tf_b": {
+    "decision": "approved",
+    "fingerprint": "2739002222a03d6c",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_sutton_hoo_single_a": {
+    "decision": "approved",
+    "fingerprint": "51f5e7b6941403fe",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_sutton_hoo_tf_b": {
+    "decision": "approved",
+    "fingerprint": "a3781c5a4c4cfcec",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_the_pale_single_a": {
+    "decision": "approved",
+    "fingerprint": "f87932ff99f2914b",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_vikings_date_single_b": {
+    "decision": "approved",
+    "fingerprint": "9971b0524bc12cd1",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_vikings_from_single_a": {
+    "decision": "approved",
+    "fingerprint": "2bfbf8e36315cde8",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_vikings_tf_b": {
+    "decision": "approved",
+    "fingerprint": "68c6eebaf66ccc5a",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_wales_castles_single_a": {
+    "decision": "approved",
+    "fingerprint": "6b4de973ea095242",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_wales_conquered_single_a": {
+    "decision": "approved",
+    "fingerprint": "c55917265495aca2",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  }
+}
