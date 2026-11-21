@@ -4,7 +4,7 @@
     "item_id": "c1_principles_multi_a",
     "fact_id": "c1_fundamental_principles",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 1,
@@ -41,14 +41,17 @@
     ],
     "explanation_simple": "The fundamental principles are democracy, the rule of law, individual liberty, tolerance of those with different faiths and beliefs, and participation in community life.",
     "memory_tip": "Think: democracy, law, liberty, tolerance, community.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c1_principles_single_b",
     "fact_id": "c1_fundamental_principles",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 1,
@@ -83,14 +86,17 @@
       }
     ],
     "explanation_simple": "Individual liberty is one of the five fundamental principles, alongside democracy, the rule of law, tolerance and participation in community life.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c1_principles_tf_c",
     "fact_id": "c1_fundamental_principles",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 1,
@@ -115,14 +121,17 @@
       }
     ],
     "explanation_simple": "Participation in community life is one of the five fundamental principles.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c1_values_protected_single_a",
     "fact_id": "c1_values_protected_by",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 1,
@@ -157,14 +166,17 @@
       }
     ],
     "explanation_simple": "The values are based on history and traditions and are protected by law, customs and expectations.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c1_extremism_tf_a",
     "fact_id": "c1_no_place_for_extremism",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 1,
@@ -189,14 +201,17 @@
       }
     ],
     "explanation_simple": "The handbook states that there is no place in British society for extremism or intolerance.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c1_values_statement_a",
     "fact_id": "c1_values_apply_to_all",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 1,
@@ -221,14 +236,17 @@
       }
     ],
     "explanation_simple": "The fundamental values apply to everyone who lives in the UK, not only to people born here or to citizens.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c1_responsibilities_multi_a",
     "fact_id": "c1_responsibilities",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 1,
@@ -264,14 +282,17 @@
       }
     ],
     "explanation_simple": "Responsibilities include respecting and obeying the law, respecting the rights of others, treating others with fairness, looking after yourself and your family, and looking after your area and the environment.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c1_responsibilities_single_b",
     "fact_id": "c1_responsibilities",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 1,
@@ -306,14 +327,17 @@
       }
     ],
     "explanation_simple": "Respecting the rights of others includes respecting their right to their own opinions.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c1_responsibilities_tf_c",
     "fact_id": "c1_responsibilities",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 1,
@@ -338,14 +362,17 @@
       }
     ],
     "explanation_simple": "Looking after yourself and your family is listed among the responsibilities of residents.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c1_responsibilities_tf_d",
     "fact_id": "c1_responsibilities",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 1,
@@ -370,14 +397,17 @@
       }
     ],
     "explanation_simple": "Treating others with fairness is a responsibility for everyone who wants to be a permanent resident or citizen.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c1_freedoms_multi_a",
     "fact_id": "c1_freedoms",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 1,
@@ -412,14 +442,17 @@
       }
     ],
     "explanation_simple": "The UK offers freedom of belief and religion, freedom of speech, freedom from unfair discrimination, a right to a fair trial and a right to join in the election of a government.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c1_freedoms_single_b",
     "fact_id": "c1_freedoms",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 1,
@@ -454,14 +487,17 @@
       }
     ],
     "explanation_simple": "Freedom of belief and religion is one of the freedoms offered, alongside freedom of speech, freedom from unfair discrimination, a fair trial and a say in electing a government.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c1_freedoms_tf_c",
     "fact_id": "c1_freedoms",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 1,
@@ -486,56 +522,62 @@
       }
     ],
     "explanation_simple": "Taking part in electing a government is one of the freedoms the UK offers.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c1_ceremony_single_a",
     "fact_id": "c1_citizenship_ceremony",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 1,
       "section": "The values and principles of the UK",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Which section the oath and pledge sit in. Confirm the section heading wording in the handbook. Check which section the oath and pledge sit in"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "At a citizenship ceremony, new citizens make an oath or affirmation of allegiance. What else do they make?",
+    "question_text": "As part of the citizenship ceremony, what do new citizens pledge to uphold?",
     "options": [
       {
         "id": "a",
-        "text": "A pledge",
-        "is_correct": true
+        "text": "The policies of the government of the day",
+        "is_correct": false
       },
       {
         "id": "b",
-        "text": "A speech to Parliament",
+        "text": "The rules of one particular religion",
         "is_correct": false
       },
       {
         "id": "c",
-        "text": "A payment to the monarch",
+        "text": "The laws of their country of birth",
         "is_correct": false
       },
       {
         "id": "d",
-        "text": "A written examination",
-        "is_correct": false
+        "text": "The values of the UK",
+        "is_correct": true
       }
     ],
-    "explanation_simple": "New citizens make an oath (or affirmation) of allegiance and a pledge, promising to respect the rights, freedoms and laws of the UK.",
-    "review": {}
+    "explanation_simple": "New citizens pledge to uphold the values of the UK, including its democratic values, and to observe its laws faithfully.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c1_pledge_multi_a",
     "fact_id": "c1_citizenship_pledge",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 1,
@@ -570,56 +612,62 @@
       }
     ],
     "explanation_simple": "In the pledge, new citizens promise loyalty to the UK, to respect its rights and freedoms, to uphold its democratic values, to observe its laws faithfully and to fulfil their duties and obligations as British citizens.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c1_settle_requirements_single_a",
     "fact_id": "c1_settlement_requirements",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 1,
       "section": "Becoming a permanent resident",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Handbook wording on the English requirement. Confirm the section heading wording in the handbook. Handbook wording on the English requirement; current rules have exemptions and levels, keep the answer general"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "Besides passing the Life in the UK test, what do most people applying to settle or become citizens also need to show?",
+    "question_text": "Besides passing the Life in the UK test, what do you need to show when applying to become a permanent resident or citizen?",
     "options": [
       {
         "id": "a",
-        "text": "That they can speak and understand English",
-        "is_correct": true
-      },
-      {
-        "id": "b",
-        "text": "That they own a home in the UK",
+        "text": "That you own a home in the UK",
         "is_correct": false
       },
       {
+        "id": "b",
+        "text": "Evidence of speaking and listening skills in English",
+        "is_correct": true
+      },
+      {
         "id": "c",
-        "text": "That they have lived in all four UK countries",
+        "text": "That you have passed a UK driving test",
         "is_correct": false
       },
       {
         "id": "d",
-        "text": "That they have passed a UK driving test",
+        "text": "That you have lived in all four UK countries",
         "is_correct": false
       }
     ],
-    "explanation_simple": "Most applicants need to pass the Life in the UK test and show they can speak and understand English to the required standard.",
-    "review": {}
+    "explanation_simple": "You need acceptable evidence of speaking and listening skills in English at B1 level, equivalent to ESOL Entry Level 3, for example a recognised English test qualification.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c1_principles_multi_d",
     "fact_id": "c1_fundamental_principles",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 1,
@@ -654,14 +702,17 @@
       }
     ],
     "explanation_simple": "The fundamental principles are democracy, the rule of law, individual liberty, tolerance of those with different faiths and beliefs, and participation in community life.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c1_principles_tf_e",
     "fact_id": "c1_fundamental_principles",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 1,
@@ -686,14 +737,17 @@
       }
     ],
     "explanation_simple": "The rule of law is one of the five fundamental principles.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c1_principles_tf_f",
     "fact_id": "c1_fundamental_principles",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 1,
@@ -718,14 +772,17 @@
       }
     ],
     "explanation_simple": "Tolerance of those with different faiths and beliefs is a fundamental principle. No one has to follow any particular religion.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c1_principles_single_g",
     "fact_id": "c1_fundamental_principles",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 1,
@@ -760,14 +817,17 @@
       }
     ],
     "explanation_simple": "The five principles are democracy, the rule of law, individual liberty, tolerance of those with different faiths and beliefs, and participation in community life.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c1_principles_statement_h",
     "fact_id": "c1_fundamental_principles",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 1,
@@ -792,14 +852,17 @@
       }
     ],
     "explanation_simple": "Tolerance of those with different faiths and beliefs is one of the fundamental principles.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c1_values_tf_b",
     "fact_id": "c1_values_protected_by",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 1,
@@ -824,14 +887,17 @@
       }
     ],
     "explanation_simple": "The values and principles of the UK are based on history and traditions, and are protected by law, customs and expectations.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c1_extremism_statement_b",
     "fact_id": "c1_no_place_for_extremism",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 1,
@@ -856,14 +922,17 @@
       }
     ],
     "explanation_simple": "There is no place in British society for extremism or intolerance.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c1_responsibilities_multi_e",
     "fact_id": "c1_responsibilities",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 1,
@@ -898,14 +967,17 @@
       }
     ],
     "explanation_simple": "Responsibilities include respecting and obeying the law, respecting the rights of others, treating others with fairness, looking after yourself and your family, and looking after your area and the environment.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c1_responsibilities_tf_f",
     "fact_id": "c1_responsibilities",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 1,
@@ -930,14 +1002,17 @@
       }
     ],
     "explanation_simple": "Looking after your area and the environment is one of the responsibilities listed.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c1_responsibilities_single_g",
     "fact_id": "c1_responsibilities",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 1,
@@ -972,14 +1047,17 @@
       }
     ],
     "explanation_simple": "Respecting and obeying the law is one of the responsibilities of residents.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c1_freedoms_multi_d",
     "fact_id": "c1_freedoms",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 1,
@@ -1014,14 +1092,17 @@
       }
     ],
     "explanation_simple": "The UK offers freedom of belief and religion, freedom of speech, freedom from unfair discrimination, a right to a fair trial and a right to join in the election of a government.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c1_freedoms_tf_e",
     "fact_id": "c1_freedoms",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 1,
@@ -1046,14 +1127,17 @@
       }
     ],
     "explanation_simple": "Freedom of speech is one of the freedoms offered in return for meeting your responsibilities.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c1_freedoms_tf_f",
     "fact_id": "c1_freedoms",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 1,
@@ -1078,14 +1162,17 @@
       }
     ],
     "explanation_simple": "The freedoms are belief and religion, speech, freedom from unfair discrimination, a fair trial, and joining in the election of a government. A job is not guaranteed.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c1_freedoms_single_g",
     "fact_id": "c1_freedoms",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 1,
@@ -1120,14 +1207,17 @@
       }
     ],
     "explanation_simple": "A right to a fair trial is one of the freedoms the UK offers.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
-    "item_id": "c1_ceremony_tf_b",
+    "item_id": "c1_ceremony_values_tf_b",
     "fact_id": "c1_citizenship_ceremony",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 1,
@@ -1138,7 +1228,7 @@
     },
     "question_type": "true_false",
     "selections_required": 1,
-    "question_text": "Is the following statement TRUE or FALSE? New citizens make an oath or affirmation of allegiance at a citizenship ceremony.",
+    "question_text": "Is the following statement TRUE or FALSE? As part of the citizenship ceremony, new citizens pledge to uphold the UK's values.",
     "options": [
       {
         "id": "a",
@@ -1151,57 +1241,63 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "At a citizenship ceremony, new citizens swear an oath (or make an affirmation) of allegiance and make a pledge.",
-    "review": {}
+    "explanation_simple": "New citizens pledge to give their loyalty to the UK, respect its rights and freedoms, uphold its democratic values, observe its laws and fulfil their duties as British citizens.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
-    "item_id": "c1_ceremony_single_c",
-    "fact_id": "c1_citizenship_ceremony",
+    "item_id": "c1_test_language_single_a",
+    "fact_id": "c1_test_format",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 1,
-      "section": "The values and principles of the UK",
+      "section": "Taking the Life in the UK test",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Confirm the handbook explains the difference. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "What is the difference between an oath and an affirmation at a citizenship ceremony?",
+    "question_text": "Besides English, in which languages can special arrangements be made to take the Life in the UK test?",
     "options": [
       {
         "id": "a",
-        "text": "An oath is spoken; an affirmation is sung",
+        "text": "French or German",
         "is_correct": false
       },
       {
         "id": "b",
-        "text": "There is no difference",
+        "text": "Any language you choose",
         "is_correct": false
       },
       {
         "id": "c",
-        "text": "An oath is for adults; an affirmation is for children",
+        "text": "Irish or Cornish",
         "is_correct": false
       },
       {
         "id": "d",
-        "text": "An oath mentions God; an affirmation does not",
+        "text": "Welsh or Scottish Gaelic",
         "is_correct": true
       }
     ],
-    "explanation_simple": "People can choose to swear by Almighty God (an oath) or to make a solemn affirmation, which does not mention God.",
-    "review": {}
+    "explanation_simple": "The test is usually taken in English, but special arrangements can be made if you wish to take it in Welsh or Scottish Gaelic.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c1_pledge_tf_b",
     "fact_id": "c1_citizenship_pledge",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 1,
@@ -1226,14 +1322,17 @@
       }
     ],
     "explanation_simple": "The pledge includes a promise to fulfil one's duties and obligations as a British citizen.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c1_pledge_single_c",
     "fact_id": "c1_citizenship_pledge",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 1,
@@ -1268,14 +1367,17 @@
       }
     ],
     "explanation_simple": "New citizens pledge to give their loyalty to the United Kingdom and to respect its rights and freedoms.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c1_settle_requirements_tf_b",
     "fact_id": "c1_settlement_requirements",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 1,
@@ -1286,7 +1388,7 @@
     },
     "question_type": "true_false",
     "selections_required": 1,
-    "question_text": "Is the following statement TRUE or FALSE? Most people applying to settle permanently in the UK need to pass the Life in the UK test.",
+    "question_text": "Is the following statement TRUE or FALSE? To become a permanent resident or citizen, you need to pass the Life in the UK test.",
     "options": [
       {
         "id": "a",
@@ -1299,15 +1401,18 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Most applicants for settlement or citizenship need to pass the Life in the UK test and show they can speak and understand English.",
-    "review": {}
+    "explanation_simple": "You also need to show acceptable evidence of speaking and listening skills in English at B1 level, which is equivalent to ESOL Entry Level 3.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c1_settle_requirements_multi_c",
     "fact_id": "c1_settlement_requirements",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 1,
@@ -1342,14 +1447,17 @@
       }
     ],
     "explanation_simple": "Most applicants must pass the Life in the UK test and meet the English language requirement.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c1_test_questions_single_a",
     "fact_id": "c1_test_format",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 1,
@@ -1384,14 +1492,17 @@
       }
     ],
     "explanation_simple": "The test has 24 questions about important aspects of life in the UK, based on the handbook.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c1_test_source_tf_a",
     "fact_id": "c1_test_based_on_handbook",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 1,
@@ -1416,25 +1527,28 @@
       }
     ],
     "explanation_simple": "The questions are based on all parts of the official handbook, Life in the United Kingdom: A Guide for New Residents.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c1_test_booking_single_a",
     "fact_id": "c1_test_booking",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 1,
       "section": "Taking the Life in the UK test",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Confirm wording and that booking is in the handbook. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "How do you book a Life in the UK test?",
+    "question_text": "How can you book a Life in the UK test?",
     "options": [
       {
         "id": "a",
@@ -1453,30 +1567,33 @@
       },
       {
         "id": "d",
-        "text": "Online",
+        "text": "Only online",
         "is_correct": true
       }
     ],
-    "explanation_simple": "The test must be booked online, at an approved test centre.",
-    "review": {}
+    "explanation_simple": "You can only book the test online, at the Life in the UK test website on GOV.UK.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c1_test_centres_tf_a",
     "fact_id": "c1_test_centres",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 1,
       "section": "Taking the Life in the UK test",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Confirm the handbook says this. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "true_false",
     "selections_required": 1,
-    "question_text": "Is the following statement TRUE or FALSE? You can take the Life in the UK test at any approved test centre, but not at home.",
+    "question_text": "Is the following statement TRUE or FALSE? You can only take the Life in the UK test at a registered and approved test centre.",
     "options": [
       {
         "id": "a",
@@ -1489,7 +1606,10 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The test is taken at an approved test centre. You cannot take it online at home.",
-    "review": {}
+    "explanation_simple": "There are over 30 test centres in the UK. The Home Office only accepts certificates from registered test centres.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   }
 ]

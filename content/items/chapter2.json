@@ -4,7 +4,7 @@
     "item_id": "c2_uk_countries_single_a",
     "fact_id": "c2_uk_countries",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 2,
@@ -41,14 +41,17 @@
     ],
     "explanation_simple": "The UK is made up of England, Scotland, Wales and Northern Ireland.",
     "memory_tip": "Great Britain is the big island; the UK adds Northern Ireland.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c2_uk_countries_tf_b",
     "fact_id": "c2_uk_countries",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 2,
@@ -73,14 +76,17 @@
       }
     ],
     "explanation_simple": "Northern Ireland is one of the four countries of the UK, with England, Scotland and Wales.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c2_great_britain_single_a",
     "fact_id": "c2_great_britain",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 2,
@@ -116,14 +122,17 @@
       }
     ],
     "explanation_simple": "Great Britain means England, Scotland and Wales. The UK is Great Britain plus Northern Ireland.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c2_great_britain_tf_b",
     "fact_id": "c2_great_britain",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 2,
@@ -148,14 +157,17 @@
       }
     ],
     "explanation_simple": "Northern Ireland is part of the UK but not of Great Britain, which is England, Scotland and Wales.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c2_official_name_single_a",
     "fact_id": "c2_official_name",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 2,
@@ -190,14 +202,17 @@
       }
     ],
     "explanation_simple": "The official name is the United Kingdom of Great Britain and Northern Ireland.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c2_crown_dependencies_tf_a",
     "fact_id": "c2_crown_dependencies",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 2,
@@ -222,14 +237,17 @@
       }
     ],
     "explanation_simple": "The Isle of Man and the Channel Islands are Crown dependencies. They are closely linked to the UK but are not part of it.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c2_crown_dependencies_multi_b",
     "fact_id": "c2_crown_dependencies",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 2,
@@ -264,14 +282,17 @@
       }
     ],
     "explanation_simple": "The Channel Islands and the Isle of Man have their own governments and are not part of the UK.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c2_crown_dependencies_statement_c",
     "fact_id": "c2_crown_dependencies_govt",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 2,
@@ -296,14 +317,17 @@
       }
     ],
     "explanation_simple": "The Crown dependencies have their own governments, though they are linked to the UK.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c2_overseas_territories_single_a",
     "fact_id": "c2_overseas_territories",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 2,
@@ -338,14 +362,17 @@
       }
     ],
     "explanation_simple": "British overseas territories, such as the Falkland Islands and St Helena, are linked to the UK but are not part of it.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c2_westminster_single_a",
     "fact_id": "c2_parliament_westminster",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 2,
@@ -380,14 +407,17 @@
       }
     ],
     "explanation_simple": "The UK is governed by the Parliament sitting in Westminster, London.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c2_devolution_tf_a",
     "fact_id": "c2_devolved_powers",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 2,
@@ -412,14 +442,17 @@
       }
     ],
     "explanation_simple": "Some powers are devolved: Scotland, Wales and Northern Ireland have their own parliament or assemblies that decide some matters for themselves.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c2_british_isles_statement_a",
     "fact_id": "c2_uk_not_whole_british_isles",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 2,
@@ -444,14 +477,17 @@
       }
     ],
     "explanation_simple": "Ireland is divided: Northern Ireland is part of the UK, while the Republic of Ireland is a separate country.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c2_uk_countries_multi_c",
     "fact_id": "c2_uk_countries",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 2,
@@ -486,14 +522,17 @@
       }
     ],
     "explanation_simple": "The UK is England, Scotland, Wales and Northern Ireland. The Republic of Ireland is a separate country and the Isle of Man is a Crown dependency.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c2_uk_countries_tf_d",
     "fact_id": "c2_uk_countries",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 2,
@@ -518,14 +557,17 @@
       }
     ],
     "explanation_simple": "The four countries of the UK are England, Scotland, Wales and Northern Ireland.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c2_uk_countries_tf_e",
     "fact_id": "c2_uk_countries",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 2,
@@ -550,14 +592,17 @@
       }
     ],
     "explanation_simple": "The Republic of Ireland is a separate country. Northern Ireland is the part of Ireland that is in the UK.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c2_great_britain_multi_c",
     "fact_id": "c2_great_britain",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 2,
@@ -592,14 +637,17 @@
       }
     ],
     "explanation_simple": "Great Britain is England, Scotland and Wales. Northern Ireland is in the UK but not in Great Britain.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c2_great_britain_statement_d",
     "fact_id": "c2_great_britain",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 2,
@@ -624,14 +672,17 @@
       }
     ],
     "explanation_simple": "Great Britain is England, Scotland and Wales. With Northern Ireland, they make up the UK.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c2_official_name_tf_b",
     "fact_id": "c2_official_name",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 2,
@@ -656,14 +707,17 @@
       }
     ],
     "explanation_simple": "That is the country's full official name. 'UK' is its short form.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c2_official_name_statement_c",
     "fact_id": "c2_official_name",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 2,
@@ -688,14 +742,17 @@
       }
     ],
     "explanation_simple": "The official name includes Northern Ireland: the United Kingdom of Great Britain and Northern Ireland.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c2_crown_dependencies_single_d",
     "fact_id": "c2_crown_dependencies",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 2,
@@ -730,14 +787,17 @@
       }
     ],
     "explanation_simple": "The Channel Islands and the Isle of Man are Crown dependencies. They are closely linked to the UK but are not part of it.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c2_crown_dependencies_tf_e",
     "fact_id": "c2_crown_dependencies",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 2,
@@ -762,14 +822,17 @@
       }
     ],
     "explanation_simple": "The Channel Islands are a Crown dependency, linked to the UK but not part of it.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c2_crown_govt_tf_b",
     "fact_id": "c2_crown_dependencies_govt",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 2,
@@ -794,14 +857,17 @@
       }
     ],
     "explanation_simple": "The Crown dependencies, the Channel Islands and the Isle of Man, have their own governments.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c2_overseas_territories_tf_b",
     "fact_id": "c2_overseas_territories",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 2,
@@ -826,14 +892,17 @@
       }
     ],
     "explanation_simple": "The Falkland Islands are a British overseas territory. They are linked to the UK but are not part of it.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c2_overseas_territories_multi_c",
     "fact_id": "c2_overseas_territories",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 2,
@@ -868,14 +937,17 @@
       }
     ],
     "explanation_simple": "The Falkland Islands and St Helena are British overseas territories. The Isle of Man is a Crown dependency and Anglesey is part of Wales.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c2_westminster_tf_b",
     "fact_id": "c2_parliament_westminster",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 2,
@@ -900,14 +972,17 @@
       }
     ],
     "explanation_simple": "The UK is governed by the Parliament sitting in Westminster, London.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c2_westminster_single_c",
     "fact_id": "c2_parliament_westminster",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 2,
@@ -942,14 +1017,17 @@
       }
     ],
     "explanation_simple": "The UK Parliament sits in Westminster, in London.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c2_devolution_single_b",
     "fact_id": "c2_devolved_powers",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 2,
@@ -984,14 +1062,17 @@
       }
     ],
     "explanation_simple": "Scotland, Wales and Northern Ireland have their own parliament or assemblies with devolved powers in some areas.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c2_devolution_tf_c",
     "fact_id": "c2_devolved_powers",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 2,
@@ -1016,14 +1097,17 @@
       }
     ],
     "explanation_simple": "Scotland, Wales and Northern Ireland have their own parliament or assemblies. England is governed by the UK Parliament at Westminster.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c2_british_isles_tf_b",
     "fact_id": "c2_uk_not_whole_british_isles",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 2,
@@ -1048,6 +1132,9 @@
       }
     ],
     "explanation_simple": "Northern Ireland is part of the UK; the Republic of Ireland is a separate, independent country.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   }
 ]

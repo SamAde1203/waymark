@@ -1,4 +1,418 @@
 {
+  "c1_ceremony_single_a": {
+    "decision": "approved",
+    "fingerprint": "5f58b9313ea19c2b",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c1_ceremony_values_tf_b": {
+    "decision": "approved",
+    "fingerprint": "cda627ee95cdfe4f",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c1_extremism_statement_b": {
+    "decision": "approved",
+    "fingerprint": "4582d6a77a866948",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c1_extremism_tf_a": {
+    "decision": "approved",
+    "fingerprint": "9d29ef7eaab5fc52",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c1_freedoms_multi_a": {
+    "decision": "approved",
+    "fingerprint": "aee6f6e0fb2d7d99",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c1_freedoms_multi_d": {
+    "decision": "approved",
+    "fingerprint": "a6614f6688948e53",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c1_freedoms_single_b": {
+    "decision": "approved",
+    "fingerprint": "d8d2425f13bf4c9a",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c1_freedoms_single_g": {
+    "decision": "approved",
+    "fingerprint": "32bdb31dcfe03b25",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c1_freedoms_tf_c": {
+    "decision": "approved",
+    "fingerprint": "fd27945f00e31882",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c1_freedoms_tf_e": {
+    "decision": "approved",
+    "fingerprint": "b8fd067108f23758",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c1_freedoms_tf_f": {
+    "decision": "approved",
+    "fingerprint": "5e73545126ef7942",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c1_pledge_multi_a": {
+    "decision": "approved",
+    "fingerprint": "208313331b7e1cea",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c1_pledge_single_c": {
+    "decision": "approved",
+    "fingerprint": "9abb6ce11d273257",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c1_pledge_tf_b": {
+    "decision": "approved",
+    "fingerprint": "f7e8868fef92e6c7",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c1_principles_multi_a": {
+    "decision": "approved",
+    "fingerprint": "fc6d95e293d1ab54",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c1_principles_multi_d": {
+    "decision": "approved",
+    "fingerprint": "62f1b8458bf6a881",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c1_principles_single_b": {
+    "decision": "approved",
+    "fingerprint": "99c9f7690ae34e53",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c1_principles_single_g": {
+    "decision": "approved",
+    "fingerprint": "56dd3199f21ef17d",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c1_principles_statement_h": {
+    "decision": "approved",
+    "fingerprint": "f820bf2054b3ea59",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c1_principles_tf_c": {
+    "decision": "approved",
+    "fingerprint": "1b06819ac9422750",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c1_principles_tf_e": {
+    "decision": "approved",
+    "fingerprint": "3d5953f4f05d5fac",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c1_principles_tf_f": {
+    "decision": "approved",
+    "fingerprint": "6d2efad423a5435d",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c1_responsibilities_multi_a": {
+    "decision": "approved",
+    "fingerprint": "ad34a84113c60040",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c1_responsibilities_multi_e": {
+    "decision": "approved",
+    "fingerprint": "acfab02b9a924c90",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c1_responsibilities_single_b": {
+    "decision": "approved",
+    "fingerprint": "b9d31fd5143237e0",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c1_responsibilities_single_g": {
+    "decision": "approved",
+    "fingerprint": "312030e0a082fe71",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c1_responsibilities_tf_c": {
+    "decision": "approved",
+    "fingerprint": "39b056edb7b7ee4f",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c1_responsibilities_tf_d": {
+    "decision": "approved",
+    "fingerprint": "7e5cee2d727961f7",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c1_responsibilities_tf_f": {
+    "decision": "approved",
+    "fingerprint": "9937a81539ff6afc",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c1_settle_requirements_multi_c": {
+    "decision": "approved",
+    "fingerprint": "6ca21e5de2b412ce",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c1_settle_requirements_single_a": {
+    "decision": "approved",
+    "fingerprint": "0ac015255c9ccdbf",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c1_settle_requirements_tf_b": {
+    "decision": "approved",
+    "fingerprint": "2b9f8dc752a703bb",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c1_test_booking_single_a": {
+    "decision": "approved",
+    "fingerprint": "1a6b0ccc4d2f6ce8",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c1_test_centres_tf_a": {
+    "decision": "approved",
+    "fingerprint": "c11102d324876214",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c1_test_language_single_a": {
+    "decision": "approved",
+    "fingerprint": "b802c5c324f0894c",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c1_test_questions_single_a": {
+    "decision": "approved",
+    "fingerprint": "2fbc8ec4817dcbe6",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c1_test_source_tf_a": {
+    "decision": "approved",
+    "fingerprint": "06bedbb92a211ece",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c1_values_protected_single_a": {
+    "decision": "approved",
+    "fingerprint": "2cbfd9fc49730ce0",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c1_values_statement_a": {
+    "decision": "approved",
+    "fingerprint": "2e12ff85c320a44f",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c1_values_tf_b": {
+    "decision": "approved",
+    "fingerprint": "464891f11fb8f6af",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c2_british_isles_statement_a": {
+    "decision": "approved",
+    "fingerprint": "210151c738bb02f3",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c2_british_isles_tf_b": {
+    "decision": "approved",
+    "fingerprint": "6bf975a5f2debc25",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c2_crown_dependencies_multi_b": {
+    "decision": "approved",
+    "fingerprint": "ed30212b35259b4d",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c2_crown_dependencies_single_d": {
+    "decision": "approved",
+    "fingerprint": "fff8b8b0026019c8",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c2_crown_dependencies_statement_c": {
+    "decision": "approved",
+    "fingerprint": "e92ddb8d3fde3a05",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c2_crown_dependencies_tf_a": {
+    "decision": "approved",
+    "fingerprint": "4053776c6cd55f53",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c2_crown_dependencies_tf_e": {
+    "decision": "approved",
+    "fingerprint": "ef18945b470f15e8",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c2_crown_govt_tf_b": {
+    "decision": "approved",
+    "fingerprint": "f6f67078f08a06aa",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c2_devolution_single_b": {
+    "decision": "approved",
+    "fingerprint": "e3529900c11740e9",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c2_devolution_tf_a": {
+    "decision": "approved",
+    "fingerprint": "f2cc8801e5ca1a8c",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c2_devolution_tf_c": {
+    "decision": "approved",
+    "fingerprint": "fe0e31b78bad7c41",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c2_great_britain_multi_c": {
+    "decision": "approved",
+    "fingerprint": "78b36567342cbd6e",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c2_great_britain_single_a": {
+    "decision": "approved",
+    "fingerprint": "7cbb68e7ab16de04",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c2_great_britain_statement_d": {
+    "decision": "approved",
+    "fingerprint": "e23548d1342be9ff",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c2_great_britain_tf_b": {
+    "decision": "approved",
+    "fingerprint": "dd2a619c75af3550",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c2_official_name_single_a": {
+    "decision": "approved",
+    "fingerprint": "bbc97c8a7f806c7f",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c2_official_name_statement_c": {
+    "decision": "approved",
+    "fingerprint": "12b6a800df66ca27",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c2_official_name_tf_b": {
+    "decision": "approved",
+    "fingerprint": "25ef624e57106075",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c2_overseas_territories_multi_c": {
+    "decision": "approved",
+    "fingerprint": "790a87bc6cb2f7c2",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c2_overseas_territories_single_a": {
+    "decision": "approved",
+    "fingerprint": "930bf8f6354d1cce",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c2_overseas_territories_tf_b": {
+    "decision": "approved",
+    "fingerprint": "9512ec443eb3be9c",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c2_uk_countries_multi_c": {
+    "decision": "approved",
+    "fingerprint": "c7497427d01d31a1",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c2_uk_countries_single_a": {
+    "decision": "approved",
+    "fingerprint": "edad8f8cb7aaac06",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c2_uk_countries_tf_b": {
+    "decision": "approved",
+    "fingerprint": "9d2f5e5b33d5a73a",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c2_uk_countries_tf_d": {
+    "decision": "approved",
+    "fingerprint": "d5ac1f7d343a3fd5",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c2_uk_countries_tf_e": {
+    "decision": "approved",
+    "fingerprint": "f5892262a45e1abb",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c2_westminster_single_a": {
+    "decision": "approved",
+    "fingerprint": "1f1dcc4762847228",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c2_westminster_single_c": {
+    "decision": "approved",
+    "fingerprint": "7f3d1ee6cbad5a62",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c2_westminster_tf_b": {
+    "decision": "approved",
+    "fingerprint": "4202370d4e42938f",
+    "note": "Matches the book (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
   "c3_1660s_disasters_multi_a": {
     "decision": "approved",
     "fingerprint": "ab6e970d17a0f8e0",
