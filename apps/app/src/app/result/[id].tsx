@@ -7,6 +7,7 @@ import { freeMockUsed } from "@/lib/study";
 import { useStore } from "@/lib/store";
 import { Button, Card, H1, H2, P, Row, Screen } from "@/ui/kit";
 import { Feedback, QuestionView } from "@/ui/Question";
+import { ShareButton } from "@/ui/ShareButton";
 import { color, font, space } from "@/ui/theme";
 
 export default function Result() {
@@ -53,6 +54,14 @@ export default function Result() {
           onPress={() => router.replace(freeMockUsed(s) ? "/unlock" : "/mock")}
         />
         <Button label="Back to Today" kind="secondary" onPress={() => router.replace("/today")} />
+        <ShareButton
+          label={passed ? "Share my score" : "Share Waymark with a friend"}
+          message={
+            passed
+              ? `I scored ${mock.score}/${mock.total} on a Life in the UK mock test with Waymark. Every question is checked against the official handbook. Try it free:`
+              : undefined
+          }
+        />
       </View>
 
       <H2>Review answers</H2>

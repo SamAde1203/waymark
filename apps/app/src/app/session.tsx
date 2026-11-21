@@ -8,6 +8,7 @@ import { chapterItems, dailyPlan, drillItems, drillProgress, recordAnswer, secti
 import { getState, setState, type AnswerRecord } from "@/lib/store";
 import { Bar, Button, H1, P, PreviewBanner, Row, Screen } from "@/ui/kit";
 import { Feedback, QuestionView } from "@/ui/Question";
+import { ShareButton } from "@/ui/ShareButton";
 import { color, font, space } from "@/ui/theme";
 
 type Kind = "plan" | "section" | "chapter" | "mistakes" | "flagged" | "diagnostic" | "drill";
@@ -99,6 +100,12 @@ export default function Session() {
               kind="secondary"
               onPress={() => router.replace(getState().unlocked ? `/session?kind=drill&r=${Date.now()}` : "/unlock")}
             />}
+          {pct >= 80 && kind !== "diagnostic" && (
+            <ShareButton
+              label="Share my score"
+              message={`I scored ${right}/${items.length} in a Life in the UK practice round with Waymark. Try it free:`}
+            />
+          )}
           {kind !== "diagnostic" && <Button label="Progress" kind="secondary" onPress={() => router.replace("/progress")} />}
         </View>
       </Screen>

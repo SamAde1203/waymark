@@ -171,6 +171,9 @@ const payload = items.map((i) => ({
           <p>This short test is a sample. One practice score cannot predict your real result.</p>
           <p><a class="btn" href="${root.dataset.ctaHref}">${esc(root.dataset.ctaLabel ?? "")}</a></p>
           <p><button class="btn secondary" type="button" id="again">Try again</button></p>
+          <p><button class="btn secondary" type="button" data-share data-share-text="${esc(
+            `I scored ${score}/${total} on a free Life in the UK practice test from Waymark. Try it:`,
+          )}">Share my score</button></p>
         </div>`;
       root.querySelector("#again")!.addEventListener("click", () => {
         index = 0;

@@ -4,6 +4,7 @@ import { Linking, Pressable, Text, TextInput, View } from "react-native";
 import { LANGS } from "@/content/translations";
 import { resetState, setState, useStore } from "@/lib/store";
 import { Button, Card, H1, H2, P, Row, Screen } from "@/ui/kit";
+import { ShareButton } from "@/ui/ShareButton";
 import { color, font, radius, space } from "@/ui/theme";
 
 const SITE = "https://www.waymarkprep.co.uk";
@@ -61,6 +62,12 @@ export default function Settings() {
           </View>
         )}
       </Card>
+
+      <H2>Tell a friend</H2>
+      <P small>Know someone taking the test? Send them Waymark. They can start free.</P>
+      <View style={{ marginTop: space.sm }}>
+        <ShareButton small />
+      </View>
 
       <H2>Your data</H2>
       <P small>

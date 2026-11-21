@@ -62,6 +62,7 @@ const year = new Date().getFullYear();
             <img src="/favicon.svg" alt="" width="40" height="40" />
             <p>Every answer checked. Every step planned.</p>
             <p>Contact: <a href="mailto:hello@waymarkprep.co.uk">hello@waymarkprep.co.uk</a></p>
+            <p><button type="button" class="btn secondary" data-share>Share Waymark</button></p>
           </div>
           <ul aria-label="Study">
             <li><a href="/app">Study app</a></li>
@@ -96,5 +97,31 @@ const year = new Date().getFullYear();
         </p>
       </div>
     </footer>
+    <script>
+      // Share buttons: the phone's share sheet where there is one, otherwise copy the link.
+      const SHARE_URL = "https://www.waymarkprep.co.uk";
+      const SHARE_TEXT =
+        "I'm preparing for the Life in the UK test with Waymark. Every practice question is checked against the official handbook, and explanations are available in Polish and Chinese. Try it free:";
+      async function shareWaymark(btn: HTMLButtonElement, text = SHARE_TEXT) {
+        const label = btn.textContent;
+        try {
+          if (navigator.share) {
+            await navigator.share({ text, url: SHARE_URL });
+            return;
+          }
+          await navigator.clipboard.writeText(`${text} ${SHARE_URL}`);
+          btn.textContent = "Link copied";
+        } catch (e) {
+          if (e instanceof Error && e.name === "AbortError") return;
+          btn.textContent = SHARE_URL;
+        }
+        setTimeout(() => (btn.textContent = label), 4000);
+      }
+      (window as unknown as { shareWaymark: typeof shareWaymark }).shareWaymark = shareWaymark;
+      document.addEventListener("click", (ev) => {
+        const btn = (ev.target as HTMLElement).closest<HTMLButtonElement>("[data-share]");
+        if (btn) shareWaymark(btn, btn.dataset.shareText || SHARE_TEXT);
+      });
+    </script>
   </body>
 </html>

@@ -4,6 +4,7 @@ import { BAND_LABEL } from "@waymark/shared";
 import { DRILL_ROUND, dailyPlan, daysToExam, freeDrillUsed, freeMockUsed, readinessOf } from "@/lib/study";
 import { useStore } from "@/lib/store";
 import { Button, Card, H1, H2, P, Pill, PreviewBanner, Row, Screen } from "@/ui/kit";
+import { ShareButton } from "@/ui/ShareButton";
 import { color, font, space } from "@/ui/theme";
 
 export default function Today() {
@@ -77,6 +78,7 @@ export default function Today() {
           <Button label="Unlock everything · £9.99 one-off" onPress={() => router.push("/unlock")} />
         )}
         <Button label="Test day: what to bring" kind="ghost" onPress={() => router.push("/test-day")} />
+        <ShareButton label="Tell a friend about Waymark" kind="ghost" />
       </View>
     </Screen>
   );
