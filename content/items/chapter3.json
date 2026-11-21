@@ -2741,7 +2741,7 @@
     "item_id": "c3_naseby_single_a",
     "fact_id": "c3_naseby",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -2752,7 +2752,7 @@
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "Charles I's army was defeated in 1645 at which battle?",
+    "question_text": "Charles I's army was defeated at the Battle of Marston Moor and at which other battle?",
     "options": [
       {
         "id": "a",
@@ -2775,15 +2775,18 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Charles I's army was defeated at the Battle of Naseby in 1645.",
-    "review": {}
+    "explanation_simple": "The king's army was defeated at the Battles of Marston Moor and Naseby. By 1646 it was clear that Parliament had won the war.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_charles_i_executed_single_a",
     "fact_id": "c3_charles_i_executed",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -2818,14 +2821,17 @@
       }
     ],
     "explanation_simple": "Charles I was executed in 1649 and England became a republic called the Commonwealth.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_cromwell_single_a",
     "fact_id": "c3_cromwell",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -2836,16 +2842,16 @@
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "After the execution of Charles I, what title did Oliver Cromwell take?",
+    "question_text": "After the execution of Charles I, what title was Oliver Cromwell given?",
     "options": [
       {
         "id": "a",
-        "text": "Prime Minister",
+        "text": "King",
         "is_correct": false
       },
       {
         "id": "b",
-        "text": "King",
+        "text": "Prime Minister",
         "is_correct": false
       },
       {
@@ -2859,15 +2865,18 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Oliver Cromwell, the army leader, became the Lord Protector and ruled until his death in 1658.",
-    "review": {}
+    "explanation_simple": "Oliver Cromwell, one of the army's generals, was recognised as leader of the new republic. He was given the title Lord Protector and ruled until his death in 1658.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_restoration_single_a",
     "fact_id": "c3_restoration",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -2902,14 +2911,17 @@
       }
     ],
     "explanation_simple": "In 1660 Parliament invited Charles II to come back from exile in the Netherlands. This is called the Restoration.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_great_plague_single_a",
     "fact_id": "c3_great_plague",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -2945,14 +2957,17 @@
     ],
     "explanation_simple": "In 1665 there was a major outbreak of plague in London. The Great Fire followed in 1666.",
     "memory_tip": "Plague in 1665, then the fire in 1666.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_great_fire_single_a",
     "fact_id": "c3_great_fire",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -2987,14 +3002,17 @@
       }
     ],
     "explanation_simple": "The Great Fire of London in 1666 destroyed much of the city, including many churches. St Paul's Cathedral was rebuilt by Sir Christopher Wren.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_pepys_single_a",
     "fact_id": "c3_samuel_pepys",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -3009,7 +3027,7 @@
     "options": [
       {
         "id": "a",
-        "text": "Writing the King James Bible",
+        "text": "Leading the Roundheads",
         "is_correct": false
       },
       {
@@ -3019,24 +3037,27 @@
       },
       {
         "id": "c",
-        "text": "Designing St Paul's Cathedral",
+        "text": "Writing the King James Bible",
         "is_correct": false
       },
       {
         "id": "d",
-        "text": "Leading the Roundheads",
+        "text": "Designing St Paul's Cathedral",
         "is_correct": false
       }
     ],
-    "explanation_simple": "Samuel Pepys wrote a diary describing everyday life in London, including the Great Fire.",
-    "review": {}
+    "explanation_simple": "Samuel Pepys wrote about the plague and the Great Fire in a diary, which was later published and is still read today.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_habeas_corpus_single_a",
     "fact_id": "c3_habeas_corpus",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -3071,14 +3092,17 @@
       }
     ],
     "explanation_simple": "The Habeas Corpus Act 1679 guaranteed that no one could be held prisoner unlawfully: every prisoner has a right to a court hearing.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_royal_society_tf_a",
     "fact_id": "c3_royal_society",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -3103,14 +3127,17 @@
       }
     ],
     "explanation_simple": "The Royal Society was formed to promote 'natural knowledge' and is the oldest surviving scientific society in the world.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_glorious_revolution_single_a",
     "fact_id": "c3_glorious_revolution",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -3135,24 +3162,27 @@
       },
       {
         "id": "c",
-        "text": "The union of England and Scotland",
+        "text": "The defeat of the Spanish Armada",
         "is_correct": false
       },
       {
         "id": "d",
-        "text": "The defeat of the Spanish Armada",
+        "text": "The union of England and Scotland",
         "is_correct": false
       }
     ],
-    "explanation_simple": "In 1688 Protestants invited William of Orange to invade. James II fled and William and Mary became joint rulers. It is called the Glorious Revolution because there was no fighting in England.",
-    "review": {}
+    "explanation_simple": "In 1688 important Protestants asked William of Orange to invade. James II fled and William ruled jointly with Mary. It was called 'glorious' because there was no fighting in England and it guaranteed the power of Parliament.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_bill_of_rights_single_a",
     "fact_id": "c3_bill_of_rights",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -3187,14 +3217,17 @@
       }
     ],
     "explanation_simple": "The Bill of Rights of 1689 confirmed the rights of Parliament and the limits of the king's power.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_boyne_single_a",
     "fact_id": "c3_battle_of_the_boyne",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -3229,14 +3262,17 @@
       }
     ],
     "explanation_simple": "William III defeated James II at the Battle of the Boyne in Ireland in 1690, an event still celebrated by some in Northern Ireland.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_whigs_tories_single_a",
     "fact_id": "c3_whigs_tories",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -3271,14 +3307,17 @@
       }
     ],
     "explanation_simple": "Two main groups developed in Parliament: the Whigs and the Tories. The modern Conservative Party is still sometimes called the Tories.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_union_1707_single_a",
     "fact_id": "c3_act_of_union_1707",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -3314,14 +3353,17 @@
       }
     ],
     "explanation_simple": "In 1707 England (already united with Wales) and Scotland became one country. Scotland kept its own legal and education systems and Presbyterian Church.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_union_1707_tf_b",
     "fact_id": "c3_scotland_kept_systems",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -3346,14 +3388,17 @@
       }
     ],
     "explanation_simple": "Scotland was no longer an independent country, but it kept its own legal and education systems and Presbyterian Church of Scotland.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_walpole_single_a",
     "fact_id": "c3_first_prime_minister",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -3388,14 +3433,17 @@
       }
     ],
     "explanation_simple": "Sir Robert Walpole was Prime Minister from 1721 to 1742 and is regarded as the first Prime Minister.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_culloden_single_a",
     "fact_id": "c3_culloden",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -3430,14 +3478,17 @@
       }
     ],
     "explanation_simple": "In 1745 Bonnie Prince Charlie tried to take the throne; he was defeated at the Battle of Culloden in 1746.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_highland_clearances_single_a",
     "fact_id": "c3_highland_clearances",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -3472,14 +3523,17 @@
       }
     ],
     "explanation_simple": "In the Highland Clearances many Scottish landlords destroyed small farms to make room for sheep and cattle, and many people emigrated to North America.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_scottish_enlightenment_single_a",
     "fact_id": "c3_scottish_enlightenment",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -3514,14 +3568,17 @@
       }
     ],
     "explanation_simple": "During the Enlightenment, Adam Smith developed ideas about economics that are still referred to today. David Hume's ideas about human nature were also influential.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_james_watt_single_a",
     "fact_id": "c3_james_watt",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -3532,11 +3589,11 @@
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "James Watt, a Scottish engineer, is known for his work on what?",
+    "question_text": "James Watt's work on what helped the progress of the Industrial Revolution?",
     "options": [
       {
         "id": "a",
-        "text": "Penicillin",
+        "text": "The printing press",
         "is_correct": false
       },
       {
@@ -3546,24 +3603,27 @@
       },
       {
         "id": "c",
-        "text": "The printing press",
+        "text": "Penicillin",
         "is_correct": false
       },
       {
         "id": "d",
-        "text": "The steam engine",
+        "text": "Steam power",
         "is_correct": true
       }
     ],
-    "explanation_simple": "James Watt's work on steam power helped the progress of the Industrial Revolution.",
-    "review": {}
+    "explanation_simple": "Scientific discoveries such as James Watt's work on steam power helped the progress of the Industrial Revolution.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_industrial_revolution_single_a",
     "fact_id": "c3_industrial_revolution",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -3598,14 +3658,17 @@
       }
     ],
     "explanation_simple": "The Industrial Revolution was the rapid development of industry in Britain in the 18th and 19th centuries, with machines and coal powering factories.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_arkwright_single_a",
     "fact_id": "c3_arkwright",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -3640,14 +3703,17 @@
       }
     ],
     "explanation_simple": "Richard Arkwright improved the carding machine and developed horse-driven spinning mills, and is remembered for efficient and profitable factories.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_bessemer_single_a",
     "fact_id": "c3_bessemer",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -3682,14 +3748,17 @@
       }
     ],
     "explanation_simple": "The Bessemer process for the mass production of steel led to the development of the shipbuilding industry and railways.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_slave_trade_single_a",
     "fact_id": "c3_slave_trade_abolished",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -3724,14 +3793,17 @@
       }
     ],
     "explanation_simple": "In 1807 it became illegal to trade slaves in British ships or from British ports. In 1833 the Emancipation Act abolished slavery throughout the British Empire.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_slavery_abolished_single_b",
     "fact_id": "c3_slavery_abolished",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -3767,14 +3839,17 @@
     ],
     "explanation_simple": "The Emancipation Act of 1833 abolished slavery throughout the British Empire.",
     "memory_tip": "Trade banned 1807, slavery itself 1833.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_wilberforce_single_a",
     "fact_id": "c3_wilberforce",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -3809,14 +3884,17 @@
       }
     ],
     "explanation_simple": "William Wilberforce, an evangelical Christian and MP, played an important part in changing the law to end the slave trade.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_quakers_tf_a",
     "fact_id": "c3_quakers_antislavery",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -3841,14 +3919,17 @@
       }
     ],
     "explanation_simple": "The first formal anti-slavery groups were set up by the Quakers in the late 1700s.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_american_independence_single_a",
     "fact_id": "c3_american_independence",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -3883,14 +3964,17 @@
       }
     ],
     "explanation_simple": "In 1776, 13 American colonies declared independence, and Britain recognised it in 1783.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_trafalgar_single_a",
     "fact_id": "c3_trafalgar",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -3925,14 +4009,17 @@
       }
     ],
     "explanation_simple": "Admiral Nelson won the Battle of Trafalgar in 1805 but was killed. Nelson's Column in Trafalgar Square commemorates him, and his ship HMS Victory can be seen in Portsmouth.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_waterloo_single_a",
     "fact_id": "c3_waterloo",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -3967,14 +4054,17 @@
       }
     ],
     "explanation_simple": "The Duke of Wellington defeated Napoleon at the Battle of Waterloo in 1815.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_union_flag_single_a",
     "fact_id": "c3_union_flag",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -3985,7 +4075,7 @@
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "The Union Flag combines the crosses of three patron saints. Which country's flag is NOT represented?",
+    "question_text": "The Union Flag combines the crosses of three patron saints. Which country's patron saint is NOT represented?",
     "options": [
       {
         "id": "a",
@@ -3994,7 +4084,7 @@
       },
       {
         "id": "b",
-        "text": "Ireland",
+        "text": "England",
         "is_correct": false
       },
       {
@@ -4004,19 +4094,22 @@
       },
       {
         "id": "d",
-        "text": "England",
+        "text": "Ireland",
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Union Flag combines the crosses of St George (England), St Andrew (Scotland) and St Patrick (Ireland). Wales is not represented because it was already united with England.",
-    "review": {}
+    "explanation_simple": "The Union Flag combines the crosses of St George (England), St Andrew (Scotland) and St Patrick (Ireland).",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_union_flag_ireland_single_b",
     "fact_id": "c3_union_with_ireland",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -4027,7 +4120,7 @@
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "In which year did the Act of Union join Ireland with England, Wales and Scotland?",
+    "question_text": "In which year did Ireland become unified with England, Scotland and Wales?",
     "options": [
       {
         "id": "a",
@@ -4050,8 +4143,11 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Ireland was united with England, Wales and Scotland by the Act of Union of 1801, creating the United Kingdom of Great Britain and Ireland.",
-    "review": {}
+    "explanation_simple": "In 1801, after the Act of Union of 1800, Ireland became unified with England, Scotland and Wales. This created the United Kingdom of Great Britain and Ireland.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -7343,18 +7439,18 @@
     "item_id": "c3_charles_ii_oak_single_a",
     "fact_id": "c3_charles_ii_escape",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
       "section": "The Tudors and Stuarts",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Battle name and year. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "After his army was defeated in 1651, Charles II escaped by hiding where, according to a famous story?",
+    "question_text": "After his army was defeated by Cromwell at Worcester, Charles II escaped by hiding where, according to a famous story?",
     "options": [
       {
         "id": "a",
@@ -7377,15 +7473,18 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "After defeat at the Battle of Worcester, Charles II famously hid in an oak tree before escaping to Europe.",
-    "review": {}
+    "explanation_simple": "Charles II escaped from Worcester, famously hiding in an oak tree on one occasion, and eventually fled to Europe.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_cromwell_ireland_single_b",
     "fact_id": "c3_cromwell_ireland",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -7396,49 +7495,52 @@
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "How is Oliver Cromwell's campaign in Ireland remembered there?",
+    "question_text": "Why does Oliver Cromwell remain a controversial figure in Ireland today?",
     "options": [
       {
         "id": "a",
-        "text": "As a peaceful agreement",
+        "text": "Because he gave Ireland independence",
         "is_correct": false
       },
       {
         "id": "b",
-        "text": "As the start of Irish independence",
+        "text": "Because he made Ireland Protestant without any fighting",
         "is_correct": false
       },
       {
         "id": "c",
-        "text": "As a victory for Irish Catholics",
+        "text": "Because he became King of Ireland",
         "is_correct": false
       },
       {
         "id": "d",
-        "text": "As brutal, with many deaths",
+        "text": "Because of the violence he used to establish the English Parliament's authority there",
         "is_correct": true
       }
     ],
-    "explanation_simple": "Cromwell's army defeated the Irish rising, and the brutality of his campaign is still remembered in Ireland.",
-    "review": {}
+    "explanation_simple": "Cromwell established the English Parliament's authority in Ireland, but with such violence that he is still a controversial figure there today.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_newton_single_a",
     "fact_id": "c3_isaac_newton",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
       "section": "The Tudors and Stuarts",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Year and work title. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "Sir Isaac Newton's most famous work showed how what explained the movement of objects, including the planets?",
+    "question_text": "Sir Isaac Newton's most famous work showed how what applied to the whole universe?",
     "options": [
       {
         "id": "a",
@@ -7461,15 +7563,18 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Isaac Newton's Principia Mathematica, published in 1687, showed how gravity applied to the whole universe. He also discovered that white light is made up of colours.",
-    "review": {}
+    "explanation_simple": "Newton's most famous work, Philosophiae Naturalis Principia Mathematica, showed how gravity applied to the whole universe. He also discovered that white light is made up of the colours of the rainbow.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_huguenots_single_a",
     "fact_id": "c3_huguenots",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -7504,14 +7609,17 @@
       }
     ],
     "explanation_simple": "Many Huguenots, French Protestants, came to England between 1680 and 1720 to escape religious persecution. Many were skilled scientists, bankers and craftsmen.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_glorious_revolution_tf_b",
     "fact_id": "c3_glorious_revolution",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -7535,15 +7643,18 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "It is called the Glorious Revolution because there was no fighting in England when William of Orange and Mary took the throne.",
-    "review": {}
+    "explanation_simple": "It is called the Glorious Revolution because there was no fighting in England, and because it guaranteed the power of Parliament.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_bill_of_rights_tf_b",
     "fact_id": "c3_bill_of_rights_terms",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -7568,18 +7679,21 @@
       }
     ],
     "explanation_simple": "The Bill of Rights confirmed the rights of Parliament and the limits of the king's power, and that the monarch must be Protestant.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_queen_anne_single_a",
     "fact_id": "c3_queen_anne",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
-      "section": "The Tudors and Stuarts",
+      "section": "A global power",
       "section_confirmed": true,
       "page_ref": [],
       "reviewer_note": "CHECK FIRST: Confirm placement and wording. Confirm the section heading wording in the handbook"
@@ -7610,14 +7724,17 @@
       }
     ],
     "explanation_simple": "Queen Anne had no surviving children, so Parliament chose a German, George I, to be the next king. He was a Protestant.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_george_i_pm_single_b",
     "fact_id": "c3_first_prime_minister",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -7652,21 +7769,24 @@
       }
     ],
     "explanation_simple": "George I did not speak very good English, which increased the importance of his ministers. Sir Robert Walpole is regarded as the first Prime Minister.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_dean_mahomet_single_a",
     "fact_id": "c3_sake_dean_mahomet",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
       "section": "A global power",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Name, year and street. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "single",
     "selections_required": 1,
@@ -7693,15 +7813,18 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Sake Dean Mahomet opened the Hindoostane Coffee House in George Street, London, in 1810. He also introduced 'shampooing' (Indian head massage) to Britain.",
-    "review": {}
+    "explanation_simple": "Sake Dean Mahomet opened the Hindoostane Coffee House in George Street, London, in 1810. He and his wife also introduced 'shampooing', the Indian art of head massage, to Britain.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_canals_tf_a",
     "fact_id": "c3_canals",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -7725,15 +7848,18 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Canals were built to link factories to towns and ports, before railways took over much of this work.",
-    "review": {}
+    "explanation_simple": "Canals were built to link the factories to towns, cities and ports, particularly in the new industrial areas of the middle and north of England.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_britain_first_industrial_tf_a",
     "fact_id": "c3_industrial_revolution_first",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -7757,15 +7883,18 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Britain was the first country to industrialise on a large scale, helped by its coal, raw materials and growing empire.",
-    "review": {}
+    "explanation_simple": "Britain was the first country to industrialise on a large scale. It happened because of the development of machinery and the use of steam power.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_bonnie_prince_charlie_single_b",
     "fact_id": "c3_bonnie_prince_charlie",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -7800,14 +7929,17 @@
       }
     ],
     "explanation_simple": "Charles Edward Stuart, grandson of James II, landed in Scotland in 1745 to claim the throne. He was defeated at Culloden in 1746.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_culloden_date_single_c",
     "fact_id": "c3_culloden",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -7841,15 +7973,18 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Bonnie Prince Charlie's army was defeated at Culloden in 1746, the last Jacobite rising.",
-    "review": {}
+    "explanation_simple": "Bonnie Prince Charlie was defeated by George II's army at the Battle of Culloden in 1746.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_hume_single_a",
     "fact_id": "c3_david_hume",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -7884,14 +8019,17 @@
       }
     ],
     "explanation_simple": "David Hume's ideas about human nature continue to influence philosophers. Adam Smith is known for ideas about economics.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_slave_trade_tf_c",
     "fact_id": "c3_slave_trade_abolished",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -7916,21 +8054,24 @@
       }
     ],
     "explanation_simple": "1807 is when the slave trade became illegal in British ships and ports. Slavery itself was abolished throughout the Empire in 1833.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_indentured_tf_a",
     "fact_id": "c3_indentured_labour",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
       "section": "A global power",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Figure. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "true_false",
     "selections_required": 1,
@@ -7947,15 +8088,18 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "After 1833, about two million Indian and Chinese workers were employed to replace freed slaves, working in places such as the Caribbean, South Africa and Mauritius.",
-    "review": {}
+    "explanation_simple": "After 1833, 2 million Indian and Chinese workers replaced freed slaves. They worked on sugar plantations in the Caribbean, in mines in South Africa, on railways in East Africa and in the army in Kenya.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_napoleon_single_a",
     "fact_id": "c3_napoleon",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -7990,14 +8134,17 @@
       }
     ],
     "explanation_simple": "Britain fought Napoleon, emperor of France, winning at sea at Trafalgar (1805) and on land at Waterloo (1815).",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_wellington_single_b",
     "fact_id": "c3_waterloo",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -8033,14 +8180,17 @@
     ],
     "explanation_simple": "The Duke of Wellington defeated Napoleon at Waterloo in 1815. He later became Prime Minister.",
     "memory_tip": "Nelson won at sea (Trafalgar); Wellington won on land (Waterloo).",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_hms_victory_single_a",
     "fact_id": "c3_hms_victory",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -8075,14 +8225,17 @@
       }
     ],
     "explanation_simple": "HMS Victory, Nelson's ship, can be visited in Portsmouth.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_trafalgar_date_single_b",
     "fact_id": "c3_trafalgar",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -8117,7 +8270,10 @@
       }
     ],
     "explanation_simple": "Nelson won the Battle of Trafalgar in 1805 but was killed in the battle.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -8198,7 +8354,7 @@
     "item_id": "c3_union_flag_tf_c",
     "fact_id": "c3_union_flag",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -8222,15 +8378,18 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The Union Flag combines the crosses of St George, St Andrew and St Patrick. The Welsh dragon does not appear because Wales was already united with England.",
-    "review": {}
+    "explanation_simple": "The Union Flag is made up of three crosses: St George's (England), St Andrew's (Scotland) and St Patrick's (Ireland). The Welsh dragon is not on it.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_union_flag_crosses_multi_d",
     "fact_id": "c3_union_flag",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -8265,7 +8424,10 @@
       }
     ],
     "explanation_simple": "The Union Flag is made of the crosses of St George (England), St Andrew (Scotland) and St Patrick (Ireland).",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -10631,7 +10793,7 @@
     "item_id": "c3_naseby_tf_b",
     "fact_id": "c3_naseby",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -10642,7 +10804,7 @@
     },
     "question_type": "true_false",
     "selections_required": 1,
-    "question_text": "Is the following statement TRUE or FALSE? Charles I's army was defeated at the Battle of Naseby in 1645.",
+    "question_text": "Is the following statement TRUE or FALSE? Charles I's army was defeated at the Battles of Marston Moor and Naseby.",
     "options": [
       {
         "id": "a",
@@ -10655,15 +10817,18 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Charles I's army was defeated at Marston Moor and Naseby. By 1646 it was clear Parliament had won.",
-    "review": {}
+    "explanation_simple": "The king's army was defeated at Marston Moor and Naseby. By 1646 it was clear that Parliament had won.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_charles_i_tf_b",
     "fact_id": "c3_charles_i_executed",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -10688,14 +10853,17 @@
       }
     ],
     "explanation_simple": "Charles I was executed in 1649. England then became a republic called the Commonwealth.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_cromwell_tf_b",
     "fact_id": "c3_cromwell",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -10720,14 +10888,17 @@
       }
     ],
     "explanation_simple": "Cromwell was given the title of Lord Protector. He ruled until his death in 1658.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_restoration_tf_b",
     "fact_id": "c3_restoration",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -10752,14 +10923,17 @@
       }
     ],
     "explanation_simple": "In May 1660 Parliament invited Charles II back from exile. This is called the Restoration.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_great_fire_tf_b",
     "fact_id": "c3_great_fire",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -10784,14 +10958,17 @@
       }
     ],
     "explanation_simple": "The Great Fire destroyed much of London. Many churches were rebuilt by Sir Christopher Wren, including St Paul's Cathedral.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_pepys_tf_b",
     "fact_id": "c3_samuel_pepys",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -10816,14 +10993,17 @@
       }
     ],
     "explanation_simple": "Samuel Pepys's diary describes events of his time, including the Great Plague and the Great Fire.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_habeas_tf_b",
     "fact_id": "c3_habeas_corpus",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -10848,14 +11028,17 @@
       }
     ],
     "explanation_simple": "Habeas Corpus is Latin for 'you must present the person in court'. The Act guaranteed that no one could be held unlawfully.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_boyne_tf_b",
     "fact_id": "c3_battle_of_the_boyne",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -10880,14 +11063,17 @@
       }
     ],
     "explanation_simple": "William III defeated James II at the Boyne in Ireland in 1690, an event still celebrated by some in Northern Ireland.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_whigs_tories_tf_b",
     "fact_id": "c3_whigs_tories",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -10898,7 +11084,7 @@
     },
     "question_type": "true_false",
     "selections_required": 1,
-    "question_text": "Is the following statement TRUE or FALSE? The modern Conservative Party is descended from the Tories.",
+    "question_text": "Is the following statement TRUE or FALSE? The modern Conservative Party is still sometimes referred to as the Tories.",
     "options": [
       {
         "id": "a",
@@ -10911,15 +11097,18 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Two main groups developed in Parliament, the Whigs and the Tories. The modern Conservative Party is descended from the Tories.",
-    "review": {}
+    "explanation_simple": "Two main groups developed in Parliament, the Whigs and the Tories. This was the beginning of party politics. The Conservative Party is still sometimes called the Tories.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_union_1707_tf_c",
     "fact_id": "c3_act_of_union_1707",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -10944,14 +11133,17 @@
       }
     ],
     "explanation_simple": "The Act of Union, known in Scotland as the Treaty of Union, created the Kingdom of Great Britain in 1707.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_clearances_tf_b",
     "fact_id": "c3_highland_clearances",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -10976,14 +11168,17 @@
       }
     ],
     "explanation_simple": "In the Highland Clearances, landlords destroyed small farms (crofts) for sheep and cattle. Many Scots left for North America.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_adam_smith_single_b",
     "fact_id": "c3_scottish_enlightenment",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -11018,14 +11213,17 @@
       }
     ],
     "explanation_simple": "Adam Smith developed ideas about economics that are still referred to today.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_watt_tf_b",
     "fact_id": "c3_james_watt",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -11049,15 +11247,18 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "James Watt, a Scottish engineer, worked on steam power, which helped the progress of the Industrial Revolution.",
-    "review": {}
+    "explanation_simple": "James Watt's work on steam power helped the progress of the Industrial Revolution.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_arkwright_tf_b",
     "fact_id": "c3_arkwright",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -11082,14 +11283,17 @@
       }
     ],
     "explanation_simple": "Richard Arkwright trained as a barber. He improved the carding machine and developed efficient, profitable factories.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_wilberforce_tf_b",
     "fact_id": "c3_wilberforce",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -11114,14 +11318,17 @@
       }
     ],
     "explanation_simple": "William Wilberforce helped change the law to end the slave trade.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_american_independence_tf_b",
     "fact_id": "c3_american_independence",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -11146,14 +11353,17 @@
       }
     ],
     "explanation_simple": "The colonists disagreed with being taxed without representation in Parliament, and declared independence in 1776.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_union_ireland_tf_b",
     "fact_id": "c3_union_with_ireland",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -11164,7 +11374,7 @@
     },
     "question_type": "true_false",
     "selections_required": 1,
-    "question_text": "Is the following statement TRUE or FALSE? The Act of Union of 1801 created the United Kingdom of Great Britain and Ireland.",
+    "question_text": "Is the following statement TRUE or FALSE? In 1801 Ireland became unified with England, Scotland and Wales, creating the United Kingdom of Great Britain and Ireland.",
     "options": [
       {
         "id": "a",
@@ -11177,8 +11387,11 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "In 1801 Ireland became unified with England, Scotland and Wales, creating the United Kingdom of Great Britain and Ireland.",
-    "review": {}
+    "explanation_simple": "This happened after the Act of Union of 1800. A new version of the Union Flag became a symbol of the union.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -12564,7 +12777,7 @@
     "item_id": "c3_civil_war_sides_multi_c",
     "fact_id": "c3_civil_war",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -12599,14 +12812,17 @@
       }
     ],
     "explanation_simple": "The Civil War began in 1642. Cavaliers supported Charles I and Roundheads supported Parliament, which won.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_1660s_disasters_multi_a",
     "fact_id": "c3_great_fire",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -12641,14 +12857,17 @@
       }
     ],
     "explanation_simple": "A major plague outbreak hit London in 1665, and the Great Fire destroyed much of the city in 1666.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_enlightenment_multi_a",
     "fact_id": "c3_scottish_enlightenment",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -12683,14 +12902,17 @@
       }
     ],
     "explanation_simple": "The Enlightenment included Adam Smith (economics), David Hume (human nature) and James Watt (steam power).",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_industrial_people_multi_a",
     "fact_id": "c3_industrial_revolution",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -12710,7 +12932,7 @@
       },
       {
         "id": "b",
-        "text": "Henry Bessemer",
+        "text": "James Watt",
         "is_correct": true
       },
       {
@@ -12724,15 +12946,18 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Arkwright developed efficient factories and Bessemer a way to mass-produce steel.",
-    "review": {}
+    "explanation_simple": "Arkwright developed efficient factories, and James Watt's work on steam power helped the Industrial Revolution progress.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_slavery_dates_multi_a",
     "fact_id": "c3_slavery_abolished",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -12767,7 +12992,10 @@
       }
     ],
     "explanation_simple": "Trading slaves in British ships and ports became illegal in 1807, and slavery itself was abolished across the Empire in 1833.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -13328,7 +13556,7 @@
     "item_id": "c3_james_ii_single_a",
     "fact_id": "c3_james_ii",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -13363,14 +13591,17 @@
       }
     ],
     "explanation_simple": "James II, Charles II's brother, was a Roman Catholic. People feared he would try to make England Catholic again.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_william_orange_single_a",
     "fact_id": "c3_glorious_revolution",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -13385,7 +13616,7 @@
     "options": [
       {
         "id": "a",
-        "text": "George I",
+        "text": "Bonnie Prince Charlie",
         "is_correct": false
       },
       {
@@ -13395,35 +13626,38 @@
       },
       {
         "id": "c",
-        "text": "Oliver Cromwell",
+        "text": "George I",
         "is_correct": false
       },
       {
         "id": "d",
-        "text": "Bonnie Prince Charlie",
+        "text": "Oliver Cromwell",
         "is_correct": false
       }
     ],
-    "explanation_simple": "Important Protestants invited William of Orange, husband of James II's daughter Mary, to invade. He became William III; Mary became Queen Mary II.",
-    "review": {}
+    "explanation_simple": "Important Protestants asked William of Orange, husband of James II's daughter Mary, to invade. He became King William III and ruled jointly with Mary.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_jewish_return_single_a",
     "fact_id": "c3_jewish_settlement",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
-      "section": "The Tudors and Stuarts",
+      "section": "A global power",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Confirm placement and year. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "Under Oliver Cromwell, which group of people was allowed to return to and settle in England?",
+    "question_text": "In 1656, which people settled in London, the first to come to Britain since the Middle Ages?",
     "options": [
       {
         "id": "a",
@@ -13432,7 +13666,7 @@
       },
       {
         "id": "b",
-        "text": "Vikings",
+        "text": "Huguenots",
         "is_correct": false
       },
       {
@@ -13442,23 +13676,26 @@
       },
       {
         "id": "d",
-        "text": "Huguenots",
+        "text": "Vikings",
         "is_correct": false
       }
     ],
     "explanation_simple": "The first Jews to come to Britain since the Middle Ages settled in London in 1656.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_newspapers_single_a",
     "fact_id": "c3_free_press_origin",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
-      "section": "The Tudors and Stuarts",
+      "section": "A global power",
       "section_confirmed": true,
       "page_ref": [],
       "reviewer_note": "CHECK FIRST: Year. Confirm the section heading wording in the handbook"
@@ -13489,7 +13726,10 @@
       }
     ],
     "explanation_simple": "From 1695, newspapers were allowed to operate without a government licence, and more and more were published.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
