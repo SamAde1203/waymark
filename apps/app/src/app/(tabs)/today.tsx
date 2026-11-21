@@ -5,6 +5,7 @@ import { DRILL_ROUND, dailyPlan, daysToExam, freeDrillUsed, freeMockUsed, readin
 import { useStore } from "@/lib/store";
 import { Button, Card, H1, H2, P, Pill, PreviewBanner, Row, Screen } from "@/ui/kit";
 import { ShareButton } from "@/ui/ShareButton";
+import { IOS_STEPS, useInstall } from "@/lib/install";
 import { color, font, space } from "@/ui/theme";
 
 export default function Today() {
@@ -12,6 +13,7 @@ export default function Today() {
   const days = daysToExam(s);
   const plan = dailyPlan(s);
   const ready = readinessOf(s);
+  const app = useInstall();
   const bandTone = ready.band === "likely" ? "good" : ready.band === "borderline" ? "mid" : ready.band === "not_yet" ? "low" : "neutral";
 
   return (
@@ -55,6 +57,16 @@ export default function Today() {
           practice, not a guarantee.
         </P>
       </Card>
+
+      {app.show && (
+        <Card>
+          <Text style={font.h3}>Get the app</Text>
+          <P small style={{ marginVertical: space.sm }}>
+            Add Waymark to your home screen. It opens like an app and works offline.
+          </P>
+          {app.canPrompt ? <Button label="Install Waymark" small onPress={app.install} /> : <P small>{IOS_STEPS}</P>}
+        </Card>
+      )}
 
       <H2>Quick start</H2>
       <View style={{ gap: space.md }}>

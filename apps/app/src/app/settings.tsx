@@ -2,6 +2,7 @@ import { router } from "expo-router";
 import { useState } from "react";
 import { Linking, Pressable, Text, TextInput, View } from "react-native";
 import { LANGS } from "@/content/translations";
+import { IOS_STEPS, useInstall } from "@/lib/install";
 import { resetState, setState, useStore } from "@/lib/store";
 import { Button, Card, H1, H2, P, Row, Screen } from "@/ui/kit";
 import { ShareButton } from "@/ui/ShareButton";
@@ -13,6 +14,7 @@ export default function Settings() {
   const s = useStore((x) => x);
   const [date, setDate] = useState(s.examDate ?? "");
   const [confirmReset, setConfirmReset] = useState(false);
+  const app = useInstall();
   const valid = date === "" || (/^\d{4}-\d{2}-\d{2}$/.test(date) && !Number.isNaN(Date.parse(date)));
 
   return (
@@ -62,6 +64,16 @@ export default function Settings() {
           </View>
         )}
       </Card>
+
+      {app.show && (
+        <>
+          <H2>Install Waymark</H2>
+          <P small>Add Waymark to your home screen. It opens like an app and works offline.</P>
+          <View style={{ marginTop: space.sm }}>
+            {app.canPrompt ? <Button label="Install app" small onPress={app.install} /> : <P small>{IOS_STEPS}</P>}
+          </View>
+        </>
+      )}
 
       <H2>Tell a friend</H2>
       <P small>Know someone taking the test? Send them Waymark. They can start free.</P>
