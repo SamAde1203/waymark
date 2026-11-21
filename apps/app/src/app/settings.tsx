@@ -1,6 +1,7 @@
 import { router } from "expo-router";
 import { useState } from "react";
 import { Linking, Pressable, Text, TextInput, View } from "react-native";
+import { LANGS } from "@/content/translations";
 import { resetState, setState, useStore } from "@/lib/store";
 import { Button, Card, H1, H2, P, Row, Screen } from "@/ui/kit";
 import { color, font, radius, space } from "@/ui/theme";
@@ -35,6 +36,15 @@ export default function Settings() {
       <Row>
         {[10, 20, 30].map((m) => (
           <Button key={m} label={`${m} min`} small kind={s.minutesPerDay === m ? "primary" : "secondary"} onPress={() => setState((x) => ({ ...x, minutesPerDay: m }))} />
+        ))}
+      </Row>
+
+      <H2>Explanations in your language</H2>
+      <P small>Questions stay in English, like the real test. After each answer, the explanation is also shown in your language.</P>
+      <Row style={{ flexWrap: "wrap", marginTop: space.sm }}>
+        <Button label="English only" small kind={s.explainLang === "off" ? "primary" : "secondary"} onPress={() => setState((x) => ({ ...x, explainLang: "off" }))} />
+        {LANGS.map((l) => (
+          <Button key={l.id} label={l.name} small kind={s.explainLang === l.id ? "primary" : "secondary"} onPress={() => setState((x) => ({ ...x, explainLang: l.id }))} />
         ))}
       </Row>
 

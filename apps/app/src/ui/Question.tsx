@@ -1,6 +1,8 @@
 import type { PublicItem } from "@waymark/content-schema";
 import { Pressable, StyleSheet, Text, View } from "react-native";
 import { CHAPTERS } from "@/content/bank";
+import { LANGS, translateExplanation } from "@/content/translations";
+import { useStore } from "@/lib/store";
 import { color, font, radius, space } from "./theme";
 
 /** Renders one question. `reveal` shows right/wrong colouring (practice); mocks keep it hidden. */
@@ -71,6 +73,7 @@ export function Feedback({ item, selected, correct }: { item: PublicItem; select
         </Text>
       ))}
       <Text style={font.body}>{item.explanation_simple}</Text>
+      <Translated english={item.explanation_simple} />
       {item.memory_tip && (
         <Text style={[font.body, { marginTop: space.sm }]}>
           <Text style={{ fontWeight: "700" }}>Memory tip: </Text>
@@ -82,12 +85,31 @@ export function Feedback({ item, selected, correct }: { item: PublicItem; select
   );
 }
 
+function Translated({ english }: { english: string }) {
+  const lang = useStore((s) => s.explainLang);
+  const text = translateExplanation(english, lang);
+  const meta = LANGS.find((l) => l.id === lang);
+  if (!text || !meta) return null;
+  return (
+    <View style={styles.tr} accessibilityLanguage={lang === "zh" ? "zh-Hans" : "pl"}>
+      <Text style={font.body}>{text}</Text>
+      <Text style={[font.small, { marginTop: space.xs }]}>{meta.note}</Text>
+    </View>
+  );
+}
+
 export function sourceLine(item: PublicItem): string {
   const ch = item.source.chapter_id as 1 | 2 | 3 | 4 | 5;
   return `Handbook, Chapter ${ch} (${CHAPTERS[ch]}), section "${item.source.section}"`;
 }
 
 const styles = StyleSheet.create({
+  tr: {
+    marginTop: space.sm,
+    paddingTop: space.sm,
+    borderTopWidth: 1,
+    borderTopColor: color.line,
+  },
   opt: {
     flexDirection: "row",
     alignItems: "center",

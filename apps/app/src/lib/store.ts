@@ -1,6 +1,7 @@
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import { useSyncExternalStore } from "react";
 import type { FactCard } from "@waymark/shared";
+import type { ExplainLang } from "@/content/translations";
 
 /**
  * All study state lives on the device. No account is needed; nothing here is
@@ -41,6 +42,8 @@ export interface State {
   mistakes: string[];
   /** Dates & numbers drill rounds started (free users get one). */
   drills: number;
+  /** Also show explanations in this language (questions stay in English). */
+  explainLang: ExplainLang;
   unlocked: boolean;
   /** Set after a real purchase; the code unlocks Waymark on another device. */
   purchase: { plan: string; code: string; at: string } | null;
@@ -70,6 +73,7 @@ const initial: State = {
   flagged: [],
   mistakes: [],
   drills: 0,
+  explainLang: "off",
   unlocked: false,
   purchase: null,
   deviceId: "",
