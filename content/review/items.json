@@ -3563,6 +3563,12 @@
     "note": "",
     "reviewed_at": "2026-11-21"
   },
+  "c5_armed_forces_stand_tf_a": {
+    "decision": "approved",
+    "fingerprint": "6616d409f18bb6c2",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
   "c5_by_election_single_a": {
     "decision": "approved",
     "fingerprint": "1125922ce44369ea",
@@ -3585,6 +3591,12 @@
     "decision": "approved",
     "fingerprint": "3d2ea127572aa6a2",
     "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_canvass_single_a": {
+    "decision": "approved",
+    "fingerprint": "94bef5ac8a9c558d",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
     "reviewed_at": "2026-11-21"
   },
   "c5_chancellor_single_a": {
@@ -3617,6 +3629,18 @@
     "note": "",
     "reviewed_at": "2026-11-21"
   },
+  "c5_civil_criminal_multi_b": {
+    "decision": "approved",
+    "fingerprint": "cc09de57f524dd79",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_civil_examples_multi_a": {
+    "decision": "approved",
+    "fingerprint": "4fa9649fe5d8b4ed",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
   "c5_civil_service_single_b": {
     "decision": "approved",
     "fingerprint": "8e1a79c0035108be",
@@ -3647,6 +3671,24 @@
     "note": "",
     "reviewed_at": "2026-11-21"
   },
+  "c5_commonwealth_binding_tf_a": {
+    "decision": "approved",
+    "fingerprint": "6d5bfd1833b6ebe4",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_commonwealth_count_single_a": {
+    "decision": "approved",
+    "fingerprint": "cdfc0be350e1f29b",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_commonwealth_single_a": {
+    "decision": "approved",
+    "fingerprint": "7dd270e8b9e7e87a",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
   "c5_constitutional_monarchy_single_a": {
     "decision": "approved",
     "fingerprint": "fc1544bfd09ba30d",
@@ -3663,6 +3705,66 @@
     "decision": "approved",
     "fingerprint": "b81b7fe5e28f3d51",
     "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_council_europe_single_b": {
+    "decision": "approved",
+    "fingerprint": "9ef6b059b834b79e",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_council_of_europe_single_a": {
+    "decision": "approved",
+    "fingerprint": "9d2962bd4c07d8f5",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_county_court_single_a": {
+    "decision": "approved",
+    "fingerprint": "701f385c10506d29",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_court_of_session_single_a": {
+    "decision": "approved",
+    "fingerprint": "4c1f62fe7362e657",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_courts_multi_a": {
+    "decision": "approved",
+    "fingerprint": "bbd1ff7036f57e40",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_crime_examples_multi_b": {
+    "decision": "approved",
+    "fingerprint": "8d00bd61108fa7d6",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_criminal_civil_statement_a": {
+    "decision": "approved",
+    "fingerprint": "e51cba37702ae01e",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_criminal_examples_tf_a": {
+    "decision": "approved",
+    "fingerprint": "24744a469942a451",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_crown_court_single_a": {
+    "decision": "approved",
+    "fingerprint": "9753c6a1e936660e",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_crown_court_tf_b": {
+    "decision": "approved",
+    "fingerprint": "5963914cd02780f1",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
     "reviewed_at": "2026-11-21"
   },
   "c5_devolved_matters_multi_a": {
@@ -3683,10 +3785,34 @@
     "note": "",
     "reviewed_at": "2026-11-21"
   },
+  "c5_domestic_violence_tf_a": {
+    "decision": "approved",
+    "fingerprint": "dc0aa29a9e996aaa",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
   "c5_downing_tf_b": {
     "decision": "approved",
     "fingerprint": "e9c97eaed703833d",
     "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_echr_1950_tf_a": {
+    "decision": "approved",
+    "fingerprint": "fe5e656503f2347d",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_echr_multi_b": {
+    "decision": "approved",
+    "fingerprint": "d1113a66694b074b",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_echr_rights_multi_a": {
+    "decision": "approved",
+    "fingerprint": "d72458d9f8c0e292",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
     "reviewed_at": "2026-11-21"
   },
   "c5_election_interval_tf_b": {
@@ -3699,6 +3825,12 @@
     "decision": "approved",
     "fingerprint": "c3b56bd4318f9deb",
     "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_equal_opportunities_tf_a": {
+    "decision": "approved",
+    "fingerprint": "1acf4d8f491339b0",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
     "reviewed_at": "2026-11-21"
   },
   "c5_first_past_post_single_a": {
@@ -3749,6 +3881,12 @@
     "note": "",
     "reviewed_at": "2026-11-21"
   },
+  "c5_head_of_commonwealth_single_a": {
+    "decision": "approved",
+    "fingerprint": "bf1ee24b11e08715",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
   "c5_heir_single_a": {
     "decision": "approved",
     "fingerprint": "d9f3e0ebb89c2b19",
@@ -3759,6 +3897,12 @@
     "decision": "approved",
     "fingerprint": "736112317ae9b02e",
     "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_high_court_single_a": {
+    "decision": "approved",
+    "fingerprint": "3787e2f20020c878",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
     "reviewed_at": "2026-11-21"
   },
   "c5_home_sec_tf_b": {
@@ -3773,10 +3917,58 @@
     "note": "",
     "reviewed_at": "2026-11-21"
   },
+  "c5_hra_tf_b": {
+    "decision": "approved",
+    "fingerprint": "c14f3ddd95aeff16",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_human_rights_act_single_a": {
+    "decision": "approved",
+    "fingerprint": "2f0fab1479f6460c",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
   "c5_institutions_multi_a": {
     "decision": "approved",
     "fingerprint": "718e002b8d512f24",
     "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_judges_independent_tf_a": {
+    "decision": "approved",
+    "fingerprint": "4da017300bc0393a",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_juries_multi_a": {
+    "decision": "approved",
+    "fingerprint": "db5b44fac3bb3d65",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_jury_scotland_single_b": {
+    "decision": "approved",
+    "fingerprint": "196c5da953003578",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_jury_size_single_a": {
+    "decision": "approved",
+    "fingerprint": "2dd566b18cd38ac9",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_jury_size_tf_b": {
+    "decision": "approved",
+    "fingerprint": "bb24325d5f0abeb3",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_justice_peace_single_a": {
+    "decision": "approved",
+    "fingerprint": "6090a919c205b847",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
     "reviewed_at": "2026-11-21"
   },
   "c5_life_peers_single_a": {
@@ -3813,6 +4005,30 @@
     "decision": "approved",
     "fingerprint": "e7ea43992796586e",
     "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_lords_stand_single_a": {
+    "decision": "approved",
+    "fingerprint": "0496adbd024861de",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_magistrates_single_a": {
+    "decision": "approved",
+    "fingerprint": "d960da20dedcc380",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_magistrates_tf_b": {
+    "decision": "approved",
+    "fingerprint": "5b2e282e739dd61a",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_magistrates_unpaid_tf_b": {
+    "decision": "approved",
+    "fingerprint": "fee6ee38ae7af43c",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
     "reviewed_at": "2026-11-21"
   },
   "c5_mayors_tf_a": {
@@ -3863,6 +4079,18 @@
     "note": "",
     "reviewed_at": "2026-11-21"
   },
+  "c5_nato_purpose_single_b": {
+    "decision": "approved",
+    "fingerprint": "0b2af472574ddd8d",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_nato_single_a": {
+    "decision": "approved",
+    "fingerprint": "da4704e9a7d57c34",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
   "c5_ni_assembly_single_b": {
     "decision": "approved",
     "fingerprint": "40544f63022c70a8",
@@ -3905,6 +4133,18 @@
     "note": "",
     "reviewed_at": "2026-11-21"
   },
+  "c5_pcc_single_a": {
+    "decision": "approved",
+    "fingerprint": "d2774bc4385b4093",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_pcso_single_a": {
+    "decision": "approved",
+    "fingerprint": "22f4c9df4fab7c2f",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
   "c5_pm_appoint_tf_a": {
     "decision": "approved",
     "fingerprint": "6abad266c8071b73",
@@ -3941,16 +4181,76 @@
     "note": "",
     "reviewed_at": "2026-11-21"
   },
+  "c5_police_complaints_single_a": {
+    "decision": "approved",
+    "fingerprint": "d520ae1121441cfc",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_police_duties_multi_a": {
+    "decision": "approved",
+    "fingerprint": "0cf5c911b6fcbe10",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_police_tf_b": {
+    "decision": "approved",
+    "fingerprint": "ca66c2a4d8829a8c",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_polling_card_single_a": {
+    "decision": "approved",
+    "fingerprint": "f260ce8e883e8781",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_polling_hours_single_a": {
+    "decision": "approved",
+    "fingerprint": "db23a3543758397a",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_polling_tf_b": {
+    "decision": "approved",
+    "fingerprint": "3f14ad03b200ac3c",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_postal_vote_single_a": {
+    "decision": "approved",
+    "fingerprint": "36439f4396e2fcc5",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
   "c5_pressure_groups_single_a": {
     "decision": "approved",
     "fingerprint": "309f0b270e73b7cf",
     "note": "",
     "reviewed_at": "2026-11-21"
   },
+  "c5_public_gallery_tf_a": {
+    "decision": "approved",
+    "fingerprint": "19fa075e240b15f3",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_register_public_tf_a": {
+    "decision": "approved",
+    "fingerprint": "3c11ea3ed443bbf4",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
   "c5_register_tf_b": {
     "decision": "approved",
     "fingerprint": "a586647cae99f674",
     "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_royal_assent_single_a": {
+    "decision": "approved",
+    "fingerprint": "afaedc90ee50dba4",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
     "reviewed_at": "2026-11-21"
   },
   "c5_scot_parliament_tf_b": {
@@ -3965,10 +4265,40 @@
     "note": "",
     "reviewed_at": "2026-11-21"
   },
+  "c5_secret_ballot_tf_a": {
+    "decision": "approved",
+    "fingerprint": "ee53186b080d40ab",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
   "c5_shadow_cabinet_tf_a": {
     "decision": "approved",
     "fingerprint": "8db376fcdc7a1849",
     "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_sheriff_court_single_a": {
+    "decision": "approved",
+    "fingerprint": "76d9e95513ca31c7",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_small_claims_single_a": {
+    "decision": "approved",
+    "fingerprint": "6a5af52a81ae7499",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_small_claims_tf_b": {
+    "decision": "approved",
+    "fingerprint": "2cc2dacd3759b2e4",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_solicitors_single_a": {
+    "decision": "approved",
+    "fingerprint": "e54724be31db0387",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
     "reviewed_at": "2026-11-21"
   },
   "c5_speaker_elected_tf_b": {
@@ -4005,6 +4335,24 @@
     "decision": "approved",
     "fingerprint": "ec32cfb8c7866bea",
     "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_un_founded_single_a": {
+    "decision": "approved",
+    "fingerprint": "d81b774a4af1e0a4",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_un_security_council_tf_a": {
+    "decision": "approved",
+    "fingerprint": "4957e821f6be1cc0",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_unsc_single_b": {
+    "decision": "approved",
+    "fingerprint": "64a0229a4048e2f6",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
     "reviewed_at": "2026-11-21"
   },
   "c5_unwritten_constitution_tf_a": {
@@ -4053,6 +4401,24 @@
     "decision": "approved",
     "fingerprint": "5bfd1b4f199124cd",
     "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_women_rights_single_a": {
+    "decision": "approved",
+    "fingerprint": "f2b1033a504d64ad",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_youth_court_single_a": {
+    "decision": "approved",
+    "fingerprint": "026658da092932a9",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_youth_court_tf_b": {
+    "decision": "approved",
+    "fingerprint": "aeb9571345fe7d97",
+    "note": "Matches the book, pp.134–149 (checked by Claude)",
     "reviewed_at": "2026-11-21"
   }
 }
