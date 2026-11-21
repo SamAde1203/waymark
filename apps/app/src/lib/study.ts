@@ -3,6 +3,9 @@ import {
   buildMock,
   dueFacts,
   isCorrect,
+  isDatesNumbersItem,
+  isSecured,
+  pickDrillFacts,
   newFactCard,
   readiness,
   review,
@@ -17,6 +20,7 @@ import {
   FACT_IDS,
   FREE_CHAPTERS,
   ITEMS_BY_FACT,
+  ITEM_BY_ID,
   PREVIEW,
   type ChapterId,
 } from "@/content/bank";
@@ -175,6 +179,44 @@ export function sectionAccuracy(s: State): { chapter: number; section: string; a
     .filter((e) => e.n >= 3)
     .map((e) => ({ chapter: e.chapter, section: e.section, accuracy: e.c / e.n, n: e.n }))
     .sort((a, b) => a.accuracy - b.accuracy);
+}
+
+/** Questions for the Dates & numbers drill, grouped by fact. */
+const DRILL_BY_FACT: Record<string, PublicItem[]> = {};
+for (const it of BANK) if (isDatesNumbersItem(it)) (DRILL_BY_FACT[it.fact_id] ??= []).push(it);
+export const DRILL_FACTS = Object.keys(DRILL_BY_FACT);
+export const DRILL_ROUND = 15;
+
+/**
+ * Free users get one round from every chapter, like the free mock, so they can see
+ * how it works. Paid users drill without limit.
+ */
+export function freeDrillUsed(s: State): boolean {
+  return !s.unlocked && s.drills >= 1;
+}
+
+function drillFactsFor(s: State): string[] {
+  return s.unlocked || s.drills < 1 ? DRILL_FACTS : DRILL_FACTS.filter((f) => canUseChapter(s, FACT_CHAPTER[f]!));
+}
+
+export function drillItems(s: State, n = DRILL_ROUND, seed = Date.now()): PublicItem[] {
+  const rand = seededRandom(seed);
+  const mistakeFacts = new Set(s.mistakes.map((id) => ITEM_BY_ID[id]?.fact_id).filter((f): f is string => !!f));
+  const facts = pickDrillFacts({ facts: drillFactsFor(s), cards: s.cards, mistakeFacts, now: new Date(), n, rand });
+  const recent = new Set(s.log.slice(-200).map((r) => r.itemId));
+  return facts
+    .map((f) => {
+      const variants = DRILL_BY_FACT[f]!;
+      const fresh = variants.filter((v) => !recent.has(v.item_id));
+      const pool = fresh.length ? fresh : variants;
+      return pool[Math.floor(rand() * pool.length)];
+    })
+    .filter((x): x is PublicItem => !!x);
+}
+
+/** How many of the drill's dates and numbers are secured. */
+export function drillProgress(s: State, now = new Date()): { secured: number; total: number } {
+  return { secured: DRILL_FACTS.filter((f) => isSecured(s.cards[f], now)).length, total: DRILL_FACTS.length };
 }
 
 export function freeMockUsed(s: State): boolean {

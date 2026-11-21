@@ -13,7 +13,7 @@ export interface AnswerRecord {
   correct: boolean;
   /** First time this item was answered (unseen items are the honest readiness signal). */
   firstAttempt: boolean;
-  mode: "review" | "learn" | "mock" | "diagnostic" | "mistakes";
+  mode: "review" | "learn" | "mock" | "diagnostic" | "mistakes" | "drill";
   at: string;
 }
 
@@ -39,6 +39,8 @@ export interface State {
   flagged: string[];
   /** item ids answered wrongly and not yet answered right since */
   mistakes: string[];
+  /** Dates & numbers drill rounds started (free users get one). */
+  drills: number;
   unlocked: boolean;
   /** Set after a real purchase; the code unlocks Waymark on another device. */
   purchase: { plan: string; code: string; at: string } | null;
@@ -67,6 +69,7 @@ const initial: State = {
   mocks: [],
   flagged: [],
   mistakes: [],
+  drills: 0,
   unlocked: false,
   purchase: null,
   deviceId: "",

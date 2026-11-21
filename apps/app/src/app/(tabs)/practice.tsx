@@ -1,7 +1,7 @@
 import { router } from "expo-router";
 import { Text, View } from "react-native";
 import { CHAPTERS, type ChapterId } from "@/content/bank";
-import { canUseChapter, freeMockUsed } from "@/lib/study";
+import { DRILL_ROUND, canUseChapter, drillProgress, freeDrillUsed, freeMockUsed } from "@/lib/study";
 import { useStore } from "@/lib/store";
 import { Button, Card, H1, H2, P, PreviewBanner, Screen } from "@/ui/kit";
 import { font, space } from "@/ui/theme";
@@ -9,6 +9,8 @@ import { font, space } from "@/ui/theme";
 export default function Practice() {
   const s = useStore((x) => x);
   const mockLocked = freeMockUsed(s);
+  const drillLocked = freeDrillUsed(s);
+  const drill = drillProgress(s);
   return (
     <Screen>
       <H1>Practice</H1>
@@ -23,6 +25,22 @@ export default function Practice() {
           onPress={() => router.push(mockLocked ? "/unlock" : "/mock")}
         />
         {!s.unlocked && <P small style={{ marginTop: space.sm }}>One free mock exam is included.</P>}
+      </Card>
+
+      <Card>
+        <Text style={font.h3}>Dates & numbers</Text>
+        <P small style={{ marginVertical: space.sm }}>
+          A quick round of {DRILL_ROUND} on the years, ages and numbers that catch people out. The ones you miss come back first.
+        </P>
+        <P small style={{ marginBottom: space.sm }}>
+          {drill.secured} of {drill.total} secured
+        </P>
+        <Button
+          label={drillLocked ? "Unlock unlimited rounds" : "Start a round"}
+          kind="secondary"
+          onPress={() => router.push(drillLocked ? "/unlock" : "/session?kind=drill")}
+        />
+        {!s.unlocked && !drillLocked && <P small style={{ marginTop: space.sm }}>One free round is included.</P>}
       </Card>
 
       <H2>Review</H2>

@@ -1,16 +1,16 @@
 import type { PublicItem } from "@waymark/content-schema";
 import { buildMock, isCorrect, seededRandom, shuffle } from "@waymark/shared";
 import { router, useLocalSearchParams } from "expo-router";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { Pressable, Text, View } from "react-native";
 import { BANK, ITEM_BY_ID, PREVIEW } from "@/content/bank";
-import { chapterItems, dailyPlan, recordAnswer, sectionItems, sessionItems } from "@/lib/study";
+import { chapterItems, dailyPlan, drillItems, drillProgress, recordAnswer, sectionItems, sessionItems } from "@/lib/study";
 import { getState, setState, type AnswerRecord } from "@/lib/store";
 import { Bar, Button, H1, P, PreviewBanner, Row, Screen } from "@/ui/kit";
 import { Feedback, QuestionView } from "@/ui/Question";
 import { color, font, space } from "@/ui/theme";
 
-type Kind = "plan" | "section" | "chapter" | "mistakes" | "flagged" | "diagnostic";
+type Kind = "plan" | "section" | "chapter" | "mistakes" | "flagged" | "diagnostic" | "drill";
 
 function buildSession(kind: Kind, chapter?: number, section?: string): PublicItem[] {
   const s = getState();
@@ -27,6 +27,8 @@ function buildSession(kind: Kind, chapter?: number, section?: string): PublicIte
       return shuffle(s.mistakes.map((id) => ITEM_BY_ID[id]).filter((x): x is PublicItem => !!x), seededRandom(Date.now())).slice(0, 30);
     case "flagged":
       return s.flagged.map((id) => ITEM_BY_ID[id]).filter((x): x is PublicItem => !!x);
+    case "drill":
+      return drillItems(s);
     case "diagnostic":
       return buildMock(BANK, { seed: Date.now(), statuses: PREVIEW ? ["live", "reviewed", "draft"] : ["live"] });
   }
@@ -39,6 +41,7 @@ const TITLES: Record<Kind, string> = {
   mistakes: "My mistakes",
   flagged: "Flagged questions",
   diagnostic: "Quick check",
+  drill: "Dates & numbers",
 };
 
 export default function Session() {
@@ -51,8 +54,14 @@ export default function Session() {
   const [right, setRight] = useState(0);
   const [flagged, setFlagged] = useState<string[]>(() => getState().flagged);
 
-  const mode: AnswerRecord["mode"] = kind === "diagnostic" ? "diagnostic" : kind === "mistakes" ? "mistakes" : kind === "plan" ? "review" : "learn";
+  const mode: AnswerRecord["mode"] =
+    kind === "diagnostic" ? "diagnostic" : kind === "mistakes" ? "mistakes" : kind === "plan" ? "review" : kind === "drill" ? "drill" : "learn";
   const item = items[i];
+
+  // Count drill rounds once they start (free users get one).
+  useEffect(() => {
+    if (kind === "drill" && items.length) setState((x) => ({ ...x, drills: x.drills + 1 }));
+  }, [kind, items.length]);
 
   if (!items.length) {
     return (
@@ -75,7 +84,9 @@ export default function Session() {
           {right} / {items.length}
         </Text>
         <P>
-          {kind === "diagnostic"
+          {kind === "drill"
+            ? `${drillProgress(getState()).secured} of ${drillProgress(getState()).total} dates and numbers secured. A date counts as secured once you've got it right on two different days. The ones you missed come back first next round.`
+            : kind === "diagnostic"
             ? `You scored ${pct}%. Your daily plan now starts from here; the facts you missed will come back for review.`
             : pct >= 85
               ? "Strong work. Keep it up and these facts will stick."
@@ -83,6 +94,11 @@ export default function Session() {
         </P>
         <View style={{ gap: space.md, marginTop: space.xl }}>
           <Button label="Back to Today" onPress={() => router.replace("/today")} />
+          {kind === "drill" && <Button
+              label={getState().unlocked ? "Another round" : "Unlock unlimited rounds"}
+              kind="secondary"
+              onPress={() => router.replace(getState().unlocked ? `/session?kind=drill&r=${Date.now()}` : "/unlock")}
+            />}
           {kind !== "diagnostic" && <Button label="Progress" kind="secondary" onPress={() => router.replace("/progress")} />}
         </View>
       </Screen>

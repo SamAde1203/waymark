@@ -8,6 +8,7 @@ import { color, font, radius, space } from "@/ui/theme";
 const STANDARD = [
   "All five chapters and every question",
   "Unlimited mock exams",
+  "Unlimited dates & numbers drills",
   "Daily plan and spaced review to your test date",
   "Works offline · no ads, ever",
   "Use it on up to 3 of your own devices",

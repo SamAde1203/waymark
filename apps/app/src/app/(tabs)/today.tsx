@@ -1,7 +1,7 @@
 import { router } from "expo-router";
 import { Pressable, Text, View } from "react-native";
 import { BAND_LABEL } from "@waymark/shared";
-import { dailyPlan, daysToExam, freeMockUsed, readinessOf } from "@/lib/study";
+import { DRILL_ROUND, dailyPlan, daysToExam, freeDrillUsed, freeMockUsed, readinessOf } from "@/lib/study";
 import { useStore } from "@/lib/store";
 import { Button, Card, H1, H2, P, Pill, PreviewBanner, Row, Screen } from "@/ui/kit";
 import { color, font, space } from "@/ui/theme";
@@ -61,6 +61,11 @@ export default function Today() {
           label={freeMockUsed(s) ? "Mock exam · unlock for more" : "Mock exam · 24 questions, 45 min"}
           kind="secondary"
           onPress={() => router.push(freeMockUsed(s) ? "/unlock" : "/mock")}
+        />
+        <Button
+          label={freeDrillUsed(s) ? "Dates & numbers · unlock for more" : `Dates & numbers · ${DRILL_ROUND} questions`}
+          kind="secondary"
+          onPress={() => router.push(freeDrillUsed(s) ? "/unlock" : "/session?kind=drill")}
         />
         <Button
           label={`My mistakes (${s.mistakes.length})`}
