@@ -2437,45 +2437,48 @@
   },
   {
     "schema_version": 2,
-    "item_id": "c5_citizens_advice_single_a",
-    "fact_id": "c5_citizens_advice",
+    "item_id": "c5_refuges_single_a",
+    "fact_id": "c5_domestic_violence",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
-      "section": "The role of the courts",
+      "section": "Fundamental principles",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Organisation name as printed in the handbook. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "Where can you get free advice about legal problems, debt or housing?",
+    "question_text": "In some areas, where can people escaping domestic violence go to stay safely?",
     "options": [
       {
         "id": "a",
-        "text": "The Electoral Commission",
+        "text": "The local library",
         "is_correct": false
       },
       {
         "id": "b",
-        "text": "The House of Lords",
+        "text": "A Magistrates' Court",
         "is_correct": false
       },
       {
         "id": "c",
-        "text": "HM Revenue & Customs",
+        "text": "A polling station",
         "is_correct": false
       },
       {
         "id": "d",
-        "text": "Citizens Advice",
+        "text": "Refuges or shelters",
         "is_correct": true
       }
     ],
-    "explanation_simple": "Citizens Advice gives free, confidential advice on many problems, including legal matters, debt and housing.",
-    "review": {}
+    "explanation_simple": "Some areas have safe places to stay, called refuges or shelters. The 24-hour National Domestic Abuse Helpline can explain the options, and in an emergency you should call the police.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -2486,7 +2489,7 @@
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
-      "section": "Respecting the law",
+      "section": "Fundamental principles",
       "section_confirmed": true,
       "page_ref": [],
       "reviewer_note": "Confirm the section heading wording in the handbook"
@@ -2517,11 +2520,11 @@
     "item_id": "c5_fgm_tf_a",
     "fact_id": "c5_fgm",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
-      "section": "Respecting the law",
+      "section": "Fundamental principles",
       "section_confirmed": true,
       "page_ref": [],
       "reviewer_note": "Confirm the section heading wording in the handbook"
@@ -2541,19 +2544,22 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "FGM is a crime in the UK, and it is also a crime to take a girl abroad for FGM.",
-    "review": {}
+    "explanation_simple": "FGM, also called cutting or female circumcision, is illegal. Practising FGM, or taking a girl or woman abroad for FGM, is a criminal offence.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_forced_marriage_tf_a",
     "fact_id": "c5_forced_marriage",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
-      "section": "Respecting the law",
+      "section": "Fundamental principles",
       "section_confirmed": true,
       "page_ref": [],
       "reviewer_note": "Confirm the section heading wording in the handbook"
@@ -2573,8 +2579,11 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Forced marriage, where one or both people do not consent, is a crime. Arranged marriages, where both agree, are different.",
-    "review": {}
+    "explanation_simple": "Marriage needs the full and free consent of both people. Forcing someone to marry is a criminal offence. Arranged marriages, where both people agree, are acceptable.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -2706,11 +2715,11 @@
     "item_id": "c5_driving_age_single_a",
     "fact_id": "c5_driving_age",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
-      "section": "Your role in the community",
+      "section": "Driving",
       "section_confirmed": true,
       "page_ref": [],
       "reviewer_note": "Confirm the section heading wording in the handbook"
@@ -2741,18 +2750,21 @@
       }
     ],
     "explanation_simple": "You must be at least 17 years old to drive a car or motorcycle, and you must have a driving licence.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_mot_single_a",
     "fact_id": "c5_mot",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
-      "section": "Your role in the community",
+      "section": "Driving",
       "section_confirmed": true,
       "page_ref": [],
       "reviewer_note": "Confirm the section heading wording in the handbook"
@@ -2783,18 +2795,21 @@
       }
     ],
     "explanation_simple": "If your vehicle is over three years old, you must take it for a Ministry of Transport (MOT) test every year.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_car_insurance_tf_a",
     "fact_id": "c5_car_insurance",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
-      "section": "Your role in the community",
+      "section": "Driving",
       "section_confirmed": true,
       "page_ref": [],
       "reviewer_note": "Confirm the section heading wording in the handbook"
@@ -2815,18 +2830,21 @@
       }
     ],
     "explanation_simple": "Drivers must have valid motor insurance. Driving without it is a serious criminal offence.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_income_tax_single_a",
     "fact_id": "c5_income_tax",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
-      "section": "Your role in the community",
+      "section": "Taxation",
       "section_confirmed": true,
       "page_ref": [],
       "reviewer_note": "CHECK FIRST: Confirm the handbook's wording. Confirm the section heading wording in the handbook"
@@ -2857,18 +2875,21 @@
       }
     ],
     "explanation_simple": "Income tax is collected by HM Revenue & Customs. Many people have it taken from their pay through PAYE.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_national_insurance_single_a",
     "fact_id": "c5_national_insurance",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
-      "section": "Your role in the community",
+      "section": "Taxation",
       "section_confirmed": true,
       "page_ref": [],
       "reviewer_note": "Confirm the section heading wording in the handbook"
@@ -2899,67 +2920,73 @@
       }
     ],
     "explanation_simple": "National Insurance contributions pay for state benefits and services, such as the state retirement pension and the National Health Service.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
-    "item_id": "c5_council_tax_single_a",
-    "fact_id": "c5_council_tax",
+    "item_id": "c5_income_tax_use_single_a",
+    "fact_id": "c5_income_tax",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
-      "section": "Your role in the community",
+      "section": "Taxation",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Confirm whether the handbook covers council tax in this chapter. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "What is council tax used for?",
+    "question_text": "What does money raised from income tax pay for?",
     "options": [
       {
         "id": "a",
-        "text": "Local government services",
+        "text": "Government services such as roads, education, police and the armed forces",
         "is_correct": true
       },
       {
         "id": "b",
-        "text": "The armed forces",
+        "text": "Private schools",
         "is_correct": false
       },
       {
         "id": "c",
-        "text": "The NHS",
+        "text": "Only the Royal Family",
         "is_correct": false
       },
       {
         "id": "d",
-        "text": "The Royal Family",
+        "text": "Political parties",
         "is_correct": false
       }
     ],
-    "explanation_simple": "Council tax is a local tax that helps pay for local services such as rubbish collection and schools.",
-    "review": {}
+    "explanation_simple": "Income tax is paid on wages, profits from self-employment, pensions and other income. It pays for government services such as roads, education, police and the armed forces.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_jury_service_single_a",
     "fact_id": "c5_jury_service",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
-      "section": "Your role in the community",
+      "section": "How you can support your community",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Age range; it has changed since 2013. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "Who can be asked to do jury service?",
+    "question_text": "Who can be asked to serve on a jury?",
     "options": [
       {
         "id": "a",
@@ -2968,29 +2995,32 @@
       },
       {
         "id": "b",
-        "text": "Anyone on the electoral register aged 18 to 70",
+        "text": "People on the electoral register, selected at random",
         "is_correct": true
       },
       {
         "id": "c",
-        "text": "Only volunteers who apply",
+        "text": "Only British citizens over 40",
         "is_correct": false
       },
       {
         "id": "d",
-        "text": "Only British citizens over 40",
+        "text": "Only volunteers who apply",
         "is_correct": false
       }
     ],
-    "explanation_simple": "Anyone on the electoral register aged 18 to 70 can be asked to serve on a jury.",
-    "review": {}
+    "explanation_simple": "People on the electoral register are randomly selected for jury service. The age range is 18 to 70, or 18 to 75 in England and Wales.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_volunteering_tf_a",
     "fact_id": "c5_volunteering",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -3015,14 +3045,17 @@
       }
     ],
     "explanation_simple": "Volunteering helps others, builds your community and can give you useful experience.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_blood_donation_single_a",
     "fact_id": "c5_blood_donation",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -3057,14 +3090,17 @@
       }
     ],
     "explanation_simple": "Donated blood is used in hospitals to help people with injuries and illnesses. Many people also register as organ donors.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_recycling_tf_a",
     "fact_id": "c5_environment",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -3088,8 +3124,11 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Looking after the environment includes recycling, not dropping litter and using public transport, walking or cycling.",
-    "review": {}
+    "explanation_simple": "Recycling means less rubbish goes into landfill. Walking and using public transport also help, because they create less pollution than using a car.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -4626,49 +4665,52 @@
     "item_id": "c5_school_governors_single_a",
     "fact_id": "c5_school_governors",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
       "section": "How you can support your community",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Confirm wording. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "School governors and school boards help to do what?",
+    "question_text": "Which of these is one of the three key roles of school governors?",
     "options": [
       {
         "id": "a",
-        "text": "Choose the national curriculum",
+        "text": "Marking national exams",
         "is_correct": false
       },
       {
         "id": "b",
-        "text": "Mark the national exams",
+        "text": "Choosing the national curriculum",
         "is_correct": false
       },
       {
         "id": "c",
-        "text": "Set the strategic direction of a school",
+        "text": "Setting the strategic direction of the school",
         "is_correct": true
       },
       {
         "id": "d",
-        "text": "Hire the police for school events",
+        "text": "Hiring the police for school events",
         "is_correct": false
       }
     ],
-    "explanation_simple": "School governors (school boards in Scotland) are unpaid volunteers who set the strategic direction of the school and help ensure it is accountable.",
-    "review": {}
+    "explanation_simple": "School governors are people from the local community, aged 18 or over. Their roles are setting the school's strategic direction, ensuring accountability, and monitoring and evaluating school performance.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_parent_volunteering_tf_a",
     "fact_id": "c5_school_volunteering",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -4693,21 +4735,24 @@
       }
     ],
     "explanation_simple": "Parents can help in many ways, such as listening to children read or joining a parent-teacher association (PTA).",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_organ_donation_single_a",
     "fact_id": "c5_organ_donation",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
       "section": "How you can support your community",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Rules are now opt-out in all four nations; check wording. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "single",
     "selections_required": 1,
@@ -4715,12 +4760,12 @@
     "options": [
       {
         "id": "a",
-        "text": "Join a jury",
+        "text": "Give money to your MP",
         "is_correct": false
       },
       {
         "id": "b",
-        "text": "Give money to your MP",
+        "text": "Join a jury",
         "is_correct": false
       },
       {
@@ -4734,15 +4779,18 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "You can register to become an organ donor. Many people are waiting for transplants.",
-    "review": {}
+    "explanation_simple": "Many people in the UK are waiting for organ transplants. Registering as an organ donor can make it easier for your family to decide about donating your organs when you die.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
-    "item_id": "c5_recycling_tf_b",
+    "item_id": "c5_shop_local_tf_b",
     "fact_id": "c5_environment",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -4753,7 +4801,7 @@
     },
     "question_type": "true_false",
     "selections_required": 1,
-    "question_text": "Is the following statement TRUE or FALSE? Recycling as much waste as possible is one way to help protect the environment.",
+    "question_text": "Is the following statement TRUE or FALSE? Shopping for products locally can reduce your carbon footprint.",
     "options": [
       {
         "id": "a",
@@ -4766,15 +4814,18 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Recycling and buying local produce are among the ways to help protect the environment.",
-    "review": {}
+    "explanation_simple": "Buying locally helps businesses and farmers in your area, and the products you buy have not had to travel as far.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_volunteering_examples_multi_b",
     "fact_id": "c5_volunteering",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -4785,49 +4836,52 @@
     },
     "question_type": "multi",
     "selections_required": 2,
-    "question_text": "Which TWO of these are examples of volunteering?",
+    "question_text": "Which TWO of these are examples of volunteering? (choose 2)",
     "options": [
       {
         "id": "a",
-        "text": "Voting in a general election",
+        "text": "Paying income tax",
         "is_correct": false
       },
       {
         "id": "b",
-        "text": "Working in a charity shop for no pay",
+        "text": "Helping at a youth group",
         "is_correct": true
       },
       {
         "id": "c",
-        "text": "Helping at a youth club",
+        "text": "Caring for animals at a local rescue shelter",
         "is_correct": true
       },
       {
         "id": "d",
-        "text": "Paying council tax",
+        "text": "Voting in a general election",
         "is_correct": false
       }
     ],
-    "explanation_simple": "Volunteering means working for good causes without payment, for example helping at a youth club, in a charity shop or with a local environmental project.",
-    "review": {}
+    "explanation_simple": "Volunteering is working for good causes without payment, for example with animals, young people, the homeless or older people.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_jury_age_single_b",
     "fact_id": "c5_jury_service",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
-      "section": "Your role in the community",
+      "section": "How you can support your community",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Age limit differs in Scotland; confirm handbook wording. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "Anyone on the electoral register aged between 18 and what age can be asked to serve on a jury?",
+    "question_text": "In England and Wales, anyone on the electoral register aged 18 to what age can be asked to serve on a jury?",
     "options": [
       {
         "id": "a",
@@ -4836,22 +4890,25 @@
       },
       {
         "id": "b",
-        "text": "65",
-        "is_correct": false
-      },
-      {
-        "id": "c",
         "text": "80",
         "is_correct": false
       },
       {
-        "id": "d",
+        "id": "c",
         "text": "60",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "65",
         "is_correct": false
       }
     ],
-    "explanation_simple": "Anyone on the electoral register aged 18 to 75 can be asked to serve on a jury.",
-    "review": {}
+    "explanation_simple": "In England and Wales the age range for jury service is 18 to 75. Elsewhere in the UK it is 18 to 70.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -5993,11 +6050,11 @@
     "item_id": "c5_driving_age_tf_b",
     "fact_id": "c5_driving_age",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
-      "section": "Your role in the community",
+      "section": "Driving",
       "section_confirmed": true,
       "page_ref": [],
       "reviewer_note": "Confirm the section heading wording in the handbook"
@@ -6018,18 +6075,21 @@
       }
     ],
     "explanation_simple": "You must be at least 17 to drive a car or motorcycle, and you must have a driving licence.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_mot_tf_b",
     "fact_id": "c5_mot",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
-      "section": "Your role in the community",
+      "section": "Driving",
       "section_confirmed": true,
       "page_ref": [],
       "reviewer_note": "Confirm the section heading wording in the handbook"
@@ -6050,18 +6110,21 @@
       }
     ],
     "explanation_simple": "If your vehicle is over three years old, you must take it for an MOT test every year.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_hmrc_tf_b",
     "fact_id": "c5_income_tax",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
-      "section": "Your role in the community",
+      "section": "Taxation",
       "section_confirmed": true,
       "page_ref": [],
       "reviewer_note": "Confirm the section heading wording in the handbook"
@@ -6082,25 +6145,28 @@
       }
     ],
     "explanation_simple": "HMRC collects income tax. For most employees it is taken from wages through the PAYE system.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
-    "item_id": "c5_council_tax_tf_b",
-    "fact_id": "c5_council_tax",
+    "item_id": "c5_self_assessment_tf_b",
+    "fact_id": "c5_income_tax",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
-      "section": "Your role in the community",
+      "section": "Taxation",
       "section_confirmed": true,
       "page_ref": [],
       "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "true_false",
     "selections_required": 1,
-    "question_text": "Is the following statement TRUE or FALSE? Council tax is a local tax used to fund local services.",
+    "question_text": "Is the following statement TRUE or FALSE? If you are self-employed, you pay your own tax through a system called self-assessment.",
     "options": [
       {
         "id": "a",
@@ -6113,15 +6179,18 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Council tax is paid to the local council and helps pay for local services.",
-    "review": {}
+    "explanation_simple": "Most employees have income tax taken from their pay through PAYE. Self-employed people pay their own tax through self-assessment, which includes completing a tax return.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_blood_tf_b",
     "fact_id": "c5_blood_donation",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -6146,7 +6215,10 @@
       }
     ],
     "explanation_simple": "Donated blood is used by hospitals to help people with injuries and illnesses. You can register to give blood.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -6808,11 +6880,11 @@
     "item_id": "c5_forced_marriage_single_b",
     "fact_id": "c5_forced_marriage",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
-      "section": "Respecting the law",
+      "section": "Fundamental principles",
       "section_confirmed": true,
       "page_ref": [],
       "reviewer_note": "Confirm the section heading wording in the handbook"
@@ -6843,7 +6915,10 @@
       }
     ],
     "explanation_simple": "A forced marriage is one where one or both people do not or cannot agree. It is a criminal offence. Arranged marriages, where both agree, are different.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -6895,22 +6970,22 @@
     "item_id": "c5_taxes_multi_a",
     "fact_id": "c5_national_insurance",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
-      "section": "Your role in the community",
+      "section": "Taxation",
       "section_confirmed": true,
       "page_ref": [],
       "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "multi",
     "selections_required": 2,
-    "question_text": "Which TWO of these are usually taken from employees' pay?",
+    "question_text": "Which TWO of these are usually taken from employees' pay by their employer? (choose 2)",
     "options": [
       {
         "id": "a",
-        "text": "TV licence fee",
+        "text": "Political party membership fees",
         "is_correct": false
       },
       {
@@ -6920,31 +6995,34 @@
       },
       {
         "id": "c",
-        "text": "Council tax",
+        "text": "Vehicle tax",
         "is_correct": false
       },
       {
         "id": "d",
-        "text": "National Insurance contributions",
+        "text": "National Insurance Contributions",
         "is_correct": true
       }
     ],
-    "explanation_simple": "For most employees, income tax and National Insurance are taken from wages by the employer. Council tax and the TV licence are paid separately.",
-    "review": {}
+    "explanation_simple": "Employers take income tax (through PAYE) and National Insurance Contributions from employees' pay. Self-employed people pay these themselves.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_ni_number_single_a",
     "fact_id": "c5_ni_number",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
-      "section": "Your role in the community",
+      "section": "Taxation",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Confirm wording. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "single",
     "selections_required": 1,
@@ -6971,19 +7049,22 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Your National Insurance number makes sure your contributions and tax are recorded against your name. You need one to work.",
-    "review": {}
+    "explanation_simple": "All young people in the UK are sent a National Insurance number just before their 16th birthday. You can start work without one if you can prove you have the right to work in the UK.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_driving_rules_multi_a",
     "fact_id": "c5_car_insurance",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
-      "section": "Your role in the community",
+      "section": "Driving",
       "section_confirmed": true,
       "page_ref": [],
       "reviewer_note": "Confirm the section heading wording in the handbook"
@@ -7014,14 +7095,17 @@
       }
     ],
     "explanation_simple": "Drivers need a licence and insurance, and cars over three years old need an MOT. Driving without insurance is a criminal offence.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_help_community_multi_a",
     "fact_id": "c5_volunteering",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -7056,14 +7140,17 @@
       }
     ],
     "explanation_simple": "You can help by volunteering, becoming a school governor, joining a local group, or supporting events and charities.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_neighbours_single_a",
     "fact_id": "c5_good_neighbour",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -7098,14 +7185,17 @@
       }
     ],
     "explanation_simple": "Getting to know your neighbours, keeping noise down and putting rubbish out properly help you become part of the community.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_charity_examples_single_a",
     "fact_id": "c5_charities",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -7116,72 +7206,78 @@
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "What is the role of charities in the UK?",
+    "question_text": "What do charities and voluntary organisations in the UK do?",
     "options": [
       {
         "id": "a",
-        "text": "They run the courts",
+        "text": "Elect local councillors",
         "is_correct": false
       },
       {
         "id": "b",
-        "text": "They elect local councillors",
+        "text": "Collect taxes for the government",
         "is_correct": false
       },
       {
         "id": "c",
-        "text": "They collect taxes for the government",
+        "text": "Run the courts",
         "is_correct": false
       },
       {
         "id": "d",
-        "text": "They work to help people, animals and causes, often with volunteers",
+        "text": "Work to improve the lives of people, animals and the environment",
         "is_correct": true
       }
     ],
-    "explanation_simple": "There are thousands of charities working for good causes, such as helping children, older people, animals or the environment. Many rely on volunteers.",
-    "review": {}
+    "explanation_simple": "There are thousands of charities, from the British Red Cross to small local groups. Volunteers help with their activities and with raising money.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
-    "item_id": "c5_young_people_single_a",
+    "item_id": "c5_young_volunteers_single_a",
     "fact_id": "c5_youth_volunteering",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
       "section": "How you can support your community",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Confirm the handbook mentions this; scheme may have changed. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "Which national scheme helps young people aged 16 and 17 take part in community projects?",
+    "question_text": "Younger people who volunteer can receive what, to help them develop their skills?",
     "options": [
       {
         "id": "a",
-        "text": "The Civil Service",
+        "text": "A driving licence",
         "is_correct": false
       },
       {
         "id": "b",
-        "text": "The National Citizen Service",
+        "text": "Accreditation",
         "is_correct": true
       },
       {
         "id": "c",
-        "text": "The National Lottery",
+        "text": "A National Insurance number",
         "is_correct": false
       },
       {
         "id": "d",
-        "text": "The Royal Mail",
+        "text": "A vote at 16",
         "is_correct": false
       }
     ],
-    "explanation_simple": "The National Citizen Service gives 16- and 17-year-olds the chance to enjoy outdoor activities and take part in a community project.",
-    "review": {}
+    "explanation_simple": "There are many opportunities for younger people to volunteer and receive accreditation, which helps them develop their skills.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   }
 ]

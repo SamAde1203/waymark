@@ -67,6 +67,10 @@
     "book_name": "The UK today",
     "confirmed": true
   },
+  "5|Driving": {
+    "book_name": "Driving",
+    "confirmed": true
+  },
   "5|Fundamental principles": {
     "book_name": "Fundamental principles",
     "confirmed": true
@@ -81,6 +85,10 @@
   },
   "5|Respecting the law": {
     "book_name": "Respecting the law",
+    "confirmed": true
+  },
+  "5|Taxation": {
+    "book_name": "Taxation",
     "confirmed": true
   },
   "5|The British constitution": {

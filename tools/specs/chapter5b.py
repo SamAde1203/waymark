@@ -10,6 +10,8 @@ ROLE = "Your role in the community"
 COURTS = "The role of the courts"
 SUPPORT = "How you can support your community"
 ENV = "Looking after the environment"
+TAX = "Taxation"
+DRIVE = "Driving"
 
 ITEMS = [
     # ---------- Democracy ----------
@@ -179,28 +181,30 @@ ITEMS = [
          w=["A Magistrates' Court", 'A Youth Court', 'A Justice of the Peace Court'],
          e='County Courts deal with a wide range of civil disputes. More serious civil cases go to the High Court, or in Scotland to the Court of Session in Edinburgh.'),
     dict(id="c5_school_governors_single_a", fact="c5_school_governors", sec=SUPPORT, t="single",
-         q="School governors and school boards help to do what?", c=["Set the strategic direction of a school"],
-         w=["Mark the national exams", "Choose the national curriculum", "Hire the police for school events"],
-         e="School governors (school boards in Scotland) are unpaid volunteers who set the strategic direction of the school and help ensure it is accountable.",
-         check="Confirm wording"),
+         q='Which of these is one of the three key roles of school governors?',
+         c=['Setting the strategic direction of the school'],
+         w=['Choosing the national curriculum', 'Marking national exams', 'Hiring the police for school events'],
+         e="School governors are people from the local community, aged 18 or over. Their roles are setting the school's strategic direction, ensuring accountability, and monitoring and evaluating school performance."),
     dict(id="c5_parent_volunteering_tf_a", fact="c5_school_volunteering", sec=SUPPORT, t="tf",
          q="Parents can help their child's school, for example by helping in classrooms or joining a parent-teacher association.", c=[True],
          e="Parents can help in many ways, such as listening to children read or joining a parent-teacher association (PTA)."),
     dict(id="c5_organ_donation_single_a", fact="c5_organ_donation", sec=SUPPORT, t="single",
-         q="What can you do to help other people through organ donation?", c=["Register as an organ donor"],
-         w=["Give money to your MP", "Join a jury", "Apply to the House of Lords"],
-         e="You can register to become an organ donor. Many people are waiting for transplants.",
-         check="Rules are now opt-out in all four nations; check wording"),
-    dict(id="c5_recycling_tf_b", fact="c5_environment", sec=ENV, t="tf",
-         q="Recycling as much waste as possible is one way to help protect the environment.", c=[True],
-         e="Recycling and buying local produce are among the ways to help protect the environment."),
+         q='What can you do to help other people through organ donation?',
+         c=['Register as an organ donor'],
+         w=['Join a jury', 'Give money to your MP', 'Apply to the House of Lords'],
+         e='Many people in the UK are waiting for organ transplants. Registering as an organ donor can make it easier for your family to decide about donating your organs when you die.'),
+    dict(id="c5_shop_local_tf_b", fact="c5_environment", sec=ENV, t="tf",
+         q='Shopping for products locally can reduce your carbon footprint.',
+         c=[True],
+         e='Buying locally helps businesses and farmers in your area, and the products you buy have not had to travel as far.'),
     dict(id="c5_volunteering_examples_multi_b", fact="c5_volunteering", sec=SUPPORT, t="multi",
-         q="Which TWO of these are examples of volunteering?", c=["Helping at a youth club", "Working in a charity shop for no pay"],
-         w=["Paying council tax", "Voting in a general election"],
-         e="Volunteering means working for good causes without payment, for example helping at a youth club, in a charity shop or with a local environmental project."),
-    dict(id="c5_jury_age_single_b", fact="c5_jury_service", sec=ROLE, t="single",
-         q="Anyone on the electoral register aged between 18 and what age can be asked to serve on a jury?", c=["75"],
-         w=["60", "65", "80"],
-         e="Anyone on the electoral register aged 18 to 75 can be asked to serve on a jury.",
-         check="Age limit differs in Scotland; confirm handbook wording"),
+         q='Which TWO of these are examples of volunteering? (choose 2)',
+         c=['Caring for animals at a local rescue shelter', 'Helping at a youth group'],
+         w=['Voting in a general election', 'Paying income tax'],
+         e='Volunteering is working for good causes without payment, for example with animals, young people, the homeless or older people.'),
+    dict(id="c5_jury_age_single_b", fact="c5_jury_service", sec=SUPPORT, t="single",
+         q='In England and Wales, anyone on the electoral register aged 18 to what age can be asked to serve on a jury?',
+         c=['75'],
+         w=['65', '80', '60'],
+         e='In England and Wales the age range for jury service is 18 to 75. Elsewhere in the UK it is 18 to 70.'),
 ]

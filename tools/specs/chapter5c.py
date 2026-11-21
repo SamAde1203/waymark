@@ -10,6 +10,8 @@ ROLE = "Your role in the community"
 COURTS = "The role of the courts"
 SUPPORT = "How you can support your community"
 ENV = "Looking after the environment"
+TAX = "Taxation"
+DRIVE = "Driving"
 
 ITEMS = [
     dict(id="c5_constitutional_monarchy_tf_b", fact="c5_constitutional_monarchy", sec=CON, t="tf",
@@ -118,18 +120,19 @@ ITEMS = [
     dict(id="c5_hra_tf_b", fact="c5_human_rights_act", sec=FUN, t="tf",
          q="The Human Rights Act 1998 brought the European Convention on Human Rights into UK law.", c=[True],
          e="The Human Rights Act 1998 incorporated the European Convention on Human Rights into UK law."),
-    dict(id="c5_driving_age_tf_b", fact="c5_driving_age", sec=ROLE, t="tf",
+    dict(id="c5_driving_age_tf_b", fact="c5_driving_age", sec=DRIVE, t="tf",
          q="You must be at least 17 to drive a car or motorcycle in the UK.", c=[True],
          e="You must be at least 17 to drive a car or motorcycle, and you must have a driving licence."),
-    dict(id="c5_mot_tf_b", fact="c5_mot", sec=ROLE, t="tf",
+    dict(id="c5_mot_tf_b", fact="c5_mot", sec=DRIVE, t="tf",
          q="Cars over three years old must have a valid MOT certificate.", c=[True],
          e="If your vehicle is over three years old, you must take it for an MOT test every year."),
-    dict(id="c5_hmrc_tf_b", fact="c5_income_tax", sec=ROLE, t="tf",
+    dict(id="c5_hmrc_tf_b", fact="c5_income_tax", sec=TAX, t="tf",
          q="Income tax is collected by HM Revenue & Customs (HMRC).", c=[True],
          e="HMRC collects income tax. For most employees it is taken from wages through the PAYE system."),
-    dict(id="c5_council_tax_tf_b", fact="c5_council_tax", sec=ROLE, t="tf",
-         q="Council tax is a local tax used to fund local services.", c=[True],
-         e="Council tax is paid to the local council and helps pay for local services."),
+    dict(id="c5_self_assessment_tf_b", fact="c5_income_tax", sec=TAX, t="tf",
+         q='If you are self-employed, you pay your own tax through a system called self-assessment.',
+         c=[True],
+         e='Most employees have income tax taken from their pay through PAYE. Self-employed people pay their own tax through self-assessment, which includes completing a tax return.'),
     dict(id="c5_blood_tf_b", fact="c5_blood_donation", sec=SUPPORT, t="tf",
          q="You can donate blood to help people in hospital.", c=[True],
          e="Donated blood is used by hospitals to help people with injuries and illnesses. You can register to give blood."),
