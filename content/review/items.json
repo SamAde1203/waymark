@@ -2135,6 +2135,18 @@
     "note": "",
     "reviewed_at": "2026-11-21"
   },
+  "c4_austen_single_a": {
+    "decision": "approved",
+    "fingerprint": "c350295979c86132",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_authors_multi_a": {
+    "decision": "approved",
+    "fingerprint": "5a0aae76239fab43",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
   "c4_baftas_single_a": {
     "decision": "approved",
     "fingerprint": "ec2fd1da3912e1ee",
@@ -2180,6 +2192,12 @@
   "c4_bbc_funding_single_a": {
     "decision": "approved",
     "fingerprint": "27ad3abb3bb86490",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_beatles_single_a": {
+    "decision": "approved",
+    "fingerprint": "151046419cef73a6",
     "note": "",
     "reviewed_at": "2026-11-21"
   },
@@ -2240,6 +2258,18 @@
   "c4_boxing_day_tf_b": {
     "decision": "approved",
     "fingerprint": "036d5c90577cdfb4",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_britten_single_a": {
+    "decision": "approved",
+    "fingerprint": "e4702a75a55d60cf",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_britten_tf_b": {
+    "decision": "approved",
+    "fingerprint": "e21b10de52989efd",
     "note": "",
     "reviewed_at": "2026-11-21"
   },
@@ -2387,6 +2417,18 @@
     "note": "",
     "reviewed_at": "2026-11-21"
   },
+  "c4_conan_doyle_single_a": {
+    "decision": "approved",
+    "fingerprint": "2b52183928b9cae5",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_conan_doyle_tf_b": {
+    "decision": "approved",
+    "fingerprint": "87f8e39ccf694403",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
   "c4_constable_single_a": {
     "decision": "approved",
     "fingerprint": "3225005cce4e80fd",
@@ -2426,6 +2468,12 @@
   "c4_dates_multi_a": {
     "decision": "approved",
     "fingerprint": "768e065c4df34d73",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_dickens_single_a": {
+    "decision": "approved",
+    "fingerprint": "a7dc0ec24ff49d3d",
     "note": "",
     "reviewed_at": "2026-11-21"
   },
@@ -2495,6 +2543,24 @@
     "note": "",
     "reviewed_at": "2026-11-21"
   },
+  "c4_eden_project_single_a": {
+    "decision": "approved",
+    "fingerprint": "00c9e583ee689600",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_eden_tf_b": {
+    "decision": "approved",
+    "fingerprint": "f59cb66d3f3b16be",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_edinburgh_castle_tf_a": {
+    "decision": "approved",
+    "fingerprint": "f6924a1fdca11079",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
   "c4_edinburgh_fest_tf_b": {
     "decision": "approved",
     "fingerprint": "a0dd0eeab5947a1b",
@@ -2516,6 +2582,12 @@
   "c4_eid_tf_b": {
     "decision": "approved",
     "fingerprint": "5b1de8c6e6eab50d",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_eisteddfod_single_a": {
+    "decision": "approved",
+    "fingerprint": "af7c1cb27e264cdb",
     "note": "",
     "reviewed_at": "2026-11-21"
   },
@@ -2639,9 +2711,33 @@
     "note": "",
     "reviewed_at": "2026-11-21"
   },
+  "c4_giants_causeway_single_a": {
+    "decision": "approved",
+    "fingerprint": "676d015997304997",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_giants_causeway_tf_b": {
+    "decision": "approved",
+    "fingerprint": "1c6031b39a19b8d1",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
   "c4_gilbert_sullivan_single_a": {
     "decision": "approved",
     "fingerprint": "0d3d2d981316ae59",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_glastonbury_single_a": {
+    "decision": "approved",
+    "fingerprint": "ac5ff8c50f1059d1",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_golding_single_a": {
+    "decision": "approved",
+    "fingerprint": "ee26f40adb3bb2e6",
     "note": "",
     "reviewed_at": "2026-11-21"
   },
@@ -2702,6 +2798,12 @@
   "c4_hanukkah_tf_b": {
     "decision": "approved",
     "fingerprint": "52c5288c65e39114",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_hardy_single_a": {
+    "decision": "approved",
+    "fingerprint": "fed5ef2c09148fa3",
     "note": "",
     "reviewed_at": "2026-11-21"
   },
@@ -2771,6 +2873,24 @@
     "note": "",
     "reviewed_at": "2026-11-21"
   },
+  "c4_lake_district_single_a": {
+    "decision": "approved",
+    "fingerprint": "e4b3d216d6ba0ac3",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_lake_district_tf_b": {
+    "decision": "approved",
+    "fingerprint": "143915b99cb87c43",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_landmarks_multi_a": {
+    "decision": "approved",
+    "fingerprint": "77a69441bdf616e6",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
   "c4_languages_single_a": {
     "decision": "approved",
     "fingerprint": "1c1f7323ce1a59d9",
@@ -2801,6 +2921,36 @@
     "note": "",
     "reviewed_at": "2026-11-21"
   },
+  "c4_loch_lomond_single_a": {
+    "decision": "approved",
+    "fingerprint": "e1e52db2bf766f32",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_loch_lomond_tf_b": {
+    "decision": "approved",
+    "fingerprint": "baade3fc28d51a11",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_london_eye_single_a": {
+    "decision": "approved",
+    "fingerprint": "df5e8f5811017ef5",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_london_eye_tf_b": {
+    "decision": "approved",
+    "fingerprint": "720ce9c0b93c002e",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_london_places_multi_a": {
+    "decision": "approved",
+    "fingerprint": "55a4ffbfddf7a02e",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
   "c4_lutyens_single_a": {
     "decision": "approved",
     "fingerprint": "37c1666eeea97019",
@@ -2810,6 +2960,12 @@
   "c4_macarthur_tf_b": {
     "decision": "approved",
     "fingerprint": "c8798c1d9ab0b0dd",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_mercury_prize_single_a": {
+    "decision": "approved",
+    "fingerprint": "b197a25ae6e197c1",
     "note": "",
     "reviewed_at": "2026-11-21"
   },
@@ -2840,6 +2996,18 @@
   "c4_mothering_tf_b": {
     "decision": "approved",
     "fingerprint": "338b373dbf06822b",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_mousetrap_single_a": {
+    "decision": "approved",
+    "fingerprint": "a1b7c325579ca866",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_mousetrap_tf_b": {
+    "decision": "approved",
+    "fingerprint": "a35ac43566d2884e",
     "note": "",
     "reviewed_at": "2026-11-21"
   },
@@ -3161,6 +3329,18 @@
     "note": "",
     "reviewed_at": "2026-11-21"
   },
+  "c4_snowdon_tf_b": {
+    "decision": "approved",
+    "fingerprint": "d62f5db988fc3ce5",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_snowdonia_single_a": {
+    "decision": "approved",
+    "fingerprint": "20ebe27eeab628fd",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
   "c4_sports_origins_multi_a": {
     "decision": "approved",
     "fingerprint": "69781352ed7ba9dc",
@@ -3170,6 +3350,12 @@
   "c4_st_andrews_tf_b": {
     "decision": "approved",
     "fingerprint": "707798b0196c9bbd",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_stevenson_single_a": {
+    "decision": "approved",
+    "fingerprint": "1582783809352149",
     "note": "",
     "reviewed_at": "2026-11-21"
   },
@@ -3194,6 +3380,18 @@
   "c4_torvill_dean_single_a": {
     "decision": "approved",
     "fingerprint": "06ca74b9be4fa656",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_tower_of_london_single_a": {
+    "decision": "approved",
+    "fingerprint": "470f69dd7a21f2c8",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_tower_tf_b": {
+    "decision": "approved",
+    "fingerprint": "db50c8531ce11595",
     "note": "",
     "reviewed_at": "2026-11-21"
   },
@@ -3257,6 +3455,18 @@
     "note": "",
     "reviewed_at": "2026-11-21"
   },
+  "c4_vaughan_williams_single_a": {
+    "decision": "approved",
+    "fingerprint": "2bda53574c98712a",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_walton_single_a": {
+    "decision": "approved",
+    "fingerprint": "109b9420263d74e8",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
   "c4_welsh_cakes_single_a": {
     "decision": "approved",
     "fingerprint": "db34a47fc014e23e",
@@ -3266,6 +3476,12 @@
   "c4_welsh_tf_b": {
     "decision": "approved",
     "fingerprint": "7818fcb934b82c70",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_west_end_single_a": {
+    "decision": "approved",
+    "fingerprint": "ebe1b03863b3a2fa",
     "note": "",
     "reviewed_at": "2026-11-21"
   },

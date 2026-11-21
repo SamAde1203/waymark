@@ -2854,7 +2854,7 @@
     "item_id": "c4_britten_single_a",
     "fact_id": "c4_britten",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -2889,7 +2889,10 @@
       }
     ],
     "explanation_simple": "Benjamin Britten is best known for the opera Peter Grimes and A Young Person's Guide to the Orchestra. He founded the Aldeburgh festival.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -2986,7 +2989,7 @@
     "item_id": "c4_mousetrap_single_a",
     "fact_id": "c4_mousetrap",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -3021,7 +3024,10 @@
       }
     ],
     "explanation_simple": "The Mousetrap, a murder-mystery play by Agatha Christie, has been running in London's West End since 1952.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -3565,7 +3571,7 @@
     "item_id": "c4_conan_doyle_single_a",
     "fact_id": "c4_conan_doyle",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -3600,7 +3606,10 @@
       }
     ],
     "explanation_simple": "Sir Arthur Conan Doyle was a Scottish doctor and writer, best known for his stories about Sherlock Holmes.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -4217,7 +4226,7 @@
     "item_id": "c4_eden_project_single_a",
     "fact_id": "c4_eden_project",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -4252,25 +4261,28 @@
       }
     ],
     "explanation_simple": "The Eden Project in Cornwall has giant greenhouses housing plants from all over the world.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_giants_causeway_single_a",
     "fact_id": "c4_giants_causeway",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
       "section": "Places of interest",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Column count. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "Where is the Giant's Causeway, with its thousands of interlocking stone columns?",
+    "question_text": "Where is the Giant's Causeway, a land formation of columns made from volcanic lava?",
     "options": [
       {
         "id": "a",
@@ -4279,7 +4291,7 @@
       },
       {
         "id": "b",
-        "text": "In Cornwall",
+        "text": "In the Scottish Highlands",
         "is_correct": false
       },
       {
@@ -4289,19 +4301,22 @@
       },
       {
         "id": "d",
-        "text": "In the Scottish Highlands",
+        "text": "In Cornwall",
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Giant's Causeway, on the north-east coast of Northern Ireland, is a landform of about 40,000 basalt columns formed by an ancient volcanic eruption.",
-    "review": {}
+    "explanation_simple": "The Giant's Causeway, on the north-east coast of Northern Ireland, was formed about 50 million years ago. There are many legends about how it was formed.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_loch_lomond_single_a",
     "fact_id": "c4_loch_lomond",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -4336,14 +4351,17 @@
       }
     ],
     "explanation_simple": "Loch Lomond, in Scotland, is the largest expanse of fresh water in mainland Britain.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_london_eye_single_a",
     "fact_id": "c4_london_eye",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -4378,14 +4396,17 @@
       }
     ],
     "explanation_simple": "The London Eye, a giant Ferris wheel on the River Thames, was built as part of the celebrations for the new millennium.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_snowdonia_single_a",
     "fact_id": "c4_snowdonia",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -4420,14 +4441,17 @@
       }
     ],
     "explanation_simple": "Snowdonia is a national park in North Wales. Its best-known landmark is Snowdon, the highest mountain in Wales.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_tower_of_london_single_a",
     "fact_id": "c4_tower_of_london",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -4462,14 +4486,17 @@
       }
     ],
     "explanation_simple": "The Tower of London was first built by William the Conqueror. The Crown Jewels are kept there, and Yeoman Warders (Beefeaters) give tours.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_lake_district_single_a",
     "fact_id": "c4_lake_district",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -4504,14 +4531,17 @@
       }
     ],
     "explanation_simple": "The Lake District is England's largest national park. Windermere is its largest lake.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_edinburgh_castle_tf_a",
     "fact_id": "c4_edinburgh_castle",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -4535,8 +4565,11 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Edinburgh Castle dominates the skyline of Edinburgh and is managed by Historic Scotland.",
-    "review": {}
+    "explanation_simple": "Edinburgh Castle has a long history, dating back to the early Middle Ages. It is looked after by Historic Environment Scotland.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -5678,7 +5711,7 @@
     "item_id": "c4_vaughan_williams_single_a",
     "fact_id": "c4_vaughan_williams",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -5713,14 +5746,17 @@
       }
     ],
     "explanation_simple": "Ralph Vaughan Williams was strongly influenced by traditional English folk music.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_walton_single_a",
     "fact_id": "c4_william_walton",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -5755,14 +5791,17 @@
       }
     ],
     "explanation_simple": "Sir William Walton wrote a wide range of music, including marches for the coronations of King George VI and Queen Elizabeth II.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_eisteddfod_single_a",
     "fact_id": "c4_eisteddfod",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -5773,7 +5812,7 @@
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "The National Eisteddfod, a festival of music, poetry and dance, takes place in which country?",
+    "question_text": "The National Eisteddfod, a festival of music, dance, art and performance, takes place in which country?",
     "options": [
       {
         "id": "a",
@@ -5787,39 +5826,42 @@
       },
       {
         "id": "c",
-        "text": "Cornwall",
+        "text": "Ireland",
         "is_correct": false
       },
       {
         "id": "d",
-        "text": "Ireland",
+        "text": "Cornwall",
         "is_correct": false
       }
     ],
-    "explanation_simple": "The National Eisteddfod of Wales is an annual festival of music, literature and performance, held in Welsh.",
-    "review": {}
+    "explanation_simple": "The National Eisteddfod of Wales is held in a different part of Wales each year. Performances are largely in Welsh, and it includes important competitions for Welsh poetry.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_mercury_prize_single_a",
     "fact_id": "c4_mercury_prize",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
       "section": "Arts and culture",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Wording. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "The Mercury Music Prize is awarded each year for what?",
+    "question_text": "The Mercury Prize is awarded each September for what?",
     "options": [
       {
         "id": "a",
-        "text": "The best film score",
+        "text": "The best new musical",
         "is_correct": false
       },
       {
@@ -5829,24 +5871,27 @@
       },
       {
         "id": "c",
-        "text": "The best classical concert",
+        "text": "The best film score",
         "is_correct": false
       },
       {
         "id": "d",
-        "text": "The best new musical",
+        "text": "The best classical concert",
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Mercury Music Prize is awarded for the best album from the UK and Ireland. The Brit Awards also celebrate popular music.",
-    "review": {}
+    "explanation_simple": "The Mercury Prize is awarded each September for the best album from the UK and Ireland. The Brit Awards give awards in categories such as best British group and best British solo artist.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_glastonbury_single_a",
     "fact_id": "c4_music_festivals",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -5861,12 +5906,12 @@
     "options": [
       {
         "id": "a",
-        "text": "Burns Night",
+        "text": "The Eurovision Song Contest",
         "is_correct": false
       },
       {
         "id": "b",
-        "text": "The Proms in the Park in New York",
+        "text": "Burns Night",
         "is_correct": false
       },
       {
@@ -5876,19 +5921,22 @@
       },
       {
         "id": "d",
-        "text": "The Eurovision Song Contest",
+        "text": "Hogmanay",
         "is_correct": false
       }
     ],
-    "explanation_simple": "Many music festivals take place each summer, including Glastonbury, the Isle of Wight Festival and the Download Festival.",
-    "review": {}
+    "explanation_simple": "Festival season takes place across the UK every summer. Famous festivals include Glastonbury, the Isle of Wight Festival and Creamfields.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_beatles_single_a",
     "fact_id": "c4_sixties_bands",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -5923,7 +5971,10 @@
       }
     ],
     "explanation_simple": "The Beatles and The Rolling Stones continue to have a major influence on music both in the UK and abroad.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -6325,7 +6376,7 @@
     "item_id": "c4_austen_single_a",
     "fact_id": "c4_jane_austen",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -6360,14 +6411,17 @@
       }
     ],
     "explanation_simple": "Jane Austen's novels include Pride and Prejudice and Sense and Sensibility. They are often about marriage and family relationships.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_dickens_single_a",
     "fact_id": "c4_charles_dickens",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -6402,14 +6456,17 @@
       }
     ],
     "explanation_simple": "Charles Dickens wrote a number of famous novels, including Oliver Twist and Great Expectations.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_stevenson_single_a",
     "fact_id": "c4_robert_louis_stevenson",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -6444,91 +6501,100 @@
       }
     ],
     "explanation_simple": "Robert Louis Stevenson wrote Treasure Island, Kidnapped and Dr Jekyll and Mr Hyde.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_hardy_single_a",
     "fact_id": "c4_thomas_hardy",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
       "section": "Arts and culture",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Confirm wording. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "Thomas Hardy's novels often describe life in which part of England?",
+    "question_text": "Thomas Hardy's best-known novels focus on what?",
     "options": [
       {
         "id": "a",
-        "text": "The Lake District",
+        "text": "Detective stories",
         "is_correct": false
       },
       {
         "id": "b",
-        "text": "Rural (countryside) areas, especially the south-west",
+        "text": "Rural society",
         "is_correct": true
       },
       {
         "id": "c",
-        "text": "The industrial north-east",
+        "text": "Life in London's West End",
         "is_correct": false
       },
       {
         "id": "d",
-        "text": "Central London",
+        "text": "Sea voyages",
         "is_correct": false
       }
     ],
-    "explanation_simple": "Thomas Hardy was an author and poet whose novels, such as Far from the Madding Crowd, focus on rural society.",
-    "review": {}
+    "explanation_simple": "Thomas Hardy was an author and poet. His best-known novels focus on rural society and include Far from the Madding Crowd and Jude the Obscure.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_golding_single_a",
     "fact_id": "c4_william_golding",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
       "section": "Arts and culture",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Confirm placement. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "William Golding, a Nobel Prize winner, wrote which novel?",
+    "question_text": "Which British novelist has won the Nobel Prize in Literature?",
     "options": [
       {
         "id": "a",
-        "text": "Treasure Island",
+        "text": "Charles Dickens",
         "is_correct": false
       },
       {
         "id": "b",
-        "text": "Lord of the Flies",
+        "text": "Sir William Golding",
         "is_correct": true
       },
       {
         "id": "c",
-        "text": "Brideshead Revisited",
+        "text": "Robert Louis Stevenson",
         "is_correct": false
       },
       {
         "id": "d",
-        "text": "Pride and Prejudice",
+        "text": "Jane Austen",
         "is_correct": false
       }
     ],
-    "explanation_simple": "Writers who have won the Nobel Prize in Literature include William Golding, author of Lord of the Flies.",
-    "review": {}
+    "explanation_simple": "Several British writers have won the Nobel Prize in Literature, including the novelist Sir William Golding, the poet Seamus Heaney and the playwright Harold Pinter.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -6827,7 +6893,7 @@
     "item_id": "c4_tower_tf_b",
     "fact_id": "c4_tower_of_london",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -6852,14 +6918,17 @@
       }
     ],
     "explanation_simple": "The Crown Jewels are kept at the Tower of London, first built by William the Conqueror.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_lake_district_tf_b",
     "fact_id": "c4_lake_district",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -6870,7 +6939,7 @@
     },
     "question_type": "true_false",
     "selections_required": 1,
-    "question_text": "Is the following statement TRUE or FALSE? Windermere, in the Lake District, is England's largest lake.",
+    "question_text": "Is the following statement TRUE or FALSE? Windermere is the biggest stretch of water in the Lake District.",
     "options": [
       {
         "id": "a",
@@ -6883,8 +6952,11 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Lake District is England's largest national park, and its largest lake is Windermere.",
-    "review": {}
+    "explanation_simple": "The Lake District is England's largest national park. In 2007, television viewers voted Wastwater as Britain's favourite view.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -8455,7 +8527,7 @@
     "item_id": "c4_britten_tf_b",
     "fact_id": "c4_britten",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -8480,7 +8552,10 @@
       }
     ],
     "explanation_simple": "Benjamin Britten is best known for his opera Peter Grimes. He founded the Aldeburgh festival in Suffolk.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -8522,7 +8597,7 @@
     "item_id": "c4_mousetrap_tf_b",
     "fact_id": "c4_mousetrap",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -8547,7 +8622,10 @@
       }
     ],
     "explanation_simple": "Agatha Christie's The Mousetrap has been running since 1952 and has the longest initial run of any show in history.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -8841,7 +8919,7 @@
     "item_id": "c4_conan_doyle_tf_b",
     "fact_id": "c4_conan_doyle",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -8866,7 +8944,10 @@
       }
     ],
     "explanation_simple": "Sir Arthur Conan Doyle was a Scottish doctor and writer, best known for the Sherlock Holmes stories.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -9023,7 +9104,7 @@
     "item_id": "c4_eden_tf_b",
     "fact_id": "c4_eden_project",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -9034,7 +9115,7 @@
     },
     "question_type": "true_false",
     "selections_required": 1,
-    "question_text": "Is the following statement TRUE or FALSE? The Eden Project in Cornwall has large greenhouses containing plants from around the world.",
+    "question_text": "Is the following statement TRUE or FALSE? The Eden Project in Cornwall has biomes, like giant greenhouses, that house plants from all over the world.",
     "options": [
       {
         "id": "a",
@@ -9047,15 +9128,18 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Eden Project in Cornwall has biomes, huge greenhouses, containing plants from many environments.",
-    "review": {}
+    "explanation_simple": "The Eden Project is in Cornwall, in the south west of England. It is also a charity which runs environmental and social projects internationally.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_giants_causeway_tf_b",
     "fact_id": "c4_giants_causeway",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -9080,14 +9164,17 @@
       }
     ],
     "explanation_simple": "The Giant's Causeway is on the north-east coast of Northern Ireland.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_loch_lomond_tf_b",
     "fact_id": "c4_loch_lomond",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -9112,14 +9199,17 @@
       }
     ],
     "explanation_simple": "Loch Lomond, in Scotland, is the largest expanse of fresh water in mainland Britain.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_london_eye_tf_b",
     "fact_id": "c4_london_eye",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -9144,14 +9234,17 @@
       }
     ],
     "explanation_simple": "The London Eye is a Ferris wheel on the south bank of the Thames, built for the millennium.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_snowdon_tf_b",
     "fact_id": "c4_snowdonia",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -9176,7 +9269,10 @@
       }
     ],
     "explanation_simple": "Snowdon is in Snowdonia, a national park in north Wales. It is the highest mountain in Wales.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -9995,7 +10091,7 @@
     "item_id": "c4_west_end_single_a",
     "fact_id": "c4_west_end",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -10030,7 +10126,10 @@
       }
     ],
     "explanation_simple": "London's West End, also known as 'Theatreland', is famous for its theatres and musicals.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -10127,7 +10226,7 @@
     "item_id": "c4_authors_multi_a",
     "fact_id": "c4_charles_dickens",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -10162,7 +10261,10 @@
       }
     ],
     "explanation_simple": "Dickens wrote Oliver Twist and Austen Pride and Prejudice. Stevenson wrote Treasure Island, and Rowling the Harry Potter books.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -10526,7 +10628,7 @@
     "item_id": "c4_landmarks_multi_a",
     "fact_id": "c4_giants_causeway",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -10561,14 +10663,17 @@
       }
     ],
     "explanation_simple": "The Giant's Causeway is in Northern Ireland and Loch Lomond in Scotland. Snowdon is in Wales and the Eden Project in Cornwall.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_london_places_multi_a",
     "fact_id": "c4_london_eye",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -10603,7 +10708,10 @@
       }
     ],
     "explanation_simple": "The London Eye and the Tower of London are in London. The Eden Project is in Cornwall and Edinburgh Castle in Scotland.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
