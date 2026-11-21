@@ -11,9 +11,10 @@ PLA = "Places of interest"
 ITEMS = [
     # ---------- UK today / religion variants ----------
     dict(id="c4_capitals_multi_c", fact="c4_capital_cities", sec=TODAY, t="multi",
-         q="Which TWO of these are capital cities of countries in the UK?", c=["Cardiff", "Belfast"],
-         w=["Manchester", "Glasgow"],
-         e="The capital cities are London (England), Edinburgh (Scotland), Cardiff (Wales) and Belfast (Northern Ireland)."),
+         q='Which TWO of these are capital cities of countries in the UK?',
+         c=['Cardiff', 'Belfast'],
+         w=['Manchester', 'Glasgow'],
+         e='The capital of the UK is London. Edinburgh is the capital of Scotland, Cardiff of Wales and Belfast of Northern Ireland.'),
     dict(id="c4_gaelic_single_b", fact="c4_languages_scotland", sec=TODAY, t="single",
          q="Which language is spoken by some people in parts of the Highlands and Islands of Scotland?", c=["Gaelic"],
          w=["Welsh", "Cornish", "Manx"],

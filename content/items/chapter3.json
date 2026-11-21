@@ -5404,7 +5404,7 @@
     "item_id": "c3_turing_single_a",
     "fact_id": "c3_alan_turing",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -5415,7 +5415,7 @@
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "Alan Turing's work in the 1930s led to the development of what?",
+    "question_text": "Alan Turing's work in the 1930s was influential in the development of what?",
     "options": [
       {
         "id": "a",
@@ -5424,29 +5424,32 @@
       },
       {
         "id": "b",
-        "text": "The modern computer",
+        "text": "The modern-day computer",
         "is_correct": true
       },
       {
         "id": "c",
-        "text": "Television",
+        "text": "Radar",
         "is_correct": false
       },
       {
         "id": "d",
-        "text": "Radar",
+        "text": "Television",
         "is_correct": false
       }
     ],
-    "explanation_simple": "Alan Turing's work led to the development of the modern computer. He also helped break enemy codes in the Second World War.",
-    "review": {}
+    "explanation_simple": "Alan Turing, a British mathematician, invented the 'Turing machine', a theoretical mathematical device. The theory was influential in the development of computer science and the modern-day computer.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_jet_engine_single_a",
     "fact_id": "c3_jet_engine",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -5481,14 +5484,17 @@
       }
     ],
     "explanation_simple": "Sir Frank Whittle, a British Royal Air Force engineer officer, developed the jet engine.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_radar_single_a",
     "fact_id": "c3_radar",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -5523,14 +5529,17 @@
       }
     ],
     "explanation_simple": "Radar was developed by the Scotsman Sir Robert Watson-Watt and helped detect enemy aircraft.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_television_single_a",
     "fact_id": "c3_television",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -5565,7 +5574,10 @@
       }
     ],
     "explanation_simple": "John Logie Baird developed television in the 1920s. In 1932 he made the first television broadcast between London and Glasgow.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -5707,7 +5719,7 @@
     "item_id": "c3_beveridge_single_a",
     "fact_id": "c3_beveridge_report",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -5742,7 +5754,10 @@
       }
     ],
     "explanation_simple": "William Beveridge's report identified five 'Giant Evils' and formed the basis of the modern welfare state.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -5794,7 +5809,7 @@
     "item_id": "c3_postwar_migration_tf_a",
     "fact_id": "c3_postwar_migration",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -5805,7 +5820,7 @@
     },
     "question_type": "true_false",
     "selections_required": 1,
-    "question_text": "Is the following statement TRUE or FALSE? After the Second World War, people from the West Indies, India and Pakistan were invited to come and work in the UK.",
+    "question_text": "Is the following statement TRUE or FALSE? After the Second World War, people from the West Indies, India and Pakistan were invited or recruited to come and work in the UK.",
     "options": [
       {
         "id": "a",
@@ -5818,15 +5833,18 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Labour shortages after the war led the government to encourage workers from Ireland, the West Indies, India, Pakistan and later Bangladesh.",
-    "review": {}
+    "explanation_simple": "There were labour shortages after the war. In 1948 people from the West Indies were invited to come and work, and in the 1950s firms sent agents to India and Pakistan to find workers.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_dolly_sheep_single_a",
     "fact_id": "c3_dolly_the_sheep",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -5837,11 +5855,11 @@
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "In 1996, scientists in Edinburgh produced the first mammal cloned from an adult cell. What was it?",
+    "question_text": "In 1996, a team led by two British scientists was the first to succeed in cloning a mammal. What was it?",
     "options": [
       {
         "id": "a",
-        "text": "A cow",
+        "text": "A cat",
         "is_correct": false
       },
       {
@@ -5856,19 +5874,22 @@
       },
       {
         "id": "d",
-        "text": "A cat",
+        "text": "A cow",
         "is_correct": false
       }
     ],
-    "explanation_simple": "Dolly the sheep was the first mammal to be cloned from an adult cell, by scientists in Edinburgh in 1996.",
-    "review": {}
+    "explanation_simple": "Sir Ian Wilmut and Keith Campbell led the team that cloned Dolly the sheep. This led to more research into cloning to preserve endangered species and for medical purposes.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_ivf_single_a",
     "fact_id": "c3_ivf",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -5903,14 +5924,17 @@
       }
     ],
     "explanation_simple": "The world's first 'test-tube baby' was born in Oldham, Lancashire, in 1978 using IVF therapy.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_www_single_a",
     "fact_id": "c3_world_wide_web",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -5945,14 +5969,17 @@
       }
     ],
     "explanation_simple": "Sir Tim Berners-Lee invented the World Wide Web. Information was first successfully transferred over the web in December 1990.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_hovercraft_single_a",
     "fact_id": "c3_hovercraft",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -5987,14 +6014,17 @@
       }
     ],
     "explanation_simple": "The hovercraft was invented by Sir Christopher Cockerell in the 1950s.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_concorde_tf_a",
     "fact_id": "c3_concorde",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -6019,14 +6049,17 @@
       }
     ],
     "explanation_simple": "Concorde was developed by Britain and France and flew passengers from 1976 to 2003.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_thatcher_single_a",
     "fact_id": "c3_thatcher",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -6061,14 +6094,17 @@
       }
     ],
     "explanation_simple": "Margaret Thatcher became the UK's first woman Prime Minister in 1979 and was the longest-serving Prime Minister of the 20th century.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_falklands_single_a",
     "fact_id": "c3_falklands_war",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -6103,14 +6139,17 @@
       }
     ],
     "explanation_simple": "In 1982 Argentina invaded the Falkland Islands, a British overseas territory. A British force recovered the islands.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_troubles_tf_a",
     "fact_id": "c3_the_troubles",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -6121,7 +6160,7 @@
     },
     "question_type": "true_false",
     "selections_required": 1,
-    "question_text": "Is the following statement TRUE or FALSE? The period of conflict in Northern Ireland from the late 1960s is known as 'the Troubles'.",
+    "question_text": "Is the following statement TRUE or FALSE? The conflict in Northern Ireland between those wanting full Irish independence and those wanting to stay loyal to the British government is often called 'the Troubles'.",
     "options": [
       {
         "id": "a",
@@ -6134,15 +6173,18 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "From the late 1960s there was conflict in Northern Ireland, known as 'the Troubles'. Over 3,000 people lost their lives.",
-    "review": {}
+    "explanation_simple": "Some 3,000 people lost their lives in the decades after 1969 in the violence in Northern Ireland. In 1972 the Northern Ireland Parliament was suspended.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_good_friday_single_a",
     "fact_id": "c3_good_friday_agreement",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -6177,7 +6219,10 @@
       }
     ],
     "explanation_simple": "The Good Friday Agreement of 1998 led to the establishment of the Northern Ireland Assembly.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -6226,7 +6271,7 @@
     "item_id": "c3_blair_single_a",
     "fact_id": "c3_tony_blair",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -6261,14 +6306,17 @@
       }
     ],
     "explanation_simple": "In 1997 the Labour Party led by Tony Blair was elected. Blair was succeeded by Gordon Brown in 2007.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_coalition_2010_single_a",
     "fact_id": "c3_coalition_2010",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -6303,7 +6351,10 @@
       }
     ],
     "explanation_simple": "In 2010 no party had an overall majority, so the Conservative and Liberal Democrat parties formed a coalition, with David Cameron as Prime Minister.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -8831,18 +8882,18 @@
     "item_id": "c3_crick_dna_single_a",
     "fact_id": "c3_dna_structure",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
       "section": "The 20th century",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Confirm placement and names. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "In 1953, Francis Crick and James Watson discovered the structure of what?",
+    "question_text": "In 1953, work at British universities in London and Cambridge discovered the structure of which molecule?",
     "options": [
       {
         "id": "a",
@@ -8851,7 +8902,7 @@
       },
       {
         "id": "b",
-        "text": "The human heart",
+        "text": "Penicillin",
         "is_correct": false
       },
       {
@@ -8861,19 +8912,22 @@
       },
       {
         "id": "d",
-        "text": "Penicillin",
+        "text": "Insulin",
         "is_correct": false
       }
     ],
-    "explanation_simple": "Francis Crick, a British scientist, and his colleagues discovered the structure of the DNA molecule in 1953.",
-    "review": {}
+    "explanation_simple": "The structure of the DNA molecule was discovered in 1953. Francis Crick, one of those awarded the Nobel Prize for it, was British. The discovery helped medicine and fighting crime.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_insulin_single_a",
     "fact_id": "c3_insulin",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -8908,14 +8962,17 @@
       }
     ],
     "explanation_simple": "John Macleod was involved in the discovery of insulin, used to treat diabetes.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_education_act_single_a",
     "fact_id": "c3_education_act_1944",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -8950,7 +9007,10 @@
       }
     ],
     "explanation_simple": "The 1944 Education Act, often called the Butler Act, introduced free secondary education in England and Wales.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -8992,7 +9052,7 @@
     "item_id": "c3_sixties_single_a",
     "fact_id": "c3_swinging_sixties",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -9027,14 +9087,17 @@
       }
     ],
     "explanation_simple": "The 1960s were a time of social change, known as the 'Swinging Sixties', with growth in British fashion, cinema and popular music.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_sixties_laws_tf_b",
     "fact_id": "c3_sixties_social_laws",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -9059,14 +9122,17 @@
       }
     ],
     "explanation_simple": "Social laws were liberalised in the 1960s, including those on divorce and abortion in England, Wales and Scotland.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_thatcher_date_single_b",
     "fact_id": "c3_thatcher",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -9101,14 +9167,17 @@
       }
     ],
     "explanation_simple": "Margaret Thatcher became the first woman Prime Minister in 1979 and served until 1990.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_thatcher_party_single_c",
     "fact_id": "c3_thatcher_party",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -9143,14 +9212,17 @@
       }
     ],
     "explanation_simple": "Margaret Thatcher was the leader of the Conservative Party and Prime Minister from 1979 to 1990.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_major_single_a",
     "fact_id": "c3_john_major",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -9185,14 +9257,17 @@
       }
     ],
     "explanation_simple": "John Major replaced Margaret Thatcher as Prime Minister in 1990 and helped establish the Northern Ireland peace process.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_good_friday_tf_b",
     "fact_id": "c3_good_friday_agreement",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -9217,14 +9292,17 @@
       }
     ],
     "explanation_simple": "The Good Friday (Belfast) Agreement was signed in 1998 and led to the Northern Ireland Assembly.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_gordon_brown_single_a",
     "fact_id": "c3_gordon_brown",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -9259,56 +9337,62 @@
       }
     ],
     "explanation_simple": "Gordon Brown took over as Prime Minister in 2007.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_atm_single_a",
     "fact_id": "c3_cash_machine",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
       "section": "Britain since 1945",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Confirm the handbook mentions Goodfellow. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "Which everyday machine was invented in the 1960s by the Scotsman James Goodfellow?",
+    "question_text": "Which machine was invented in the 1960s by James Goodfellow?",
     "options": [
       {
         "id": "a",
-        "text": "The telephone",
-        "is_correct": false
-      },
-      {
-        "id": "b",
         "text": "The jet engine",
         "is_correct": false
       },
       {
-        "id": "c",
+        "id": "b",
         "text": "The vacuum cleaner",
         "is_correct": false
       },
       {
+        "id": "c",
+        "text": "The telephone",
+        "is_correct": false
+      },
+      {
         "id": "d",
-        "text": "The cash machine (ATM)",
+        "text": "The cash-dispensing ATM (cashpoint)",
         "is_correct": true
       }
     ],
-    "explanation_simple": "James Goodfellow invented the cash machine (ATM) with a PIN in the 1960s.",
-    "review": {}
+    "explanation_simple": "James Goodfellow invented the cash-dispensing ATM. The first was put into use by Barclays Bank in Enfield, north London, in 1967.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_harrier_single_a",
     "fact_id": "c3_harrier_jet",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -9343,14 +9427,17 @@
       }
     ],
     "explanation_simple": "The Harrier jump jet, an aircraft capable of vertical take-off, was designed and developed in the UK.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_mri_single_a",
     "fact_id": "c3_mri",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -9385,49 +9472,55 @@
       }
     ],
     "explanation_simple": "Sir Peter Mansfield co-invented the MRI (magnetic resonance imaging) scanner.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
-    "item_id": "c3_higgs_single_a",
-    "fact_id": "c3_peter_higgs",
+    "item_id": "c3_lovell_single_a",
+    "fact_id": "c3_lovell_jodrell_bank",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
       "section": "Britain since 1945",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Confirm the handbook mentions Higgs. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "Professor Peter Higgs is known for his work predicting the existence of what?",
+    "question_text": "The radio telescope built by Sir Bernard Lovell, for many years the biggest in the world, is at which place in Cheshire?",
     "options": [
       {
         "id": "a",
-        "text": "A new particle, the Higgs boson",
+        "text": "Jodrell Bank",
         "is_correct": true
       },
       {
         "id": "b",
-        "text": "The structure of DNA",
+        "text": "Bletchley Park",
         "is_correct": false
       },
       {
         "id": "c",
-        "text": "A new planet",
+        "text": "Greenwich",
         "is_correct": false
       },
       {
         "id": "d",
-        "text": "A cure for cancer",
+        "text": "Kew",
         "is_correct": false
       }
     ],
-    "explanation_simple": "Professor Peter Higgs predicted the Higgs boson particle. Its existence was confirmed in 2012.",
-    "review": {}
+    "explanation_simple": "Working with radar led Sir Bernard Lovell to new discoveries in astronomy. His radio telescope at Jodrell Bank in Cheshire still operates today.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -12114,7 +12207,7 @@
     "item_id": "c3_turing_tf_b",
     "fact_id": "c3_alan_turing",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -12139,14 +12232,17 @@
       }
     ],
     "explanation_simple": "Alan Turing developed the 'Turing machine' in the 1930s, a theoretical model that helped lead to modern computers.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_whittle_tf_b",
     "fact_id": "c3_jet_engine",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -12171,14 +12267,17 @@
       }
     ],
     "explanation_simple": "Sir Frank Whittle, a British RAF engineer, developed the jet engine in the 1930s.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_baird_tf_b",
     "fact_id": "c3_television",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -12203,7 +12302,10 @@
       }
     ],
     "explanation_simple": "John Logie Baird developed television in the 1920s. In 1932 he made the first TV broadcast between London and Glasgow.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -12280,7 +12382,7 @@
     "item_id": "c3_beveridge_tf_b",
     "fact_id": "c3_beveridge_report",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -12305,7 +12407,10 @@
       }
     ],
     "explanation_simple": "The Beveridge Report identified five 'Giant Evils' and became the basis of the modern welfare state.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -12347,7 +12452,7 @@
     "item_id": "c3_dolly_tf_b",
     "fact_id": "c3_dolly_the_sheep",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -12358,7 +12463,7 @@
     },
     "question_type": "true_false",
     "selections_required": 1,
-    "question_text": "Is the following statement TRUE or FALSE? Dolly the sheep, the first mammal cloned from an adult cell, was produced in Edinburgh.",
+    "question_text": "Is the following statement TRUE or FALSE? Dolly the sheep was the first mammal to be successfully cloned.",
     "options": [
       {
         "id": "a",
@@ -12371,15 +12476,18 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Dolly the sheep was cloned by scientists at the Roslin Institute near Edinburgh in 1996.",
-    "review": {}
+    "explanation_simple": "In 1996 a team led by two British scientists, Sir Ian Wilmut and Keith Campbell, succeeded in cloning Dolly the sheep.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_ivf_tf_b",
     "fact_id": "c3_ivf",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -12404,14 +12512,17 @@
       }
     ],
     "explanation_simple": "Sir Robert Edwards and Patrick Steptoe pioneered IVF. The first IVF baby was born in Oldham in 1978.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_berners_lee_tf_b",
     "fact_id": "c3_world_wide_web",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -12436,14 +12547,17 @@
       }
     ],
     "explanation_simple": "Sir Tim Berners-Lee invented the World Wide Web. Information was first transferred on it in December 1990.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_cockerell_tf_b",
     "fact_id": "c3_hovercraft",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -12468,14 +12582,17 @@
       }
     ],
     "explanation_simple": "Sir Christopher Cockerell invented the hovercraft in the 1950s.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_concorde_single_b",
     "fact_id": "c3_concorde",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -12510,14 +12627,17 @@
       }
     ],
     "explanation_simple": "Concorde was developed jointly by Britain and France. It first flew in 1969 and carried passengers from 1976 to 2003.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_falklands_tf_b",
     "fact_id": "c3_falklands_war",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -12542,7 +12662,10 @@
       }
     ],
     "explanation_simple": "Argentina invaded the Falkland Islands, a British overseas territory, in 1982. A British force was sent and the islands were recovered.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -12581,7 +12704,7 @@
     "item_id": "c3_blair_tf_b",
     "fact_id": "c3_tony_blair",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -12606,14 +12729,17 @@
       }
     ],
     "explanation_simple": "Tony Blair became Prime Minister in 1997 and was in office until 2007.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_coalition_tf_b",
     "fact_id": "c3_coalition_2010",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -12638,7 +12764,10 @@
       }
     ],
     "explanation_simple": "After the 2010 election, the Conservatives and the Liberal Democrats formed a coalition. David Cameron became Prime Minister.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -13320,7 +13449,7 @@
     "item_id": "c3_inventors_multi_a",
     "fact_id": "c3_television",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -13355,14 +13484,17 @@
       }
     ],
     "explanation_simple": "Baird developed television and Whittle the jet engine. Radar came from Robert Watson-Watt and the Web from Tim Berners-Lee.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_medical_discoveries_multi_a",
     "fact_id": "c3_fleming_penicillin",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -13397,14 +13529,17 @@
       }
     ],
     "explanation_simple": "Alexander Fleming discovered penicillin, and British scientists pioneered IVF. The steam engine and hovercraft are not medical.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_postwar_pms_multi_a",
     "fact_id": "c3_attlee",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -13439,14 +13574,17 @@
       }
     ],
     "explanation_simple": "Attlee (1945–51) and Blair (1997–2007) led Labour governments. Thatcher and Churchill were Conservatives.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_postwar_inventions_multi_a",
     "fact_id": "c3_hovercraft",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -13481,7 +13619,10 @@
       }
     ],
     "explanation_simple": "The hovercraft (1950s) and the World Wide Web (1990) were developed after 1945. The printing press and steam engine are far older.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -14060,21 +14201,21 @@
   },
   {
     "schema_version": 2,
-    "item_id": "c3_rationing_tf_a",
-    "fact_id": "c3_postwar_rationing",
+    "item_id": "c3_labour_shortage_tf_a",
+    "fact_id": "c3_postwar_migration",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
       "section": "Britain since 1945",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Confirm the handbook mentions rationing. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "true_false",
     "selections_required": 1,
-    "question_text": "Is the following statement TRUE or FALSE? Some rationing continued in Britain for several years after the Second World War ended.",
+    "question_text": "Is the following statement TRUE or FALSE? During the 1950s there was still a shortage of labour in the UK, so further immigration was encouraged.",
     "options": [
       {
         "id": "a",
@@ -14087,15 +14228,18 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Britain was exhausted economically after 1945, and rationing of some goods continued for years afterwards.",
-    "review": {}
+    "explanation_simple": "Industries advertised for workers from overseas. Centres were set up in the West Indies to recruit bus drivers, and firms sent agents to India and Pakistan to find workers.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_windrush_single_a",
     "fact_id": "c3_postwar_migration",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -14130,56 +14274,17 @@
       }
     ],
     "explanation_simple": "Labour shortages after the war led to people from the West Indies, India, Pakistan and later Bangladesh being encouraged to come and work in Britain.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_eec_single_a",
     "fact_id": "c3_eec_membership",
     "item_version": 1,
-    "status": "draft",
-    "source": {
-      "handbook_edition": "3",
-      "chapter_id": 3,
-      "section": "Britain since 1945",
-      "section_confirmed": true,
-      "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Handbook predates Brexit; decide how to word the second sentence. Confirm the section heading wording in the handbook"
-    },
-    "question_type": "single",
-    "selections_required": 1,
-    "question_text": "In which year did the UK join the European Economic Community (EEC)?",
-    "options": [
-      {
-        "id": "a",
-        "text": "1999",
-        "is_correct": false
-      },
-      {
-        "id": "b",
-        "text": "1973",
-        "is_correct": true
-      },
-      {
-        "id": "c",
-        "text": "1957",
-        "is_correct": false
-      },
-      {
-        "id": "d",
-        "text": "1945",
-        "is_correct": false
-      }
-    ],
-    "explanation_simple": "The UK joined the EEC in 1973. It left the European Union in 2020.",
-    "review": {}
-  },
-  {
-    "schema_version": 2,
-    "item_id": "c3_troubles_single_b",
-    "fact_id": "c3_the_troubles",
-    "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -14190,7 +14295,52 @@
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "What is the period of conflict in Northern Ireland that began at the end of the 1960s known as?",
+    "question_text": "In which year did West Germany, France, Belgium, Italy, Luxembourg and the Netherlands form the European Economic Community (EEC)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "1945",
+        "is_correct": false
+      },
+      {
+        "id": "b",
+        "text": "1957",
+        "is_correct": true
+      },
+      {
+        "id": "c",
+        "text": "1973",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "1993",
+        "is_correct": false
+      }
+    ],
+    "explanation_simple": "The EEC was formed in 1957 and became part of the European Union when the EU was formed in 1993. The UK formally left the EU on 31 January 2020.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
+  },
+  {
+    "schema_version": 2,
+    "item_id": "c3_troubles_single_b",
+    "fact_id": "c3_the_troubles",
+    "item_version": 1,
+    "status": "live",
+    "source": {
+      "handbook_edition": "3",
+      "chapter_id": 3,
+      "section": "Britain since 1945",
+      "section_confirmed": true,
+      "page_ref": [],
+      "reviewer_note": "Confirm the section heading wording in the handbook"
+    },
+    "question_type": "single",
+    "selections_required": 1,
+    "question_text": "What is the conflict in Northern Ireland, between those wanting full Irish independence and those loyal to the British government, often called?",
     "options": [
       {
         "id": "a",
@@ -14199,36 +14349,39 @@
       },
       {
         "id": "b",
-        "text": "The Restoration",
-        "is_correct": false
-      },
-      {
-        "id": "c",
         "text": "The Reformation",
         "is_correct": false
       },
       {
-        "id": "d",
+        "id": "c",
         "text": "The Clearances",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "The Restoration",
         "is_correct": false
       }
     ],
-    "explanation_simple": "Conflict in Northern Ireland from the late 1960s is known as the Troubles. More than 3,000 people lost their lives.",
-    "review": {}
+    "explanation_simple": "Some 3,000 people lost their lives in the decades after 1969 in the violence in Northern Ireland.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_thatcher_policies_single_a",
     "fact_id": "c3_thatcher",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
       "section": "Britain since 1945",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Confirm wording. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "single",
     "selections_required": 1,
@@ -14236,12 +14389,12 @@
     "options": [
       {
         "id": "a",
-        "text": "The UK joined the EEC",
+        "text": "Women first got the vote",
         "is_correct": false
       },
       {
         "id": "b",
-        "text": "The NHS was founded",
+        "text": "The EEC was formed",
         "is_correct": false
       },
       {
@@ -14251,19 +14404,22 @@
       },
       {
         "id": "d",
-        "text": "Women first got the vote",
+        "text": "The NHS was founded",
         "is_correct": false
       }
     ],
-    "explanation_simple": "Thatcher's government privatised nationalised industries and reduced the power of trade unions. The NHS (1948) and EEC entry (1973) came before.",
-    "review": {}
+    "explanation_simple": "Her government privatised nationalised industries and imposed legal controls on trade union powers. The NHS (1948), the EEC (1957) and votes for women all came earlier.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_cameron_single_a",
     "fact_id": "c3_coalition_2010",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -14298,14 +14454,17 @@
       }
     ],
     "explanation_simple": "David Cameron, leader of the Conservatives, became Prime Minister of a coalition with the Liberal Democrats in 2010.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c3_british_inventions_multi_b",
     "fact_id": "c3_cash_machine",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -14340,6 +14499,9 @@
       }
     ],
     "explanation_simple": "The cash machine (James Goodfellow) and the MRI scanner (Peter Mansfield) both came from the UK.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   }
 ]

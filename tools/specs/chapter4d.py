@@ -9,14 +9,16 @@ LEI = "Leisure"
 PLA = "Places of interest"
 
 ITEMS = [
-    dict(id="c4_dialects_multi_c", fact="c4_dialects", sec=TODAY, t="multi",
-         q="Which TWO regional dialects are correctly matched to their area?",
-         c=["Scouse: Liverpool", "Geordie: Tyneside"], w=["Cockney: Glasgow", "Geordie: Cardiff"],
-         e="Scouse is from Liverpool, Geordie from Tyneside and Cockney from London."),
+    dict(id="c4_notes_multi_a", fact="c4_currency_denominations", sec=TODAY, t="multi",
+         q='Which TWO of these are UK banknotes?',
+         c=['£5', '£50'],
+         w=['£2', '£1'],
+         e='UK notes are £5, £10, £20 and £50. Coins are 1p, 2p, 5p, 10p, 20p, 50p, £1 and £2.'),
     dict(id="c4_capitals_multi_d", fact="c4_capital_cities", sec=TODAY, t="multi",
-         q="Which TWO capital cities are correctly matched?",
-         c=["Scotland: Edinburgh", "Wales: Cardiff"], w=["Northern Ireland: Dublin", "England: Manchester"],
-         e="The capitals are London, Edinburgh, Cardiff and Belfast. Dublin is the capital of the Republic of Ireland."),
+         q='Which TWO capital cities are correctly matched?',
+         c=['Scotland: Edinburgh', 'Wales: Cardiff'],
+         w=['Northern Ireland: Dublin', 'England: Manchester'],
+         e='The capital of the UK is London. Edinburgh is the capital of Scotland, Cardiff of Wales and Belfast of Northern Ireland.'),
     dict(id="c4_ageing_tf_a", fact="c4_ageing_population", sec=TODAY, t="tf",
          q="The UK has an ageing population, with more people aged 85 and over than ever before.", c=[True],
          e="People in the UK are living longer than ever, partly because of better living standards and healthcare.",
