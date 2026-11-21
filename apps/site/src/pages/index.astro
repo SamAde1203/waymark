@@ -7,7 +7,8 @@ import Base from "../layouts/Base.astro";
   description="Free Life in the UK practice test with explanations. Original questions with every answer traced to its section of the official handbook, a study plan built around your test date, and one price with no subscription."
 >
   <section class="hero">
-    <div class="wrap">
+    <div class="wrap hero-grid">
+      <div class="hero-copy">
       <h1>Pass the Life in the UK test, one marked step at a time.</h1>
       <p class="lead">
         Original practice questions with every answer traced to its handbook section, a study plan built around your
@@ -21,6 +22,19 @@ import Base from "../layouts/Base.astro";
         Waymark is an independent study app. It is not affiliated with or endorsed by the UK Government, the Home Office,
         PSI or TSO.
       </p>
+      </div>
+      <figure class="hero-art">
+        <img
+          src="/hero-phones-800.webp"
+          srcset="/hero-phones-800.webp 800w, /hero-phones.webp 1600w"
+          sizes="(min-width: 900px) 480px, 92vw"
+          width="800"
+          height="760"
+          alt="Two phones showing the same Waymark practice question with its explanation in English, and underneath in Polish on one phone and in Chinese on the other."
+          fetchpriority="high"
+        />
+        <figcaption>Explanations in English, <a href="/pl" lang="pl">Polski</a> and <a href="/zh" lang="zh-Hans">中文</a></figcaption>
+      </figure>
     </div>
   </section>
 

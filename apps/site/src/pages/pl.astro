@@ -1,0 +1,74 @@
+---
+import Base from "../layouts/Base.astro";
+---
+
+<Base
+  title="Waymark – test Life in the UK z wyjaśnieniami po polsku"
+  description="Darmowe pytania próbne do testu Life in the UK. Każda odpowiedź sprawdzona z oficjalnym podręcznikiem, a wyjaśnienia przeczytasz także po polsku."
+  ogImage="/og-pl.jpg"
+  lang="pl"
+>
+  <section class="hero">
+    <div class="wrap hero-grid">
+      <div class="hero-copy">
+        <h1>Przygotuj się do testu Life in the UK – z wyjaśnieniami po polsku</h1>
+        <p class="lead">
+          Pytania są po angielsku, tak jak na prawdziwym teście. Po każdej odpowiedzi zobaczysz wyjaśnienie po angielsku
+          i po polsku.
+        </p>
+        <div class="actions">
+          <a class="btn" href="/app/?explain=pl">Zacznij za darmo</a>
+          <a class="btn secondary" href="/practice-test">Darmowy test próbny (po angielsku)</a>
+        </div>
+        <p class="independent-note">
+          Waymark jest niezależną aplikacją do nauki. Nie jest powiązany z rządem Wielkiej Brytanii, Home Office, PSI ani
+          TSO ani przez nie zatwierdzony.
+        </p>
+      </div>
+      <figure class="hero-art">
+        <img
+          src="/hero-phones-800.webp"
+          srcset="/hero-phones-800.webp 800w, /hero-phones.webp 1600w"
+          sizes="(min-width: 900px) 480px, 92vw"
+          width="800"
+          height="760"
+          alt="Dwa telefony z tym samym pytaniem w aplikacji Waymark; pod angielskim wyjaśnieniem widać tłumaczenie na polski i na chiński."
+          fetchpriority="high"
+        />
+      </figure>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <h2>Dlaczego Waymark</h2>
+      <div class="cards">
+        <div class="card">
+          <h3>Każda odpowiedź sprawdzona</h3>
+          <p>
+            Każde pytanie zostało sprawdzone z oficjalnym podręcznikiem (3. wydanie) i podaje rozdział, z którego
+            pochodzi.
+          </p>
+        </div>
+        <div class="card">
+          <h3>Plan nauki do dnia testu</h3>
+          <p>
+            Podaj datę testu, a Waymark ułoży codzienny plan i będzie powtarzać to, co zaczynasz zapominać.
+          </p>
+        </div>
+        <div class="card">
+          <h3>Jedna cena, bez subskrypcji</h3>
+          <p>Rozdziały 1 i 2 oraz jeden egzamin próbny są za darmo. Pełny dostęp kosztuje £9.99 jednorazowo.</p>
+        </div>
+      </div>
+      <p>
+        <strong>Jak włączyć polski:</strong> przycisk „Zacznij za darmo” włącza go od razu. Możesz to też zmienić w
+        aplikacji: Settings → Explanations in your language → Polski.
+      </p>
+      <p class="note">
+        Tłumaczenia przygotowano z pomocą AI; oficjalna jest wersja angielska. Test Life in the UK zdaje się po
+        angielsku.
+      </p>
+    </div>
+  </section>
+</Base>

@@ -1,0 +1,62 @@
+---
+import Base from "../layouts/Base.astro";
+---
+
+<Base
+  title="Waymark：Life in the UK 考试练习，配中文解释"
+  description="免费的 Life in the UK 考试练习题。每个答案都对照官方手册核实，解释也可以用中文阅读。"
+  ogImage="/og-zh.jpg"
+  lang="zh-Hans"
+>
+  <section class="hero">
+    <div class="wrap hero-grid">
+      <div class="hero-copy">
+        <h1>备考 Life in the UK 考试——配中文解释</h1>
+        <p class="lead">题目保持英文，和真实考试一样。每答一题，你都会看到英文解释和中文翻译。</p>
+        <div class="actions">
+          <a class="btn" href="/app/?explain=zh">免费开始</a>
+          <a class="btn secondary" href="/practice-test">免费模拟测试（英文）</a>
+        </div>
+        <p class="independent-note">
+          Waymark 是独立的学习应用，与英国政府、内政部（Home Office）、PSI 或 TSO 没有关联，也未获得它们的认可。
+        </p>
+      </div>
+      <figure class="hero-art">
+        <img
+          src="/hero-phones-800.webp"
+          srcset="/hero-phones-800.webp 800w, /hero-phones.webp 1600w"
+          sizes="(min-width: 900px) 480px, 92vw"
+          width="800"
+          height="760"
+          alt="两部手机显示 Waymark 中的同一道题，英文解释下方分别显示中文和波兰语翻译。"
+          fetchpriority="high"
+        />
+      </figure>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <h2>为什么选择 Waymark</h2>
+      <div class="cards">
+        <div class="card">
+          <h3>每个答案都经过核实</h3>
+          <p>每道题都对照官方手册（第 3 版）核实，并注明出自哪一章节。</p>
+        </div>
+        <div class="card">
+          <h3>按考试日期制定学习计划</h3>
+          <p>输入你的考试日期，Waymark 会制定每日学习计划，并在你快要忘记时安排复习。</p>
+        </div>
+        <div class="card">
+          <h3>一次付费，无需订阅</h3>
+          <p>第 1、2 章和一次模拟考试免费。完整版一次性付费 £9.99。</p>
+        </div>
+      </div>
+      <p>
+        <strong>如何开启中文：</strong>点击“免费开始”会自动开启。你也可以在应用中设置：Settings → Explanations in
+        your language → 中文（简体）。
+      </p>
+      <p class="note">中文翻译由 AI 辅助完成，以英文原文为准。Life in the UK 考试使用英语进行。</p>
+    </div>
+  </section>
+</Base>

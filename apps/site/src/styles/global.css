@@ -172,6 +172,31 @@ h2 {
   padding: 64px 0 48px;
   background: linear-gradient(180deg, var(--emerald-tint), #fff);
 }
+.hero-grid {
+  display: grid;
+  gap: 24px;
+  align-items: center;
+}
+.hero-art {
+  margin: 0;
+  text-align: center;
+}
+.hero-art img {
+  width: 100%;
+  max-width: 480px;
+  height: auto;
+}
+.hero-art figcaption {
+  font-size: 0.95rem;
+  color: var(--ink-2);
+  margin-top: 4px;
+}
+@media (min-width: 900px) {
+  .hero-grid {
+    grid-template-columns: 1.1fr 1fr;
+    gap: 40px;
+  }
+}
 .hero p.lead {
   font-size: 1.2rem;
   color: var(--ink-2);
