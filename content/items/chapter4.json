@@ -299,7 +299,7 @@
     "item_id": "c4_population_share_single_a",
     "fact_id": "c4_population_share",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -334,7 +334,10 @@
       }
     ],
     "explanation_simple": "About 84% of the UK population lives in England, about 8% in Scotland, about 5% in Wales and under 3% in Northern Ireland.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -431,7 +434,7 @@
     "item_id": "c4_women_work_tf_a",
     "fact_id": "c4_women_workforce",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -456,14 +459,17 @@
       }
     ],
     "explanation_simple": "Women make up about half of the UK workforce, and the law gives men and women equal rights at work.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_coe_head_single_a",
     "fact_id": "c4_coe_supreme_governor",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -474,11 +480,11 @@
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "Who is the head (Supreme Governor) of the Church of England?",
+    "question_text": "Who is the head of the Church of England?",
     "options": [
       {
         "id": "a",
-        "text": "The Pope",
+        "text": "The Archbishop of Canterbury",
         "is_correct": false
       },
       {
@@ -493,19 +499,22 @@
       },
       {
         "id": "d",
-        "text": "The Archbishop of Canterbury",
+        "text": "The Pope",
         "is_correct": false
       }
     ],
-    "explanation_simple": "The monarch is the Supreme Governor of the Church of England. The Archbishop of Canterbury is its spiritual leader.",
-    "review": {}
+    "explanation_simple": "The monarch is the head of the Church of England. The Archbishop of Canterbury is its spiritual leader.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_coe_spiritual_single_b",
     "fact_id": "c4_coe_archbishop",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -520,12 +529,12 @@
     "options": [
       {
         "id": "a",
-        "text": "The Moderator of the General Assembly",
+        "text": "The Archbishop of York",
         "is_correct": false
       },
       {
         "id": "b",
-        "text": "The monarch",
+        "text": "The Moderator of the General Assembly",
         "is_correct": false
       },
       {
@@ -535,19 +544,22 @@
       },
       {
         "id": "d",
-        "text": "The Archbishop of York",
+        "text": "The monarch",
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Archbishop of Canterbury is the spiritual leader of the Church of England; the monarch is its Supreme Governor.",
-    "review": {}
+    "explanation_simple": "The Archbishop of Canterbury is the spiritual leader of the Church of England. The monarch is its head.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_coe_protestant_tf_a",
     "fact_id": "c4_coe_protestant",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -572,14 +584,17 @@
       }
     ],
     "explanation_simple": "The Church of England, also called the Anglican Church, is a Protestant church and has existed since the 1530s.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_coe_bishops_single_a",
     "fact_id": "c4_senior_church_appointments",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -590,38 +605,41 @@
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "Who selects the Archbishop and other senior church officials of the Church of England?",
+    "question_text": "The monarch has the right to select the Archbishop of Canterbury. Who usually makes the choice?",
     "options": [
       {
         "id": "a",
-        "text": "The monarch, on the advice of the Prime Minister",
+        "text": "The Prime Minister and a committee appointed by the Church",
         "is_correct": true
       },
       {
         "id": "b",
-        "text": "The House of Commons",
+        "text": "The Pope",
         "is_correct": false
       },
       {
         "id": "c",
-        "text": "Church members, by a national vote",
+        "text": "The House of Commons",
         "is_correct": false
       },
       {
         "id": "d",
-        "text": "The Pope",
+        "text": "Church members, by a national vote",
         "is_correct": false
       }
     ],
-    "explanation_simple": "The monarch selects the Archbishop and other senior church officials on the advice of the Prime Minister and a church committee.",
-    "review": {}
+    "explanation_simple": "The monarch has the right to select the Archbishop and other senior church officials, but usually the choice is made by the Prime Minister and a committee appointed by the Church.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_cos_presbyterian_single_a",
     "fact_id": "c4_church_of_scotland",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -656,14 +674,17 @@
       }
     ],
     "explanation_simple": "The Church of Scotland is a Presbyterian church, governed by ministers and elders.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_moderator_single_a",
     "fact_id": "c4_moderator",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -698,14 +719,17 @@
       }
     ],
     "explanation_simple": "The chairperson of the General Assembly is the Moderator, who is appointed for one year only.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_no_established_church_tf_a",
     "fact_id": "c4_no_established_church_wales_ni",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -730,14 +754,17 @@
       }
     ],
     "explanation_simple": "There is no established church in Wales or Northern Ireland.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_patron_wales_single_a",
     "fact_id": "c4_patron_saint_wales",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -776,14 +803,17 @@
     ],
     "explanation_simple": "St David's Day is 1 March. The others are St Patrick (17 March), St George (23 April) and St Andrew (30 November).",
     "memory_tip": "In calendar order: David, Patrick, George, Andrew.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_patron_scotland_single_a",
     "fact_id": "c4_patron_saint_scotland",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -818,14 +848,17 @@
       }
     ],
     "explanation_simple": "St Andrew's Day is 30 November.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_patron_england_single_a",
     "fact_id": "c4_patron_saint_england",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -860,14 +893,17 @@
       }
     ],
     "explanation_simple": "St George is the patron saint of England; his day is 23 April.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_patron_ni_single_a",
     "fact_id": "c4_patron_saint_ni",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -902,14 +938,17 @@
       }
     ],
     "explanation_simple": "St Patrick, the patron saint of Northern Ireland, is celebrated on 17 March.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_patron_holidays_multi_a",
     "fact_id": "c4_patron_saint_holidays",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -944,14 +983,17 @@
       }
     ],
     "explanation_simple": "Only Scotland and Northern Ireland have their patron saint's day as an official holiday.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_census_christian_single_a",
     "fact_id": "c4_religion_census",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -986,14 +1028,17 @@
       }
     ],
     "explanation_simple": "In the 2011 Census, about 59% identified as Christian. About a quarter said they had no religion.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_christmas_single_a",
     "fact_id": "c4_christmas",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -1028,14 +1073,17 @@
       }
     ],
     "explanation_simple": "Christmas Day, 25 December, celebrates the birth of Jesus Christ. It is a public holiday.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_boxing_day_single_a",
     "fact_id": "c4_boxing_day",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -1070,14 +1118,17 @@
       }
     ],
     "explanation_simple": "Boxing Day is the day after Christmas Day and is a public holiday.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_easter_tf_a",
     "fact_id": "c4_easter",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -1102,14 +1153,17 @@
       }
     ],
     "explanation_simple": "Good Friday marks the death of Jesus Christ and Easter Sunday his rising from the dead.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_lent_single_a",
     "fact_id": "c4_lent",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -1144,14 +1198,17 @@
       }
     ],
     "explanation_simple": "Lent is the 40 days before Easter. The day before Lent starts is Shrove Tuesday, known as Pancake Day.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_pancake_single_a",
     "fact_id": "c4_shrove_tuesday",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -1186,14 +1243,17 @@
       }
     ],
     "explanation_simple": "Shrove Tuesday, the day before Lent starts, is known as Pancake Day.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_diwali_single_a",
     "fact_id": "c4_diwali",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -1228,14 +1288,17 @@
       }
     ],
     "explanation_simple": "Diwali is celebrated by Hindus and Sikhs. There is a famous celebration in Leicester.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_diwali_city_single_b",
     "fact_id": "c4_diwali_leicester",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -1270,14 +1333,17 @@
       }
     ],
     "explanation_simple": "Leicester is famous for its Diwali celebrations.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_hanukkah_single_a",
     "fact_id": "c4_hanukkah",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -1312,14 +1378,17 @@
       }
     ],
     "explanation_simple": "Hanukkah is a Jewish festival lasting eight days, during which candles are lit on a stand called a menorah.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_eid_single_a",
     "fact_id": "c4_eid_al_fitr",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -1354,14 +1423,17 @@
       }
     ],
     "explanation_simple": "Eid al-Fitr celebrates the end of Ramadan, when Muslims have fasted for a month.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_vaisakhi_single_a",
     "fact_id": "c4_vaisakhi",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -1396,14 +1468,17 @@
       }
     ],
     "explanation_simple": "Vaisakhi is a Sikh festival that celebrates the founding of the Sikh community known as the Khalsa.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_hogmanay_single_a",
     "fact_id": "c4_hogmanay",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -1438,14 +1513,17 @@
       }
     ],
     "explanation_simple": "New Year's Eve, 31 December, is called Hogmanay in Scotland.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_valentine_single_a",
     "fact_id": "c4_valentines_day",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -1480,14 +1558,17 @@
       }
     ],
     "explanation_simple": "Valentine's Day is 14 February, when lovers exchange cards and gifts.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_april_fool_single_a",
     "fact_id": "c4_april_fools",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -1522,14 +1603,17 @@
       }
     ],
     "explanation_simple": "April Fool's Day is 1 April. People play jokes on each other until midday.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_mothering_sunday_single_a",
     "fact_id": "c4_mothering_sunday",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -1564,14 +1648,17 @@
       }
     ],
     "explanation_simple": "Mothering Sunday is the Sunday three weeks before Easter.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_fathers_day_single_a",
     "fact_id": "c4_fathers_day",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -1606,14 +1693,17 @@
       }
     ],
     "explanation_simple": "Father's Day is the third Sunday in June.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_halloween_single_a",
     "fact_id": "c4_halloween",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -1648,14 +1738,17 @@
       }
     ],
     "explanation_simple": "Halloween is 31 October. Its origins lie in an ancient pagan festival marking the beginning of winter.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_bonfire_single_a",
     "fact_id": "c4_bonfire_night",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -1666,16 +1759,16 @@
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "Bonfire Night on 5 November remembers what event?",
+    "question_text": "Bonfire Night on 5 November has its origin in which event?",
     "options": [
       {
         "id": "a",
-        "text": "The Battle of Hastings",
+        "text": "The end of the Second World War",
         "is_correct": false
       },
       {
         "id": "b",
-        "text": "The end of the Second World War",
+        "text": "The Battle of Hastings",
         "is_correct": false
       },
       {
@@ -1685,20 +1778,22 @@
       },
       {
         "id": "d",
-        "text": "A failed plot to blow up the Houses of Parliament in 1605",
+        "text": "A failed plan in 1605 to kill the Protestant king with a bomb in the Houses of Parliament",
         "is_correct": true
       }
     ],
-    "explanation_simple": "On 5 November 1605 a group of Catholics, including Guy Fawkes, failed in a plot to kill the Protestant king with a bomb in the Houses of Parliament.",
-    "memory_tip": "Remember, remember the fifth of November.",
-    "review": {}
+    "explanation_simple": "In 1605 a group of Catholics led by Guy Fawkes failed in their plan to kill the Protestant king with a bomb in the Houses of Parliament.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_remembrance_single_a",
     "fact_id": "c4_remembrance_day",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -1733,14 +1828,17 @@
       }
     ],
     "explanation_simple": "Remembrance Day honours those who died fighting for the UK. People wear poppies and there is a two-minute silence at 11 am.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_remembrance_silence_tf_b",
     "fact_id": "c4_remembrance_silence",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -1765,14 +1863,17 @@
       }
     ],
     "explanation_simple": "A two-minute silence is held at 11 am on 11 November.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_football_popular_single_a",
     "fact_id": "c4_football_most_popular",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -1807,14 +1908,17 @@
       }
     ],
     "explanation_simple": "Football is the UK's most popular sport, and England, Scotland, Wales and Northern Ireland each have their own national team.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_wimbledon_single_a",
     "fact_id": "c4_wimbledon",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -1839,24 +1943,27 @@
       },
       {
         "id": "c",
-        "text": "The Australian Open",
+        "text": "The French Open",
         "is_correct": false
       },
       {
         "id": "d",
-        "text": "The French Open",
+        "text": "The Australian Open",
         "is_correct": false
       }
     ],
-    "explanation_simple": "Wimbledon, held in London each summer, is the oldest tennis tournament in the world.",
-    "review": {}
+    "explanation_simple": "The Wimbledon Championships take place each year at the All England Lawn Tennis and Croquet Club. It is the oldest tennis tournament in the world.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_first_tennis_club_single_a",
     "fact_id": "c4_first_tennis_club",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -1891,14 +1998,17 @@
       }
     ],
     "explanation_simple": "The first tennis club was founded in Leamington Spa in 1872.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_golf_single_a",
     "fact_id": "c4_golf_home",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -1933,14 +2043,17 @@
       }
     ],
     "explanation_simple": "The modern game of golf can be traced back to 15th-century Scotland. St Andrews is known as the home of golf.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_grand_national_single_a",
     "fact_id": "c4_grand_national",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -1975,14 +2088,17 @@
       }
     ],
     "explanation_simple": "The Grand National is run at Aintree. The Scottish Grand National is at Ayr, and Royal Ascot is a famous five-day meeting in Berkshire.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_ashes_single_a",
     "fact_id": "c4_ashes",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -2017,14 +2133,17 @@
       }
     ],
     "explanation_simple": "The Ashes is a famous series of cricket matches between England and Australia.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_olympics_years_multi_a",
     "fact_id": "c4_olympics_hosted",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -2035,11 +2154,11 @@
     },
     "question_type": "multi",
     "selections_required": 2,
-    "question_text": "London has hosted the Olympic Games three times. Which TWO of these years are among them?",
+    "question_text": "The UK has hosted the Olympic Games three times. Which TWO of these years are among them?",
     "options": [
       {
         "id": "a",
-        "text": "2012",
+        "text": "1948",
         "is_correct": true
       },
       {
@@ -2054,19 +2173,22 @@
       },
       {
         "id": "d",
-        "text": "1948",
+        "text": "2012",
         "is_correct": true
       }
     ],
-    "explanation_simple": "The UK hosted the Olympic Games in 1908, 1948 and 2012, all in London.",
-    "review": {}
+    "explanation_simple": "The UK has hosted the Olympic Games on three occasions: 1908, 1948 and 2012.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_olympics_2012_site_single_b",
     "fact_id": "c4_olympics_2012_site",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -2101,14 +2223,17 @@
       }
     ],
     "explanation_simple": "The main Olympic site in 2012 was in Stratford, east London.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_paralympics_origin_single_a",
     "fact_id": "c4_paralympics_origin",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -2128,29 +2253,32 @@
       },
       {
         "id": "b",
-        "text": "St Thomas'",
-        "is_correct": false
-      },
-      {
-        "id": "c",
         "text": "Addenbrooke's",
         "is_correct": false
       },
       {
-        "id": "d",
+        "id": "c",
         "text": "Great Ormond Street",
+        "is_correct": false
+      },
+      {
+        "id": "d",
+        "text": "St Thomas'",
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Paralympics developed from work by Dr Sir Ludwig Guttmann at the Stoke Mandeville hospital in Buckinghamshire.",
-    "review": {}
+    "explanation_simple": "The Paralympics have their origin in the work of Dr Sir Ludwig Guttman, a German refugee, at the Stoke Mandeville hospital in Buckinghamshire.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_bannister_single_a",
     "fact_id": "c4_roger_bannister",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -2185,14 +2313,17 @@
       }
     ],
     "explanation_simple": "In 1954 Sir Roger Bannister became the first man in the world to run a mile in under four minutes.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_bobby_moore_single_a",
     "fact_id": "c4_bobby_moore",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -2227,14 +2358,17 @@
       }
     ],
     "explanation_simple": "Bobby Moore captained England to victory in the 1966 World Cup.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_redgrave_single_a",
     "fact_id": "c4_steve_redgrave",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -2269,14 +2403,17 @@
       }
     ],
     "explanation_simple": "Sir Steve Redgrave won rowing gold medals at five consecutive Olympic Games.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_ellen_macarthur_single_a",
     "fact_id": "c4_ellen_macarthur",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -2311,14 +2448,17 @@
       }
     ],
     "explanation_simple": "In 2004 Dame Ellen MacArthur became the fastest person to sail around the world single-handed.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_wiggins_single_a",
     "fact_id": "c4_bradley_wiggins",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -2353,14 +2493,17 @@
       }
     ],
     "explanation_simple": "Bradley Wiggins won the Tour de France in 2012, the first Briton to do so. He also won Olympic gold medals.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_mo_farah_single_a",
     "fact_id": "c4_mo_farah",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -2395,14 +2538,17 @@
       }
     ],
     "explanation_simple": "Mo Farah, a British distance runner born in Somalia, won the 10,000 metres at the 2012 Olympics, the first Briton to do so. He also won the 5,000 metres.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_ennis_single_a",
     "fact_id": "c4_jessica_ennis",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -2437,14 +2583,17 @@
       }
     ],
     "explanation_simple": "Jessica Ennis won the gold medal in the heptathlon, which includes seven different track and field events.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_andy_murray_single_a",
     "fact_id": "c4_andy_murray",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -2479,14 +2628,17 @@
       }
     ],
     "explanation_simple": "Andy Murray, a Scottish tennis player, was the first British man to win a singles title in a Grand Slam tournament since 1936.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_jackie_stewart_single_a",
     "fact_id": "c4_jackie_stewart",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -2521,39 +2673,42 @@
       }
     ],
     "explanation_simple": "Sir Jackie Stewart is a Scottish former racing driver who won the Formula 1 world championship three times.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_proms_single_a",
     "fact_id": "c4_proms",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
       "section": "Arts and culture",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Years 1895 and 1927. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "Where are the Proms, an eight-week summer season of orchestral concerts, held?",
+    "question_text": "The Proms take place in various venues, including which famous London concert hall?",
     "options": [
       {
         "id": "a",
-        "text": "The Royal Albert Hall in London",
+        "text": "The Royal Albert Hall",
         "is_correct": true
       },
       {
         "id": "b",
-        "text": "Wembley Stadium",
+        "text": "The Royal Festival Hall",
         "is_correct": false
       },
       {
         "id": "c",
-        "text": "The Royal Festival Hall",
+        "text": "Wembley Stadium",
         "is_correct": false
       },
       {
@@ -2562,8 +2717,11 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Proms have been held since 1895 and are staged at the Royal Albert Hall in London. They have been organised by the BBC since 1927.",
-    "review": {}
+    "explanation_simple": "The Proms is an eight-week summer season of orchestral classical music. It has been organised by the BBC since 1927, and the Last Night of the Proms is the best-known concert.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -4394,7 +4552,7 @@
     "item_id": "c4_population_tf_b",
     "fact_id": "c4_population_share",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -4419,14 +4577,17 @@
       }
     ],
     "explanation_simple": "About 84% of the UK population lives in England. Scotland, Wales and Northern Ireland together have about 16%.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_patron_dates_multi_b",
     "fact_id": "c4_patron_saint_dates",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -4461,14 +4622,17 @@
       }
     ],
     "explanation_simple": "St David 1 March, St Patrick 17 March, St George 23 April, St Andrew 30 November.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_coe_monarch_tf_b",
     "fact_id": "c4_coe_supreme_governor",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -4492,15 +4656,18 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The monarch is the Supreme Governor of the Church of England; the Archbishop of Canterbury is its spiritual leader.",
-    "review": {}
+    "explanation_simple": "The monarch is the head of the Church of England, and the Archbishop of Canterbury is its spiritual leader.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_other_christian_multi_a",
     "fact_id": "c4_other_christian_groups",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -4535,14 +4702,17 @@
       }
     ],
     "explanation_simple": "Other Christian groups in the UK include Roman Catholics, Baptists, Methodists, Presbyterians and Quakers.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_christmas_customs_multi_a",
     "fact_id": "c4_christmas_customs",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -4577,14 +4747,17 @@
       }
     ],
     "explanation_simple": "Christmas traditions include a special meal (often turkey), Christmas pudding, mince pies, cards and decorated trees. Children believe Father Christmas brings presents.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_father_christmas_tf_a",
     "fact_id": "c4_father_christmas",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -4609,14 +4782,17 @@
       }
     ],
     "explanation_simple": "Father Christmas, also known as Santa Claus, is said to bring presents to children on the night before Christmas.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_easter_eggs_tf_b",
     "fact_id": "c4_easter_eggs",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -4641,14 +4817,17 @@
       }
     ],
     "explanation_simple": "Easter eggs, a symbol of new life, are often given at Easter, usually made of chocolate.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_bank_holiday_single_a",
     "fact_id": "c4_bank_holidays",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -4659,7 +4838,7 @@
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "What are public holidays in the UK called?",
+    "question_text": "What are the public holidays at the beginning of May, in late May or early June, and in August called?",
     "options": [
       {
         "id": "a",
@@ -4668,7 +4847,7 @@
       },
       {
         "id": "b",
-        "text": "Free days",
+        "text": "Feast days",
         "is_correct": false
       },
       {
@@ -4678,19 +4857,22 @@
       },
       {
         "id": "d",
-        "text": "Feast days",
+        "text": "Free days",
         "is_correct": false
       }
     ],
-    "explanation_simple": "Public holidays are called bank holidays because banks and many other businesses close. They include New Year's Day, Good Friday, Easter Monday and Christmas.",
-    "review": {}
+    "explanation_simple": "On bank holidays, banks and many other businesses close for the day. They have no religious significance.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_halloween_tf_b",
     "fact_id": "c4_halloween",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -4715,14 +4897,17 @@
       }
     ],
     "explanation_simple": "At Halloween, on 31 October, young people often dress up in frightening costumes and go 'trick or treating'.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_bonfire_date_single_b",
     "fact_id": "c4_bonfire_night",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -4733,7 +4918,7 @@
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "On which date is Bonfire Night celebrated?",
+    "question_text": "On which date is Bonfire Night?",
     "options": [
       {
         "id": "a",
@@ -4742,7 +4927,7 @@
       },
       {
         "id": "b",
-        "text": "1 April",
+        "text": "11 November",
         "is_correct": false
       },
       {
@@ -4752,19 +4937,22 @@
       },
       {
         "id": "d",
-        "text": "11 November",
+        "text": "1 April",
         "is_correct": false
       }
     ],
-    "explanation_simple": "Bonfire Night, 5 November, remembers the failed Gunpowder Plot of 1605.",
-    "review": {}
+    "explanation_simple": "On Bonfire Night, 5 November, people set off fireworks. It began with a failed plan by Guy Fawkes and others in 1605.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_remembrance_date_single_c",
     "fact_id": "c4_remembrance_day",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -4799,14 +4987,17 @@
       }
     ],
     "explanation_simple": "Remembrance Day, 11 November, remembers those who died fighting for the UK and its allies.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_poppy_reason_single_d",
     "fact_id": "c4_poppy_meaning",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -4841,14 +5032,17 @@
       }
     ],
     "explanation_simple": "People wear red poppies, the flowers that grew on the battlefields of the First World War.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_cricket_origin_tf_a",
     "fact_id": "c4_cricket",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -4859,7 +5053,7 @@
     },
     "question_type": "true_false",
     "selections_required": 1,
-    "question_text": "Is the following statement TRUE or FALSE? Cricket originated in England, and matches can last up to five days.",
+    "question_text": "Is the following statement TRUE or FALSE? Cricket originated in England, and games can last up to five days.",
     "options": [
       {
         "id": "a",
@@ -4872,15 +5066,18 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Cricket originated in England and is now played in many Commonwealth countries. Games can last up to five days.",
-    "review": {}
+    "explanation_simple": "Cricket originated in England and is now played in many countries. Games can last up to five days but still result in a draw.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_rugby_origin_single_a",
     "fact_id": "c4_rugby",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -4915,14 +5112,17 @@
       }
     ],
     "explanation_simple": "Rugby originated in England in the early 19th century. There are two types: rugby union and rugby league.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_six_nations_single_a",
     "fact_id": "c4_six_nations",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -4957,14 +5157,17 @@
       }
     ],
     "explanation_simple": "The Six Nations Championship is an annual rugby union competition between England, Scotland, Wales, Ireland, France and Italy.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_premier_league_single_a",
     "fact_id": "c4_premier_league",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -4975,7 +5178,7 @@
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "What is the name of England's top football league?",
+    "question_text": "Which English football league attracts a huge international audience?",
     "options": [
       {
         "id": "a",
@@ -4984,7 +5187,7 @@
       },
       {
         "id": "b",
-        "text": "The Ashes",
+        "text": "The Six Nations",
         "is_correct": false
       },
       {
@@ -4994,19 +5197,22 @@
       },
       {
         "id": "d",
-        "text": "The Six Nations",
+        "text": "The Ashes",
         "is_correct": false
       }
     ],
-    "explanation_simple": "The English Premier League attracts a huge international audience. Many UK teams also play in European competitions.",
-    "review": {}
+    "explanation_simple": "The English Premier League attracts a huge international audience, and many of the best players in the world play in it.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_torvill_dean_single_a",
     "fact_id": "c4_torvill_dean",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -5041,14 +5247,17 @@
       }
     ],
     "explanation_simple": "Jayne Torvill and Christopher Dean won gold for ice dancing at the 1984 Winter Olympics.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_chris_hoy_single_a",
     "fact_id": "c4_chris_hoy",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -5083,21 +5292,24 @@
       }
     ],
     "explanation_simple": "Sir Chris Hoy is a Scottish cyclist who has won six Olympic gold medals.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_tanni_single_a",
     "fact_id": "c4_tanni_grey_thompson",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
       "section": "Sport",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Medal figures. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "single",
     "selections_required": 1,
@@ -5105,7 +5317,7 @@
     "options": [
       {
         "id": "a",
-        "text": "Table tennis",
+        "text": "Archery",
         "is_correct": false
       },
       {
@@ -5115,31 +5327,34 @@
       },
       {
         "id": "c",
-        "text": "Swimming",
+        "text": "Table tennis",
         "is_correct": false
       },
       {
         "id": "d",
-        "text": "Archery",
+        "text": "Swimming",
         "is_correct": false
       }
     ],
-    "explanation_simple": "Baroness Tanni Grey-Thompson is an athlete who used a wheelchair and won 16 Paralympic medals, including 11 gold, in races over five Paralympic Games.",
-    "review": {}
+    "explanation_simple": "Baroness Tanni Grey-Thompson is an athlete who uses a wheelchair. She won 16 Paralympic medals, including 11 gold, in races over five Paralympic Games.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_ellie_simmonds_single_a",
     "fact_id": "c4_ellie_simmonds",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
       "section": "Sport",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Years. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "single",
     "selections_required": 1,
@@ -5152,12 +5367,12 @@
       },
       {
         "id": "b",
-        "text": "Athletics",
+        "text": "Cycling",
         "is_correct": false
       },
       {
         "id": "c",
-        "text": "Cycling",
+        "text": "Athletics",
         "is_correct": false
       },
       {
@@ -5166,15 +5381,18 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Ellie Simmonds won gold medals for swimming at the 2008 and 2012 Paralympic Games. She was the youngest member of the British team in 2008.",
-    "review": {}
+    "explanation_simple": "Ellie Simmonds won gold medals for swimming at the 2008, 2012 and 2016 Paralympic Games. She was the youngest member of the British team at the 2008 Games.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_kelly_holmes_single_a",
     "fact_id": "c4_kelly_holmes",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -5209,14 +5427,17 @@
       }
     ],
     "explanation_simple": "Dame Kelly Holmes won two gold medals for running in the 2004 Olympic Games.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_f1_champions_multi_a",
     "fact_id": "c4_f1_champions",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -5251,14 +5472,17 @@
       }
     ],
     "explanation_simple": "Recent British Formula 1 world champions include Damon Hill, Lewis Hamilton and Jenson Button.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_wimbledon_tf_b",
     "fact_id": "c4_wimbledon",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -5282,15 +5506,18 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Wimbledon, held in London, is the oldest tennis tournament in the world and the only Grand Slam event played on grass.",
-    "review": {}
+    "explanation_simple": "Wimbledon, held each year at the All England Lawn Tennis and Croquet Club, is the oldest tennis tournament in the world and the only Grand Slam event played on grass.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_bannister_tf_b",
     "fact_id": "c4_roger_bannister",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -5315,14 +5542,17 @@
       }
     ],
     "explanation_simple": "Sir Roger Bannister ran the first sub-four-minute mile in 1954.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_purcell_single_a",
     "fact_id": "c4_purcell",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -5357,7 +5587,10 @@
       }
     ],
     "explanation_simple": "Henry Purcell was organist at Westminster Abbey and wrote church music, operas and other pieces.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -6811,7 +7044,7 @@
     "item_id": "c4_archbishop_tf_b",
     "fact_id": "c4_coe_archbishop",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -6836,14 +7069,17 @@
       }
     ],
     "explanation_simple": "The spiritual leader of the Church of England is the Archbishop of Canterbury.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_church_scotland_tf_b",
     "fact_id": "c4_church_of_scotland",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -6868,14 +7104,17 @@
       }
     ],
     "explanation_simple": "The Church of Scotland is a Presbyterian church, governed by ministers and elders.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_patron_wales_tf_b",
     "fact_id": "c4_patron_saint_wales",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -6900,14 +7139,17 @@
       }
     ],
     "explanation_simple": "St David is the patron saint of Wales. St David's Day is 1 March.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_patron_scotland_single_b",
     "fact_id": "c4_patron_saint_scotland",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -6942,14 +7184,17 @@
       }
     ],
     "explanation_simple": "St Andrew is the patron saint of Scotland. St Andrew's Day is 30 November.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_patron_england_single_b",
     "fact_id": "c4_patron_saint_england",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -6984,14 +7229,17 @@
       }
     ],
     "explanation_simple": "St George is the patron saint of England, and St George's Day is 23 April.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_patron_ni_single_b",
     "fact_id": "c4_patron_saint_ni",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -7026,14 +7274,17 @@
       }
     ],
     "explanation_simple": "St Patrick is the patron saint of Northern Ireland. St Patrick's Day is 17 March.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_boxing_day_tf_b",
     "fact_id": "c4_boxing_day",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -7058,14 +7309,17 @@
       }
     ],
     "explanation_simple": "Boxing Day is the day after Christmas Day and is a public holiday.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_easter_single_b",
     "fact_id": "c4_easter",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -7100,14 +7354,17 @@
       }
     ],
     "explanation_simple": "Easter marks the death of Jesus Christ on Good Friday and his rising from the dead on Easter Sunday.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_lent_single_b",
     "fact_id": "c4_lent",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -7142,14 +7399,17 @@
       }
     ],
     "explanation_simple": "Lent is the 40 days before Easter, when Christians take time to reflect and prepare. Many give something up.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_pancake_tf_b",
     "fact_id": "c4_shrove_tuesday",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -7174,14 +7434,17 @@
       }
     ],
     "explanation_simple": "Shrove Tuesday is the day before Lent starts. People eat pancakes, traditionally to use up rich foods before fasting.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_diwali_tf_b",
     "fact_id": "c4_diwali",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -7206,14 +7469,17 @@
       }
     ],
     "explanation_simple": "Diwali normally falls in October or November and lasts for five days. It celebrates the victory of good over evil.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_hanukkah_tf_b",
     "fact_id": "c4_hanukkah",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -7238,14 +7504,17 @@
       }
     ],
     "explanation_simple": "Hanukkah, in November or December, is celebrated for eight days. On each day a candle is lit on a menorah.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_eid_tf_b",
     "fact_id": "c4_eid_al_fitr",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -7270,14 +7539,17 @@
       }
     ],
     "explanation_simple": "Eid al-Fitr marks the end of Ramadan. Muslims thank Allah for giving them the strength to complete the fast.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_vaisakhi_tf_b",
     "fact_id": "c4_vaisakhi",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -7302,14 +7574,17 @@
       }
     ],
     "explanation_simple": "Vaisakhi, also spelled Baisakhi, is a Sikh festival held on 14 April. It celebrates the founding of the Khalsa.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_hogmanay_tf_b",
     "fact_id": "c4_hogmanay",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -7334,14 +7609,17 @@
       }
     ],
     "explanation_simple": "New Year's Eve is called Hogmanay in Scotland, and 2 January is also a public holiday there.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_valentines_tf_b",
     "fact_id": "c4_valentines_day",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -7366,14 +7644,17 @@
       }
     ],
     "explanation_simple": "Valentine's Day, 14 February, is when lovers exchange cards and gifts, sometimes anonymously.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_mothering_tf_b",
     "fact_id": "c4_mothering_sunday",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -7398,14 +7679,17 @@
       }
     ],
     "explanation_simple": "Mothering Sunday, or Mother's Day, is the Sunday three weeks before Easter. Children send cards or buy gifts for their mothers.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_silence_single_b",
     "fact_id": "c4_remembrance_silence",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -7440,14 +7724,17 @@
       }
     ],
     "explanation_simple": "A two-minute silence is held at 11.00 am on 11 November.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_football_tf_b",
     "fact_id": "c4_football_most_popular",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -7471,15 +7758,18 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Football is the most popular sport in the UK, with a long history in England.",
-    "review": {}
+    "explanation_simple": "Football has a long history in the UK, and the first professional football clubs were formed in the late 19th century.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_tennis_club_tf_b",
     "fact_id": "c4_first_tennis_club",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -7490,7 +7780,7 @@
     },
     "question_type": "true_false",
     "selections_required": 1,
-    "question_text": "Is the following statement TRUE or FALSE? Modern lawn tennis developed in England in the late 19th century.",
+    "question_text": "Is the following statement TRUE or FALSE? Modern tennis evolved in England in the late 19th century.",
     "options": [
       {
         "id": "a",
@@ -7504,14 +7794,17 @@
       }
     ],
     "explanation_simple": "Modern tennis evolved in England in the late 19th century. The first tennis club was founded in Leamington Spa in 1872.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_st_andrews_tf_b",
     "fact_id": "c4_golf_home",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -7536,14 +7829,17 @@
       }
     ],
     "explanation_simple": "Golf dates back to 15th-century Scotland, and St Andrews is known as its home.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_grand_national_tf_b",
     "fact_id": "c4_grand_national",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -7568,14 +7864,17 @@
       }
     ],
     "explanation_simple": "Famous horse-racing events include Royal Ascot, the Grand National at Aintree and the Scottish Grand National at Ayr.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_ashes_tf_b",
     "fact_id": "c4_ashes",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -7600,14 +7899,17 @@
       }
     ],
     "explanation_simple": "The Ashes are a series of Test cricket matches between England and Australia.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_olympics_tf_b",
     "fact_id": "c4_olympics_hosted",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -7618,7 +7920,7 @@
     },
     "question_type": "true_false",
     "selections_required": 1,
-    "question_text": "Is the following statement TRUE or FALSE? London has hosted the Olympic Games three times: in 1908, 1948 and 2012.",
+    "question_text": "Is the following statement TRUE or FALSE? The UK has hosted the Olympic Games three times: in 1908, 1948 and 2012.",
     "options": [
       {
         "id": "a",
@@ -7631,15 +7933,18 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The UK has hosted the Olympic Games on three occasions, in 1908, 1948 and 2012.",
-    "review": {}
+    "explanation_simple": "The UK has hosted the Olympic Games on three occasions. The main site for the 2012 Games was in Stratford, East London.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_stoke_mandeville_tf_b",
     "fact_id": "c4_paralympics_origin",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -7664,14 +7969,17 @@
       }
     ],
     "explanation_simple": "The Paralympics grew from work at Stoke Mandeville hospital, where a doctor developed new methods of treating people with spinal injuries.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_moore_tf_b",
     "fact_id": "c4_bobby_moore",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -7696,14 +8004,17 @@
       }
     ],
     "explanation_simple": "Bobby Moore captained the England team that won the World Cup in 1966.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_redgrave_tf_b",
     "fact_id": "c4_steve_redgrave",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -7728,14 +8039,17 @@
       }
     ],
     "explanation_simple": "Sir Steve Redgrave won rowing gold medals at five consecutive Olympics and is one of Britain's greatest Olympians.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_macarthur_tf_b",
     "fact_id": "c4_ellen_macarthur",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -7760,14 +8074,17 @@
       }
     ],
     "explanation_simple": "Dame Ellen MacArthur set the record for the fastest solo sail around the world in 2004.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_wiggins_tf_b",
     "fact_id": "c4_bradley_wiggins",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -7792,14 +8109,17 @@
       }
     ],
     "explanation_simple": "In 2012 Bradley Wiggins became the first Briton to win the Tour de France. He has also won Olympic gold medals.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_farah_tf_b",
     "fact_id": "c4_mo_farah",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -7824,14 +8144,17 @@
       }
     ],
     "explanation_simple": "Mo Farah, born in Somalia, became the first Briton to win Olympic gold in the 10,000 metres in 2012, and also won the 5,000 metres.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_ennis_tf_b",
     "fact_id": "c4_jessica_ennis",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -7856,14 +8179,17 @@
       }
     ],
     "explanation_simple": "Jessica Ennis won gold in the heptathlon, seven different track and field events, in 2012.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_murray_tf_b",
     "fact_id": "c4_andy_murray",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -7888,14 +8214,17 @@
       }
     ],
     "explanation_simple": "In 2012 Andy Murray won the US Open, the first British man to win a Grand Slam singles title since 1936. He went on to win Wimbledon.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_proms_tf_b",
     "fact_id": "c4_proms",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -7906,7 +8235,7 @@
     },
     "question_type": "true_false",
     "selections_required": 1,
-    "question_text": "Is the following statement TRUE or FALSE? The Proms is an eight-week summer season of orchestral music held mainly at the Royal Albert Hall.",
+    "question_text": "Is the following statement TRUE or FALSE? The Proms is an eight-week summer season of orchestral classical music, organised by the BBC since 1927.",
     "options": [
       {
         "id": "a",
@@ -7919,8 +8248,11 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Proms, held mainly at the Royal Albert Hall in London, have been run by the BBC since 1927.",
-    "review": {}
+    "explanation_simple": "The Proms takes place in various venues, including the Royal Albert Hall in London.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -8773,7 +9105,7 @@
     "item_id": "c4_ageing_tf_a",
     "fact_id": "c4_ageing_population",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -8798,14 +9130,17 @@
       }
     ],
     "explanation_simple": "People in the UK are living longer than ever, partly because of better living standards and healthcare.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_equality_single_a",
     "fact_id": "c4_women_rights_today",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -8840,14 +9175,17 @@
       }
     ],
     "explanation_simple": "Women in Britain today have equal rights. They make up about half the workforce, and employers cannot discriminate because of sex.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_census_religions_multi_a",
     "fact_id": "c4_religion_census",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -8882,14 +9220,17 @@
       }
     ],
     "explanation_simple": "In 2011, 59% identified as Christian, about 25% said they had no religion, and 4.8% identified as Muslim.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_religion_free_tf_a",
     "fact_id": "c4_religious_freedom",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -8914,14 +9255,17 @@
       }
     ],
     "explanation_simple": "The UK is historically a Christian country, but everyone has the right to choose their religion or to have none.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_patron_saints_multi_c",
     "fact_id": "c4_patron_saint_dates",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -8956,14 +9300,17 @@
       }
     ],
     "explanation_simple": "St George is England's, St Andrew Scotland's, St David Wales's and St Patrick Northern Ireland's patron saint.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_religious_festivals_multi_a",
     "fact_id": "c4_diwali",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -8998,14 +9345,17 @@
       }
     ],
     "explanation_simple": "Hanukkah is Jewish, Vaisakhi Sikh, Eid al-Fitr Muslim, and Diwali is celebrated mainly by Hindus and Sikhs.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_dates_multi_a",
     "fact_id": "c4_valentines_day",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -9040,14 +9390,17 @@
       }
     ],
     "explanation_simple": "Valentine's Day is 14 February and Halloween 31 October. Bonfire Night is 5 November and April Fool's Day 1 April.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_april_fools_tf_b",
     "fact_id": "c4_april_fools",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -9072,14 +9425,17 @@
       }
     ],
     "explanation_simple": "On 1 April people play jokes on each other until midday. Television and newspapers sometimes join in.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_fathers_tf_b",
     "fact_id": "c4_fathers_day",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -9104,14 +9460,17 @@
       }
     ],
     "explanation_simple": "Father's Day is the third Sunday in June. Children send cards or buy gifts for their fathers.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_christmas_eve_single_a",
     "fact_id": "c4_christmas",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -9146,34 +9505,37 @@
       }
     ],
     "explanation_simple": "Christmas Day, 25 December, celebrates the birth of Jesus Christ. It is a public holiday.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_sports_origins_multi_a",
     "fact_id": "c4_cricket",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
       "section": "Sport",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Confirm the handbook lists these origins. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "multi",
     "selections_required": 2,
-    "question_text": "Which TWO of these sports originated in Britain?",
+    "question_text": "Which TWO of these sports began in Britain?",
     "options": [
       {
         "id": "a",
-        "text": "Baseball",
+        "text": "Basketball",
         "is_correct": false
       },
       {
         "id": "b",
-        "text": "Basketball",
+        "text": "Baseball",
         "is_correct": false
       },
       {
@@ -9187,15 +9549,18 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "Cricket, rugby, football and golf all have their origins in Britain. Basketball and baseball developed in the United States.",
-    "review": {}
+    "explanation_simple": "Many famous sports, including cricket, football, lawn tennis, golf and rugby, began in Britain.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_horse_racing_multi_a",
     "fact_id": "c4_grand_national",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -9230,14 +9595,17 @@
       }
     ],
     "explanation_simple": "Famous horse-racing events include Royal Ascot, the Grand National and the Scottish Grand National. The Ashes is cricket and Wimbledon is tennis.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_olympians_multi_a",
     "fact_id": "c4_steve_redgrave",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -9272,14 +9640,17 @@
       }
     ],
     "explanation_simple": "Redgrave rowed and Hoy cycled. Mo Farah is a runner and Jessica Ennis won the heptathlon.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_wimbledon_single_c",
     "fact_id": "c4_wimbledon",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
@@ -9290,7 +9661,7 @@
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "Wimbledon is the only Grand Slam tennis event played on which surface?",
+    "question_text": "Wimbledon is the only 'Grand Slam' tennis event played on which surface?",
     "options": [
       {
         "id": "a",
@@ -9299,7 +9670,7 @@
       },
       {
         "id": "b",
-        "text": "Carpet",
+        "text": "Clay",
         "is_correct": false
       },
       {
@@ -9309,30 +9680,33 @@
       },
       {
         "id": "d",
-        "text": "Clay",
+        "text": "Carpet",
         "is_correct": false
       }
     ],
-    "explanation_simple": "Wimbledon, held in London, is the oldest tennis tournament in the world and the only Grand Slam event on grass.",
-    "review": {}
+    "explanation_simple": "The Wimbledon Championships, at the All England Lawn Tennis and Croquet Club, are the oldest tennis tournament in the world and the only Grand Slam event played on grass.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c4_skiing_single_a",
     "fact_id": "c4_skiing",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 4,
       "section": "Sport",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Confirm the handbook mentions this. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "Where in the UK are there ski resorts with natural snow?",
+    "question_text": "Which part of the UK has five ski centres?",
     "options": [
       {
         "id": "a",
@@ -9355,8 +9729,11 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Skiing is increasingly popular. Many people go abroad, but there are also five ski centres in Scotland, and dry ski slopes elsewhere.",
-    "review": {}
+    "explanation_simple": "Many people go abroad to ski, and there are dry ski slopes throughout the UK. There are five ski centres in Scotland, including the UK's longest dry ski slope near Edinburgh.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,

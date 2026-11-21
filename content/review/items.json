@@ -2063,6 +2063,54 @@
     "note": "",
     "reviewed_at": "2026-11-21"
   },
+  "c4_ageing_tf_a": {
+    "decision": "approved",
+    "fingerprint": "43a5c32b898fd0f5",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_andy_murray_single_a": {
+    "decision": "approved",
+    "fingerprint": "37903ba2e7894e54",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_april_fool_single_a": {
+    "decision": "approved",
+    "fingerprint": "5aeaf05ae34041dc",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_april_fools_tf_b": {
+    "decision": "approved",
+    "fingerprint": "51fe62d146a2802e",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_archbishop_tf_b": {
+    "decision": "approved",
+    "fingerprint": "69cddd2a3549a06e",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_ashes_single_a": {
+    "decision": "approved",
+    "fingerprint": "168f682fcd1c976c",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_ashes_tf_b": {
+    "decision": "approved",
+    "fingerprint": "4aba0006fe1e1931",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_bank_holiday_single_a": {
+    "decision": "approved",
+    "fingerprint": "73195e1c52dd31c8",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
   "c4_banknotes_single_b": {
     "decision": "approved",
     "fingerprint": "cff1e12ffa28d57f",
@@ -2072,6 +2120,48 @@
   "c4_banknotes_tf_a": {
     "decision": "approved",
     "fingerprint": "dabcf1bc55a25703",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_bannister_single_a": {
+    "decision": "approved",
+    "fingerprint": "ee1856203e8717c0",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_bannister_tf_b": {
+    "decision": "approved",
+    "fingerprint": "4552a293c8866f9b",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_bobby_moore_single_a": {
+    "decision": "approved",
+    "fingerprint": "a8444146ba97d86d",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_bonfire_date_single_b": {
+    "decision": "approved",
+    "fingerprint": "e0e0a4b1d2562f48",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_bonfire_single_a": {
+    "decision": "approved",
+    "fingerprint": "983878ccac137b58",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_boxing_day_single_a": {
+    "decision": "approved",
+    "fingerprint": "d8feec095a8b4086",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_boxing_day_tf_b": {
+    "decision": "approved",
+    "fingerprint": "036d5c90577cdfb4",
     "note": "",
     "reviewed_at": "2026-11-21"
   },
@@ -2111,9 +2201,93 @@
     "note": "",
     "reviewed_at": "2026-11-21"
   },
+  "c4_census_christian_single_a": {
+    "decision": "approved",
+    "fingerprint": "71d78fb1aced3f3b",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_census_religions_multi_a": {
+    "decision": "approved",
+    "fingerprint": "98d8f3045bfb6f71",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_chris_hoy_single_a": {
+    "decision": "approved",
+    "fingerprint": "f027dd1666da4c42",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_christmas_customs_multi_a": {
+    "decision": "approved",
+    "fingerprint": "fa39cb556ffcdb36",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_christmas_eve_single_a": {
+    "decision": "approved",
+    "fingerprint": "bdd278120e63bf5e",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_christmas_single_a": {
+    "decision": "approved",
+    "fingerprint": "1d77d7a5e6314f5e",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_church_scotland_tf_b": {
+    "decision": "approved",
+    "fingerprint": "10cb775406b7c0d2",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_coe_bishops_single_a": {
+    "decision": "approved",
+    "fingerprint": "64f28d7b2c084bcc",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_coe_head_single_a": {
+    "decision": "approved",
+    "fingerprint": "7b0372b0e97f7da1",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_coe_monarch_tf_b": {
+    "decision": "approved",
+    "fingerprint": "73fe86111c82b55f",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_coe_protestant_tf_a": {
+    "decision": "approved",
+    "fingerprint": "e42b39bda6a68a60",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_coe_spiritual_single_b": {
+    "decision": "approved",
+    "fingerprint": "3b1b85b1d3423426",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
   "c4_coins_single_a": {
     "decision": "approved",
     "fingerprint": "432f4d7786fa52d0",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_cos_presbyterian_single_a": {
+    "decision": "approved",
+    "fingerprint": "b39933c4ab761fd3",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_cricket_origin_tf_a": {
+    "decision": "approved",
+    "fingerprint": "2deb83c773833000",
     "note": "",
     "reviewed_at": "2026-11-21"
   },
@@ -2129,6 +2303,12 @@
     "note": "",
     "reviewed_at": "2026-11-21"
   },
+  "c4_dates_multi_a": {
+    "decision": "approved",
+    "fingerprint": "768e065c4df34d73",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
   "c4_distance_single_a": {
     "decision": "approved",
     "fingerprint": "d847deec5649c415",
@@ -2141,9 +2321,195 @@
     "note": "",
     "reviewed_at": "2026-11-21"
   },
+  "c4_diwali_city_single_b": {
+    "decision": "approved",
+    "fingerprint": "c0df77c3aa1582c8",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_diwali_single_a": {
+    "decision": "approved",
+    "fingerprint": "e60efd50ce101c52",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_diwali_tf_b": {
+    "decision": "approved",
+    "fingerprint": "e05fcdceef7c7f46",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_easter_eggs_tf_b": {
+    "decision": "approved",
+    "fingerprint": "0c270f99a1f8f1db",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_easter_single_b": {
+    "decision": "approved",
+    "fingerprint": "31f154bb63b9e4cb",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_easter_tf_a": {
+    "decision": "approved",
+    "fingerprint": "614fd89f070d80a2",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_eid_single_a": {
+    "decision": "approved",
+    "fingerprint": "09920e6c6dfc4bc8",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_eid_tf_b": {
+    "decision": "approved",
+    "fingerprint": "5b1de8c6e6eab50d",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_ellen_macarthur_single_a": {
+    "decision": "approved",
+    "fingerprint": "32b8e2eec2baaca0",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_ellie_simmonds_single_a": {
+    "decision": "approved",
+    "fingerprint": "6ee7c35a7acdd475",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_ennis_single_a": {
+    "decision": "approved",
+    "fingerprint": "210bde92c8a146a5",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_ennis_tf_b": {
+    "decision": "approved",
+    "fingerprint": "385c13574decb46d",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_equality_single_a": {
+    "decision": "approved",
+    "fingerprint": "4e332d5764e2651f",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_f1_champions_multi_a": {
+    "decision": "approved",
+    "fingerprint": "dae028e8e2d2061c",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_farah_tf_b": {
+    "decision": "approved",
+    "fingerprint": "5616611381e44dae",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_father_christmas_tf_a": {
+    "decision": "approved",
+    "fingerprint": "85b59a26f9aea8fc",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_fathers_day_single_a": {
+    "decision": "approved",
+    "fingerprint": "1457e5e4c3382378",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_fathers_tf_b": {
+    "decision": "approved",
+    "fingerprint": "ad87bf2b0cb34579",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_first_tennis_club_single_a": {
+    "decision": "approved",
+    "fingerprint": "6bfeb9ce6698fd78",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_football_popular_single_a": {
+    "decision": "approved",
+    "fingerprint": "e770053459e22fe2",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_football_tf_b": {
+    "decision": "approved",
+    "fingerprint": "75388d15c2360892",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
   "c4_gaelic_single_b": {
     "decision": "approved",
     "fingerprint": "247adff7aa199fd6",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_golf_single_a": {
+    "decision": "approved",
+    "fingerprint": "422e600e5bd8e25f",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_grand_national_single_a": {
+    "decision": "approved",
+    "fingerprint": "5ad93ef594484fb8",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_grand_national_tf_b": {
+    "decision": "approved",
+    "fingerprint": "9d005561a5d9e313",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_halloween_single_a": {
+    "decision": "approved",
+    "fingerprint": "23481e34eac04abd",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_halloween_tf_b": {
+    "decision": "approved",
+    "fingerprint": "bec1362eaa95a3d4",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_hanukkah_single_a": {
+    "decision": "approved",
+    "fingerprint": "63c2589a668b02cd",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_hanukkah_tf_b": {
+    "decision": "approved",
+    "fingerprint": "52c5288c65e39114",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_hogmanay_single_a": {
+    "decision": "approved",
+    "fingerprint": "5deff503d3be59de",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_hogmanay_tf_b": {
+    "decision": "approved",
+    "fingerprint": "ed0d159151173328",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_horse_racing_multi_a": {
+    "decision": "approved",
+    "fingerprint": "b6f7d8c5e8e310a5",
     "note": "",
     "reviewed_at": "2026-11-21"
   },
@@ -2153,9 +2519,81 @@
     "note": "",
     "reviewed_at": "2026-11-21"
   },
+  "c4_jackie_stewart_single_a": {
+    "decision": "approved",
+    "fingerprint": "093db384e32a843d",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_kelly_holmes_single_a": {
+    "decision": "approved",
+    "fingerprint": "747eb399d508abab",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
   "c4_languages_single_a": {
     "decision": "approved",
     "fingerprint": "1c1f7323ce1a59d9",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_lent_single_a": {
+    "decision": "approved",
+    "fingerprint": "88bfbf0c8f9aa348",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_lent_single_b": {
+    "decision": "approved",
+    "fingerprint": "9b30229766772a0e",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_macarthur_tf_b": {
+    "decision": "approved",
+    "fingerprint": "c8798c1d9ab0b0dd",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_mo_farah_single_a": {
+    "decision": "approved",
+    "fingerprint": "d82451676524ac6a",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_moderator_single_a": {
+    "decision": "approved",
+    "fingerprint": "8c6183bf9e2987bb",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_moore_tf_b": {
+    "decision": "approved",
+    "fingerprint": "12f1ae58dbfccef1",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_mothering_sunday_single_a": {
+    "decision": "approved",
+    "fingerprint": "72c06e278e97228d",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_mothering_tf_b": {
+    "decision": "approved",
+    "fingerprint": "338b373dbf06822b",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_murray_tf_b": {
+    "decision": "approved",
+    "fingerprint": "51fa9c07755ec4e3",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_no_established_church_tf_a": {
+    "decision": "approved",
+    "fingerprint": "4977881c0267bf64",
     "note": "",
     "reviewed_at": "2026-11-21"
   },
@@ -2165,9 +2603,327 @@
     "note": "",
     "reviewed_at": "2026-11-21"
   },
+  "c4_olympians_multi_a": {
+    "decision": "approved",
+    "fingerprint": "b6a677e94f149419",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_olympics_2012_site_single_b": {
+    "decision": "approved",
+    "fingerprint": "9548978a612641e8",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_olympics_tf_b": {
+    "decision": "approved",
+    "fingerprint": "c2348bc2313ad534",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_olympics_years_multi_a": {
+    "decision": "approved",
+    "fingerprint": "df1732693018ef53",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_other_christian_multi_a": {
+    "decision": "approved",
+    "fingerprint": "eae4ed454e636d32",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_pancake_single_a": {
+    "decision": "approved",
+    "fingerprint": "0a65e732421df9c5",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_pancake_tf_b": {
+    "decision": "approved",
+    "fingerprint": "6fd5f338fb1c3247",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_paralympics_origin_single_a": {
+    "decision": "approved",
+    "fingerprint": "4ad9e8c6bc7fe849",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_patron_dates_multi_b": {
+    "decision": "approved",
+    "fingerprint": "a9c887dbfc87dbc4",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_patron_england_single_a": {
+    "decision": "approved",
+    "fingerprint": "a631a040bc36137d",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_patron_england_single_b": {
+    "decision": "approved",
+    "fingerprint": "20e95c7aa4e3ef75",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_patron_holidays_multi_a": {
+    "decision": "approved",
+    "fingerprint": "5662cba6201b7df7",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_patron_ni_single_a": {
+    "decision": "approved",
+    "fingerprint": "bec8826c5e4f8bdb",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_patron_ni_single_b": {
+    "decision": "approved",
+    "fingerprint": "9ece78f95ffa2941",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_patron_saints_multi_c": {
+    "decision": "approved",
+    "fingerprint": "2880e90c3e57c1ae",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_patron_scotland_single_a": {
+    "decision": "approved",
+    "fingerprint": "dda05d4a5b3a2d7c",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_patron_scotland_single_b": {
+    "decision": "approved",
+    "fingerprint": "eb3f0d807cd187b0",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_patron_wales_single_a": {
+    "decision": "approved",
+    "fingerprint": "dc3e09a4339862c4",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_patron_wales_tf_b": {
+    "decision": "approved",
+    "fingerprint": "504503d4dfd722ab",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_poppy_reason_single_d": {
+    "decision": "approved",
+    "fingerprint": "8621d977f917315a",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_population_share_single_a": {
+    "decision": "approved",
+    "fingerprint": "b1a3ee6e62e0db3f",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_population_tf_b": {
+    "decision": "approved",
+    "fingerprint": "0198fb91e0f9f64f",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_premier_league_single_a": {
+    "decision": "approved",
+    "fingerprint": "48c4b2a635f9d3a6",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_proms_single_a": {
+    "decision": "approved",
+    "fingerprint": "96d00454855f53a7",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_proms_tf_b": {
+    "decision": "approved",
+    "fingerprint": "15874d5839531e79",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_purcell_single_a": {
+    "decision": "approved",
+    "fingerprint": "fdd56ef5f5136564",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_redgrave_single_a": {
+    "decision": "approved",
+    "fingerprint": "45ebc1fed6039b70",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_redgrave_tf_b": {
+    "decision": "approved",
+    "fingerprint": "ab329d9f5075f3d3",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_religion_free_tf_a": {
+    "decision": "approved",
+    "fingerprint": "7252264f908a9d69",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_religious_festivals_multi_a": {
+    "decision": "approved",
+    "fingerprint": "dff9f8cbf120000f",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_remembrance_date_single_c": {
+    "decision": "approved",
+    "fingerprint": "79fbce07cb7d40de",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_remembrance_silence_tf_b": {
+    "decision": "approved",
+    "fingerprint": "1315395fc85b99b8",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_remembrance_single_a": {
+    "decision": "approved",
+    "fingerprint": "a0a64e24aebcd6aa",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_rugby_origin_single_a": {
+    "decision": "approved",
+    "fingerprint": "0f73cf31d7467b38",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_silence_single_b": {
+    "decision": "approved",
+    "fingerprint": "1e71a5faae464952",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_six_nations_single_a": {
+    "decision": "approved",
+    "fingerprint": "426f1e2c039995ee",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_skiing_single_a": {
+    "decision": "approved",
+    "fingerprint": "c2aaa06c2c56b773",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_sports_origins_multi_a": {
+    "decision": "approved",
+    "fingerprint": "69781352ed7ba9dc",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_st_andrews_tf_b": {
+    "decision": "approved",
+    "fingerprint": "707798b0196c9bbd",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_stoke_mandeville_tf_b": {
+    "decision": "approved",
+    "fingerprint": "ae33d6c1c981bed3",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_tanni_single_a": {
+    "decision": "approved",
+    "fingerprint": "0ab3163bdce78ebc",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_tennis_club_tf_b": {
+    "decision": "approved",
+    "fingerprint": "cd9be9875fc5088b",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_torvill_dean_single_a": {
+    "decision": "approved",
+    "fingerprint": "06ca74b9be4fa656",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_vaisakhi_single_a": {
+    "decision": "approved",
+    "fingerprint": "d8b6fb09d88ba52d",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_vaisakhi_tf_b": {
+    "decision": "approved",
+    "fingerprint": "f83f0e0d926bcd25",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_valentine_single_a": {
+    "decision": "approved",
+    "fingerprint": "4dd78d57e0619d4c",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_valentines_tf_b": {
+    "decision": "approved",
+    "fingerprint": "e4aefb696c216bd7",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
   "c4_welsh_tf_b": {
     "decision": "approved",
     "fingerprint": "7818fcb934b82c70",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_wiggins_single_a": {
+    "decision": "approved",
+    "fingerprint": "a0e99668291278c4",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_wiggins_tf_b": {
+    "decision": "approved",
+    "fingerprint": "10a67dc0debfcfec",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_wimbledon_single_a": {
+    "decision": "approved",
+    "fingerprint": "8c580a5206cac3a4",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_wimbledon_single_c": {
+    "decision": "approved",
+    "fingerprint": "445959f4c4879352",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_wimbledon_tf_b": {
+    "decision": "approved",
+    "fingerprint": "69496ef2efba49de",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c4_women_work_tf_a": {
+    "decision": "approved",
+    "fingerprint": "6f2f10c0200c8ca4",
     "note": "",
     "reviewed_at": "2026-11-21"
   }
