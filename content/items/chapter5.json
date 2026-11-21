@@ -4,7 +4,7 @@
     "item_id": "c5_parliamentary_democracy_single_a",
     "fact_id": "c5_system_of_government",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -39,14 +39,17 @@
       }
     ],
     "explanation_simple": "The UK is a parliamentary democracy with the monarch as head of state.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_unwritten_constitution_tf_a",
     "fact_id": "c5_unwritten_constitution",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -71,14 +74,17 @@
       }
     ],
     "explanation_simple": "The British constitution is not written down in any single document, so it is sometimes described as 'unwritten'.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_constitutional_monarchy_single_a",
     "fact_id": "c5_constitutional_monarchy",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -113,7 +119,10 @@
       }
     ],
     "explanation_simple": "In a constitutional monarchy the monarch does not rule the country. The government is chosen in democratic elections.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -162,7 +171,7 @@
     "item_id": "c5_institutions_multi_a",
     "fact_id": "c5_key_institutions",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -197,14 +206,17 @@
       }
     ],
     "explanation_simple": "Key institutions include the monarchy, Parliament, the Prime Minister and cabinet, the judiciary, the police, the civil service and local government.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_commons_lords_statement_a",
     "fact_id": "c5_houses_of_parliament",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -229,14 +241,17 @@
       }
     ],
     "explanation_simple": "The UK Parliament has two houses: the elected House of Commons and the House of Lords, whose members are not elected.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_commons_more_important_tf_a",
     "fact_id": "c5_commons_supremacy",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -261,14 +276,17 @@
       }
     ],
     "explanation_simple": "The House of Commons is regarded as the more important chamber. The Lords can suggest changes to laws, and the Commons can overrule them.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_lords_members_multi_a",
     "fact_id": "c5_lords_membership",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -279,16 +297,16 @@
     },
     "question_type": "multi",
     "selections_required": 2,
-    "question_text": "Which TWO kinds of people can sit in the House of Lords?",
+    "question_text": "Which TWO kinds of people sit in the House of Lords today?",
     "options": [
       {
         "id": "a",
-        "text": "Local councillors",
+        "text": "Members elected at a General Election",
         "is_correct": false
       },
       {
         "id": "b",
-        "text": "Bishops of the Church of England",
+        "text": "Hereditary peers elected by other hereditary peers",
         "is_correct": true
       },
       {
@@ -298,19 +316,22 @@
       },
       {
         "id": "d",
-        "text": "Members elected at a general election",
+        "text": "Local councillors",
         "is_correct": false
       }
     ],
-    "explanation_simple": "Members of the House of Lords are not elected. They include life peers, some hereditary peers and senior bishops of the Church of England.",
-    "review": {}
+    "explanation_simple": "Since 1958 the Prime Minister has been able to nominate life peers, appointed by the monarch. Since 1999 hereditary peers elect a few of their number to sit in the Lords.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_life_peers_single_a",
     "fact_id": "c5_life_peers_appointment",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -345,14 +366,17 @@
       }
     ],
     "explanation_simple": "Life peers are appointed by the monarch on the advice of the Prime Minister. They do not pass their title on.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_speaker_single_a",
     "fact_id": "c5_speaker",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -387,14 +411,17 @@
       }
     ],
     "explanation_simple": "The Speaker chairs debates in the House of Commons and keeps order. The Speaker is neutral and is chosen by other MPs in a secret ballot.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_speaker_elected_tf_b",
     "fact_id": "c5_speaker",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -419,14 +446,17 @@
       }
     ],
     "explanation_simple": "MPs elect the Speaker in a secret ballot.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_mp_role_single_a",
     "fact_id": "c5_mps",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -461,7 +491,10 @@
       }
     ],
     "explanation_simple": "Each MP represents everyone in their constituency, which is a local area.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -510,7 +543,7 @@
     "item_id": "c5_by_election_single_a",
     "fact_id": "c5_by_election",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -545,14 +578,17 @@
       }
     ],
     "explanation_simple": "If an MP dies or resigns there is a by-election, an election in that constituency only.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_first_past_post_single_a",
     "fact_id": "c5_first_past_the_post",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -587,7 +623,10 @@
       }
     ],
     "explanation_simple": "MPs are elected through a 'first past the post' system. The candidate who gets the most votes in a constituency is elected.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -636,7 +675,7 @@
     "item_id": "c5_pm_residence_single_a",
     "fact_id": "c5_pm_residence",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -671,14 +710,17 @@
       }
     ],
     "explanation_simple": "The Prime Minister's official home is 10 Downing Street. There is also a country house outside London called Chequers.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_chequers_single_b",
     "fact_id": "c5_pm_country_house",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -713,14 +755,17 @@
       }
     ],
     "explanation_simple": "Chequers is the Prime Minister's country house outside London.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_pm_who_single_a",
     "fact_id": "c5_pm_leader",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -755,14 +800,17 @@
       }
     ],
     "explanation_simple": "The Prime Minister is the leader of the political party in power, usually the party with the most MPs.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_cabinet_single_a",
     "fact_id": "c5_cabinet",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -797,14 +845,17 @@
       }
     ],
     "explanation_simple": "The Prime Minister appoints about 20 senior MPs to the cabinet, which meets weekly to make decisions on government policy.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_chancellor_single_a",
     "fact_id": "c5_chancellor",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -839,14 +890,17 @@
       }
     ],
     "explanation_simple": "The Chancellor of the Exchequer is responsible for the economy.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_home_secretary_single_a",
     "fact_id": "c5_home_secretary",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -881,14 +935,17 @@
       }
     ],
     "explanation_simple": "The Home Secretary is responsible for crime, policing and immigration.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_foreign_secretary_single_a",
     "fact_id": "c5_foreign_secretary",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -923,14 +980,17 @@
       }
     ],
     "explanation_simple": "The Foreign Secretary manages relationships with foreign countries.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_opposition_single_a",
     "fact_id": "c5_opposition",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -965,14 +1025,17 @@
       }
     ],
     "explanation_simple": "The second-largest party in the House of Commons is the opposition. Its leader is the Leader of the Opposition.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_shadow_cabinet_tf_a",
     "fact_id": "c5_shadow_cabinet",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -983,7 +1046,7 @@
     },
     "question_type": "true_false",
     "selections_required": 1,
-    "question_text": "Is the following statement TRUE or FALSE? The Leader of the Opposition appoints senior opposition MPs to a 'shadow cabinet'.",
+    "question_text": "Is the following statement TRUE or FALSE? The Leader of the Opposition appoints senior opposition MPs to be 'shadow ministers'.",
     "options": [
       {
         "id": "a",
@@ -996,15 +1059,18 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Leader of the Opposition leads a shadow cabinet whose members each follow a government department.",
-    "review": {}
+    "explanation_simple": "The shadow ministers form the shadow cabinet. Their role is to challenge the government and put forward alternative policies.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_pmqs_single_a",
     "fact_id": "c5_pmqs",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -1039,14 +1105,17 @@
       }
     ],
     "explanation_simple": "Prime Minister's Questions takes place every week while Parliament is sitting; the Leader of the Opposition usually asks questions.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_civil_service_tf_a",
     "fact_id": "c5_civil_service_neutral",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -1071,21 +1140,24 @@
       }
     ],
     "explanation_simple": "Civil servants carry out government policy but are politically neutral. They are not political appointees.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_scottish_parliament_single_a",
     "fact_id": "c5_scottish_parliament",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
       "section": "The government",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Year 1999. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "single",
     "selections_required": 1,
@@ -1103,35 +1175,38 @@
       },
       {
         "id": "c",
-        "text": "Stirling",
+        "text": "London",
         "is_correct": false
       },
       {
         "id": "d",
-        "text": "London",
+        "text": "Stirling",
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Scottish Parliament sits in Edinburgh, at Holyrood. It was formed in 1999.",
-    "review": {}
+    "explanation_simple": "The Scottish Parliament was formed in 1999. It sits in Edinburgh, the capital city of Scotland.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_welsh_assembly_single_a",
     "fact_id": "c5_welsh_assembly",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
       "section": "The government",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: The body is now called the Senedd; keep the handbook's name in the explanation. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "Where does the devolved parliament (assembly) for Wales sit?",
+    "question_text": "In which city are the Welsh government and the Senedd based?",
     "options": [
       {
         "id": "a",
@@ -1154,15 +1229,18 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "The National Assembly for Wales sits in Cardiff. It was established in 1999.",
-    "review": {}
+    "explanation_simple": "There has been a Welsh Assembly (now called the Senedd) since 1999. The Welsh government and the Senedd are based in Cardiff, the capital city of Wales.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_devolved_matters_multi_a",
     "fact_id": "c5_devolved_powers",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -1197,14 +1275,17 @@
       }
     ],
     "explanation_simple": "The Scottish Parliament can pass laws on matters not reserved to the UK Parliament, such as education and health. Defence and foreign affairs remain with the UK Parliament.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_ni_assembly_tf_a",
     "fact_id": "c5_ni_assembly",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -1229,25 +1310,28 @@
       }
     ],
     "explanation_simple": "The Northern Ireland Assembly was established soon after the Belfast Agreement in 1998.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_free_press_tf_a",
     "fact_id": "c5_free_press",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
       "section": "The government",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Confirm the handbook's wording on broadcasters' balance. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "true_false",
     "selections_required": 1,
-    "question_text": "Is the following statement TRUE or FALSE? Newspapers in the UK are free to give their own political opinions.",
+    "question_text": "Is the following statement TRUE or FALSE? The UK has a free press, which means what is written in newspapers is free from government control.",
     "options": [
       {
         "id": "a",
@@ -1260,15 +1344,18 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The UK has a free press. Newspapers are often biased towards a party, but radio and TV coverage of political parties must be balanced.",
-    "review": {}
+    "explanation_simple": "Some newspaper owners and editors hold strong political opinions. By law, radio and TV coverage of political parties must be balanced.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_who_can_vote_multi_a",
     "fact_id": "c5_who_can_vote",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -1303,14 +1390,17 @@
       }
     ],
     "explanation_simple": "British citizens and citizens of the Commonwealth and the Irish Republic who are resident in the UK can vote in all public elections.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_electoral_register_single_a",
     "fact_id": "c5_electoral_register",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -1345,7 +1435,10 @@
       }
     ],
     "explanation_simple": "To vote in an election you must have your name on the electoral register.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -1394,7 +1487,7 @@
     "item_id": "c5_voting_age_single_a",
     "fact_id": "c5_voting_age",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -1429,14 +1522,17 @@
       }
     ],
     "explanation_simple": "The handbook gives 18 as the voting age for UK Parliament elections.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_general_election_single_a",
     "fact_id": "c5_general_election_interval",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -1471,7 +1567,10 @@
       }
     ],
     "explanation_simple": "MPs are elected at a general election, which is held at least every five years.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -1510,7 +1609,7 @@
     "item_id": "c5_standing_age_single_a",
     "fact_id": "c5_standing_for_office",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -1521,16 +1620,16 @@
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "What is the minimum age to stand for public office, such as an MP?",
+    "question_text": "What is the minimum age to stand for election as an MP?",
     "options": [
       {
         "id": "a",
-        "text": "25",
+        "text": "21",
         "is_correct": false
       },
       {
         "id": "b",
-        "text": "16",
+        "text": "25",
         "is_correct": false
       },
       {
@@ -1540,19 +1639,22 @@
       },
       {
         "id": "d",
-        "text": "21",
+        "text": "16",
         "is_correct": false
       }
     ],
-    "explanation_simple": "Most citizens of the UK, the Irish Republic or the Commonwealth aged 18 or over can stand for public office.",
-    "review": {}
+    "explanation_simple": "Anyone aged 18 or over can stand for election as an MP, but they are unlikely to win unless they have been nominated by one of the major political parties.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_contact_mp_single_a",
     "fact_id": "c5_contacting_mp",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -1587,7 +1689,10 @@
       }
     ],
     "explanation_simple": "Many MPs hold regular local 'surgeries' where constituents can go to see them in person.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -2913,7 +3018,7 @@
     "item_id": "c5_chartists_single_a",
     "fact_id": "c5_chartists",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -2948,14 +3053,17 @@
       }
     ],
     "explanation_simple": "The Chartists campaigned for reform, including the right for every man to vote and elections every year. Most of their demands were eventually adopted.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_voting_age_1969_single_a",
     "fact_id": "c5_voting_age_history",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -2990,14 +3098,17 @@
       }
     ],
     "explanation_simple": "The voting age was reduced to 18 in 1969, with equal voting rights for men and women.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_monarch_role_multi_a",
     "fact_id": "c5_monarch_duties",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -3032,14 +3143,17 @@
       }
     ],
     "explanation_simple": "The monarch has important ceremonial roles, such as opening Parliament each year with a speech setting out the government's policies. The monarch also meets the Prime Minister regularly and can advise, warn and encourage.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_monarch_politics_tf_a",
     "fact_id": "c5_monarch_neutral",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -3064,7 +3178,10 @@
       }
     ],
     "explanation_simple": "The monarch reads a speech summarising the government's policies for the year ahead. Decisions on policy are made by the Prime Minister and Cabinet.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -3113,7 +3230,7 @@
     "item_id": "c5_heir_single_a",
     "fact_id": "c5_heir_to_throne",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -3148,14 +3265,17 @@
       }
     ],
     "explanation_simple": "The heir to the throne is the monarch's eldest son, Prince William, the Prince of Wales.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_anthem_single_a",
     "fact_id": "c5_national_anthem",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -3190,14 +3310,17 @@
       }
     ],
     "explanation_simple": "The national anthem is 'God Save the King'. It is played at important national occasions and events attended by the monarch.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_lords_role_single_a",
     "fact_id": "c5_lords_role",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -3232,14 +3355,17 @@
       }
     ],
     "explanation_simple": "The House of Lords examines and checks laws passed by the House of Commons to make sure they are fit for purpose. It can suggest amendments or propose new laws.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_hereditary_peers_tf_a",
     "fact_id": "c5_hereditary_peers",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -3264,14 +3390,17 @@
       }
     ],
     "explanation_simple": "Hereditary peers lost the automatic right to attend the House of Lords. They now elect a few of their number to sit there.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_hansard_single_a",
     "fact_id": "c5_hansard",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -3306,7 +3435,10 @@
       }
     ],
     "explanation_simple": "Proceedings in Parliament are broadcast and published in official reports called Hansard.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -3345,7 +3477,7 @@
     "item_id": "c5_cabinet_size_single_a",
     "fact_id": "c5_cabinet",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -3380,14 +3512,17 @@
       }
     ],
     "explanation_simple": "The Prime Minister appoints about 20 senior MPs to the Cabinet. They make important decisions about government policy.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_pm_appoint_tf_a",
     "fact_id": "c5_pm_leader",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -3412,14 +3547,17 @@
       }
     ],
     "explanation_simple": "The Prime Minister is the leader of the political party in power. They are not elected separately by all voters.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_local_councillors_single_a",
     "fact_id": "c5_local_government",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -3430,38 +3568,41 @@
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "Who runs local services such as education, housing and rubbish collection?",
+    "question_text": "Towns, cities and rural areas are governed by democratically elected councils. What are these often called?",
     "options": [
       {
         "id": "a",
-        "text": "The Supreme Court",
+        "text": "Devolved administrations",
         "is_correct": false
       },
       {
         "id": "b",
-        "text": "The House of Lords",
+        "text": "Constituencies",
         "is_correct": false
       },
       {
         "id": "c",
-        "text": "Local authorities (councils)",
+        "text": "Local authorities",
         "is_correct": true
       },
       {
         "id": "d",
-        "text": "The Civil Service in London only",
+        "text": "Shadow cabinets",
         "is_correct": false
       }
     ],
-    "explanation_simple": "Towns, cities and rural areas are governed by elected councils, called local authorities. They provide services such as education, housing, social services, refuse collection and libraries.",
-    "review": {}
+    "explanation_simple": "Local authorities provide a range of services in their areas. They are funded by money from central government and by local taxes.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_local_elections_single_a",
     "fact_id": "c5_local_elections",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -3496,14 +3637,17 @@
       }
     ],
     "explanation_simple": "Local elections for councillors are held in May every year.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_mayors_tf_a",
     "fact_id": "c5_elected_mayors",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -3514,7 +3658,7 @@
     },
     "question_type": "true_false",
     "selections_required": 1,
-    "question_text": "Is the following statement TRUE or FALSE? Some cities in England have directly elected mayors.",
+    "question_text": "Is the following statement TRUE or FALSE? In some towns, a mayor is elected to be the effective leader of the administration.",
     "options": [
       {
         "id": "a",
@@ -3527,15 +3671,18 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Many local authorities appoint a mayor as a ceremonial leader. Some towns and cities, including London, have a directly elected mayor.",
-    "review": {}
+    "explanation_simple": "Many local authorities appoint a mayor as the ceremonial leader of the council. London has the Greater London Authority and the Mayor of London.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_msps_single_a",
     "fact_id": "c5_msp_count",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -3570,14 +3717,17 @@
       }
     ],
     "explanation_simple": "There are 129 members of the Scottish Parliament (MSPs), elected by a form of proportional representation.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_mlas_single_a",
     "fact_id": "c5_mla_count",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -3612,14 +3762,17 @@
       }
     ],
     "explanation_simple": "There are 90 members of the Northern Ireland Assembly (MLAs).",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_welsh_members_single_a",
     "fact_id": "c5_senedd_members",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -3654,14 +3807,17 @@
       }
     ],
     "explanation_simple": "The Welsh Parliament had 60 members. This is due to rise to 96 from the 2026 election.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_pressure_groups_single_a",
     "fact_id": "c5_pressure_groups",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -3696,25 +3852,28 @@
       }
     ],
     "explanation_simple": "Pressure and lobby groups try to influence government policy. They play an important role in politics.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_party_members_tf_a",
     "fact_id": "c5_joining_parties",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
       "section": "The government",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Confirm wording. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "true_false",
     "selections_required": 1,
-    "question_text": "Is the following statement TRUE or FALSE? Anyone can join a political party.",
+    "question_text": "Is the following statement TRUE or FALSE? The main political parties actively look for members of the public to join their debates and help at elections.",
     "options": [
       {
         "id": "a",
@@ -3727,8 +3886,11 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Political parties welcome new members. Members help campaign, for example by delivering leaflets or persuading people to vote.",
-    "review": {}
+    "explanation_simple": "Parties have branches in most constituencies and hold policy-making conferences every year.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -4567,7 +4729,7 @@
     "item_id": "c5_constitutional_monarchy_tf_b",
     "fact_id": "c5_constitutional_monarchy",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -4592,14 +4754,17 @@
       }
     ],
     "explanation_simple": "In a constitutional monarchy, the monarch does not rule the country but appoints the government, which the people choose in elections.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_commons_tf_b",
     "fact_id": "c5_houses_of_parliament",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -4624,14 +4789,17 @@
       }
     ],
     "explanation_simple": "The UK Parliament has two Houses: the House of Commons and the House of Lords.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_life_peers_tf_b",
     "fact_id": "c5_life_peers_appointment",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -4656,14 +4824,17 @@
       }
     ],
     "explanation_simple": "Life peers are appointed by the monarch on the advice of the Prime Minister. They are not elected.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_mps_tf_b",
     "fact_id": "c5_mps",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -4688,7 +4859,10 @@
       }
     ],
     "explanation_simple": "MPs represent everyone in their constituency. They help create new laws and scrutinise the government.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -4727,7 +4901,7 @@
     "item_id": "c5_by_election_tf_b",
     "fact_id": "c5_by_election",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -4752,14 +4926,17 @@
       }
     ],
     "explanation_simple": "If an MP dies or resigns, a by-election is held to elect a new MP for that constituency.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_fptp_tf_b",
     "fact_id": "c5_first_past_the_post",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -4784,7 +4961,10 @@
       }
     ],
     "explanation_simple": "MPs are elected by 'first past the post': the candidate with the most votes in each constituency wins.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -4823,7 +5003,7 @@
     "item_id": "c5_downing_tf_b",
     "fact_id": "c5_pm_residence",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -4848,14 +5028,17 @@
       }
     ],
     "explanation_simple": "The Prime Minister's official home is 10 Downing Street, in central London near the Houses of Parliament.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_chequers_tf_b",
     "fact_id": "c5_pm_country_house",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -4880,14 +5063,17 @@
       }
     ],
     "explanation_simple": "The Prime Minister also has a country house outside London called Chequers.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_chancellor_tf_b",
     "fact_id": "c5_chancellor",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -4912,14 +5098,17 @@
       }
     ],
     "explanation_simple": "The Chancellor of the Exchequer is the cabinet minister responsible for the economy.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_home_sec_tf_b",
     "fact_id": "c5_home_secretary",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -4944,14 +5133,17 @@
       }
     ],
     "explanation_simple": "The Home Secretary is responsible for crime, policing and immigration. The Foreign Secretary manages relations with other countries.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_foreign_sec_single_b",
     "fact_id": "c5_foreign_secretary",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -4986,14 +5178,17 @@
       }
     ],
     "explanation_simple": "The Foreign Secretary manages relationships with foreign countries.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_opposition_tf_b",
     "fact_id": "c5_opposition",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -5018,14 +5213,17 @@
       }
     ],
     "explanation_simple": "The second-largest party in the House of Commons is called the opposition. Its leader is the Leader of the Opposition.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_pmqs_tf_b",
     "fact_id": "c5_pmqs",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -5050,14 +5248,17 @@
       }
     ],
     "explanation_simple": "Every week while Parliament is sitting, the Leader of the Opposition and other MPs can question the Prime Minister.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_civil_service_single_b",
     "fact_id": "c5_civil_service_neutral",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -5092,14 +5293,17 @@
       }
     ],
     "explanation_simple": "Civil servants carry out government policy. They are politically neutral and not chosen by the party in power.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_scot_parliament_tf_b",
     "fact_id": "c5_scottish_parliament",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -5124,14 +5328,17 @@
       }
     ],
     "explanation_simple": "The Scottish Parliament was formed in 1999 and sits in Edinburgh.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_welsh_tf_b",
     "fact_id": "c5_welsh_assembly",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -5156,56 +5363,62 @@
       }
     ],
     "explanation_simple": "The Welsh devolved parliament sits in Cardiff, the capital of Wales.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_ni_assembly_single_b",
     "fact_id": "c5_ni_assembly",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
       "section": "The government",
       "section_confirmed": true,
       "page_ref": [],
-      "reviewer_note": "CHECK FIRST: Confirm the handbook names Stormont. Confirm the section heading wording in the handbook"
+      "reviewer_note": "Confirm the section heading wording in the handbook"
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "Where does the Northern Ireland Assembly sit?",
+    "question_text": "What is the Northern Ireland Assembly building known as?",
     "options": [
       {
         "id": "a",
-        "text": "Cardiff Bay",
+        "text": "Westminster",
         "is_correct": false
       },
       {
         "id": "b",
-        "text": "Stormont, in Belfast",
+        "text": "Stormont",
         "is_correct": true
       },
       {
         "id": "c",
-        "text": "Holyrood, in Edinburgh",
+        "text": "Holyrood",
         "is_correct": false
       },
       {
         "id": "d",
-        "text": "Westminster, in London",
+        "text": "The Senedd",
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Northern Ireland Assembly sits at Stormont, in Belfast.",
-    "review": {}
+    "explanation_simple": "The Northern Ireland Assembly building is known as Stormont. The Assembly has 90 elected members, known as MLAs.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_free_press_single_b",
     "fact_id": "c5_free_press",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -5240,14 +5453,17 @@
       }
     ],
     "explanation_simple": "The UK has a free press. Newspapers are free from government control, and some have strong political opinions.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_register_tf_b",
     "fact_id": "c5_electoral_register",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -5258,7 +5474,7 @@
     },
     "question_type": "true_false",
     "selections_required": 1,
-    "question_text": "Is the following statement TRUE or FALSE? To vote in a UK election, your name must be on the electoral register.",
+    "question_text": "Is the following statement TRUE or FALSE? To vote in a parliamentary or local election, your name must be on the electoral register.",
     "options": [
       {
         "id": "a",
@@ -5271,8 +5487,11 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "You must have your name on the electoral register to vote. You can register online or through your local council.",
-    "review": {}
+    "explanation_simple": "If you are eligible to vote, you can get on the electoral register using the register-to-vote service at www.gov.uk/register-to-vote.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -5311,7 +5530,7 @@
     "item_id": "c5_election_interval_tf_b",
     "fact_id": "c5_general_election_interval",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -5336,14 +5555,17 @@
       }
     ],
     "explanation_simple": "General elections are held at least every five years.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_surgeries_tf_b",
     "fact_id": "c5_contacting_mp",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -5354,7 +5576,7 @@
     },
     "question_type": "true_false",
     "selections_required": 1,
-    "question_text": "Is the following statement TRUE or FALSE? You can contact your MP by letter, telephone or email, or meet them at a local surgery.",
+    "question_text": "Is the following statement TRUE or FALSE? You can contact your MP by letter or telephone, or go to one of their local 'surgeries'.",
     "options": [
       {
         "id": "a",
@@ -5367,8 +5589,11 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "Many MPs hold regular local 'surgeries' where constituents can meet them. You can also write, phone or email.",
-    "review": {}
+    "explanation_simple": "Many MPs hold regular local surgeries where constituents can go in person to talk about issues that concern them.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -5769,7 +5994,7 @@
     "item_id": "c5_pm_homes_multi_a",
     "fact_id": "c5_pm_residence",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -5804,14 +6029,17 @@
       }
     ],
     "explanation_simple": "The Prime Minister lives at 10 Downing Street and also has a country house, Chequers. Buckingham Palace and Balmoral are royal residences.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_ministers_multi_a",
     "fact_id": "c5_chancellor",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -5846,14 +6074,17 @@
       }
     ],
     "explanation_simple": "The Chancellor handles the economy and the Home Secretary crime, policing and immigration. The Foreign Secretary handles relations with other countries.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_devolved_seats_multi_a",
     "fact_id": "c5_scottish_parliament",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -5868,7 +6099,7 @@
     "options": [
       {
         "id": "a",
-        "text": "The Scottish Parliament: Glasgow",
+        "text": "The Northern Ireland Assembly: Dublin",
         "is_correct": false
       },
       {
@@ -5883,19 +6114,22 @@
       },
       {
         "id": "d",
-        "text": "The Northern Ireland Assembly: Dublin",
+        "text": "The Scottish Parliament: Glasgow",
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Scottish Parliament sits in Edinburgh and the Welsh Parliament in Cardiff. The Northern Ireland Assembly sits at Stormont in Belfast.",
-    "review": {}
+    "explanation_simple": "The Scottish Parliament sits in Edinburgh and the Senedd in Cardiff. The Northern Ireland Assembly building is known as Stormont.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_devolved_topics_multi_b",
     "fact_id": "c5_devolved_powers",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -5906,38 +6140,41 @@
     },
     "question_type": "multi",
     "selections_required": 2,
-    "question_text": "Which TWO of these are decided by the UK government at Westminster, not by the devolved parliaments?",
+    "question_text": "Which TWO of these remain under central UK government control, not the devolved administrations?",
     "options": [
       {
         "id": "a",
-        "text": "Foreign affairs",
-        "is_correct": true
-      },
-      {
-        "id": "b",
         "text": "Defence",
         "is_correct": true
       },
       {
+        "id": "b",
+        "text": "Foreign affairs",
+        "is_correct": true
+      },
+      {
         "id": "c",
-        "text": "Health in Wales",
+        "text": "Education in Scotland",
         "is_correct": false
       },
       {
         "id": "d",
-        "text": "Education in Scotland",
+        "text": "Health in Wales",
         "is_correct": false
       }
     ],
-    "explanation_simple": "Policies on defence, foreign affairs, immigration and taxation stay with the UK government. Education and health are among the devolved areas.",
-    "review": {}
+    "explanation_simple": "Policy and laws on defence, foreign affairs, social security and most taxation remain under central UK government control. Many other services, such as education, are devolved.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_parliament_houses_multi_a",
     "fact_id": "c5_houses_of_parliament",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -5971,15 +6208,18 @@
         "is_correct": true
       }
     ],
-    "explanation_simple": "MPs in the Commons are elected. Members of the Lords are appointed, or sit as bishops or elected hereditary peers. The Speaker chairs the Commons.",
-    "review": {}
+    "explanation_simple": "MPs are elected. Members of the House of Lords, known as peers, are not elected by the people and do not represent a constituency. The Speaker chairs the Commons.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_speaker_single_b",
     "fact_id": "c5_speaker",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -6014,14 +6254,17 @@
       }
     ],
     "explanation_simple": "The Speaker is a neutral MP elected by other MPs. They chair debates and keep order in the Commons.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_speaker_neutral_tf_b",
     "fact_id": "c5_speaker",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -6046,14 +6289,17 @@
       }
     ],
     "explanation_simple": "The Speaker is an MP chosen by other MPs, who is neutral and does not represent a political party.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
     "item_id": "c5_voting_multi_a",
     "fact_id": "c5_who_can_vote",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 5,
@@ -6088,7 +6334,10 @@
       }
     ],
     "explanation_simple": "UK-born and naturalised citizens, and resident citizens of the Commonwealth and the Irish Republic, can vote in all public elections.",
-    "review": {}
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,

@@ -6229,7 +6229,7 @@
     "item_id": "c3_devolution_1997_single_a",
     "fact_id": "c3_devolution",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -6240,7 +6240,7 @@
     },
     "question_type": "single",
     "selections_required": 1,
-    "question_text": "The Scottish Parliament and the Welsh Assembly were set up in which year?",
+    "question_text": "The Scottish Parliament and the Welsh Assembly (now the Senedd) have existed since which year?",
     "options": [
       {
         "id": "a",
@@ -6249,7 +6249,7 @@
       },
       {
         "id": "b",
-        "text": "2005",
+        "text": "1990",
         "is_correct": false
       },
       {
@@ -6259,12 +6259,15 @@
       },
       {
         "id": "d",
-        "text": "1990",
+        "text": "2005",
         "is_correct": false
       }
     ],
-    "explanation_simple": "Following referendums, the Scottish Parliament and the Welsh Assembly were formed in 1999.",
-    "review": {}
+    "explanation_simple": "Since 1997, some powers have been devolved from central government. There has been a Welsh Assembly (now the Senedd) and a Scottish Parliament since 1999.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,
@@ -12672,7 +12675,7 @@
     "item_id": "c3_devolution_tf_b",
     "fact_id": "c3_devolution",
     "item_version": 1,
-    "status": "draft",
+    "status": "live",
     "source": {
       "handbook_edition": "3",
       "chapter_id": 3,
@@ -12696,8 +12699,11 @@
         "is_correct": false
       }
     ],
-    "explanation_simple": "The Labour government elected in 1997 introduced devolution, and the Scottish Parliament and Welsh Assembly were set up in 1999.",
-    "review": {}
+    "explanation_simple": "Since 1997, some powers have been devolved from central government to give people in Wales, Scotland and Northern Ireland more control over matters that affect them.",
+    "review": {
+      "reviewed_by": "Sam Adeyemi",
+      "reviewed_at": "2026-11-21"
+    }
   },
   {
     "schema_version": 2,

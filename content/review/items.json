@@ -683,6 +683,18 @@
     "note": "",
     "reviewed_at": "2026-11-21"
   },
+  "c3_devolution_1997_single_a": {
+    "decision": "approved",
+    "fingerprint": "3e980fda5c80edc7",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c3_devolution_tf_b": {
+    "decision": "approved",
+    "fingerprint": "3f4165e9ba69de2a",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
   "c3_dolly_sheep_single_a": {
     "decision": "approved",
     "fingerprint": "2fa0eea9d0066f34",
@@ -3542,6 +3554,504 @@
   "c4_wren_tf_b": {
     "decision": "approved",
     "fingerprint": "5f7ab00552743d27",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_anthem_single_a": {
+    "decision": "approved",
+    "fingerprint": "3dc7e744d6ef4724",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_by_election_single_a": {
+    "decision": "approved",
+    "fingerprint": "1125922ce44369ea",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_by_election_tf_b": {
+    "decision": "approved",
+    "fingerprint": "8f2297aaa043ae3e",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_cabinet_single_a": {
+    "decision": "approved",
+    "fingerprint": "1985480853676759",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_cabinet_size_single_a": {
+    "decision": "approved",
+    "fingerprint": "3d2ea127572aa6a2",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_chancellor_single_a": {
+    "decision": "approved",
+    "fingerprint": "69a5d4adef04f462",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_chancellor_tf_b": {
+    "decision": "approved",
+    "fingerprint": "7adb640e8829b1b0",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_chartists_single_a": {
+    "decision": "approved",
+    "fingerprint": "13a6d2f9c9db3e2d",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_chequers_single_b": {
+    "decision": "approved",
+    "fingerprint": "cee133bdd5bbf403",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_chequers_tf_b": {
+    "decision": "approved",
+    "fingerprint": "5676159b7bb93f29",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_civil_service_single_b": {
+    "decision": "approved",
+    "fingerprint": "8e1a79c0035108be",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_civil_service_tf_a": {
+    "decision": "approved",
+    "fingerprint": "8650991c9820637c",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_commons_lords_statement_a": {
+    "decision": "approved",
+    "fingerprint": "02d945a6ac452d70",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_commons_more_important_tf_a": {
+    "decision": "approved",
+    "fingerprint": "c6f04c313ab338b7",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_commons_tf_b": {
+    "decision": "approved",
+    "fingerprint": "0520fc0555cc9a26",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_constitutional_monarchy_single_a": {
+    "decision": "approved",
+    "fingerprint": "fc1544bfd09ba30d",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_constitutional_monarchy_tf_b": {
+    "decision": "approved",
+    "fingerprint": "2899da80e5c34241",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_contact_mp_single_a": {
+    "decision": "approved",
+    "fingerprint": "b81b7fe5e28f3d51",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_devolved_matters_multi_a": {
+    "decision": "approved",
+    "fingerprint": "3954de6dbd598704",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_devolved_seats_multi_a": {
+    "decision": "approved",
+    "fingerprint": "b0b37bc5431c9024",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_devolved_topics_multi_b": {
+    "decision": "approved",
+    "fingerprint": "fd084ca676abb71a",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_downing_tf_b": {
+    "decision": "approved",
+    "fingerprint": "e9c97eaed703833d",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_election_interval_tf_b": {
+    "decision": "approved",
+    "fingerprint": "8b53c6148a83eeae",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_electoral_register_single_a": {
+    "decision": "approved",
+    "fingerprint": "c3b56bd4318f9deb",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_first_past_post_single_a": {
+    "decision": "approved",
+    "fingerprint": "6ea1c6916dce03fd",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_foreign_sec_single_b": {
+    "decision": "approved",
+    "fingerprint": "0f94333123846884",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_foreign_secretary_single_a": {
+    "decision": "approved",
+    "fingerprint": "9111ebc2de2d1a62",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_fptp_tf_b": {
+    "decision": "approved",
+    "fingerprint": "b361f83abd85b8a6",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_free_press_single_b": {
+    "decision": "approved",
+    "fingerprint": "87fe78d3fb6b782e",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_free_press_tf_a": {
+    "decision": "approved",
+    "fingerprint": "cb477c3d2dcc3999",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_general_election_single_a": {
+    "decision": "approved",
+    "fingerprint": "44edc58ed3983a57",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_hansard_single_a": {
+    "decision": "approved",
+    "fingerprint": "7f839f7e9b95e1f1",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_heir_single_a": {
+    "decision": "approved",
+    "fingerprint": "d9f3e0ebb89c2b19",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_hereditary_peers_tf_a": {
+    "decision": "approved",
+    "fingerprint": "736112317ae9b02e",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_home_sec_tf_b": {
+    "decision": "approved",
+    "fingerprint": "9a31642a0ec7d9e6",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_home_secretary_single_a": {
+    "decision": "approved",
+    "fingerprint": "05b6c000caea9233",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_institutions_multi_a": {
+    "decision": "approved",
+    "fingerprint": "718e002b8d512f24",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_life_peers_single_a": {
+    "decision": "approved",
+    "fingerprint": "7d38c44caa92482a",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_life_peers_tf_b": {
+    "decision": "approved",
+    "fingerprint": "224631c6d9c76e34",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_local_councillors_single_a": {
+    "decision": "approved",
+    "fingerprint": "e1c5f0e3b67dabfb",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_local_elections_single_a": {
+    "decision": "approved",
+    "fingerprint": "48cc2c5ee1661131",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_lords_members_multi_a": {
+    "decision": "approved",
+    "fingerprint": "790c2c795848c5fd",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_lords_role_single_a": {
+    "decision": "approved",
+    "fingerprint": "e7ea43992796586e",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_mayors_tf_a": {
+    "decision": "approved",
+    "fingerprint": "f759ec2ca5375b3c",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_ministers_multi_a": {
+    "decision": "approved",
+    "fingerprint": "5fb748aea2f63e6a",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_mlas_single_a": {
+    "decision": "approved",
+    "fingerprint": "6d6c60873a975d95",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_monarch_politics_tf_a": {
+    "decision": "approved",
+    "fingerprint": "b283ffe187b293ab",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_monarch_role_multi_a": {
+    "decision": "approved",
+    "fingerprint": "7f98678b283bc6ae",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_mp_role_single_a": {
+    "decision": "approved",
+    "fingerprint": "3a18568dc3bef94b",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_mps_tf_b": {
+    "decision": "approved",
+    "fingerprint": "3ac9ac9073a39edc",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_msps_single_a": {
+    "decision": "approved",
+    "fingerprint": "0d14ef905149cd09",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_ni_assembly_single_b": {
+    "decision": "approved",
+    "fingerprint": "40544f63022c70a8",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_ni_assembly_tf_a": {
+    "decision": "approved",
+    "fingerprint": "51ab1a4148fa168a",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_opposition_single_a": {
+    "decision": "approved",
+    "fingerprint": "1ac1e0403667e258",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_opposition_tf_b": {
+    "decision": "approved",
+    "fingerprint": "3fb4d3b14f33d928",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_parliament_houses_multi_a": {
+    "decision": "approved",
+    "fingerprint": "a76112cc0845f10b",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_parliamentary_democracy_single_a": {
+    "decision": "approved",
+    "fingerprint": "acb9aa0c85df3b0b",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_party_members_tf_a": {
+    "decision": "approved",
+    "fingerprint": "f2adaae6405ca33c",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_pm_appoint_tf_a": {
+    "decision": "approved",
+    "fingerprint": "6abad266c8071b73",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_pm_homes_multi_a": {
+    "decision": "approved",
+    "fingerprint": "dcafd0902c837653",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_pm_residence_single_a": {
+    "decision": "approved",
+    "fingerprint": "0921677bffb5f4b0",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_pm_who_single_a": {
+    "decision": "approved",
+    "fingerprint": "64ef277838b24b7a",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_pmqs_single_a": {
+    "decision": "approved",
+    "fingerprint": "592312eab09aac07",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_pmqs_tf_b": {
+    "decision": "approved",
+    "fingerprint": "433e6f1582faa322",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_pressure_groups_single_a": {
+    "decision": "approved",
+    "fingerprint": "309f0b270e73b7cf",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_register_tf_b": {
+    "decision": "approved",
+    "fingerprint": "a586647cae99f674",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_scot_parliament_tf_b": {
+    "decision": "approved",
+    "fingerprint": "a491f0cdeb251070",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_scottish_parliament_single_a": {
+    "decision": "approved",
+    "fingerprint": "569c93ee1bd5993c",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_shadow_cabinet_tf_a": {
+    "decision": "approved",
+    "fingerprint": "8db376fcdc7a1849",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_speaker_elected_tf_b": {
+    "decision": "approved",
+    "fingerprint": "8b00b447cd3ae092",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_speaker_neutral_tf_b": {
+    "decision": "approved",
+    "fingerprint": "25bee45b5bf5ae74",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_speaker_single_a": {
+    "decision": "approved",
+    "fingerprint": "59974d6044807087",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_speaker_single_b": {
+    "decision": "approved",
+    "fingerprint": "0e886af80cd02da6",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_standing_age_single_a": {
+    "decision": "approved",
+    "fingerprint": "ca9dbffed0e6fb0c",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_surgeries_tf_b": {
+    "decision": "approved",
+    "fingerprint": "ec32cfb8c7866bea",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_unwritten_constitution_tf_a": {
+    "decision": "approved",
+    "fingerprint": "2978f39b72bcea37",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_voting_age_1969_single_a": {
+    "decision": "approved",
+    "fingerprint": "578569541a153fda",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_voting_age_single_a": {
+    "decision": "approved",
+    "fingerprint": "bbc7d8c40cad2f8f",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_voting_multi_a": {
+    "decision": "approved",
+    "fingerprint": "4063cc78f06adc75",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_welsh_assembly_single_a": {
+    "decision": "approved",
+    "fingerprint": "448aa395cbd3f9f4",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_welsh_members_single_a": {
+    "decision": "approved",
+    "fingerprint": "79ab0003e7cafee5",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_welsh_tf_b": {
+    "decision": "approved",
+    "fingerprint": "cf189a0f7cbc604c",
+    "note": "",
+    "reviewed_at": "2026-11-21"
+  },
+  "c5_who_can_vote_multi_a": {
+    "decision": "approved",
+    "fingerprint": "5bfd1b4f199124cd",
     "note": "",
     "reviewed_at": "2026-11-21"
   }
