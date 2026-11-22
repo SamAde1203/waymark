@@ -526,3 +526,15 @@ h2 {
 .price-card .btn {
   align-self: flex-start;
 }
+
+/* Urdu and Arabic pages: proper script fonts (only downloaded where used) */
+@font-face { font-family: "Noto Nastaliq Urdu"; font-weight: 400; font-display: swap; src: url("/fonts/noto-nastaliq-urdu-arabic-400-normal.woff2") format("woff2"); }
+@font-face { font-family: "Noto Nastaliq Urdu"; font-weight: 700; font-display: swap; src: url("/fonts/noto-nastaliq-urdu-arabic-700-normal.woff2") format("woff2"); }
+@font-face { font-family: "Noto Naskh Arabic"; font-weight: 400; font-display: swap; src: url("/fonts/noto-naskh-arabic-arabic-400-normal.woff2") format("woff2"); }
+@font-face { font-family: "Noto Naskh Arabic"; font-weight: 700; font-display: swap; src: url("/fonts/noto-naskh-arabic-arabic-700-normal.woff2") format("woff2"); }
+.script-ur { font-family: "Noto Nastaliq Urdu", system-ui, sans-serif; line-height: 2.1; }
+.script-ur h1, .script-ur h2, .script-ur h3 { line-height: 1.9; }
+.script-ar { font-family: "Noto Naskh Arabic", system-ui, sans-serif; line-height: 1.8; }
+.script-ar h1, .script-ar h2, .script-ar h3 { line-height: 1.5; }
+.script-ur bdi, .script-ar bdi { font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; }
+.nw { white-space: nowrap; }

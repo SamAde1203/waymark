@@ -1,0 +1,50 @@
+---
+import Base from "../layouts/Base.astro";
+---
+
+<Base
+  title="Waymark – testul Life in the UK cu explicații în română"
+  description="Întrebări de exersare gratuite pentru testul Life in the UK. Fiecare răspuns e verificat cu manualul oficial, iar explicațiile le poți citi și în română."
+  ogImage="/og-ro.jpg"
+  lang="ro"
+>
+  <div>
+  <section class="hero">
+    <div class="wrap hero-grid">
+      <div class="hero-copy">
+        <h1>Pregătește-te pentru testul Life in the UK – cu explicații în română</h1>
+        <p class="lead">Întrebările sunt în engleză, la fel ca la testul real. După fiecare răspuns vezi explicația în engleză și în română.</p>
+        <div class="actions">
+          <a class="btn" href="/app/?explain=ro">Începe gratuit</a>
+          <a class="btn secondary" href="/practice-test">Test de exersare gratuit (în engleză)</a>
+        </div>
+        <p class="independent-note">Waymark este o aplicație independentă de învățare. Nu este afiliată cu guvernul Regatului Unit, Home Office, PSI sau TSO și nici aprobată de acestea.</p>
+      </div>
+      <figure class="hero-art">
+        <img
+          src="/hero-phones-800.webp"
+          srcset="/hero-phones-800.webp 800w, /hero-phones.webp 1600w"
+          sizes="(min-width: 900px) 480px, 92vw"
+          width="800"
+          height="760"
+          alt="Două telefoane cu aceeași întrebare în aplicația Waymark; sub explicația în engleză apare traducerea."
+          fetchpriority="high"
+        />
+      </figure>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <h2>De ce Waymark</h2>
+      <div class="cards">
+        <div class="card"><h3>Fiecare răspuns verificat</h3><p>Fiecare întrebare a fost verificată cu manualul oficial (ediția a 3-a) și indică capitolul din care provine.</p></div>
+        <div class="card"><h3>Plan de studiu până la ziua testului</h3><p>Spune-ne data testului, iar Waymark îți face un plan zilnic și repetă ce începi să uiți.</p></div>
+        <div class="card"><h3>Un singur preț, fără abonament</h3><p>Capitolele 1 și 2 și un examen de exersare sunt gratuite. Accesul complet costă £9.99, o singură dată.</p></div>
+      </div>
+      <p><strong>Cum activezi româna:</strong> butonul „Începe gratuit” o activează imediat. O poți schimba și din aplicație: Settings → Explanations in your language → Română.</p>
+      <p class="note">Traducerile au fost făcute cu ajutorul AI; versiunea oficială este cea în engleză. Testul Life in the UK se dă în engleză.</p>
+    </div>
+  </section>
+  </div>
+</Base>
