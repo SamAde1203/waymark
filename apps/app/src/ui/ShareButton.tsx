@@ -5,7 +5,7 @@ import { Button } from "./kit";
 export const SITE = "https://www.waymarkprep.co.uk";
 
 export const SHARE_INVITE =
-  "I'm preparing for the Life in the UK test with Waymark. Every practice question is checked against the official handbook, and explanations are available in Polish and Chinese. Try it free:";
+  "I'm preparing for the Life in the UK test with Waymark. Every practice question is checked against the official handbook, and explanations are available in Polish, Chinese, Urdu, Arabic and Romanian. Try it free:";
 
 type Outcome = "shared" | "copied" | "failed";
 

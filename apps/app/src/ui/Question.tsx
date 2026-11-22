@@ -1,5 +1,5 @@
 import type { PublicItem } from "@waymark/content-schema";
-import { Pressable, StyleSheet, Text, View } from "react-native";
+import { Platform, Pressable, StyleSheet, Text, View } from "react-native";
 import { CHAPTERS } from "@/content/bank";
 import { LANGS, translateExplanation } from "@/content/translations";
 import { useStore } from "@/lib/store";
@@ -91,11 +91,20 @@ function Translated({ english }: { english: string }) {
   const meta = LANGS.find((l) => l.id === lang);
   if (!text || !meta) return null;
   return (
-    <View style={styles.tr} accessibilityLanguage={lang === "zh" ? "zh-Hans" : "pl"}>
-      <Text style={font.body}>{text}</Text>
-      <Text style={[font.small, { marginTop: space.xs }]}>{meta.note}</Text>
+    <View style={styles.tr} accessibilityLanguage={meta.tag}>
+      <Text style={[font.body, meta.rtl && styles.rtl, meta.rtl && { lineHeight: 30 }]} {...langProps(meta)}>
+        {text}
+      </Text>
+      <Text style={[font.small, { marginTop: space.xs }, meta.rtl && styles.rtl]} {...langProps(meta)}>
+        {meta.note}
+      </Text>
     </View>
   );
+}
+
+/** On the web, set lang and dir so browsers pick the right font and right-to-left layout. */
+function langProps(meta: { tag: string; rtl: boolean }) {
+  return Platform.OS === "web" ? ({ lang: meta.tag, dir: meta.rtl ? "rtl" : "ltr" } as object) : {};
 }
 
 export function sourceLine(item: PublicItem): string {
@@ -104,6 +113,7 @@ export function sourceLine(item: PublicItem): string {
 }
 
 const styles = StyleSheet.create({
+  rtl: { writingDirection: "rtl", textAlign: "right" },
   tr: {
     marginTop: space.sm,
     paddingTop: space.sm,
